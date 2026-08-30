@@ -1,0 +1,29 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "rarity": "SuperRare",
+  "experienceGroupId": 2,
+  "initialMaxLevel": 100,
+  "costumePromotionGroupId": 1,
+  "enhanceConsumeId": 2
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "rarity": "HyperRare",
+  "experienceGroupId": 3,
+  "initialMaxLevel": 100,
+  "costumePromotionGroupId": 1,
+  "enhanceConsumeId": 2
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "rarity": "UltraRare",
+  "experienceGroupId": 4,
+  "initialMaxLevel": 100,
+  "costumePromotionGroupId": 1,
+  "enhanceConsumeId": 2
+ }
+]

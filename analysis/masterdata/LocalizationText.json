@@ -1,0 +1,5900 @@
+[
+ {
+  "version": "250330.1.0",
+  "textKey": "Apple",
+  "japanese": "りんご",
+  "english": "Apple"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "Sample",
+  "japanese": "サンプル",
+  "english": "Sample"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "Book",
+  "japanese": "本",
+  "english": "Book"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "GameTitle",
+  "japanese": "ちいかわ",
+  "english": "LegendOfChiikawa"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_stage_name_format",
+  "japanese": "{0} {1}-{2}",
+  "english": "{0} {1}-{2}"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_skill_auto_on",
+  "japanese": "Auto\\non",
+  "english": "Auto\\non"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_skill_auto_off",
+  "japanese": "Auto\\noff",
+  "english": "Auto\\noff"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_losing_cancel",
+  "japanese": "やっぱやめる",
+  "english": "やっぱやめる"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_losing_title",
+  "japanese": "敗北…",
+  "english": "敗北…"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_resource_receive_empty_resource_toast",
+  "japanese": "料理ポイントがたまってないよ！",
+  "english": "料理ポイントがたまってないよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_resource_receive_button",
+  "japanese": "一括受け取り",
+  "english": "一括受け取り"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_resource_receive_confirm_message",
+  "japanese": "保存されたリソース\\n受け取り後、\\nキャラ枠の変更が可能です",
+  "english": "保存されたリソース\\n受け取り後、\\nキャラ枠の変更が可能です"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_resource_receive_button_progress",
+  "japanese": "{0}%",
+  "english": "{0}%"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_research_disable_research_toast",
+  "japanese": "研究ができません",
+  "english": "研究ができません"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_research_popup_title",
+  "japanese": "鎧さんの研究",
+  "english": "鎧さんの研究"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_research_popup_description_recipe",
+  "japanese": "レシピを研究して料理を習得しよう！",
+  "english": "レシピを研究して料理を習得しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_research_popup_description_menu",
+  "japanese": "料理を研究してレベルをあげよう！",
+  "english": "料理を研究してレベルをあげよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_research_popup_empty_recipe",
+  "japanese": "研究できるレシピがありません",
+  "english": "研究できるレシピがありません"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_research_popup_empty_menu",
+  "japanese": "研究できる料理がありません",
+  "english": "研究できる料理がありません"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_research_popup_button_start",
+  "japanese": "研究開始！",
+  "english": "研究開始！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_research_popup_tab_menu_unlock",
+  "japanese": "レシピ研究",
+  "english": "レシピ研究"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_research_popup_tab_menu_enhance",
+  "japanese": "料理研究",
+  "english": "料理研究"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_research_inprogress_toast",
+  "japanese": "現在研究中です",
+  "english": "現在研究中です"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_research_completed",
+  "japanese": "かんせい！",
+  "english": "かんせい！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_assistslot_item_title",
+  "japanese": "サブ担当枠解放",
+  "english": "サブ担当枠解放"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_detail_title",
+  "japanese": "料理詳細",
+  "english": "料理詳細"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_detail_button_enhance",
+  "japanese": "強化",
+  "english": "強化"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_detail_button_recipe",
+  "japanese": "レシピ未発見",
+  "english": "レシピ未発見"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_detail_button_research",
+  "japanese": "鎧さんの研究へ",
+  "english": "鎧さんの研究へ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_detail_lack_resource_toast",
+  "japanese": "料理ポイントが不足しています",
+  "english": "料理ポイントが不足しています"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_detail_info_subtitle_possession_effect",
+  "japanese": "所持効果",
+  "english": "所持効果"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_detail_info_subtitle_hint",
+  "japanese": "ヒント",
+  "english": "ヒント"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_detail_info_hint",
+  "japanese": "レシピは発見済みです。\\n鎧さんの研究で料理を獲得しよう！",
+  "english": "レシピは発見済みです。\\n鎧さんの研究で料理を獲得しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_detail_search_recipe_toast",
+  "japanese": "レシピを見つけよう！",
+  "english": "レシピを見つけよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_detail_unknown",
+  "japanese": "???",
+  "english": "???"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_thumbnail_none_recipe",
+  "japanese": "レシピ未発見",
+  "english": "レシピ未発見"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_thumbnail_none_menu",
+  "japanese": "研究しよう",
+  "english": "研究しよう"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_thumbnail_research",
+  "japanese": "研究中",
+  "english": "研究中"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_gauge_max",
+  "japanese": "MAX",
+  "english": "MAX"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_no",
+  "japanese": "No.{0:D3}",
+  "english": "No.{0:D3}"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_level",
+  "japanese": "Lv{0}",
+  "english": "Lv{0}"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0001",
+  "japanese": "白米",
+  "english": "白米"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0002",
+  "japanese": "ふりかけご飯",
+  "english": "ふりかけご飯"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0003",
+  "japanese": "塩むすび",
+  "english": "塩むすび"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0004",
+  "japanese": "お寿司",
+  "english": "お寿司"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0005",
+  "japanese": "梅おにぎり",
+  "english": "梅おにぎり"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0006",
+  "japanese": "オムライス",
+  "english": "オムライス"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0007",
+  "japanese": "スパムおにぎり",
+  "english": "スパムおにぎり"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0008",
+  "japanese": "お寿司茶漬け",
+  "english": "お寿司茶漬け"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0009",
+  "japanese": "カレーライス",
+  "english": "カレーライス"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0010",
+  "japanese": "朝定食",
+  "english": "朝定食"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0011",
+  "japanese": "食パン",
+  "english": "食パン"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0012",
+  "japanese": "ジャムトースト",
+  "english": "ジャムトースト"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0013",
+  "japanese": "チーズサンドイッチ",
+  "english": "チーズサンドイッチ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0014",
+  "japanese": "メロンパン",
+  "english": "メロンパン"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0015",
+  "japanese": "ピザまん",
+  "english": "ピザまん"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0016",
+  "japanese": "チョコチップスナックパン",
+  "english": "チョコチップスナックパン"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0017",
+  "japanese": "いもむしパン",
+  "english": "いもむしパン"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0018",
+  "japanese": "お肉入りメロンパン",
+  "english": "お肉入りメロンパン"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0019",
+  "japanese": "マルゲリータピザ",
+  "english": "マルゲリータピザ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0020",
+  "japanese": "うずまきパンフレンチトースト",
+  "english": "うずまきパンフレンチトースト"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0021",
+  "japanese": "カップラーメン",
+  "english": "カップラーメン"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0022",
+  "japanese": "うどん",
+  "english": "うどん"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0023",
+  "japanese": "そば",
+  "english": "そば"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0024",
+  "japanese": "ケチャップパスタ",
+  "english": "ケチャップパスタ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0025",
+  "japanese": "みかんそうめん",
+  "english": "みかんそうめん"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0026",
+  "japanese": "やきそば",
+  "english": "やきそば"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0027",
+  "japanese": "おじやうどん",
+  "english": "おじやうどん"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0028",
+  "japanese": "バター醤油焼きうどん",
+  "english": "バター醤油焼きうどん"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0029",
+  "japanese": "郎ラーメン（にんにくからめ）",
+  "english": "郎ラーメン（にんにくからめ）"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0030",
+  "japanese": "チュルチュルプレート",
+  "english": "チュルチュルプレート"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0031",
+  "japanese": "焼きシャウエッセン",
+  "english": "焼きシャウエッセン"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0032",
+  "japanese": "たまご焼き",
+  "english": "たまご焼き"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0033",
+  "japanese": "焼き椎茸",
+  "english": "焼き椎茸"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0034",
+  "japanese": "炙りしめ鯖",
+  "english": "炙りしめ鯖"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0035",
+  "japanese": "きのこ炒め",
+  "english": "きのこ炒め"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0036",
+  "japanese": "魚の甘辛煮",
+  "english": "魚の甘辛煮"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0037",
+  "japanese": "唐揚げ",
+  "english": "唐揚げ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0038",
+  "japanese": "おでん",
+  "english": "おでん"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0039",
+  "japanese": "ステーキ",
+  "english": "ステーキ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0040",
+  "japanese": "すき焼き",
+  "english": "すき焼き"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0041",
+  "japanese": "ゼリー",
+  "english": "ゼリー"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0042",
+  "japanese": "ソフトクリーム",
+  "english": "ソフトクリーム"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0043",
+  "japanese": "プリン",
+  "english": "プリン"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0044",
+  "japanese": "どら焼き",
+  "english": "どら焼き"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0045",
+  "japanese": "ホットケーキ",
+  "english": "ホットケーキ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0046",
+  "japanese": "カヌレ",
+  "english": "カヌレ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0047",
+  "japanese": "シュークリーム",
+  "english": "シュークリーム"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0048",
+  "japanese": "バウムクーヘン",
+  "english": "バウムクーヘン"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0049",
+  "japanese": "ケーキ",
+  "english": "ケーキ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0050",
+  "japanese": "いちごパフェ",
+  "english": "いちごパフェ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0051",
+  "japanese": "いちごミルク",
+  "english": "いちごミルク"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0052",
+  "japanese": "お茶",
+  "english": "お茶"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0053",
+  "japanese": "紅茶",
+  "english": "紅茶"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0054",
+  "japanese": "コーヒー",
+  "english": "コーヒー"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0055",
+  "japanese": "コーラ",
+  "english": "コーラ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0056",
+  "japanese": "りんごのシュワ",
+  "english": "りんごのシュワ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0057",
+  "japanese": "ジンジャーエール",
+  "english": "ジンジャーエール"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0058",
+  "japanese": "ウィンナーコーヒー",
+  "english": "ウィンナーコーヒー"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0059",
+  "japanese": "ソフトクリームのせコーラ",
+  "english": "ソフトクリームのせコーラ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_item_title_0060",
+  "japanese": "木の実を絞ったジュース",
+  "english": "木の実を絞ったジュース"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0001",
+  "japanese": "白米のレシピ",
+  "english": "白米のレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0002",
+  "japanese": "ふりかけご飯のレシピ",
+  "english": "ふりかけご飯のレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0003",
+  "japanese": "塩むすびのレシピ",
+  "english": "塩むすびのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0004",
+  "japanese": "お寿司のレシピ",
+  "english": "お寿司のレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0005",
+  "japanese": "梅おにぎりのレシピ",
+  "english": "梅おにぎりのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0006",
+  "japanese": "オムライスのレシピ",
+  "english": "オムライスのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0007",
+  "japanese": "スパムおにぎりのレシピ",
+  "english": "スパムおにぎりのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0008",
+  "japanese": "お寿司茶漬けのレシピ",
+  "english": "お寿司茶漬けのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0009",
+  "japanese": "カレーライスのレシピ",
+  "english": "カレーライスのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0010",
+  "japanese": "朝定食のレシピ",
+  "english": "朝定食のレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0011",
+  "japanese": "食パンのレシピ",
+  "english": "食パンのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0012",
+  "japanese": "ジャムトーストのレシピ",
+  "english": "ジャムトーストのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0013",
+  "japanese": "チーズサンドイッチのレシピ",
+  "english": "チーズサンドイッチのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0014",
+  "japanese": "メロンパンのレシピ",
+  "english": "メロンパンのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0015",
+  "japanese": "ピザまんのレシピ",
+  "english": "ピザまんのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0016",
+  "japanese": "チョコチップスナックパンのレシピ",
+  "english": "チョコチップスナックパンのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0017",
+  "japanese": "いもむしパンのレシピ",
+  "english": "いもむしパンのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0018",
+  "japanese": "お肉入りメロンパンのレシピ",
+  "english": "お肉入りメロンパンのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0019",
+  "japanese": "マルゲリータピザのレシピ",
+  "english": "マルゲリータピザのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0020",
+  "japanese": "うずまきパンフレンチトーストのレシピ",
+  "english": "うずまきパンフレンチトーストのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0021",
+  "japanese": "カップラーメンのレシピ",
+  "english": "カップラーメンのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0022",
+  "japanese": "うどんのレシピ",
+  "english": "うどんのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0023",
+  "japanese": "そばのレシピ",
+  "english": "そばのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0024",
+  "japanese": "ケチャップパスタのレシピ",
+  "english": "ケチャップパスタのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0025",
+  "japanese": "みかんそうめんのレシピ",
+  "english": "みかんそうめんのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0026",
+  "japanese": "やきそばのレシピ",
+  "english": "やきそばのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0027",
+  "japanese": "おじやうどんのレシピ",
+  "english": "おじやうどんのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0028",
+  "japanese": "バター醤油焼きうどんのレシピ",
+  "english": "バター醤油焼きうどんのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0029",
+  "japanese": "郎ラーメン（にんにくからめ）のレシピ",
+  "english": "郎ラーメン（にんにくからめ）のレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0030",
+  "japanese": "チュルチュルプレートのレシピ",
+  "english": "チュルチュルプレートのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0031",
+  "japanese": "焼きシャウエッセンのレシピ",
+  "english": "焼きシャウエッセンのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0032",
+  "japanese": "たまご焼きのレシピ",
+  "english": "たまご焼きのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0033",
+  "japanese": "焼き椎茸のレシピ",
+  "english": "焼き椎茸のレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0034",
+  "japanese": "炙りしめ鯖のレシピ",
+  "english": "炙りしめ鯖のレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0035",
+  "japanese": "きのこ炒めのレシピ",
+  "english": "きのこ炒めのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0036",
+  "japanese": "魚の甘辛煮のレシピ",
+  "english": "魚の甘辛煮のレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0037",
+  "japanese": "唐揚げのレシピ",
+  "english": "唐揚げのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0038",
+  "japanese": "おでんのレシピ",
+  "english": "おでんのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0039",
+  "japanese": "ステーキのレシピ",
+  "english": "ステーキのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0040",
+  "japanese": "すき焼きのレシピ",
+  "english": "すき焼きのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0041",
+  "japanese": "りんごのレシピ",
+  "english": "りんごのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0042",
+  "japanese": "ゼリーのレシピ",
+  "english": "ゼリーのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0043",
+  "japanese": "ソフトクリームのレシピ",
+  "english": "ソフトクリームのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0044",
+  "japanese": "プリンのレシピ",
+  "english": "プリンのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0045",
+  "japanese": "ホットケーキのレシピ",
+  "english": "ホットケーキのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_boost_popup_button_ads",
+  "japanese": "広告を見る",
+  "english": "広告を見る"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0046",
+  "japanese": "カヌレのレシピ",
+  "english": "カヌレのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0047",
+  "japanese": "シュークリームのレシピ",
+  "english": "シュークリームのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0048",
+  "japanese": "バウムクーヘンのレシピ",
+  "english": "バウムクーヘンのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0049",
+  "japanese": "ケーキのレシピ",
+  "english": "ケーキのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0050",
+  "japanese": "いちごパフェのレシピ",
+  "english": "いちごパフェのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0051",
+  "japanese": "いちごミルクのレシピ",
+  "english": "いちごミルクのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0052",
+  "japanese": "お茶のレシピ",
+  "english": "お茶のレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0053",
+  "japanese": "紅茶のレシピ",
+  "english": "紅茶のレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0054",
+  "japanese": "コーヒーのレシピ",
+  "english": "コーヒーのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0055",
+  "japanese": "コーラのレシピ",
+  "english": "コーラのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0056",
+  "japanese": "りんごのシュワのレシピ",
+  "english": "りんごのシュワのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0057",
+  "japanese": "ジンジャーエールのレシピ",
+  "english": "ジンジャーエールのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0058",
+  "japanese": "ウィンナーコーヒーのレシピ",
+  "english": "ウィンナーコーヒーのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0059",
+  "japanese": "ソフトクリームのせコーラのレシピ",
+  "english": "ソフトクリームのせコーラのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_title_0060",
+  "japanese": "木の実絞ったジュースのレシピ",
+  "english": "木の実絞ったジュースのレシピ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0001",
+  "japanese": "１２３４５６７８９０１２３４５６７８９０１２３４５１２３４５６７８９０１２３４５６７８９０１２３４５１２３４５６７８９０１２３４５６７８９０１２３４５",
+  "english": "白米をゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0002",
+  "japanese": "ふりかけご飯をゲットするためのヒントだよ！",
+  "english": "ふりかけご飯をゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0003",
+  "japanese": "塩むすびをゲットするためのヒントだよ！",
+  "english": "塩むすびをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0004",
+  "japanese": "お寿司をゲットするためのヒントだよ！",
+  "english": "お寿司をゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0005",
+  "japanese": "梅おにぎりをゲットするためのヒントだよ！",
+  "english": "梅おにぎりをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0006",
+  "japanese": "オムライスをゲットするためのヒントだよ！",
+  "english": "オムライスをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0007",
+  "japanese": "スパムおにぎりをゲットするためのヒントだよ！",
+  "english": "スパムおにぎりをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0008",
+  "japanese": "お寿司茶漬けをゲットするためのヒントだよ！",
+  "english": "お寿司茶漬けをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0009",
+  "japanese": "カレーライスをゲットするためのヒントだよ！",
+  "english": "カレーライスをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0010",
+  "japanese": "朝定食をゲットするためのヒントだよ！",
+  "english": "朝定食をゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0011",
+  "japanese": "食パンをゲットするためのヒントだよ！",
+  "english": "食パンをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0012",
+  "japanese": "ジャムトーストをゲットするためのヒントだよ！",
+  "english": "ジャムトーストをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0013",
+  "japanese": "チーズサンドイッチをゲットするためのヒントだよ！",
+  "english": "チーズサンドイッチをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0014",
+  "japanese": "メロンパンをゲットするためのヒントだよ！",
+  "english": "メロンパンをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0015",
+  "japanese": "ピザまんをゲットするためのヒントだよ！",
+  "english": "ピザまんをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0016",
+  "japanese": "チョコチップスナックパンをゲットするためのヒントだよ！",
+  "english": "チョコチップスナックパンをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0017",
+  "japanese": "いもむしパンをゲットするためのヒントだよ！",
+  "english": "いもむしパンをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0018",
+  "japanese": "お肉入りメロンパンをゲットするためのヒントだよ！",
+  "english": "お肉入りメロンパンをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0019",
+  "japanese": "マルゲリータピザをゲットするためのヒントだよ！",
+  "english": "マルゲリータピザをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0020",
+  "japanese": "うずまきパンフレンチトーストをゲットするためのヒントだよ！",
+  "english": "うずまきパンフレンチトーストをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0021",
+  "japanese": "カップラーメンをゲットするためのヒントだよ！",
+  "english": "カップラーメンをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0022",
+  "japanese": "うどんをゲットするためのヒントだよ！",
+  "english": "うどんをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0023",
+  "japanese": "そばをゲットするためのヒントだよ！",
+  "english": "そばをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0024",
+  "japanese": "ケチャップパスタをゲットするためのヒントだよ！",
+  "english": "ケチャップパスタをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0025",
+  "japanese": "みかんそうめんをゲットするためのヒントだよ！",
+  "english": "みかんそうめんをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0026",
+  "japanese": "やきそばをゲットするためのヒントだよ！",
+  "english": "やきそばをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0027",
+  "japanese": "おじやうどんをゲットするためのヒントだよ！",
+  "english": "おじやうどんをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0028",
+  "japanese": "バター醤油焼きうどんをゲットするためのヒントだよ！",
+  "english": "バター醤油焼きうどんをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0029",
+  "japanese": "郎ラーメン（にんにくからめ）をゲットするためのヒントだよ！",
+  "english": "郎ラーメン（にんにくからめ）をゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0030",
+  "japanese": "チュルチュルプレートをゲットするためのヒントだよ！",
+  "english": "チュルチュルプレートをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0031",
+  "japanese": "焼きシャウエッセンをゲットするためのヒントだよ！",
+  "english": "焼きシャウエッセンをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0032",
+  "japanese": "たまご焼きをゲットするためのヒントだよ！",
+  "english": "たまご焼きをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0033",
+  "japanese": "焼き椎茸をゲットするためのヒントだよ！",
+  "english": "焼き椎茸をゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0034",
+  "japanese": "炙りしめ鯖をゲットするためのヒントだよ！",
+  "english": "炙りしめ鯖をゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0035",
+  "japanese": "きのこ炒めをゲットするためのヒントだよ！",
+  "english": "きのこ炒めをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0036",
+  "japanese": "魚の甘辛煮をゲットするためのヒントだよ！",
+  "english": "魚の甘辛煮をゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0037",
+  "japanese": "唐揚げをゲットするためのヒントだよ！",
+  "english": "唐揚げをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0038",
+  "japanese": "おでんをゲットするためのヒントだよ！",
+  "english": "おでんをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0039",
+  "japanese": "ステーキをゲットするためのヒントだよ！",
+  "english": "ステーキをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0040",
+  "japanese": "すき焼きをゲットするためのヒントだよ！",
+  "english": "すき焼きをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0041",
+  "japanese": "りんごをゲットするためのヒントだよ！",
+  "english": "りんごをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0042",
+  "japanese": "ゼリーをゲットするためのヒントだよ！",
+  "english": "ゼリーをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0043",
+  "japanese": "ソフトクリームをゲットするためのヒントだよ！",
+  "english": "ソフトクリームをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0044",
+  "japanese": "プリンをゲットするためのヒントだよ！",
+  "english": "プリンをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0045",
+  "japanese": "ホットケーキをゲットするためのヒントだよ！",
+  "english": "ホットケーキをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0046",
+  "japanese": "カヌレをゲットするためのヒントだよ！",
+  "english": "カヌレをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0047",
+  "japanese": "シュークリームをゲットするためのヒントだよ！",
+  "english": "シュークリームをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0048",
+  "japanese": "バウムクーヘンをゲットするためのヒントだよ！",
+  "english": "バウムクーヘンをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0049",
+  "japanese": "ケーキをゲットするためのヒントだよ！",
+  "english": "ケーキをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0050",
+  "japanese": "いちごパフェをゲットするためのヒントだよ！",
+  "english": "いちごパフェをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0051",
+  "japanese": "いちごミルクをゲットするためのヒントだよ！",
+  "english": "いちごミルクをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0052",
+  "japanese": "お茶をゲットするためのヒントだよ！",
+  "english": "お茶をゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0053",
+  "japanese": "紅茶をゲットするためのヒントだよ！",
+  "english": "紅茶をゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0054",
+  "japanese": "コーヒーをゲットするためのヒントだよ！",
+  "english": "コーヒーをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0055",
+  "japanese": "コーラをゲットするためのヒントだよ！",
+  "english": "コーラをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0056",
+  "japanese": "りんごのシュワをゲットするためのヒントだよ！",
+  "english": "りんごのシュワをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0057",
+  "japanese": "ジンジャーエールをゲットするためのヒントだよ！",
+  "english": "ジンジャーエールをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0058",
+  "japanese": "ウィンナーコーヒーをゲットするためのヒントだよ！",
+  "english": "ウィンナーコーヒーをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0059",
+  "japanese": "ソフトクリームのせコーラをゲットするためのヒントだよ！",
+  "english": "ソフトクリームのせコーラをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_recipe_item_hint_0060",
+  "japanese": "木の実絞ったジュースをゲットするためのヒントだよ！",
+  "english": "木の実絞ったジュースをゲットするためのヒントだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_kitchen_name_001",
+  "japanese": "ちいかわのおそうざい",
+  "english": "ちいかわのおそうざい"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_kitchen_name_002",
+  "japanese": "パスタハチワレ",
+  "english": "パスタハチワレ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_kitchen_name_003",
+  "japanese": "うさぎベーカリー",
+  "english": "うさぎベーカリー"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_kitchen_name_004",
+  "japanese": "バーくりまんじゅう",
+  "english": "バーくりまんじゅう"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_kitchen_name_005",
+  "japanese": "モモンガ亭",
+  "english": "モモンガ亭"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_kitchen_name_006",
+  "japanese": "ラッコカフェ",
+  "english": "ラッコカフェ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_kitchen_name_007",
+  "japanese": "麺処シーサー",
+  "english": "麺処シーサー"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_kitchen_description_001",
+  "japanese": "ちいかわがおかずをつくってくれるよ！",
+  "english": "ちいかわがおかずをつくってくれるよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_kitchen_description_002",
+  "japanese": "ハチワレがめんりょうりをつくってくれるよ！",
+  "english": "ハチワレがめんりょうりをつくってくれるよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_kitchen_description_003",
+  "japanese": "うさぎがパンをやいてくれるよ！",
+  "english": "うさぎがパンをやいてくれるよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_kitchen_popup_title",
+  "japanese": "ブース編成＆強化",
+  "english": "ブース編成＆強化"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_kitchen_popup_button_enhance",
+  "japanese": "ブース強化",
+  "english": "ブース強化"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_kitchen_popup_label_assist",
+  "japanese": "アシスト",
+  "english": "アシスト"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_kitchen_popup_label_generate_value",
+  "japanese": "生産量",
+  "english": "生産量"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_kitchen_popup_empty_main_slot_toast",
+  "japanese": "メインを設定しよう！",
+  "english": "メインを設定しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_kitchen_popup_locked_assist_slot_toast",
+  "japanese": "フェスランクをあげよう！",
+  "english": "フェスランクをあげよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_boost_popup_already_boost_toast",
+  "japanese": "ブースト中だよ！",
+  "english": "ブースト中だよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_boost_popup_title",
+  "japanese": "フェスブースト",
+  "english": "フェスブースト"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_boost_popup_button_enable",
+  "japanese": "ブースト！",
+  "english": "ブースト！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_boost_popup_button_disable",
+  "japanese": "ブースト中",
+  "english": "ブースト中"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_boost_popup_message_description",
+  "japanese": "広告を再生してブース生産量を\\nアップしよう！",
+  "english": "広告を再生してブース生産量を\\nアップしよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_boost_popup_message_active",
+  "japanese": "ブース生産量アップ！",
+  "english": "ブース生産量アップ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_boost_popup_pre_boost_time_description_format",
+  "japanese": "効果時間:{0}",
+  "english": "効果時間:{0}"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_formation_title_main",
+  "japanese": "メイン担当を選ぼう！",
+  "english": "メイン担当を選ぼう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_formation_title_assist",
+  "japanese": "サブ担当を選ぼう！",
+  "english": "サブ担当を選ぼう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_formation_button_out",
+  "japanese": "はずす",
+  "english": "はずす"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_formation_button_replace",
+  "japanese": "入れ替える",
+  "english": "入れ替える"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_formation_button_select",
+  "japanese": "はたらく",
+  "english": "はたらく"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_formation_description_select",
+  "japanese": "キャラを選択してね！",
+  "english": "キャラを選択してね！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_formation_thumbnail_label_main",
+  "japanese": "メイン",
+  "english": "メイン"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_formation_thumbnail_label_sub",
+  "japanese": "サブ",
+  "english": "サブ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_formation_thumbnail_label_other_main",
+  "japanese": "よそのメイン",
+  "english": "よそのメイン"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_formation_thumbnail_label_other_sub",
+  "japanese": "よそのサブ",
+  "english": "よそのサブ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_formation_thumbnail_genre_empty",
+  "japanese": "未所持",
+  "english": "未所持"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_formation_not_remove_main_toast",
+  "japanese": "メイン担当ははずせないよ！",
+  "english": "メイン担当ははずせないよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_formation_not_remove_assist_toast",
+  "japanese": "サブ担当ははずせないよ！",
+  "english": "サブ担当ははずせないよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_formation_remove_title",
+  "japanese": "キャラ変更確認",
+  "english": "キャラ変更確認"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_formation_remove_description",
+  "japanese": "<color=#FF9536>{0}</color>の<color=#FF9536>サブ枠</color>で使われています。\\n本当にはずしますか？",
+  "english": "<color=#FF9536>{0}</color>の<color=#FF9536>サブ枠</color>で使われています。\\n本当にはずしますか？"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_formation_remove_attention",
+  "japanese": "※設定しているブースからは外れてしまいます",
+  "english": "※設定しているブースからは外れてしまいます"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_formation_remove_ok",
+  "japanese": "おっけー！",
+  "english": "おっけー！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_formation_remove_cancel",
+  "japanese": "やっぱやめる",
+  "english": "やっぱやめる"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_license_overlay_title",
+  "japanese": "料理検定合格！",
+  "english": "料理検定合格！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_license_overlay_close",
+  "japanese": "やったー！",
+  "english": "やったー！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_license_overlay_max_level_up",
+  "japanese": "最大料理Lvアップ！",
+  "english": "最大料理Lvアップ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_research_finish_get_menu_overlay_title",
+  "japanese": "レシピ研究完了！",
+  "english": "レシピ研究完了！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_research_finish_get_menu_overlay_close",
+  "japanese": "やったー！",
+  "english": "やったー！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_research_finish_research_reward_title",
+  "japanese": "獲得報酬",
+  "english": "獲得報酬"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_research_finish_get_exp_overlay_title",
+  "japanese": "料理研究完了！",
+  "english": "料理研究完了！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_research_finish_get_exp_overlay_close",
+  "japanese": "やったー！",
+  "english": "やったー！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_cafe_level_up_overlay_title",
+  "japanese": "フェスランクアップ！",
+  "english": "フェスランクアップ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_cafe_level_up_overlay_close",
+  "japanese": "やったー！",
+  "english": "やったー！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_cafe_level_up_overlay_summary",
+  "japanese": "ブース生産量アップ！",
+  "english": "ブース生産量アップ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_cafe_level_up_reward_title",
+  "japanese": "獲得報酬",
+  "english": "獲得報酬"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_cafe_exp",
+  "japanese": "フェスランクポイント",
+  "english": "フェスランクポイント"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_resource_receive_reward_title",
+  "japanese": "報酬獲得！",
+  "english": "報酬獲得！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "reward_receive_close",
+  "japanese": "やったー！",
+  "english": "やったー！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_cafe_mission_receive_reward_title",
+  "japanese": "ミッションクリア！",
+  "english": "ミッションクリア！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_menu_license_mission_format",
+  "japanese": "料理を<color=#FF9536>{0}/{1}</color>個集める",
+  "english": "料理を<color=#FF9536>{0}/{1}</color>個集める"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_license_card_max_level_format",
+  "japanese": "（最大Lv{0}）",
+  "english": "（最大Lv{0}）"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_resource_generate_amount_title",
+  "japanese": "生産量",
+  "english": "生産量"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_resource_generate_amount_value",
+  "japanese": "{0}/分",
+  "english": "{0}/分"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "master_experience_attack",
+  "japanese": "攻撃力",
+  "english": "攻撃力"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "master_experience_attack_speed",
+  "japanese": "攻撃速度",
+  "english": "攻撃速度"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "master_experience_hp",
+  "japanese": "HP",
+  "english": "HP"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "master_experience_hp_recover",
+  "japanese": "HP回復",
+  "english": "HP回復"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "master_experience_critical_damage",
+  "japanese": "クリティカルダメージ",
+  "english": "クリティカルダメージ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "master_experience_critical_rate",
+  "japanese": "クリティカル率",
+  "english": "クリティカル率"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "master_experience_normal_enemy_damage",
+  "japanese": "通常敵へのダメージ倍率",
+  "english": "通常敵へのダメージ倍率"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "master_experience_advanced_attack",
+  "japanese": "上級攻撃力",
+  "english": "上級攻撃力"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_status_enhance_lack_coin",
+  "japanese": "お金が足りない……ってコト！？",
+  "english": "お金が足りない……ってコト！？"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_title",
+  "japanese": "おやつ",
+  "english": "おやつ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_recieve",
+  "japanese": "受け取る",
+  "english": "受け取る"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_attack",
+  "japanese": "攻撃力",
+  "english": "攻撃力"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_hp",
+  "japanese": "HP",
+  "english": "HP"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_effect_value",
+  "japanese": "{0}%",
+  "english": "{0}%"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_exp_gauge",
+  "japanese": "{0}/{1}",
+  "english": "{0}/{1}"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_exp_gauge_max",
+  "japanese": "MAX",
+  "english": "MAX"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_vip_rank",
+  "japanese": "おやつランク{0}",
+  "english": "おやつランク{0}"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_interval_minute",
+  "japanese": "{0:00}分間",
+  "english": "{0:00}分間"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_remain_time",
+  "japanese": "あと{0:00}分{1:00}秒",
+  "english": "あと{0:00}分{1:00}秒"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_vip_exp",
+  "japanese": "経験値+1まで",
+  "english": "経験値+1まで"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_active",
+  "japanese": "発動中",
+  "english": "発動中"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_balloon_button",
+  "japanese": "見に行く",
+  "english": "見に行く"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_balloon_caption",
+  "japanese": "おやつを自動で延長してくれる\\nパックがあるってコト？！",
+  "english": "おやつを自動で延長してくれる\\nパックがあるってコト？！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_balloon_ads_caption",
+  "japanese": "動画広告の視聴回数によって\\n追加バフを受けることができます。",
+  "english": "動画広告の視聴回数によって\\n追加バフを受けることができます。"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_gold_name",
+  "japanese": "だんご",
+  "english": "だんご"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_attack_name",
+  "japanese": "猪最中",
+  "english": "猪最中"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_skill_name",
+  "japanese": "シュークリーム",
+  "english": "シュークリーム"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_gold_description",
+  "japanese": "ゴールド獲得量増加",
+  "english": "ゴールド獲得量増加"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_attack_description",
+  "japanese": "攻撃力増加",
+  "english": "攻撃力増加"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "blessing_skill_description",
+  "japanese": "お助けスキルクールタイム減少",
+  "english": "お助けスキルクールタイム減少"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_win",
+  "japanese": "討伐成功！",
+  "english": "討伐成功！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_lose",
+  "japanese": "討伐失敗…",
+  "english": "討伐失敗…"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_lose_time_up",
+  "japanese": "時間切れ…",
+  "english": "時間切れ…"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_type_attack",
+  "japanese": "攻撃力",
+  "english": "Attack"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_type_attack_speed",
+  "japanese": "攻撃速度",
+  "english": "Attack Speed"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_type_health",
+  "japanese": "HP",
+  "english": "HP"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_type_health_recover",
+  "japanese": "HP回復",
+  "english": "HP Recover"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_type_critical_rate",
+  "japanese": "クリティカル確率",
+  "english": "Critical Rate"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_type_critical_damage",
+  "japanese": "クリティカルダメージ",
+  "english": "Critical Dmage"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_effect_text_format",
+  "japanese": "{0}<color=#F97E6D>{1}%</color>",
+  "english": "{0}{1}%増加"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "possession_effect_condition_format",
+  "japanese": "{0}に適用",
+  "english": "{0}に適用"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_difficulty_1",
+  "japanese": "かんたん",
+  "english": "かんたん"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_difficulty_2",
+  "japanese": "ふつう",
+  "english": "ふつう"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_difficulty_3",
+  "japanese": "むずかしい",
+  "english": "むずかしい"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_enemy_1",
+  "japanese": "Enemy",
+  "english": "Enemy"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "tag_1",
+  "japanese": "タグ",
+  "english": "タグ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "tag_11",
+  "japanese": "ごはん",
+  "english": "ごはん"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "tag_12",
+  "japanese": "パン",
+  "english": "パン"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "tag_0011",
+  "japanese": "ごはん",
+  "english": "ごはん"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "tag_0012",
+  "japanese": "パン",
+  "english": "パン"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "tag_0013",
+  "japanese": "めん",
+  "english": "めん"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "tag_0014",
+  "japanese": "おかず",
+  "english": "おかず"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "tag_0015",
+  "japanese": "デザート",
+  "english": "デザート"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "tag_0016",
+  "japanese": "ドリンク",
+  "english": "ドリンク"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_skill_1",
+  "japanese": "えいやっ",
+  "english": "えいやっ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_possession_effect_1",
+  "japanese": "condition",
+  "english": "condition"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_costume_1",
+  "japanese": "仮",
+  "english": "仮"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_character_1",
+  "japanese": "ちいかわ",
+  "english": "ちいかわ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_character_2",
+  "japanese": "ハチワレ",
+  "english": "ハチワレ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_character_3",
+  "japanese": "うさぎ",
+  "english": "うさぎ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_character_4",
+  "japanese": "くりまんじゅう",
+  "english": "くりまんじゅう"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_character_5",
+  "japanese": "ラッコ",
+  "english": "ラッコ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_character_6",
+  "japanese": "モモンガ",
+  "english": "モモンガ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_character_7",
+  "japanese": "シーサー",
+  "english": "シーサー"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_level",
+  "japanese": "Lv.",
+  "english": "Lv."
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_percent",
+  "japanese": "%",
+  "english": "%"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_level_format",
+  "japanese": "Lv{0}",
+  "english": "Lv.{0}"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_percent_format",
+  "japanese": "{0}%",
+  "english": "{0}%"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_1",
+  "japanese": "ひとりごつ1",
+  "english": "ひとりごつ1"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_2",
+  "japanese": "ひとりごつ2",
+  "english": "ひとりごつ2"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_3",
+  "japanese": "ひとりごつ3",
+  "english": "ひとりごつ3"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_4",
+  "japanese": "ひとりごつ4",
+  "english": "ひとりごつ4"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_5",
+  "japanese": "ひとりごつ5",
+  "english": "ひとりごつ5"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_6",
+  "japanese": "ひとりごつ6",
+  "english": "ひとりごつ6"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_7",
+  "japanese": "ひとりごつ7",
+  "english": "ひとりごつ7"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_8",
+  "japanese": "ひとりごつ8",
+  "english": "ひとりごつ8"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equipment_rarity_1",
+  "japanese": "ノーマル",
+  "english": "ノーマル"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equipment_rarity_2",
+  "japanese": "ハイノーマル",
+  "english": "ハイノーマル"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equipment_rarity_3",
+  "japanese": "レア",
+  "english": "レア"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equipment_rarity_4",
+  "japanese": "スーパーレア",
+  "english": "スーパーレア"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equipment_rarity_5",
+  "japanese": "ハイパーレア",
+  "english": "ハイパーレア"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equipment_rarity_6",
+  "japanese": "ウルトラレア",
+  "english": "ウルトラレア"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equipment_rarity_7",
+  "japanese": "レジェンドレア",
+  "english": "レジェンドレア"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equipment_synthetic_result_plusprepand",
+  "japanese": "+",
+  "english": "+"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "costume_expgauge_promotion_available",
+  "japanese": "開放できるよ！",
+  "english": "開放できるよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "costume_expgauge_maxlevel",
+  "japanese": "MAX！",
+  "english": "MAX！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_plusprepand",
+  "japanese": "+",
+  "english": "+"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equipment_count_format",
+  "japanese": "x{0}",
+  "english": "x{0}"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_cooltime_format",
+  "japanese": "{0}秒",
+  "english": "{0}秒"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_effectvalue_rate",
+  "japanese": "%",
+  "english": "%"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_effectvalue_plusprepand",
+  "japanese": "+",
+  "english": "+"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "costume_promotion_popup_maxlevel_title",
+  "japanese": "最大レベル",
+  "english": "最大レベル"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "costume_promotion_popup_possesioneffect_title",
+  "japanese": "所持効果",
+  "english": "所持効果"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_fraction_format",
+  "japanese": "{0}/{1}",
+  "english": "{0}/{1}"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equipment_expgauge_maxlevel",
+  "japanese": "MAX！",
+  "english": "MAX！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weeding_meter",
+  "japanese": "{0}m",
+  "english": "{0}m"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_ok",
+  "japanese": "OK",
+  "english": "OK"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_close",
+  "japanese": "とじる",
+  "english": "とじる"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_next",
+  "japanese": "次へ",
+  "english": "次へ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_got_it",
+  "japanese": "やったー！",
+  "english": "やったー！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "error_dialog_title_button",
+  "japanese": "タイトルへ",
+  "english": "タイトルへ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "error_dialog_retry_button",
+  "japanese": "リトライ",
+  "english": "リトライ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "error_dialog_title",
+  "japanese": "エラー",
+  "english": "エラー"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "error_dialog_connection_message",
+  "japanese": "通信エラーが発生しました。",
+  "english": "通信エラーが発生しました。"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "error_dialog_connection_force_title_message",
+  "japanese": "通信エラーが発生しました。\\nタイトルへ戻ります。",
+  "english": "通信エラーが発生しました。\\nタイトルへ戻ります。"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "error_dialog_force_title_message",
+  "japanese": "予期せぬエラーが発生しました。\\nタイトルへ戻ります。",
+  "english": "予期せぬエラーが発生しました。\\nタイトルへ戻ります。"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gift_message_temporary_1",
+  "japanese": "ギフトボックス実装記念仮報酬です。",
+  "english": "ギフトボックス実装記念仮報酬です。"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gift_message_temporary_2",
+  "japanese": "１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０",
+  "english": "１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gift_message_temporary_3",
+  "japanese": "リリース記念キャンペーンログインボーナス1日目の報酬です。",
+  "english": "リリース記念キャンペーンログインボーナス1日目の報酬です。"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gift_message_temporary_4",
+  "japanese": "リリース記念キャンペーンログインボーナス12日目の報酬です。",
+  "english": "リリース記念キャンペーンログインボーナス12日目の報酬です。"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gift_message_temporary_5",
+  "japanese": "イベントランキング報酬です。",
+  "english": "イベントランキング報酬です。"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gift_message_temporary_6",
+  "japanese": "アリーナランキング報酬です。",
+  "english": "アリーナランキング報酬です。"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gift_message_temporary_7",
+  "japanese": "ナガノ作品コラボ記念キャンペーンログインボーナス12日目の報酬です。",
+  "english": "ナガノ作品コラボ記念キャンペーンログインボーナス12日目の報酬です。"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_plus_format",
+  "japanese": "+{0}",
+  "english": "+{0}"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_mm_ss_format",
+  "japanese": "{0:00}分{1:00}秒",
+  "english": "{0:00}分{1:00}秒"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weeding_auto",
+  "japanese": "オート草むしり",
+  "english": "オート草むしり"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weeding_auto_cofirm_message",
+  "japanese": "ハートを使ってみんなで草むしりを行うよ！",
+  "english": "ハートを使ってみんなで草むしりを行うよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weeding_auto_cofirm_caution",
+  "japanese": "※ハート{0}個につき{1}m草むしりが実行されます\\n※一度に最大{2}mまで実行できます",
+  "english": "※ハート{0}個につき{1}m草むしりが実行されます\\n※一度に最大{2}mまで実行できます"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weeding_auto_2line",
+  "japanese": "オート\\n草むしり",
+  "english": "オート\\n草むしり"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "skill_effect_description_test",
+  "japanese": "効果時間{0:t}、値{0:v}アップ",
+  "english": "効果時間{0:t}、値{0:v}アップ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "skill_effect_description_1_1",
+  "japanese": "敵単体に攻撃力の{0:v}のダメージを与える",
+  "english": "敵単体に攻撃力の{0:v}のダメージを与える"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "skill_effect_description_2_1",
+  "japanese": "敵全体に攻撃力の{0:v}のダメージを与える",
+  "english": "敵全体に攻撃力の{0:v}のダメージを与える"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weeding_auto_action_locked_message",
+  "japanese": "{0}mから使えるよ！",
+  "english": "{0}mから使えるよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weeding_action_failed_message_already_broken",
+  "japanese": "草がない場所は採れないよ",
+  "english": "草がない場所は採れないよ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weeding_action_failed_message_not_reach",
+  "japanese": "影の場所は採れないよ",
+  "english": "影の場所は採れないよ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weeding_action_failed_message_not_action_state",
+  "japanese": "今は採れないよ",
+  "english": "今は採れないよ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_enhance_replace_possession_effect_label",
+  "japanese": "総武器所持効果",
+  "english": "総武器所持効果"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_enhance_replace_possession_effect_label",
+  "japanese": "総防具所持効果",
+  "english": "総防具所持効果"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_formation_possession_effect_label",
+  "japanese": "総所持効果",
+  "english": "総防具所持効果"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "costume_formation_character_duplicate_replace_confirm_description_format",
+  "japanese": "{0}は<color=#FF9536>他の枠</color>で編成されています。\\n同じキャラクターは編成できないため入れ替えますか？",
+  "english": "{0}は<color=#FF9536>他の枠</color>で編成されています。\\n同じキャラクターは編成できないため入れ替えますか？"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "costume_formation_character_duplicate_replace_confirm_attention",
+  "japanese": "※入れ替え先のキャラは編成から外れてしまいます",
+  "english": "※入れ替え先のキャラは編成から外れてしまいます"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "costume_formation_character_duplicate_replace_confirm_title",
+  "japanese": "キャラ変更確認",
+  "english": "キャラ変更確認"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_tile_first_view",
+  "japanese": "もようがえしたい場所を選んでください",
+  "english": "もようがえしたい場所を選んでください"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_title_select_background",
+  "japanese": "背景をえらんでください",
+  "english": "背景をえらんでください"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_title_select_item",
+  "japanese": "アイテムをえらんでください",
+  "english": "アイテムをえらんでください"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_popup_button_ok",
+  "japanese": "おっけー！",
+  "english": "おっけー！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_popup_button_save",
+  "japanese": "保存する！",
+  "english": "保存する！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_popup_button_change",
+  "japanese": "変更する！",
+  "english": "変更する！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_popup_button_cancel",
+  "japanese": "やっぱやめる",
+  "english": "やっぱやめる"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_popup_button_restore",
+  "japanese": "破棄する",
+  "english": "破棄する"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_popup_button_continue",
+  "japanese": "まだ続ける",
+  "english": "まだ続ける"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_popup_title_confirm",
+  "japanese": "確認",
+  "english": "確認"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_popup_message_return_to_top",
+  "japanese": "もようがえトップに戻ります\\nアイテムの配置をもとにもどしますか？",
+  "english": "もようがえトップに戻ります\\nアイテムの配置をもとにもどしますか？"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_popup_title_save_confirm",
+  "japanese": "保存確認",
+  "english": "保存確認"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_popup_message_save_confirm",
+  "japanese": "現在のもようがえを保存しますか？",
+  "english": "現在のもようがえを保存しますか？"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_popup_title_save_complete",
+  "japanese": "保存完了",
+  "english": "保存完了"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_popup_message_save_complete",
+  "japanese": "もようがえを保存しました",
+  "english": "もようがえを保存しました"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_popup_title_auto_customize",
+  "japanese": "おまかせ",
+  "english": "おまかせ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_popup_message_auto_customize",
+  "japanese": "もようがえをおまかせしますか？\\nいま配置されているアイテムはすべて片付けられます",
+  "english": "もようがえをおまかせしますか？\\nいま配置されているアイテムはすべて片付けられます"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_popup_title_change_background_confirm",
+  "japanese": "背景変更確認",
+  "english": "背景変更確認"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_popup_message_change_background_confirm",
+  "japanese": "一部のアイテムが片付けられます\\nアイテムを変更してもよろしいですか？",
+  "english": "一部のアイテムが片付けられます\\nアイテムを変更してもよろしいですか？"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_popup_message_auto_customize_skip_confirm",
+  "japanese": "次から確認ポップアップを表示しない",
+  "english": "次から確認ポップアップを表示しない"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_footer_button_apply",
+  "japanese": "適用する",
+  "english": "適用する"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_footer_button_save",
+  "japanese": "保存する",
+  "english": "保存する"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_footer_button_put_away",
+  "japanese": "しまう",
+  "english": "しまう"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_common_background_type",
+  "japanese": "設置タイプ",
+  "english": "設置タイプ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_select_background_size",
+  "japanese": "サイズ",
+  "english": "サイズ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_select_item_character",
+  "japanese": "キャラ",
+  "english": "キャラ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_select_item_empty",
+  "japanese": "-",
+  "english": "-"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_select_item_anywhere",
+  "japanese": "どこでも",
+  "english": "どこでも"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_first_view_background",
+  "japanese": "背景",
+  "english": "背景"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_thumbnail_s",
+  "japanese": "S",
+  "english": "S"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_thumbnail_m",
+  "japanese": "M",
+  "english": "M"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_thumbnail_l",
+  "japanese": "L",
+  "english": "L"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_thumbnail_big_item",
+  "japanese": "でか",
+  "english": "でか"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_thumbnail_selected",
+  "japanese": "設定中",
+  "english": "設定中"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_thumbnail_placed",
+  "japanese": "設置中",
+  "english": "設置中"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_thumbnail_indoor_only",
+  "japanese": "屋内のみ",
+  "english": "屋内のみ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_thumbnail_outdoor_only",
+  "japanese": "屋外のみ",
+  "english": "屋外のみ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_toast_cannot_place_capacity",
+  "japanese": "でかアイテムは設置できない場所です",
+  "english": "でかアイテムは設置できない場所です"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_customize_toast_cannot_place_type",
+  "japanese": "この背景には設置できないアイテムです",
+  "english": "この背景には設置できないアイテムです"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_background_1",
+  "japanese": "ちいかわの森",
+  "english": "ちいかわの森"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_background_2",
+  "japanese": "ハチワレの家",
+  "english": "ハチワレの家"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_background_3",
+  "japanese": "ちいかわの森_S",
+  "english": "ちいかわの森_S"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_background_4",
+  "japanese": "ちいかわの森_L",
+  "english": "ちいかわの森_L"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_1",
+  "japanese": "巨ラムネ",
+  "english": "巨ラムネ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_2",
+  "japanese": "プリン",
+  "english": "プリン"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_3",
+  "japanese": "オムライス",
+  "english": "オムライス"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_4",
+  "japanese": "勉強道具",
+  "english": "勉強道具"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_5",
+  "japanese": "くまにんぎょう",
+  "english": "くまにんぎょう"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_6",
+  "japanese": "布団x2",
+  "english": "布団x2"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_7",
+  "japanese": "ギター",
+  "english": "ギター"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_8",
+  "japanese": "すき焼きセット",
+  "english": "すき焼きセット"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_9",
+  "japanese": "寿司下駄",
+  "english": "寿司下駄"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_10",
+  "japanese": "花瓶",
+  "english": "花瓶"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_11",
+  "japanese": "すこんぶ",
+  "english": "すこんぶ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_12",
+  "japanese": "熱い岩+ジャムパン",
+  "english": "熱い岩+ジャムパン"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_13",
+  "japanese": "ゴミ箱",
+  "english": "ゴミ箱"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_14",
+  "japanese": "水場",
+  "english": "水場"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_15",
+  "japanese": "自動販売機",
+  "english": "自動販売機"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_16",
+  "japanese": "きねんこうえんくん",
+  "english": "きねんこうえんくん"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_17",
+  "japanese": "おでん",
+  "english": "おでん"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_18",
+  "japanese": "焼きしいたけ",
+  "english": "焼きしいたけ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_19",
+  "japanese": "しゃみせん+シーサー",
+  "english": "しゃみせん+シーサー"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "home_item_20",
+  "japanese": "さたぱんびん",
+  "english": "さたぱんびん"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_skill_description_value_format",
+  "japanese": "<color={0}>{1}</color>",
+  "english": "<color={0}>{1}</color>"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_skill_description_percent_value_format",
+  "japanese": "<color={0}>{1}%</color>",
+  "english": "<color={0}>{1}%</color>"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_skill_description_add_percent_value_format",
+  "japanese": "<color={0}>+{1}%</color>",
+  "english": "<color={0}>+{1}%</color>"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_skill_description_effect_time_format",
+  "japanese": "<color={0}>{1}秒</color>",
+  "english": "<color={0}>{1}秒</color>"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_rarity_short_n",
+  "japanese": "N",
+  "english": "N"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_rarity_short_hn",
+  "japanese": "HN",
+  "english": "HN"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_rarity_short_r",
+  "japanese": "R",
+  "english": "R"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_rarity_short_sr",
+  "japanese": "SR",
+  "english": "SR"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_rarity_short_hr",
+  "japanese": "HR",
+  "english": "HR"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_rarity_short_ur",
+  "japanese": "UR",
+  "english": "UR"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_rarity_short_lr",
+  "japanese": "LR",
+  "english": "LR"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_detail_popup_title",
+  "japanese": "お助けスキル詳細",
+  "english": "お助けスキル詳細"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_detail_popup_cooltime_title",
+  "japanese": "クールタイム:",
+  "english": "クールタイム:"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_possession_effect",
+  "japanese": "所持効果",
+  "english": "所持効果"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_formation_summon_button",
+  "japanese": "お助けスキル\\n召喚する",
+  "english": "お助けスキル\\n召喚する"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_formation_auto_formation_button",
+  "japanese": "おまかせ編成",
+  "english": "おまかせ編成"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_formation_all_enhance_button",
+  "japanese": "一括強化",
+  "english": "一括強化"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "character_formation_enhance_top_equipment",
+  "japanese": "そうび",
+  "english": "そうび"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "character_formation_enhance_top_friend_label",
+  "japanese": "なかま",
+  "english": "なかま"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "character_formation_enhance_top_status_button",
+  "japanese": "ステータス",
+  "english": "ステータス"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "character_formation_enhance_top_enhance_button",
+  "japanese": "強化",
+  "english": "強化"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "character_formation_enhance_top_auto_formation_button",
+  "japanese": "キャラ\\nおまかせ編成",
+  "english": "キャラ\\nおまかせ編成"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "character_formation_enhance_top_friend_set_recommend",
+  "japanese": "なかまを\\nセットしてね！",
+  "english": "なかまを\\nセットしてね！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "character_formation_status_list_popup_title",
+  "japanese": "ステータス一覧",
+  "english": "ステータス一覧"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "character_menu_tab_button_formation_enhance",
+  "japanese": "編成&強化",
+  "english": "編成&強化"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "character_menu_tab_butto_assist_skill",
+  "japanese": "お助けスキル",
+  "english": "お助けスキル"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "character_menu_tab_butto_mastery",
+  "japanese": "特訓",
+  "english": "特訓"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cmp_ui_formation_name_layout_now_formation",
+  "japanese": "編成中",
+  "english": "編成中"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "costume_enhance_hunt_skill_title",
+  "japanese": "固有\\nスキル",
+  "english": "固有\\nスキル"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "costume_enhance_possession_effect_title",
+  "japanese": "所持効果",
+  "english": "所持効果"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "costume_promotion_popup_title",
+  "japanese": "解放確認",
+  "english": "解放確認"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_promotion_effect",
+  "japanese": "解放効果",
+  "english": "解放効果"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "costume_promotion_popup_promotion_button",
+  "japanese": "解放する！",
+  "english": "解放する！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "costume_promotion_result_overlay_title",
+  "japanese": "解放成功",
+  "english": "解放成功"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "costume_promotion_result_overlay_possession_effect_up_title",
+  "japanese": "所持効果アップ",
+  "english": "所持効果アップ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "costume_promotion_result_overlay_button",
+  "japanese": "やった！",
+  "english": "やった！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equip_enhance_overlay_title",
+  "japanese": "強化したよ！",
+  "english": "強化したよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equip_enhance_overlay_button",
+  "japanese": "やった！",
+  "english": "やった！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equip_enhance_replace_popup_title_format",
+  "japanese": "{0}編成/強化",
+  "english": "{0}編成/強化"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equip_enhance_replace_popup_equip_button",
+  "japanese": "みにつける",
+  "english": "みにつける"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equip_enhance_replace_popup_formation_button",
+  "japanese": "編成する",
+  "english": "編成する"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equip_enhance_replace_popup_remove_button",
+  "japanese": "はずす",
+  "english": "はずす"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equip_enhance_replace_popup_enhance_button",
+  "japanese": "強化",
+  "english": "強化"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equip_enhance_replace_popup_synthesize_button",
+  "japanese": "合成",
+  "english": "合成"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equip_enhance_replace_popup_summon_button",
+  "japanese": "武器を\\n召喚する！",
+  "english": "武器を\\n召喚する！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equip_enhance_replace_popup_all_enhance_button",
+  "japanese": "一括強化",
+  "english": "一括強化"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equip_enhance_not_enhance_button_attention",
+  "japanese": "強化できません",
+  "english": "強化できません"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equip_enhance_not_remove_button_attention",
+  "japanese": "外せません",
+  "english": "外せません"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equip_enhance_not_equip_button_attention",
+  "japanese": "編成できません",
+  "english": "編成できません"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equip_enhance_not_synthetic_button_attention",
+  "japanese": "合成できません",
+  "english": "合成できません"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equip_synthetic_overlay_title",
+  "japanese": "合成に成功したよ！",
+  "english": "合成に成功したよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equip_synthetic_overlay_button",
+  "japanese": "やったー！",
+  "english": "やったー！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equip_synthetic_overlay_description",
+  "japanese": "最大レベル(Lv100)を超たため合成しました\\n※合成後のそうびも蓄積します",
+  "english": "最大レベル(Lv100)を超たため合成しました\\n※合成後のそうびも蓄積します"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_costume_formation_formation_button",
+  "japanese": "入れ替える",
+  "english": "入れ替える"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_costume_formation_remove_button",
+  "japanese": "はずす",
+  "english": "はずす"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_costume_formation_now_formation_button",
+  "japanese": "編成中",
+  "english": "編成中"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "costume_possession_effect_target_text",
+  "japanese": "すべてのキャラに適用",
+  "english": "すべてのキャラに適用"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "possession_effect_detail_tooltip_value_format",
+  "japanese": "{0}<color=#FF9536>+{1}%</color>",
+  "english": "{0}<color=#FF9536>+{1}%</color>"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_01",
+  "japanese": "くまさんポシェット",
+  "english": "くまさんポシェット"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_02",
+  "japanese": "おさかなポシェット",
+  "english": "おさかなポシェット"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_03",
+  "japanese": "おほしさまポシェット",
+  "english": "おほしさまポシェット"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_04",
+  "japanese": "どんぐりの実",
+  "english": "どんぐりの実"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_05",
+  "japanese": "お鍋のヘルメット",
+  "english": "お鍋のヘルメット"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_06",
+  "japanese": "勉強道具",
+  "english": "勉強道具"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_07",
+  "japanese": "ピラミッドの本",
+  "english": "ピラミッドの本"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_08",
+  "japanese": "シャボン玉",
+  "english": "シャボン玉"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_09",
+  "japanese": "ケシゴム",
+  "english": "ケシゴム"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_10",
+  "japanese": "くまのぬいぐるみ",
+  "english": "くまのぬいぐるみ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_11",
+  "japanese": "ぷっくりシール",
+  "english": "ぷっくりシール"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_12",
+  "japanese": "ひよこのポシェット",
+  "english": "ひよこのポシェット"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_13",
+  "japanese": "花のかんむり",
+  "english": "花のかんむり"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_14",
+  "japanese": "あげ玉",
+  "english": "あげ玉"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_15",
+  "japanese": "トランプ",
+  "english": "トランプ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_16",
+  "japanese": "なんとかバニア：ピンク",
+  "english": "なんとかバニア：ピンク"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_17",
+  "japanese": "なんとかバニア：ブルー",
+  "english": "なんとかバニア：ブルー"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_18",
+  "japanese": "なんとかバニア：イエロー",
+  "english": "なんとかバニア：イエロー"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_19",
+  "japanese": "ギター",
+  "english": "ギター"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_20",
+  "japanese": "光る首飾り",
+  "english": "光る首飾り"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_21",
+  "japanese": "巨ラムネキャップ",
+  "english": "巨ラムネキャップ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_22",
+  "japanese": "白いマント",
+  "english": "白いマント"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_23",
+  "japanese": "白い何か",
+  "english": "白い何か"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_24",
+  "japanese": "ゾウのポシェット",
+  "english": "ゾウのポシェット"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_25",
+  "japanese": "カメラ",
+  "english": "カメラ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_26",
+  "japanese": "でっかいくまのぬいぐるみ",
+  "english": "でっかいくまのぬいぐるみ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_27",
+  "japanese": "ほめられリボン",
+  "english": "ほめられリボン"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_28",
+  "japanese": "王冠",
+  "english": "王冠"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_29",
+  "japanese": "レーザー伯爵",
+  "english": "レーザー伯爵"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_30",
+  "japanese": "クリアカラーピエロ",
+  "english": "クリアカラーピエロ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_name_31",
+  "japanese": "上位ランカーのマント",
+  "english": "上位ランカーのマント"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_01",
+  "japanese": "さすまた",
+  "english": "さすまた"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_02",
+  "japanese": "石",
+  "english": "石"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_03",
+  "japanese": "木の棒",
+  "english": "木の棒"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_04",
+  "japanese": "ねこじゃらし",
+  "english": "ねこじゃらし"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_05",
+  "japanese": "たくあん",
+  "english": "たくあん"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_06",
+  "japanese": "イエローの棒",
+  "english": "イエローの棒"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_07",
+  "japanese": "トンカチ",
+  "english": "トンカチ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_08",
+  "japanese": "ピンクのさすまた",
+  "english": "ピンクのさすまた"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_09",
+  "japanese": "トンボ",
+  "english": "トンボ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_10",
+  "japanese": "ブルーのさすまた",
+  "english": "ブルーのさすまた"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_11",
+  "japanese": "デッキブラシ",
+  "english": "デッキブラシ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_12",
+  "japanese": "フライ返し",
+  "english": "フライ返し"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_13",
+  "japanese": "ハリセン",
+  "english": "ハリセン"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_14",
+  "japanese": "こんぼう",
+  "english": "こんぼう"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_15",
+  "japanese": "パチンコ",
+  "english": "パチンコ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_16",
+  "japanese": "ヤリ",
+  "english": "ヤリ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_17",
+  "japanese": "ぬんちゃく",
+  "english": "ぬんちゃく"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_18",
+  "japanese": "ハンマー",
+  "english": "ハンマー"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_19",
+  "japanese": "金棒",
+  "english": "金棒"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_20",
+  "japanese": "モーニングスター",
+  "english": "モーニングスター"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_21",
+  "japanese": "オノ",
+  "english": "オノ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_22",
+  "japanese": "剣",
+  "english": "剣"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_23",
+  "japanese": "ピンクのヤリ",
+  "english": "ピンクのヤリ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_24",
+  "japanese": "イエローのぬんちゃく",
+  "english": "イエローのぬんちゃく"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_25",
+  "japanese": "ブルーのハンマー",
+  "english": "ブルーのハンマー"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_26",
+  "japanese": "ナックルダスター",
+  "english": "ナックルダスター"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_27",
+  "japanese": "ピコピコハンマー",
+  "english": "ピコピコハンマー"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_28",
+  "japanese": "ピンクのオノ",
+  "english": "ピンクのオノ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_29",
+  "japanese": "イエローのモーニングスター",
+  "english": "イエローのモーニングスター"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_30",
+  "japanese": "ブルーの剣",
+  "english": "ブルーの剣"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_name_31",
+  "japanese": "上位ランカーのさすまた",
+  "english": "上位ランカーのさすまた"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_gold",
+  "japanese": "ゴールドでちいかわたちの能力を強化しよう！",
+  "english": "ゴールドでちいかわたちの能力を強化しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_equipment",
+  "japanese": "今より強い装備を装着しよう！",
+  "english": "今より強い装備を装着しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_ads",
+  "japanese": "動画広告を見て報酬をゲット！",
+  "english": "動画広告を見て報酬をゲット！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "memory_subtitle_button_on",
+  "japanese": "字幕\\nON",
+  "english": "字幕\\nON"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "memory_subtitle_button_off",
+  "japanese": "字幕\\nOFF",
+  "english": "字幕\\nOFF"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "memory_end_next_memory_button",
+  "japanese": "次の思い出へ",
+  "english": "次の思い出へ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "memory_end_not_get_next_memory",
+  "japanese": "まだ続きを獲得していないよ！",
+  "english": "まだ続きを獲得していないよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "memory_end_last_memory",
+  "japanese": "この思い出はここまでだよ！",
+  "english": "この思い出はここまでだよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "mastery_reset_confirm_popup_title",
+  "japanese": "特訓状態初期化",
+  "english": "特訓状態初期化"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "mastery_reset_confirm_popup_description_format",
+  "japanese": "ジェムを<color=#FF9536>{0}個</color>消費して\\nすべての特訓レベルを初期化し\\n使用済みのポイントを回収しますか？",
+  "english": "ジェムを<color=#FF9536>{0}個</color>消費して\\nすべての特訓レベルを初期化し\\n使用済みのポイントを回収しますか？"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "mastery_reset_confirm_popup_ok",
+  "japanese": "おっけー！",
+  "english": "おっけー！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "mastery_reset_confirm_popup_close",
+  "japanese": "やめる",
+  "english": "やめる"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "mastery_not_ehnahce_button_attention",
+  "japanese": "手前の特訓を完了しよう！",
+  "english": "手前の特訓を完了しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "mastery_not_ehnahce_button_text",
+  "japanese": "まだ特訓\\nできないよ！",
+  "english": "まだ特訓\\nできないよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "mastery_reset_button_disable",
+  "japanese": "初期化できる特訓がないよ！",
+  "english": "初期化できる特訓がないよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "mastery_reset_button_text",
+  "japanese": "初期化",
+  "english": "初期化"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "mastery_reset_confirm_popup_attention_title",
+  "japanese": "注意事項",
+  "english": "注意事項"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "mastery_reset_confirm_popup_attention_description",
+  "japanese": "・ジェムは即時に消費され、消費後はキャンセルできません。\\n・無償ジェムから消費されます。",
+  "english": "・ジェムは即時に消費され、消費後はキャンセルできません。\\n・無償ジェムから消費されます。"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "ads_confirm_tite",
+  "japanese": "動画広告",
+  "english": "動画広告"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "ads_confirm_button",
+  "japanese": "広告を見る",
+  "english": "広告を見る"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "ads_confirm_attention_failed",
+  "japanese": "動画広告の再生に失敗しました。\\nしばらく時間をおいてからお試しください。",
+  "english": "動画広告の再生に失敗しました。\\nしばらく時間をおいてからお試しください。"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "ads_confirm_attention_max_count",
+  "japanese": "広告再生回数が上限に達しました",
+  "english": "広告再生回数が上限に達しました"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "possession_effect_detail_text_constant_format",
+  "japanese": "{0}<color=#FF9536>+{1}</color>",
+  "english": "{0}<color=#FF9536>+{1}</color>"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "possession_effect_detail_text_percent_format",
+  "japanese": "{0}<color=#FF9536>+{1}%</color>",
+  "english": "{0}<color=#FF9536>+{1}%</color>"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "possession_effect_detail_text_count_format",
+  "japanese": "{0}<color=#FF9536>+{1}個</color>",
+  "english": "{0}<color=#FF9536>+{1}個</color>"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "possession_effect_detail_text_second_format",
+  "japanese": "{0}<color=#FF9536>+{1}秒</color>",
+  "english": "{0}<color=#FF9536>+{1}秒</color>"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_add_percent_format",
+  "japanese": "+{0}%",
+  "english": "+{0}%"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "idle_reward_receive_format",
+  "japanese": "ちいかわたちが{0}分間討伐した報酬を受け取れます！",
+  "english": "ちいかわたちが{0}分間討伐した報酬を受け取れます！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "idle_reward_receive_wait",
+  "japanese": "ちいかわたちが討伐中なのでちょっとまってね！",
+  "english": "ちいかわたちが討伐中なのでちょっとまってね！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "idle_reward_receive_no_item",
+  "japanese": "まだ獲得してないよ！",
+  "english": "まだ獲得してないよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "idle_reward_amount_per_minutes",
+  "japanese": "{0}/分",
+  "english": "{0}/分"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "idle_reward_ok_button",
+  "japanese": "おっけー！",
+  "english": "おっけー！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "idle_reward_bonus_button",
+  "japanese": "ボーナス獲得\\n{0}/{1}",
+  "english": "ボーナス獲得\\n{0}/{1}"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "idle_reward_bonus_acquire",
+  "japanese": "ボーナス獲得",
+  "english": "ボーナス獲得"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "idle_reward_bonus_received_text",
+  "japanese": "ボーナス報酬を受け取りました！",
+  "english": "ボーナス報酬を受け取りました！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "idle_reward_next_bonus_text",
+  "japanese": "次のボーナス",
+  "english": "次のボーナス"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "idle_reward_title_text",
+  "japanese": "討伐報酬",
+  "english": "討伐報酬"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "idle_reward_bonus_title_text",
+  "japanese": "ボーナス報酬",
+  "english": "ボーナス報酬"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "idle_reward_bonus_receive_button_text",
+  "japanese": "受け取る",
+  "english": "受け取る"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "idle_reward_bonus_description",
+  "japanese": "広告を再生してさらに報酬を受け取ろう！",
+  "english": "広告を再生してさらに報酬を受け取ろう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "idle_reward_bonus_ads_skip_description",
+  "japanese": "さらに報酬を受け取ろう！",
+  "english": "さらに報酬を受け取ろう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "idle_reward_bonus_next",
+  "japanese": "次のボーナス\\nあと",
+  "english": "次のボーナス\\nあと"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "idle_reward_receive_next",
+  "japanese": "報酬獲得まで\\nあと",
+  "english": "報酬獲得まで\\nあと"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_group_name_1",
+  "japanese": "ガチャ",
+  "english": "ガチャ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_group_name_2",
+  "japanese": "限定",
+  "english": "限定"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_group_name_3",
+  "japanese": "一般",
+  "english": "一般"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_name_1",
+  "japanese": "ガチャショップ",
+  "english": "ガチャショップ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_name_2",
+  "japanese": "キャラショップ",
+  "english": "キャラショップ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_name_3",
+  "japanese": "イベントショップ",
+  "english": "イベントショップ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_name_4",
+  "japanese": "スペシャルショップ",
+  "english": "スペシャルショップ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_name_5",
+  "japanese": "プレミアムショップ",
+  "english": "プレミアムショップ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_name_6",
+  "japanese": "初心者ショップ",
+  "english": "初心者ショップ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_name_7",
+  "japanese": "デイリーショップ",
+  "english": "デイリーショップ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_name_8",
+  "japanese": "ウィークリーショップ",
+  "english": "ウィークリーショップ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_name_9",
+  "japanese": "マンスリーショップ",
+  "english": "マンスリーショップ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_name_10",
+  "japanese": "ジェムショップ",
+  "english": "ジェムショップ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_tab_name_1",
+  "japanese": "ガチャ",
+  "english": "ガチャ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_tab_name_2",
+  "japanese": "キャラ",
+  "english": "キャラ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_tab_name_3",
+  "japanese": "イベント",
+  "english": "イベント"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_tab_name_4",
+  "japanese": "スペシャル",
+  "english": "スペシャル"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_tab_name_5",
+  "japanese": "プレミアム",
+  "english": "プレミアム"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_tab_name_6",
+  "japanese": "初心者",
+  "english": "初心者"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_tab_name_7",
+  "japanese": "デイリー",
+  "english": "デイリー"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_tab_name_8",
+  "japanese": "ウィークリー",
+  "english": "ウィークリー"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_tab_name_9",
+  "japanese": "マンスリー",
+  "english": "マンスリー"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_tab_name_10",
+  "japanese": "ジェム",
+  "english": "ジェム"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_1",
+  "japanese": "ちいかわ衣装パック",
+  "english": "ちいかわ衣装パック"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_2",
+  "japanese": "ハチワレ衣装パック",
+  "english": "ハチワレ衣装パック"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "menu_btn_text_terms_of_service",
+  "japanese": "利用規約",
+  "english": "利用規約"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "menu_btn_text_privacy_policy",
+  "japanese": "プライバシーポリシー",
+  "english": "プライバシーポリシー"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "menu_btn_text_license",
+  "japanese": "ライセンス",
+  "english": "ライセンス"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_3",
+  "japanese": "イベントパックA",
+  "english": "イベントパックA"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_4",
+  "japanese": "イベントパックB",
+  "english": "イベントパックB"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_5",
+  "japanese": "イベントパックC",
+  "english": "イベントパックC"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_6",
+  "japanese": "ちいかわクラブ会員権パック",
+  "english": "ちいかわクラブ会員権パック"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_7",
+  "japanese": "リリース記念パック",
+  "english": "リリース記念パック"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_8",
+  "japanese": "広告スキップパック",
+  "english": "広告スキップパック"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_9",
+  "japanese": "初心者パックA",
+  "english": "初心者パックA"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_10",
+  "japanese": "初心者パックB",
+  "english": "初心者パックB"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_11",
+  "japanese": "初心者パックC",
+  "english": "初心者パックC"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_12",
+  "japanese": "初心者パックD",
+  "english": "初心者パックD"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_13",
+  "japanese": "デイリーパックA",
+  "english": "デイリーパックA"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_14",
+  "japanese": "デイリーパックB",
+  "english": "デイリーパックB"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_15",
+  "japanese": "デイリーパックC",
+  "english": "デイリーパックC"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_16",
+  "japanese": "デイリーパックD",
+  "english": "デイリーパックD"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_17",
+  "japanese": "ウィークリーパックA",
+  "english": "ウィークリーパックA"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_18",
+  "japanese": "ウィークリーパックB",
+  "english": "ウィークリーパックB"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_19",
+  "japanese": "ウィークリーパックC",
+  "english": "ウィークリーパックC"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_20",
+  "japanese": "ウィークリーパックD",
+  "english": "ウィークリーパックD"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_21",
+  "japanese": "マンスリーパックA",
+  "english": "マンスリーパックA"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_22",
+  "japanese": "マンスリーパックB",
+  "english": "マンスリーパックB"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_23",
+  "japanese": "マンスリーパックC",
+  "english": "マンスリーパックC"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_24",
+  "japanese": "マンスリーパックD",
+  "english": "マンスリーパックD"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_25",
+  "japanese": "ジェムパックA",
+  "english": "ジェムパックA"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_26",
+  "japanese": "ジェムパックB",
+  "english": "ジェムパックB"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_27",
+  "japanese": "ジェムパックC",
+  "english": "ジェムパックC"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_28",
+  "japanese": "ジェムパックD",
+  "english": "ジェムパックD"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_29",
+  "japanese": "ジェムパックE",
+  "english": "ジェムパックE"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_30",
+  "japanese": "ジェムパックF",
+  "english": "ジェムパックF"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_31",
+  "japanese": "武器/防具ガチャ",
+  "english": "武器/防具ガチャ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_name_32",
+  "japanese": "お助けスキルガチャ",
+  "english": "お助けスキルガチャ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_pack_label_1",
+  "japanese": "NEW!!",
+  "english": "NEW!!"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_pack_label_2",
+  "japanese": "復刻",
+  "english": "復刻"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_remain_count",
+  "japanese": "残り {0}/{1}個",
+  "english": "残り {0}/{1}個"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_remain_time",
+  "japanese": "あと {0}時間",
+  "english": "あと {0}時間"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_law_button_name",
+  "japanese": "特定商取引法\\n資金決済法",
+  "english": "特定商取引法\\n資金決済法"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "shop_item_button_price_off",
+  "japanese": "{0}%\\nOFF",
+  "english": "{0}%\\nOFF"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "purchase_confirm_title",
+  "japanese": "購入確認",
+  "english": "購入確認"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "purchase_confirm_attention_title",
+  "japanese": "注意事項",
+  "english": "注意事項"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "purchase_confirm_attention_description",
+  "japanese": "・ご利用のプラットフォームが定めるお支払い方法に基づきます。\\n・お支払い後はキャンセルされません。",
+  "english": "・ご利用のプラットフォームが定めるお支払い方法に基づきます。\\n・お支払い後はキャンセルされません。"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "purchase_confirm_price",
+  "japanese": "価格",
+  "english": "価格"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "purchase_confirm_price_free",
+  "japanese": "無料",
+  "english": "無料"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "purchase_confirm_purchase",
+  "japanese": "購入する！",
+  "english": "購入する！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "purchase_confirm_get",
+  "japanese": "もらう！",
+  "english": "もらう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "purchase_complete_title",
+  "japanese": "購入確認",
+  "english": "購入確認"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "purchase_complete_description",
+  "japanese": "購入が完了しました！",
+  "english": "購入が完了しました！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "purchase_complete_button",
+  "japanese": "やったー！",
+  "english": "やったー！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "purchase_error_title",
+  "japanese": "購入エラー",
+  "english": "購入エラー"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "purchase_error_rearch_limit",
+  "japanese": "今月の課金上限に達しました。",
+  "english": "今月の課金上限に達しました。"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "purchase_error_falled",
+  "japanese": "購入に失敗しました",
+  "english": "購入に失敗しました"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "purchase_error_rearch_limit_amount",
+  "japanese": "あなたの課金上限",
+  "english": "あなたの課金上限"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "purchase_error_age",
+  "japanese": "{0}歳未満",
+  "english": "{0}歳未満"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "purchase_error_limit_amount_monthly",
+  "japanese": "1ヶ月 {0}円まで",
+  "english": "1ヶ月 {0}円まで"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "data_expired_error_title",
+  "japanese": "データ更新",
+  "english": "データ更新"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "data_expired_error_description",
+  "japanese": "データの更新があります。\\n最新の情報を取得します。",
+  "english": "データの更新があります。\\n最新の情報を取得します。"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "data_expired_error_ok",
+  "japanese": "おっけー！！",
+  "english": "おっけー！！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_attack",
+  "japanese": "攻撃力",
+  "english": "攻撃力"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_attack_speed",
+  "japanese": "攻撃速度",
+  "english": "攻撃速度"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_health",
+  "japanese": "HP",
+  "english": "HP"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_health_recover",
+  "japanese": "HP回復",
+  "english": "HP回復"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_critical_rate",
+  "japanese": "クリティカル率",
+  "english": "クリティカル率"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_critical_damage",
+  "japanese": "クリティカルダメージ",
+  "english": "クリティカルダメージ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_normal_attack_damage_rate",
+  "japanese": "通常攻撃ダメージ倍率",
+  "english": "通常攻撃ダメージ倍率"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_boss_damage_rate",
+  "japanese": "ボスダメージ倍率",
+  "english": "ボスダメージ倍率"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_skill_damage_rate",
+  "japanese": "スキルダメージ倍率",
+  "english": "スキルダメージ倍率"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_unique_skill_cool_time",
+  "japanese": "固有スキルクールタイム",
+  "english": "固有スキルクールタイム"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_assist_skill_cool_time",
+  "japanese": "おたすけスキルクールタイム",
+  "english": "おたすけスキルクールタイム"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_gold_acquire",
+  "japanese": "ゴールド獲得量増加",
+  "english": "ゴールド獲得量増加"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_battle_time_limit",
+  "japanese": "戦闘制限時間増加",
+  "english": "戦闘制限時間増加"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_costume_experience",
+  "japanese": "全ての衣装の獲得経験値量増加",
+  "english": "全ての衣装の獲得経験値量増加"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_weeding_action_stamina_recover_speed",
+  "japanese": "草むしり体力回復速度増加",
+  "english": "草むしり体力回復速度増加"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_weeding_action_max_stamina",
+  "japanese": "草むしり体力の所持限度増加",
+  "english": "草むしり体力の所持限度増加"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_study_resource_acquire",
+  "japanese": "フエラムネ獲得量増加",
+  "english": "フエラムネ獲得量増加"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "status_study_speed",
+  "japanese": "勉強速度増加",
+  "english": "勉強速度増加"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "subhunt_top_popup_title",
+  "japanese": "チャレンジ",
+  "english": "チャレンジ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "subhunt_top_gold_name",
+  "japanese": "採取",
+  "english": "採取"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "subhunt_top_gem_name",
+  "japanese": "危ないやつ討伐",
+  "english": "危ないやつ討伐"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "subhunt_top_lock_name",
+  "japanese": "？？？？？",
+  "english": "？？？？？"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "subhunt_top_challenge_button_text",
+  "japanese": "挑戦する",
+  "english": "挑戦する"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "subhunt_top_auto_charge_text",
+  "japanese": "労働札自動チャージまで",
+  "english": "労働札自動チャージまで"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equipment_none_possession_level",
+  "japanese": "未所持",
+  "english": "未所持"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "equipment_none_possession_gauge",
+  "japanese": "獲得してないよ！",
+  "english": "獲得してないよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_1",
+  "japanese": "ちいかわを強くしよう！",
+  "english": "ちいかわを強くしよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_2",
+  "japanese": "今よりも強いそうびをみにつけよう！",
+  "english": "今よりも強いそうびをみにつけよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_3",
+  "japanese": "そうびをレベルアップしよう！",
+  "english": "そうびをレベルアップしよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_4",
+  "japanese": "お助けスキルをレベルアップしよう！",
+  "english": "お助けスキルをレベルアップしよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_5",
+  "japanese": "おやつの効果を受けると、さらに強くなる！",
+  "english": "おやつの効果を受けると、さらに強くなる！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_6",
+  "japanese": "ショップでそうび、スキルを召喚しよう！",
+  "english": "ショップでそうび、スキルを召喚しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_7",
+  "japanese": "さらに高いむずかしさに挑戦して報酬をもっと獲得しよう！",
+  "english": "さらに高いむずかしさに挑戦して報酬をもっと獲得しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "subhunt_challenge_description_format",
+  "japanese": "{0}して報酬を獲得しよう！",
+  "english": "{0}して報酬を獲得しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "subhunt_challenge_gold_description",
+  "japanese": "採取して報酬を獲得しよう！",
+  "english": "採取して報酬を獲得しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "subhunt_challenge_gem_description",
+  "japanese": "危ないやつを討伐して報酬を獲得しよう！",
+  "english": "危ないやつを討伐して報酬を獲得しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "subhunt_challenge_clear_reward_label",
+  "japanese": "クリア報酬",
+  "english": "クリア報酬"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "subhunt_challenge_auto_hunt_button_text",
+  "japanese": "オート討伐",
+  "english": "オート討伐"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "subhunt_challenge_challenge_button_text",
+  "japanese": "挑戦する",
+  "english": "挑戦する"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "subhunt_challenge_receive_ads_reward_button_text",
+  "japanese": "受け取る",
+  "english": "受け取る"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "subhunt_challenge_difficulty_label",
+  "japanese": "むずかしさ",
+  "english": "むずかしさ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "subhunt_challenge_auto_hunt_disable_attention_text",
+  "japanese": "すでにクリアしている難易度のみ\\nオート討伐できます",
+  "english": "すでにクリアしている難易度のみ\\nオート討伐できます"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_possession",
+  "japanese": "所持",
+  "english": "所持"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_gem_paid",
+  "japanese": "有償",
+  "english": "有償"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_gem_free",
+  "japanese": "無償",
+  "english": "無償"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gem_information_title",
+  "japanese": "所持ジェム確認",
+  "english": "所持ジェム確認"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gem_information_attention",
+  "japanese": "無償ジェムから先に消費されます。",
+  "english": "無償ジェムから先に消費されます。"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gem_information_label_breakdown",
+  "japanese": "内訳",
+  "english": "内訳"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "menu_title",
+  "japanese": "メニュー",
+  "english": "メニュー"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "menu_btn_text_news",
+  "japanese": "お知らせ",
+  "english": "お知らせ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "menu_btn_text_gift",
+  "japanese": "ギフトボックス",
+  "english": "ギフトボックス"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "menu_btn_text_help",
+  "japanese": "ヘルプ",
+  "english": "ヘルプ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "menu_btn_text_support",
+  "japanese": "お問い合わせ",
+  "english": "お問い合わせ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "menu_btn_text_account_link",
+  "japanese": "データ\\n引き継ぎ",
+  "english": "データ引き続き"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "menu_btn_text_account_delete",
+  "japanese": "アカウント\\n削除",
+  "english": "アカウント削除"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "menu_btn_text_setting",
+  "japanese": "設定",
+  "english": "設定"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_title_01",
+  "japanese": "採取した数",
+  "english": "採取した数"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_title_02",
+  "japanese": "倒した危ないやつの数",
+  "english": "倒した危ないやつの数"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_stage_name_01",
+  "japanese": "採取",
+  "english": "採取"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_stage_name_02",
+  "japanese": "危ないやつ討伐",
+  "english": "危ないやつ討伐"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_description_01",
+  "japanese": "夜勤頑張るぞ！\\n採取した胞子を換金して報酬を獲得しよう！",
+  "english": "夜勤頑張るぞ！\\n採取した胞子を換金して報酬を獲得しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_description_02",
+  "japanese": "敵が攻撃してくるぞ！\\n敵を倒して報酬を獲得しよう！",
+  "english": "敵が攻撃してくるぞ！\\n敵を倒して報酬を獲得しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_description_challenge",
+  "japanese": "チャレンジ中",
+  "english": "チャレンジ中"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_stage_run_away",
+  "japanese": "逃げる",
+  "english": "逃げる"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_remain_prefix",
+  "japanese": "あと",
+  "english": "あと"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "mission_disable_receive_notice",
+  "japanese": "ミッションを完了しよう！",
+  "english": "ミッションを完了しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "daily_mission_title",
+  "japanese": "デイリーミッション",
+  "english": "デイリーミッション"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "mission_challenge_button",
+  "japanese": "挑戦する",
+  "english": "挑戦する"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "reward_receive_out_of_term_error",
+  "japanese": "有効期限を過ぎていたため、\\n報酬を受け取れませんでした",
+  "english": "有効期限を過ぎていたため、\\n報酬を受け取れませんでした"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_count_format",
+  "japanese": "x{0}",
+  "english": "x{0}"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_empty",
+  "japanese": "-",
+  "english": "-"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_days_hours_format",
+  "japanese": "{0}日{1:D2}時間",
+  "english": "{0}日{1:D2}時間"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_hours_minutes_format",
+  "japanese": "{0:D2}時間{1:D2}分",
+  "english": "{0:D2}時間{1:D2}分"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_minutes_seconds_format",
+  "japanese": "{0:D2}分{1:D2}秒",
+  "english": "{0:D2}分{1:D2}秒"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_days_format",
+  "japanese": "{0}日",
+  "english": "{0}日"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_hours_format",
+  "japanese": "{0}時間",
+  "english": "{0}時間"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_minutes_format",
+  "japanese": "{0}分",
+  "english": "{0}分"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_seconds_format",
+  "japanese": "{0}秒",
+  "english": "{0}秒"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "study_select_view_studying_text",
+  "japanese": "勉強中だよ",
+  "english": "勉強中だよ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "study_select_view_other_studying_text",
+  "japanese": "別の勉強中だよ",
+  "english": "別の勉強中だよ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "study_title_text",
+  "japanese": "勉強",
+  "english": "勉強"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "study_button_text_study",
+  "japanese": "勉強",
+  "english": "勉強"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "study_button_text_unreleased_study",
+  "japanese": "まだ勉強\\nできないよ！",
+  "english": "まだ勉強\\nできないよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "study_button_text_maximum_level_study",
+  "japanese": "MAX！",
+  "english": "MAX！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "study_button_text_ad_skip",
+  "japanese": "{0}分スキップ",
+  "english": "{0}分スキップ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "study_button_text_ad_skip_count",
+  "japanese": "あと{0}/{1}",
+  "english": "あと{0}/{1}"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "study_button_text_gem_skip",
+  "japanese": "即完了",
+  "english": "即完了"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "study_toast_unreleased_study",
+  "japanese": "手前の勉強を終わらせよう！",
+  "english": "手前の勉強を終わらせよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "study_toast_maximum_level_study",
+  "japanese": "これ以上上げられないよ！",
+  "english": "これ以上上げられないよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "study_popup_ad_skip_message",
+  "japanese": "広告を再生して\\n勉強の時間を{0}分短縮しよう！",
+  "english": "広告を再生して\\n勉強の時間を{0}分短縮しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "study_popup_gem_skip_title",
+  "japanese": "即完了確認",
+  "english": "即完了確認"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "study_popup_gem_skip_message",
+  "japanese": "ジェムを<color=#FF9536>{0}</color>個消費して\\n勉強を完了します\\nよろしいですか？",
+  "english": "ジェムを<color=#FF9536>{0}</color>個消費して\\n勉強を完了します\\nよろしいですか？"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "study_popup_gem_skip_sub_title",
+  "japanese": "注意事項",
+  "english": "注意事項"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "study_popup_gem_skip_sub_message",
+  "japanese": "・ジェムは即時に消費され、消費後はキャンセルできません。\\n・無償ジェムから消費されます。",
+  "english": "・ジェムは即時に消費され、消費後はキャンセルできません。\\n・無償ジェムから消費されます。"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "study_popup_gem_skip_button_ok",
+  "japanese": "おっけー！",
+  "english": "おっけー！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "study_popup_gem_skip_button_cancel",
+  "japanese": "やめる",
+  "english": "やめる"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "collection_book_weapon_001",
+  "japanese": "武器1コレクション名",
+  "english": "武器1コレクション名"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "collection_book_weapon_002",
+  "japanese": "武器2コレクション名",
+  "english": "武器2コレクション名"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "collection_book_weapon_003",
+  "japanese": "武器3コレクション名",
+  "english": "武器3コレクション名"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "collection_book_armor_001",
+  "japanese": "防具1コレクション名",
+  "english": "防具1コレクション名"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "collection_book_armor_002",
+  "japanese": "防具2コレクション名",
+  "english": "防具2コレクション名"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "collection_book_assist_skill_001",
+  "japanese": "スキル1コレクション名",
+  "english": "スキル1コレクション名"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "collection_book_assist_skill_002",
+  "japanese": "スキル2コレクション名",
+  "english": "スキル2コレクション名"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "collection_book_title",
+  "japanese": "コレクション",
+  "english": "コレクション"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "collection_book_weapon",
+  "japanese": "武器",
+  "english": "武器"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "collection_book_armor",
+  "japanese": "防具",
+  "english": "防具"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "collection_book_skill",
+  "japanese": "スキル",
+  "english": "スキル"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "collection_book_condition",
+  "japanese": "強化に必要な{0}",
+  "english": "強化に必要な{0}"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "collection_book_enhance",
+  "japanese": "強化",
+  "english": "強化"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_max_button",
+  "japanese": "MAX",
+  "english": "MAX"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_max_button_toast",
+  "japanese": "これ以上あげられないよ！",
+  "english": "これ以上あげられないよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "collection_book_shortage_toast",
+  "japanese": "素材が足りないってコト！？",
+  "english": "素材が足りないってコト！？"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "resource_item_name_0001",
+  "japanese": "お金",
+  "english": "お金"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "resource_item_name_0002",
+  "japanese": "宝石",
+  "english": "宝石"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "resource_item_name_0011",
+  "japanese": "ちいさいアメ",
+  "english": "ちいさいアメ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "resource_item_name_0012",
+  "japanese": "おおきいアメ",
+  "english": "おおきいアメ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "resource_item_name_0013",
+  "japanese": "特訓Pt",
+  "english": "特訓Pt"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "resource_item_name_0014",
+  "japanese": "猛特訓Pt",
+  "english": "猛特訓Pt"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "resource_item_name_0030",
+  "japanese": "採取の札",
+  "english": "採取の札"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "resource_item_name_0031",
+  "japanese": "危ないやつ討伐の札",
+  "english": "危ないやつ討伐の札"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "resource_item_name_0101",
+  "japanese": "フエラムネ",
+  "english": "フエラムネ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "resource_item_name_0201",
+  "japanese": "料理ポイント",
+  "english": "料理ポイント"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "resource_item_name_0301",
+  "japanese": "草むしり体力",
+  "english": "草むしり体力"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "resource_item_name_0302",
+  "japanese": "うさぎの棒",
+  "english": "うさぎの棒"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "resource_item_name_0303",
+  "japanese": "ハチワレのさすまた",
+  "english": "ハチワレのさすまた"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "common_level_fraction_format",
+  "japanese": "Lv{0}/{1}",
+  "english": "Lv{0}/{1}"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "collection_book_max_level",
+  "japanese": "LvMAX",
+  "english": "LvMAX"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "unlock_format",
+  "japanese": "{0}",
+  "english": "{0}"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "unlock_costume_enhance_progress_any",
+  "japanese": "キャラをレベル{0}に強化しよう！",
+  "english": "キャラをレベル{0}に強化しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "unlock_costume_enhance_progress_costume_id",
+  "japanese": "{0}のレベルが{1}に到達する",
+  "english": "{0}のレベルが{1}に到達する"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "unlock_costume_enhance_progress_character_id",
+  "japanese": "{0}のどれかひとつの衣装のレベルが{1}に到達する",
+  "english": "{0}のどれかひとつの衣装のレベルが{1}に到達する"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "unlock_costume_promotion_progress_any",
+  "japanese": "どれかひとつの衣装の昇格が{0}に到達する",
+  "english": "どれかひとつの衣装の昇格が{0}に到達する"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "unlock_costume_promotion_progress_costume_id",
+  "japanese": "{0}の昇格が{1}に到達する",
+  "english": "{0}の昇格が{1}に到達する"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "unlock_costume_promotion_progress_character_id",
+  "japanese": "{0}のどれかひとつの衣装の昇格が{1}に到達する",
+  "english": "{0}のどれかひとつの衣装の昇格が{1}に到達する"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "unlock_main_hunt_progress",
+  "japanese": "{0}をクリアしよう！",
+  "english": "{0}をクリアしよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "unlock_weeding_progress",
+  "japanese": "草むしりを{0}mまで進めよう！",
+  "english": "草むしりを{0}mまで進めよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gift_box_unreceived",
+  "japanese": "未受け取り",
+  "english": "未受け取り"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gift_box_received",
+  "japanese": "受け取り済み",
+  "english": "受け取り済み"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gift_box_expires_at",
+  "japanese": "有効期限",
+  "english": "有効期限"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gift_box_read_at",
+  "japanese": "受取日時",
+  "english": "受取日時"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gift_box_title",
+  "japanese": "ギフトボックス",
+  "english": "ギフトボックス"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gift_box_all_receve_button",
+  "japanese": "一括受取",
+  "english": "一括受取"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gift_box_empty_unreceived",
+  "japanese": "未受け取りのギフトはありません",
+  "english": "未受け取りのギフトはありません"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gift_box_empty_received",
+  "japanese": "受け取り済みのギフトはありません",
+  "english": "受け取り済みのギフトはありません"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gift_box_disable_all_receive_message",
+  "japanese": "受け取れるギフトはありません",
+  "english": "受け取れるギフトはありません"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gift_box_unreceived_attention",
+  "japanese": "期限が切れたギフトは自動的に削除されます",
+  "english": "期限が切れたギフトは自動的に削除されます"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "gift_box_received_attention",
+  "japanese": "表示期限を過ぎた履歴は自動的に削除されます",
+  "english": "表示期限を過ぎた履歴は自動的に削除されます"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "help_popup_title",
+  "japanese": "ヘルプ",
+  "english": "ヘルプ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "support_popup_title",
+  "japanese": "お問い合わせ",
+  "english": "お問い合わせ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_001",
+  "japanese": "ちいかわを強くしよう！",
+  "english": "ちいかわを強くしよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_002",
+  "japanese": "今よりも強いそうびをみにつけよう！",
+  "english": "今よりも強いそうびをみにつけよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_003",
+  "japanese": "そうびをレベルアップしよう！",
+  "english": "そうびをレベルアップしよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_004",
+  "japanese": "お助けスキルをレベルアップしよう！",
+  "english": "お助けスキルをレベルアップしよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_005",
+  "japanese": "おやつの効果を受けると、さらに強くなる！",
+  "english": "おやつの効果を受けると、さらに強くなる！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_006",
+  "japanese": "ショップでそうび、スキルを召喚しよう！",
+  "english": "ショップでそうび、スキルを召喚しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_007",
+  "japanese": "さらに高いむずかしさに挑戦して報酬をもっと獲得しよう！",
+  "english": "さらに高いむずかしさに挑戦して報酬をもっと獲得しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_008",
+  "japanese": "挑戦する前にむずかしさを調整しよう！",
+  "english": "挑戦する前にむずかしさを調整しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_009",
+  "japanese": "草むしりをして獲得しよう！",
+  "english": "草むしりをして獲得しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_010",
+  "japanese": "毎日自動的に補充されます",
+  "english": "毎日自動的に補充されます"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_011",
+  "japanese": "動画広告を見て報酬をゲット！",
+  "english": "動画広告を見て報酬をゲット！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_012",
+  "japanese": "デイリーミッションをクリアして獲得しよう！",
+  "english": "デイリーミッションをクリアして獲得しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_013",
+  "japanese": "おっきな討伐をクリアして獲得しよう！",
+  "english": "おっきな討伐をクリアして獲得しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_014",
+  "japanese": "危ないやつ討伐をクリアして獲得しよう！",
+  "english": "危ないやつ討伐をクリアして獲得しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_015",
+  "japanese": "ショップで購入できます",
+  "english": "ショップで購入できます"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_016",
+  "japanese": "キャラをレベルアップして獲得しよう！",
+  "english": "キャラをレベルアップして獲得しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_017",
+  "japanese": "解放したキャラをレベルアップして獲得しよう！",
+  "english": "解放したキャラをレベルアップして獲得しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_018",
+  "japanese": "鎧さんの研究をしよう！",
+  "english": "鎧さんの研究をしよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_019",
+  "japanese": "ブースを強化して生産しよう！",
+  "english": "ブースを強化して生産しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "reward_group_item_title_recipe_set",
+  "japanese": "レシピセット",
+  "english": "レシピセット"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "price_symbol_format",
+  "japanese": "¥{0}",
+  "english": "¥{0}"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_title_album",
+  "japanese": "アルバム",
+  "english": "アルバム"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_album_01",
+  "japanese": "キャラを選んで持っている衣装を確認しよう！\\n衣装をタップするとアルバムトップの衣装を変更したり、\\n大きなイラストで衣装を確認できるよ！",
+  "english": "キャラを選んで持っている衣装を確認しよう！\\n衣装をタップするとアルバムトップの衣装を変更したり、\\n大きなイラストで衣装を確認できるよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_album_02",
+  "japanese": "「思い出」では、これまでに獲得した思い出を\\n読み返すことができるよ！",
+  "english": "「思い出」では、これまでに獲得した思い出を\\n読み返すことができるよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_album_03",
+  "japanese": "「アイテム」では、持っているアイテムを確認できるよ！\\n今までに見たイベントもここで何度でも見られるよ！",
+  "english": "「アイテム」では、持っているアイテムを確認できるよ！\\n今までに見たイベントもここで何度でも見られるよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_title_cooking",
+  "japanese": "むちゃうまフェス",
+  "english": "むちゃうまフェス"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_cooking_01",
+  "japanese": "ブースをタップして、料理をするなかまを選ぼう！",
+  "english": "ブースをタップして、料理をするなかまを選ぼう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_cooking_02",
+  "japanese": "料理をすると、「料理ポイント」が生産されるよ！\\n獲得した料理ポイントでそれぞれのブースを強化しよう！",
+  "english": "料理をすると、「料理ポイント」が生産されるよ！\\n獲得した料理ポイントでそれぞれのブースを強化しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_cooking_03",
+  "japanese": "ミッションを達成して「レシピ」を獲得しよう！\\nレシピは鎧さんの研究で「料理」にできるよ！",
+  "english": "ミッションを達成して「レシピ」を獲得しよう！\\nレシピは鎧さんの研究で「料理」にできるよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_cooking_04",
+  "japanese": "集めた料理は「集めた料理一覧」から確認できるよ！\\n料理を強化すると「てもち効果」がパワーアップするよ！",
+  "english": "集めた料理は「集めた料理一覧」から確認できるよ！\\n料理を強化すると「てもち効果」がパワーアップするよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_cooking_05",
+  "japanese": "条件を満たすと「料理検定等級」が上がるよ！\\nブースを強化してどんどん料理を集めよう！",
+  "english": "条件を満たすと「料理検定等級」が上がるよ！\\nブースを強化してどんどん料理を集めよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_title_weeding",
+  "japanese": "草むしり",
+  "english": "草むしり"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_weeding_01",
+  "japanese": "明るい草むらをむしってどんどん進もう！\\n進んでいくとたくさん草が茂っていたり、\\nふしぎなことが起きるかも・・・？",
+  "english": "明るい草むらをむしってどんどん進もう！\\n進んでいくとたくさん草が茂っていたり、\\nふしぎなことが起きるかも・・・？"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_weeding_02",
+  "japanese": "アイテムを使うと、\\nハチワレやうさぎが草むしりを手伝ってくれるよ！",
+  "english": "アイテムを使うと、\\nハチワレやうさぎが草むしりを手伝ってくれるよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_weeding_03",
+  "japanese": "草むしりで見つけた「フエラムネ」は勉強で使えるよ！\\nいっぱい見つけてちいかわを強化しよう！",
+  "english": "草むしりで見つけた「フエラムネ」は勉強で使えるよ！\\nいっぱい見つけてちいかわを強化しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_title_study",
+  "japanese": "勉強",
+  "english": "勉強"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_study_01",
+  "japanese": "「フエラムネ」を使っていっぱい勉強しよう！\\n勉強をすると、ちいかわのステータスを強化できるよ！",
+  "english": "「フエラムネ」を使っていっぱい勉強しよう！\\n勉強をすると、ちいかわのステータスを強化できるよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_study_02",
+  "japanese": "「フエラムネ」は草むしりで見つけられるよ！\\nいっぱい見つけてちいかわを強くしよう！",
+  "english": "「フエラムネ」は草むしりで見つけられるよ！\\nいっぱい見つけてちいかわを強くしよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_title_cosutume_enhance",
+  "japanese": "キャラ強化",
+  "english": "キャラ強化"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_tab_cosutume_enhance",
+  "japanese": "キャラ強化",
+  "english": "キャラ強化"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_tab_costume_promotion",
+  "japanese": "解放",
+  "english": "解放"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_costume_enhance_01",
+  "japanese": "「強化」で、持っているキャラを強化できるよ！\\n強化に必要な「ちいさなアメ」は草むしりで手に入るよ！",
+  "english": "「強化」で、持っているキャラを強化できるよ！\\n強化に必要な「ちいさなアメ」は草むしりで手に入るよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_costume_promotion_01",
+  "japanese": "キャラのレベルが最大になると解放ができるよ！\\n解放には「おおきいアメ」を使うから注意してね！",
+  "english": "キャラのレベルが最大になると解放ができるよ！\\n解放には「おおきいアメ」を使うから注意してね！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_costume_promotion_02",
+  "japanese": "解放ランクを上げるとコスチュームレベルの上限が上がるよ！\\n最大まで解放してLv200を目指そう！",
+  "english": "解放ランクを上げるとコスチュームレベルの上限が上がるよ！\\n最大まで解放してLv200を目指そう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_title_mastery",
+  "japanese": "特訓",
+  "english": "特訓"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_tab_mastery",
+  "japanese": "特訓",
+  "english": "特訓"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_tab_mastery_promotion",
+  "japanese": "猛特訓",
+  "english": "猛特訓"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_mastery_01",
+  "japanese": "特訓で討伐をしているみんなのステータスを強化しよう！",
+  "english": "特訓で討伐をしているみんなのステータスを強化しよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_mastery_02",
+  "japanese": "特訓Ptはキャラクターを強化すると手に入るよ！\\nたくさん特訓をして、いっぱい討伐対象を倒そう！",
+  "english": "特訓Ptはキャラクターを強化すると手に入るよ！\\nたくさん特訓をして、いっぱい討伐対象を倒そう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_mastery_promotion_01",
+  "japanese": "猛特訓でもっとみんなのステータスを強化しよう！\\n猛特訓Ptは解放したキャラクターを強化することで\\n手に入れることができるよ！",
+  "english": "猛特訓でもっとみんなのステータスを強化しよう！\\n猛特訓Ptは解放したキャラクターを強化することで\\n手に入れることができるよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_title_sub_hunt",
+  "japanese": "チャレンジ",
+  "english": "チャレンジ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_tab_sub_hunt_gem",
+  "japanese": "危ないヤツ",
+  "english": "危ないヤツ"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_tab_sub_hunt_gold",
+  "japanese": "キノコ採取",
+  "english": "キノコ採取"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_sub_hunt_gem_01",
+  "japanese": "チャレンジに挑戦するには「労働札」が必要だよ！\\nチャージの時間を確認してたくさん危ないやつを倒そう！\\nクリアできない時はステージを調整してみてね！",
+  "english": "チャレンジに挑戦するには「労働札」が必要だよ！\\nチャージの時間を確認してたくさん危ないやつを倒そう！\\nクリアできない時はステージを調整してみてね！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_sub_hunt_gem_02",
+  "japanese": "「危ないヤツ討伐」では討伐対象が連続で出現するよ！\\n最後まで倒せたら報酬がもらえるよ！\\nたくさん討伐して報酬を手に入れよう！",
+  "english": "「危ないヤツ討伐」では討伐対象が連続で出現するよ！\\n最後まで倒せたら報酬がもらえるよ！\\nたくさん討伐して報酬を手に入れよう！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_popup_description_sub_hunt_gold_01",
+  "japanese": "夜の採取でキノコの胞子を集めよう！\\n制限時間内に集められたら、報酬がもらえるよ！",
+  "english": "夜の採取でキノコの胞子を集めよう！\\n制限時間内に集められたら、報酬がもらえるよ！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "guide_subhunt_top_popup_button_hint",
+  "japanese": "ヒント",
+  "english": "ヒント"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "improvement_proposal_transition",
+  "japanese": "見に行く",
+  "english": "見に行く"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "season_pass_title",
+  "japanese": "シーズンパスタイトル",
+  "english": "シーズンパスタイトル"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "title_top_id",
+  "japanese": "ID:",
+  "english": "ID:"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "title_top_version",
+  "japanese": "Version:",
+  "english": "Version:"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "title_top_tap_to_start",
+  "japanese": "タップして会いに行く！",
+  "english": "タップして会いに行く！"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "title_top_tap_to_show_id",
+  "japanese": "ここをタップして表示",
+  "english": "ここをタップして表示"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "title_top_copyright_01",
+  "japanese": "@Hogehoge.",
+  "english": "@Hogehoge."
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "title_top_copyright_02",
+  "japanese": "@Hogehoge.",
+  "english": "@Hogehoge."
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "season_pass_tab_reward",
+  "japanese": "パス報酬",
+  "english": "パス報酬"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "season_pass_tab_mission",
+  "japanese": "パスミッション",
+  "english": "パスミッション"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "season_pass_button_purchase",
+  "japanese": "プレミアムパス\\n購入",
+  "english": "プレミアムパス\\n購入"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "season_pass_reward_premium",
+  "japanese": "プレミアム",
+  "english": "プレミアム"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "season_pass_reward_normal",
+  "japanese": "ふつう",
+  "english": "ふつう"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "season_pass_reward_pick_up",
+  "japanese": "PICK UP!",
+  "english": "PICK UP!"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_001",
+  "japanese": "スフィンクス",
+  "english": "スフィンクス_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_002",
+  "japanese": "流れ星",
+  "english": "流れ星_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_003",
+  "japanese": "労働の鎧さん",
+  "english": "労働の鎧さん_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_004",
+  "japanese": "たい焼き",
+  "english": "たい焼き_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_005",
+  "japanese": "マンボウ",
+  "english": "マンボウ_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_006",
+  "japanese": "ポシェットの鎧さん",
+  "english": "ポシェットの鎧さん_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_007",
+  "japanese": "かぶとむし",
+  "english": "かぶとむし_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_008",
+  "japanese": "くるま",
+  "english": "くるま_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_009",
+  "japanese": "グレーの子",
+  "english": "グレーの子_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_010",
+  "japanese": "おめんキメラ",
+  "english": "おめんキメラ_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_011",
+  "japanese": "郎の鎧さん",
+  "english": "郎の鎧さん_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_012",
+  "japanese": "けん玉おじさん",
+  "english": "けん玉おじさん_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_013",
+  "japanese": "草むしりの鎧さん",
+  "english": "草むしりの鎧さん_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_014",
+  "japanese": "パジャマパーティーズ",
+  "english": "パジャマパーティーズ_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_015",
+  "japanese": "三ツ星",
+  "english": "三ツ星_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_016",
+  "japanese": "偉い鎧さん",
+  "english": "偉い鎧さん_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_017",
+  "japanese": "でかつよ",
+  "english": "でかつよ_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_018",
+  "japanese": "オデ",
+  "english": "オデ_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_019",
+  "japanese": "むちゃうマン",
+  "english": "むちゃうマン_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_020",
+  "japanese": "上位ランカー(金棒)",
+  "english": "上位ランカー(金棒)_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "assist_skill_021",
+  "japanese": "上位ランカー(ハンマー)",
+  "english": "上位ランカー(ハンマー)_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_difficulty_001",
+  "japanese": "むちゃかんたん",
+  "english": "むちゃかんたん_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_difficulty_002",
+  "japanese": "かんたん",
+  "english": "かんたん_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_difficulty_003",
+  "japanese": "ちょいかんたん",
+  "english": "ちょいかんたん_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_difficulty_004",
+  "japanese": "ふつう",
+  "english": "ふつう_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_difficulty_005",
+  "japanese": "ちょいむず",
+  "english": "ちょいむず_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_difficulty_006",
+  "japanese": "むずかしい",
+  "english": "むずかしい_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_difficulty_007",
+  "japanese": "むちゃむず",
+  "english": "むちゃむず_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_difficulty_008",
+  "japanese": "ちょいおに",
+  "english": "ちょいおに_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_difficulty_009",
+  "japanese": "おに",
+  "english": "おに_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "hunt_difficulty_010",
+  "japanese": "むちゃおに",
+  "english": "むちゃおに_(en)"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "weapon_detail_popup_title",
+  "japanese": "武器詳細",
+  "english": "武器詳細"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "armor_detail_popup_title",
+  "japanese": "防具詳細",
+  "english": "防具詳細"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "charactor_detail_popup_title",
+  "japanese": "キャラクター詳細",
+  "english": "キャラクター詳細"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "item_detail_popup_title",
+  "japanese": "アイテム詳細",
+  "english": "アイテム詳細"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "memory_detail_popup_title",
+  "japanese": "思い出詳細",
+  "english": "思い出詳細"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "profile_card_detail_popup_title",
+  "japanese": "プロフカード詳細",
+  "english": "プロフカード詳細"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "stamp_detail_popup_title",
+  "japanese": "スタンプ詳細",
+  "english": "スタンプ詳細"
+ },
+ {
+  "version": "250330.1.0",
+  "textKey": "cooking_research_detail_popup_title",
+  "japanese": "レシピ詳細",
+  "english": "レシピ詳細"
+ }
+]

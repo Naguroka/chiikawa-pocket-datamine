@@ -1,0 +1,266 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "groupId": 1,
+  "unlockStep": 0,
+  "consumeId": 0,
+  "consumeAlternativeId": 0
+ },
+ {
+  "version": "260110.1.0",
+  "id": 2,
+  "groupId": 1,
+  "unlockStep": 1,
+  "consumeId": 2001,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260110.1.0",
+  "id": 3,
+  "groupId": 1,
+  "unlockStep": 2,
+  "consumeId": 2002,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260110.1.0",
+  "id": 4,
+  "groupId": 1,
+  "unlockStep": 3,
+  "consumeId": 2003,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260110.1.0",
+  "id": 5,
+  "groupId": 1,
+  "unlockStep": 4,
+  "consumeId": 2004,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260110.1.0",
+  "id": 6,
+  "groupId": 1,
+  "unlockStep": 5,
+  "consumeId": 2005,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260430.1.0",
+  "id": 106,
+  "groupId": 1,
+  "unlockStep": 6,
+  "consumeId": 2005,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260430.1.0",
+  "id": 107,
+  "groupId": 1,
+  "unlockStep": 7,
+  "consumeId": 2005,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260430.1.0",
+  "id": 108,
+  "groupId": 1,
+  "unlockStep": 8,
+  "consumeId": 2005,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260430.1.0",
+  "id": 109,
+  "groupId": 1,
+  "unlockStep": 9,
+  "consumeId": 2005,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260430.1.0",
+  "id": 110,
+  "groupId": 1,
+  "unlockStep": 10,
+  "consumeId": 2005,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "250330.1.0",
+  "id": 7,
+  "groupId": 2,
+  "unlockStep": 0,
+  "consumeId": 0,
+  "consumeAlternativeId": 0
+ },
+ {
+  "version": "260110.1.0",
+  "id": 8,
+  "groupId": 2,
+  "unlockStep": 1,
+  "consumeId": 2006,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260110.1.0",
+  "id": 9,
+  "groupId": 2,
+  "unlockStep": 2,
+  "consumeId": 2007,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260110.1.0",
+  "id": 10,
+  "groupId": 2,
+  "unlockStep": 3,
+  "consumeId": 2008,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260110.1.0",
+  "id": 11,
+  "groupId": 2,
+  "unlockStep": 4,
+  "consumeId": 2009,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260110.1.0",
+  "id": 12,
+  "groupId": 2,
+  "unlockStep": 5,
+  "consumeId": 2010,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260430.1.0",
+  "id": 206,
+  "groupId": 2,
+  "unlockStep": 6,
+  "consumeId": 2010,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260430.1.0",
+  "id": 207,
+  "groupId": 2,
+  "unlockStep": 7,
+  "consumeId": 2014,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260430.1.0",
+  "id": 208,
+  "groupId": 2,
+  "unlockStep": 8,
+  "consumeId": 2014,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260430.1.0",
+  "id": 209,
+  "groupId": 2,
+  "unlockStep": 9,
+  "consumeId": 2015,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260430.1.0",
+  "id": 210,
+  "groupId": 2,
+  "unlockStep": 10,
+  "consumeId": 2015,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "250330.1.0",
+  "id": 13,
+  "groupId": 3,
+  "unlockStep": 0,
+  "consumeId": 0,
+  "consumeAlternativeId": 0
+ },
+ {
+  "version": "260110.1.0",
+  "id": 14,
+  "groupId": 3,
+  "unlockStep": 1,
+  "consumeId": 2011,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260110.1.0",
+  "id": 15,
+  "groupId": 3,
+  "unlockStep": 2,
+  "consumeId": 2012,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260110.1.0",
+  "id": 16,
+  "groupId": 3,
+  "unlockStep": 3,
+  "consumeId": 2013,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260110.1.0",
+  "id": 17,
+  "groupId": 3,
+  "unlockStep": 4,
+  "consumeId": 2014,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260110.1.0",
+  "id": 18,
+  "groupId": 3,
+  "unlockStep": 5,
+  "consumeId": 2015,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260430.1.0",
+  "id": 306,
+  "groupId": 3,
+  "unlockStep": 6,
+  "consumeId": 2016,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260430.1.0",
+  "id": 307,
+  "groupId": 3,
+  "unlockStep": 7,
+  "consumeId": 2017,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260430.1.0",
+  "id": 308,
+  "groupId": 3,
+  "unlockStep": 8,
+  "consumeId": 2018,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260430.1.0",
+  "id": 309,
+  "groupId": 3,
+  "unlockStep": 9,
+  "consumeId": 2019,
+  "consumeAlternativeId": 1215
+ },
+ {
+  "version": "260430.1.0",
+  "id": 310,
+  "groupId": 3,
+  "unlockStep": 10,
+  "consumeId": 2020,
+  "consumeAlternativeId": 1215
+ }
+]

@@ -1,0 +1,303 @@
+[
+ {
+  "version": "251010.1.0",
+  "id": 10150601,
+  "nameTextKey": 612785069,
+  "descriptionTextKey": 131905063,
+  "eventContentArtBookId": 101506,
+  "assetId": 1001,
+  "order": 1,
+  "contentLockId": 0,
+  "experienceGroupId": 1000,
+  "enhanceConsumeIdPerExperience": 17015,
+  "completedAddCustomPossessionEffectIds": [],
+  "completedMultiplyCustomPossessionEffectIds": [
+   101506011,
+   101506012
+  ],
+  "missionId": 0
+ },
+ {
+  "version": "251010.1.0",
+  "id": 10150602,
+  "nameTextKey": -1114699241,
+  "descriptionTextKey": -1630148707,
+  "eventContentArtBookId": 101506,
+  "assetId": 1002,
+  "order": 2,
+  "contentLockId": 0,
+  "experienceGroupId": 1001,
+  "enhanceConsumeIdPerExperience": 17015,
+  "completedAddCustomPossessionEffectIds": [],
+  "completedMultiplyCustomPossessionEffectIds": [
+   101506021
+  ],
+  "missionId": 0
+ },
+ {
+  "version": "251010.1.0",
+  "id": 10150603,
+  "nameTextKey": -897041791,
+  "descriptionTextKey": -372058357,
+  "eventContentArtBookId": 101506,
+  "assetId": 1003,
+  "order": 3,
+  "contentLockId": 72,
+  "experienceGroupId": 1002,
+  "enhanceConsumeIdPerExperience": 17015,
+  "completedAddCustomPossessionEffectIds": [],
+  "completedMultiplyCustomPossessionEffectIds": [
+   101506031
+  ],
+  "missionId": 0
+ },
+ {
+  "version": "251010.1.0",
+  "id": 10150604,
+  "nameTextKey": 1424797474,
+  "descriptionTextKey": 2008433320,
+  "eventContentArtBookId": 101506,
+  "assetId": 1004,
+  "order": 4,
+  "contentLockId": 72,
+  "experienceGroupId": 1003,
+  "enhanceConsumeIdPerExperience": 17015,
+  "completedAddCustomPossessionEffectIds": [],
+  "completedMultiplyCustomPossessionEffectIds": [
+   101506041
+  ],
+  "missionId": 0
+ },
+ {
+  "version": "251030.1.0",
+  "id": 10170601,
+  "nameTextKey": -601378959,
+  "descriptionTextKey": 2099045703,
+  "eventContentArtBookId": 101706,
+  "assetId": 2001,
+  "order": 1,
+  "contentLockId": 0,
+  "experienceGroupId": 1004,
+  "enhanceConsumeIdPerExperience": 17017,
+  "completedAddCustomPossessionEffectIds": [],
+  "completedMultiplyCustomPossessionEffectIds": [
+   101706011,
+   101706012
+  ],
+  "missionId": 0
+ },
+ {
+  "version": "251210.1.0",
+  "id": 10190601,
+  "nameTextKey": -692485509,
+  "descriptionTextKey": -1037280474,
+  "eventContentArtBookId": 101906,
+  "assetId": 3001,
+  "order": 1,
+  "contentLockId": 0,
+  "experienceGroupId": 1004,
+  "enhanceConsumeIdPerExperience": 17019,
+  "completedAddCustomPossessionEffectIds": [],
+  "completedMultiplyCustomPossessionEffectIds": [
+   101906011,
+   101906012
+  ],
+  "missionId": 0
+ },
+ {
+  "version": "260110.1.0",
+  "id": 10210601,
+  "nameTextKey": 1469222851,
+  "descriptionTextKey": 1959289417,
+  "eventContentArtBookId": 102106,
+  "assetId": 4001,
+  "order": 1,
+  "contentLockId": 0,
+  "experienceGroupId": 1005,
+  "enhanceConsumeIdPerExperience": 17021,
+  "completedAddCustomPossessionEffectIds": [],
+  "completedMultiplyCustomPossessionEffectIds": [
+   102106011,
+   102106012
+  ],
+  "missionId": 0
+ },
+ {
+  "version": "260110.1.0",
+  "id": 10210602,
+  "nameTextKey": -828645767,
+  "descriptionTextKey": -306105357,
+  "eventContentArtBookId": 102106,
+  "assetId": 4002,
+  "order": 2,
+  "contentLockId": 74,
+  "experienceGroupId": 1003,
+  "enhanceConsumeIdPerExperience": 17021,
+  "completedAddCustomPossessionEffectIds": [],
+  "completedMultiplyCustomPossessionEffectIds": [
+   102106021
+  ],
+  "missionId": 0
+ },
+ {
+  "version": "260210.1.0",
+  "id": 10220601,
+  "nameTextKey": -933641612,
+  "descriptionTextKey": 862460057,
+  "eventContentArtBookId": 102206,
+  "assetId": 5001,
+  "order": 1,
+  "contentLockId": 0,
+  "experienceGroupId": 1004,
+  "enhanceConsumeIdPerExperience": 17022,
+  "completedAddCustomPossessionEffectIds": [],
+  "completedMultiplyCustomPossessionEffectIds": [
+   102206011,
+   102206012
+  ],
+  "missionId": 0
+ },
+ {
+  "version": "260310.1.0",
+  "id": 10240601,
+  "nameTextKey": -858472762,
+  "descriptionTextKey": -1138168519,
+  "eventContentArtBookId": 102406,
+  "assetId": 6001,
+  "order": 1,
+  "contentLockId": 0,
+  "experienceGroupId": 1004,
+  "enhanceConsumeIdPerExperience": 17024,
+  "completedAddCustomPossessionEffectIds": [],
+  "completedMultiplyCustomPossessionEffectIds": [
+   102406011,
+   102406012
+  ],
+  "missionId": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 10260601,
+  "nameTextKey": -441297965,
+  "descriptionTextKey": -957825447,
+  "eventContentArtBookId": 102606,
+  "assetId": 7001,
+  "order": 1,
+  "contentLockId": 0,
+  "experienceGroupId": 1003,
+  "enhanceConsumeIdPerExperience": 17026,
+  "completedAddCustomPossessionEffectIds": [],
+  "completedMultiplyCustomPossessionEffectIds": [
+   102606011,
+   102606012
+  ],
+  "missionId": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 10260602,
+  "nameTextKey": 2092630633,
+  "descriptionTextKey": 1608642531,
+  "eventContentArtBookId": 102606,
+  "assetId": 7002,
+  "order": 2,
+  "contentLockId": 76,
+  "experienceGroupId": 1003,
+  "enhanceConsumeIdPerExperience": 17026,
+  "completedAddCustomPossessionEffectIds": [],
+  "completedMultiplyCustomPossessionEffectIds": [
+   102606013
+  ],
+  "missionId": 0
+ },
+ {
+  "version": "260510.1.0",
+  "id": 10270601,
+  "nameTextKey": -829292385,
+  "descriptionTextKey": -74934295,
+  "eventContentArtBookId": 102706,
+  "assetId": 8001,
+  "order": 1,
+  "contentLockId": 0,
+  "experienceGroupId": 1004,
+  "enhanceConsumeIdPerExperience": 17027,
+  "completedAddCustomPossessionEffectIds": [],
+  "completedMultiplyCustomPossessionEffectIds": [
+   102706011,
+   102706012
+  ],
+  "missionId": 0
+ },
+ {
+  "version": "260610.1.0",
+  "id": 10280601,
+  "nameTextKey": -976336990,
+  "descriptionTextKey": 2044198968,
+  "eventContentArtBookId": 102806,
+  "assetId": 9001,
+  "order": 1,
+  "contentLockId": 0,
+  "experienceGroupId": 1004,
+  "enhanceConsumeIdPerExperience": 17028,
+  "completedAddCustomPossessionEffectIds": [],
+  "completedMultiplyCustomPossessionEffectIds": [
+   102806011,
+   102806012
+  ],
+  "missionId": 0
+ },
+ {
+  "version": "260710.1.0",
+  "id": 10290601,
+  "nameTextKey": -1005834859,
+  "descriptionTextKey": 1152919944,
+  "eventContentArtBookId": 102906,
+  "assetId": 10001,
+  "order": 1,
+  "contentLockId": 0,
+  "experienceGroupId": 1004,
+  "enhanceConsumeIdPerExperience": 17029,
+  "completedAddCustomPossessionEffectIds": [],
+  "completedMultiplyCustomPossessionEffectIds": [
+   102906011,
+   102906012
+  ],
+  "missionId": 0
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10300601,
+  "nameTextKey": 1935765887,
+  "descriptionTextKey": -2097899428,
+  "eventContentArtBookId": 103006,
+  "assetId": 11001,
+  "order": 1,
+  "contentLockId": 0,
+  "experienceGroupId": 1006,
+  "enhanceConsumeIdPerExperience": 17030,
+  "completedAddCustomPossessionEffectIds": [],
+  "completedMultiplyCustomPossessionEffectIds": [
+   103006011,
+   103006012
+  ],
+  "missionId": 0
+ },
+ {
+  "version": "260910.1.0",
+  "id": 10310601,
+  "nameTextKey": 1923291976,
+  "descriptionTextKey": -1080774164,
+  "eventContentArtBookId": 103106,
+  "assetId": 12001,
+  "order": 1,
+  "contentLockId": 0,
+  "experienceGroupId": 1004,
+  "enhanceConsumeIdPerExperience": 17031,
+  "completedAddCustomPossessionEffectIds": [],
+  "completedMultiplyCustomPossessionEffectIds": [
+   103106011,
+   103106012
+  ],
+  "missionId": 0
+ }
+]

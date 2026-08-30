@@ -1,0 +1,30 @@
+[
+ {
+  "version": "250850.1.0",
+  "id": 1,
+  "number": 1,
+  "isOther": false,
+  "rate": 400
+ },
+ {
+  "version": "250850.1.0",
+  "id": 2,
+  "number": 2,
+  "isOther": false,
+  "rate": 400
+ },
+ {
+  "version": "250850.1.0",
+  "id": 3,
+  "number": 3,
+  "isOther": false,
+  "rate": 400
+ },
+ {
+  "version": "250850.1.0",
+  "id": 4,
+  "number": 4,
+  "isOther": true,
+  "rate": 1000
+ }
+]

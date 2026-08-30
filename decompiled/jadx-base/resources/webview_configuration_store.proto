@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package com.unity3d.ads.datastore;
+
+message WebViewConfigurationStore {
+    // The version of the WebView
+    int32 version = 1;
+    // The URL of the WebView entry point
+    string entry_point = 2;
+    // Additional files required by the WebView
+    repeated string additional_files = 3;
+}

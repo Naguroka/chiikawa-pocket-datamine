@@ -1,0 +1,274 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "consumeGroupId": 9,
+  "dailyRecoveryUnitRewardGroupId": 9,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "consumeGroupId": 8,
+  "dailyRecoveryUnitRewardGroupId": 8,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "250350.1.0",
+  "id": 3,
+  "consumeGroupId": 14001,
+  "dailyRecoveryUnitRewardGroupId": 200000001,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "250410.1.0",
+  "id": 4,
+  "consumeGroupId": 14002,
+  "dailyRecoveryUnitRewardGroupId": 200000002,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "250440.1.0",
+  "id": 5,
+  "consumeGroupId": 14003,
+  "dailyRecoveryUnitRewardGroupId": 200000003,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "250450.1.0",
+  "id": 6,
+  "consumeGroupId": 14004,
+  "dailyRecoveryUnitRewardGroupId": 200000004,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "250530.1.0",
+  "id": 7,
+  "consumeGroupId": 14005,
+  "dailyRecoveryUnitRewardGroupId": 200000005,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "250550.1.0",
+  "id": 8,
+  "consumeGroupId": 14006,
+  "dailyRecoveryUnitRewardGroupId": 200000006,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "250610.1.0",
+  "id": 9,
+  "consumeGroupId": 14007,
+  "dailyRecoveryUnitRewardGroupId": 200000007,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "250630.1.0",
+  "id": 10,
+  "consumeGroupId": 14008,
+  "dailyRecoveryUnitRewardGroupId": 200000008,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "250710.1.0",
+  "id": 11,
+  "consumeGroupId": 14009,
+  "dailyRecoveryUnitRewardGroupId": 200000009,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "250730.1.0",
+  "id": 12,
+  "consumeGroupId": 14010,
+  "dailyRecoveryUnitRewardGroupId": 200000010,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "250725.1.0",
+  "id": 13,
+  "consumeGroupId": 26,
+  "dailyRecoveryUnitRewardGroupId": 118,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "250810.1.0",
+  "id": 1011,
+  "consumeGroupId": 14011,
+  "dailyRecoveryUnitRewardGroupId": 200000011,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "250820.1.0",
+  "id": 1012,
+  "consumeGroupId": 14012,
+  "dailyRecoveryUnitRewardGroupId": 200000012,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "250910.1.0",
+  "id": 1013,
+  "consumeGroupId": 14013,
+  "dailyRecoveryUnitRewardGroupId": 200000013,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "250930.1.0",
+  "id": 1014,
+  "consumeGroupId": 14014,
+  "dailyRecoveryUnitRewardGroupId": 200000014,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "251010.1.0",
+  "id": 1015,
+  "consumeGroupId": 14015,
+  "dailyRecoveryUnitRewardGroupId": 200000015,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "251030.1.0",
+  "id": 1017,
+  "consumeGroupId": 14017,
+  "dailyRecoveryUnitRewardGroupId": 200000017,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "251110.1.0",
+  "id": 1018,
+  "consumeGroupId": 14018,
+  "dailyRecoveryUnitRewardGroupId": 200000018,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "251210.1.0",
+  "id": 1019,
+  "consumeGroupId": 14019,
+  "dailyRecoveryUnitRewardGroupId": 200000019,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "251230.1.0",
+  "id": 1020,
+  "consumeGroupId": 14020,
+  "dailyRecoveryUnitRewardGroupId": 200000020,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "260110.1.0",
+  "id": 1021,
+  "consumeGroupId": 14021,
+  "dailyRecoveryUnitRewardGroupId": 200000021,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "260210.1.0",
+  "id": 1022,
+  "consumeGroupId": 14022,
+  "dailyRecoveryUnitRewardGroupId": 200000022,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "260230.1.0",
+  "id": 1023,
+  "consumeGroupId": 14023,
+  "dailyRecoveryUnitRewardGroupId": 200000023,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "260310.1.0",
+  "id": 1024,
+  "consumeGroupId": 14024,
+  "dailyRecoveryUnitRewardGroupId": 200000024,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "260330.1.0",
+  "id": 1025,
+  "consumeGroupId": 14025,
+  "dailyRecoveryUnitRewardGroupId": 200000025,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "260410.1.0",
+  "id": 14,
+  "consumeGroupId": 29,
+  "dailyRecoveryUnitRewardGroupId": 119,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "260410.1.0",
+  "id": 1026,
+  "consumeGroupId": 14026,
+  "dailyRecoveryUnitRewardGroupId": 200000026,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "260510.1.0",
+  "id": 1027,
+  "consumeGroupId": 14027,
+  "dailyRecoveryUnitRewardGroupId": 200000027,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "260610.1.0",
+  "id": 1028,
+  "consumeGroupId": 14028,
+  "dailyRecoveryUnitRewardGroupId": 200000028,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "260710.1.0",
+  "id": 1029,
+  "consumeGroupId": 14029,
+  "dailyRecoveryUnitRewardGroupId": 200000029,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "260810.1.0",
+  "id": 1030,
+  "consumeGroupId": 14030,
+  "dailyRecoveryUnitRewardGroupId": 200000030,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "260910.1.0",
+  "id": 1031,
+  "consumeGroupId": 14031,
+  "dailyRecoveryUnitRewardGroupId": 200000031,
+  "dailyRecoveryCount": 2,
+  "dailyRecoveryHourJst": 15
+ }
+]

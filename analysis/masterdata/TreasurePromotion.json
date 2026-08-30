@@ -1,0 +1,102 @@
+[
+ {
+  "version": "260110.1.0",
+  "id": 11,
+  "groupId": 1,
+  "startLevel": 100,
+  "endLevel": 120,
+  "consumeId": 3101,
+  "promotionCount": 1,
+  "consumeAlternativeId": 1216
+ },
+ {
+  "version": "260110.1.0",
+  "id": 12,
+  "groupId": 1,
+  "startLevel": 120,
+  "endLevel": 140,
+  "consumeId": 3102,
+  "promotionCount": 2,
+  "consumeAlternativeId": 1216
+ },
+ {
+  "version": "260110.1.0",
+  "id": 13,
+  "groupId": 1,
+  "startLevel": 140,
+  "endLevel": 160,
+  "consumeId": 3103,
+  "promotionCount": 3,
+  "consumeAlternativeId": 1216
+ },
+ {
+  "version": "260110.1.0",
+  "id": 14,
+  "groupId": 1,
+  "startLevel": 160,
+  "endLevel": 180,
+  "consumeId": 3104,
+  "promotionCount": 4,
+  "consumeAlternativeId": 1216
+ },
+ {
+  "version": "260110.1.0",
+  "id": 15,
+  "groupId": 1,
+  "startLevel": 180,
+  "endLevel": 200,
+  "consumeId": 3105,
+  "promotionCount": 5,
+  "consumeAlternativeId": 1216
+ },
+ {
+  "version": "260310.1.0",
+  "id": 16,
+  "groupId": 1,
+  "startLevel": 200,
+  "endLevel": 220,
+  "consumeId": 3106,
+  "promotionCount": 6,
+  "consumeAlternativeId": 1216
+ },
+ {
+  "version": "260310.1.0",
+  "id": 17,
+  "groupId": 1,
+  "startLevel": 220,
+  "endLevel": 240,
+  "consumeId": 3107,
+  "promotionCount": 7,
+  "consumeAlternativeId": 1216
+ },
+ {
+  "version": "260310.1.0",
+  "id": 18,
+  "groupId": 1,
+  "startLevel": 240,
+  "endLevel": 260,
+  "consumeId": 3108,
+  "promotionCount": 8,
+  "consumeAlternativeId": 1216
+ },
+ {
+  "version": "260310.1.0",
+  "id": 19,
+  "groupId": 1,
+  "startLevel": 260,
+  "endLevel": 280,
+  "consumeId": 3109,
+  "promotionCount": 9,
+  "consumeAlternativeId": 1216
+ },
+ {
+  "version": "260310.1.0",
+  "id": 20,
+  "groupId": 1,
+  "startLevel": 280,
+  "endLevel": 300,
+  "consumeId": 3110,
+  "promotionCount": 10,
+  "consumeAlternativeId": 1216
+ }
+]

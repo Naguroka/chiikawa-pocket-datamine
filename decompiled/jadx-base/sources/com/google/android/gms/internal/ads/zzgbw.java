@@ -1,0 +1,13 @@
+package com.google.android.gms.internal.ads;
+
+/* JADX INFO: compiled from: com.google.android.gms:play-services-ads-lite@@23.6.0 */
+/* JADX INFO: loaded from: classes4.dex */
+public final class zzgbw extends java.lang.Error {
+    @java.lang.Deprecated
+    protected zzgbw() {
+    }
+
+    public zzgbw(@javax.annotation.CheckForNull java.lang.Error error) {
+        super(error);
+    }
+}

@@ -1,0 +1,440 @@
+[
+ {
+  "version": "250720.1.0",
+  "id": 1001,
+  "groupId": 1,
+  "nameLabelTextKey": -331537883,
+  "assetId": 1001,
+  "possessionEffectIds": [
+   101,
+   102
+  ],
+  "equipEffectIds": [
+   111
+  ],
+  "treasureExperienceId": 1,
+  "consumeId": 3001,
+  "rarity": "UltraRare",
+  "orderNo": 1,
+  "rewardRelationId": 90001001
+ },
+ {
+  "version": "250720.1.0",
+  "id": 1002,
+  "groupId": 1,
+  "nameLabelTextKey": 1966371743,
+  "assetId": 1002,
+  "possessionEffectIds": [
+   101,
+   102
+  ],
+  "equipEffectIds": [
+   121
+  ],
+  "treasureExperienceId": 1,
+  "consumeId": 3001,
+  "rarity": "UltraRare",
+  "orderNo": 2,
+  "rewardRelationId": 90001002
+ },
+ {
+  "version": "250720.1.0",
+  "id": 1003,
+  "groupId": 1,
+  "nameLabelTextKey": 36913929,
+  "assetId": 1003,
+  "possessionEffectIds": [
+   101,
+   102
+  ],
+  "equipEffectIds": [
+   131
+  ],
+  "treasureExperienceId": 1,
+  "consumeId": 3001,
+  "rarity": "UltraRare",
+  "orderNo": 3,
+  "rewardRelationId": 90001003
+ },
+ {
+  "version": "250720.1.0",
+  "id": 1004,
+  "groupId": 1,
+  "nameLabelTextKey": -1671965014,
+  "assetId": 1005,
+  "possessionEffectIds": [
+   101,
+   102
+  ],
+  "equipEffectIds": [
+   141
+  ],
+  "treasureExperienceId": 1,
+  "consumeId": 3001,
+  "rarity": "UltraRare",
+  "orderNo": 4,
+  "rewardRelationId": 90001004
+ },
+ {
+  "version": "250720.1.0",
+  "id": 1005,
+  "groupId": 1,
+  "nameLabelTextKey": -347019716,
+  "assetId": 1004,
+  "possessionEffectIds": [
+   101,
+   102
+  ],
+  "equipEffectIds": [
+   151
+  ],
+  "treasureExperienceId": 1,
+  "consumeId": 3001,
+  "rarity": "UltraRare",
+  "orderNo": 5,
+  "rewardRelationId": 90001005
+ },
+ {
+  "version": "250720.1.0",
+  "id": 1006,
+  "groupId": 1,
+  "nameLabelTextKey": 1918482310,
+  "assetId": 1006,
+  "possessionEffectIds": [
+   101,
+   102
+  ],
+  "equipEffectIds": [
+   161
+  ],
+  "treasureExperienceId": 1,
+  "consumeId": 3001,
+  "rarity": "UltraRare",
+  "orderNo": 6,
+  "rewardRelationId": 90001006
+ },
+ {
+  "version": "250720.1.0",
+  "id": 1007,
+  "groupId": 1,
+  "nameLabelTextKey": 90081040,
+  "assetId": 1007,
+  "possessionEffectIds": [
+   101,
+   102
+  ],
+  "equipEffectIds": [
+   171
+  ],
+  "treasureExperienceId": 1,
+  "consumeId": 3001,
+  "rarity": "UltraRare",
+  "orderNo": 7,
+  "rewardRelationId": 90001007
+ },
+ {
+  "version": "250720.1.0",
+  "id": 2001,
+  "groupId": 2,
+  "nameLabelTextKey": -24605237,
+  "assetId": 2001,
+  "possessionEffectIds": [
+   201,
+   202
+  ],
+  "equipEffectIds": [
+   211
+  ],
+  "treasureExperienceId": 2,
+  "consumeId": 3002,
+  "rarity": "UltraRare",
+  "orderNo": 1,
+  "rewardRelationId": 90002001
+ },
+ {
+  "version": "250720.1.0",
+  "id": 2002,
+  "groupId": 2,
+  "nameLabelTextKey": 1736563825,
+  "assetId": 2002,
+  "possessionEffectIds": [
+   201,
+   202
+  ],
+  "equipEffectIds": [
+   221
+  ],
+  "treasureExperienceId": 2,
+  "consumeId": 3002,
+  "rarity": "UltraRare",
+  "orderNo": 2,
+  "rewardRelationId": 90002002
+ },
+ {
+  "version": "250720.1.0",
+  "id": 2003,
+  "groupId": 2,
+  "nameLabelTextKey": 277277927,
+  "assetId": 2003,
+  "possessionEffectIds": [
+   201,
+   202
+  ],
+  "equipEffectIds": [
+   231
+  ],
+  "treasureExperienceId": 2,
+  "consumeId": 3002,
+  "rarity": "UltraRare",
+  "orderNo": 3,
+  "rewardRelationId": 90002003
+ },
+ {
+  "version": "250720.1.0",
+  "id": 2004,
+  "groupId": 2,
+  "nameLabelTextKey": -1897760444,
+  "assetId": 2004,
+  "possessionEffectIds": [
+   201,
+   202
+  ],
+  "equipEffectIds": [
+   241
+  ],
+  "treasureExperienceId": 2,
+  "consumeId": 3002,
+  "rarity": "UltraRare",
+  "orderNo": 4,
+  "rewardRelationId": 90002004
+ },
+ {
+  "version": "250720.1.0",
+  "id": 3001,
+  "groupId": 3,
+  "nameLabelTextKey": 1177873070,
+  "assetId": 3001,
+  "possessionEffectIds": [
+   301,
+   302
+  ],
+  "equipEffectIds": [
+   311
+  ],
+  "treasureExperienceId": 3,
+  "consumeId": 3003,
+  "rarity": "UltraRare",
+  "orderNo": 1,
+  "rewardRelationId": 90003001
+ },
+ {
+  "version": "250720.1.0",
+  "id": 3002,
+  "groupId": 3,
+  "nameLabelTextKey": -549602540,
+  "assetId": 3002,
+  "possessionEffectIds": [
+   301,
+   302
+  ],
+  "equipEffectIds": [
+   321
+  ],
+  "treasureExperienceId": 3,
+  "consumeId": 3003,
+  "rarity": "UltraRare",
+  "orderNo": 2,
+  "rewardRelationId": 90003002
+ },
+ {
+  "version": "250720.1.0",
+  "id": 3003,
+  "groupId": 3,
+  "nameLabelTextKey": -1472558206,
+  "assetId": 3003,
+  "possessionEffectIds": [
+   301,
+   302
+  ],
+  "equipEffectIds": [
+   331
+  ],
+  "treasureExperienceId": 3,
+  "consumeId": 3003,
+  "rarity": "UltraRare",
+  "orderNo": 3,
+  "rewardRelationId": 90003003
+ },
+ {
+  "version": "250720.1.0",
+  "id": 3004,
+  "groupId": 3,
+  "nameLabelTextKey": 912137761,
+  "assetId": 3004,
+  "possessionEffectIds": [
+   301,
+   302
+  ],
+  "equipEffectIds": [
+   341
+  ],
+  "treasureExperienceId": 3,
+  "consumeId": 3003,
+  "rarity": "UltraRare",
+  "orderNo": 4,
+  "rewardRelationId": 90003004
+ },
+ {
+  "version": "250720.1.0",
+  "id": 4001,
+  "groupId": 4,
+  "nameLabelTextKey": -605826537,
+  "assetId": 4001,
+  "possessionEffectIds": [
+   401,
+   402
+  ],
+  "equipEffectIds": [
+   411
+  ],
+  "treasureExperienceId": 4,
+  "consumeId": 3004,
+  "rarity": "UltraRare",
+  "orderNo": 1,
+  "rewardRelationId": 90004001
+ },
+ {
+  "version": "250720.1.0",
+  "id": 4002,
+  "groupId": 4,
+  "nameLabelTextKey": 1122665389,
+  "assetId": 4002,
+  "possessionEffectIds": [
+   401,
+   402
+  ],
+  "equipEffectIds": [
+   421
+  ],
+  "treasureExperienceId": 4,
+  "consumeId": 3004,
+  "rarity": "UltraRare",
+  "orderNo": 2,
+  "rewardRelationId": 90004002
+ },
+ {
+  "version": "250720.1.0",
+  "id": 4003,
+  "groupId": 4,
+  "nameLabelTextKey": 904770363,
+  "assetId": 4003,
+  "possessionEffectIds": [
+   401,
+   402
+  ],
+  "equipEffectIds": [
+   431
+  ],
+  "treasureExperienceId": 4,
+  "consumeId": 3004,
+  "rarity": "UltraRare",
+  "orderNo": 3,
+  "rewardRelationId": 90004003
+ },
+ {
+  "version": "250720.1.0",
+  "id": 4004,
+  "groupId": 4,
+  "nameLabelTextKey": -1417075048,
+  "assetId": 4004,
+  "possessionEffectIds": [
+   401,
+   402
+  ],
+  "equipEffectIds": [
+   441
+  ],
+  "treasureExperienceId": 4,
+  "consumeId": 3004,
+  "rarity": "UltraRare",
+  "orderNo": 4,
+  "rewardRelationId": 90004004
+ },
+ {
+  "version": "250720.1.0",
+  "id": 5001,
+  "groupId": 5,
+  "nameLabelTextKey": 1667216754,
+  "assetId": 5001,
+  "possessionEffectIds": [
+   501,
+   502
+  ],
+  "equipEffectIds": [
+   511,
+   512
+  ],
+  "treasureExperienceId": 5,
+  "consumeId": 3005,
+  "rarity": "UltraRare",
+  "orderNo": 1,
+  "rewardRelationId": 90005001
+ },
+ {
+  "version": "250720.1.0",
+  "id": 5002,
+  "groupId": 5,
+  "nameLabelTextKey": -94968632,
+  "assetId": 5002,
+  "possessionEffectIds": [
+   501,
+   502
+  ],
+  "equipEffectIds": [
+   521
+  ],
+  "treasureExperienceId": 5,
+  "consumeId": 3005,
+  "rarity": "UltraRare",
+  "orderNo": 2,
+  "rewardRelationId": 90005002
+ },
+ {
+  "version": "250720.1.0",
+  "id": 5003,
+  "groupId": 5,
+  "nameLabelTextKey": -1924017058,
+  "assetId": 5003,
+  "possessionEffectIds": [
+   501,
+   502
+  ],
+  "equipEffectIds": [
+   531
+  ],
+  "treasureExperienceId": 5,
+  "consumeId": 3005,
+  "rarity": "UltraRare",
+  "orderNo": 3,
+  "rewardRelationId": 90005003
+ },
+ {
+  "version": "250720.1.0",
+  "id": 5004,
+  "groupId": 5,
+  "nameLabelTextKey": 322257405,
+  "assetId": 5004,
+  "possessionEffectIds": [
+   501,
+   502
+  ],
+  "equipEffectIds": [
+   541
+  ],
+  "treasureExperienceId": 5,
+  "consumeId": 3005,
+  "rarity": "UltraRare",
+  "orderNo": 4,
+  "rewardRelationId": 90005004
+ }
+]

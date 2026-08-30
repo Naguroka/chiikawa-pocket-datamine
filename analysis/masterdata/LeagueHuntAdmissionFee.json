@@ -1,0 +1,12 @@
+[
+ {
+  "version": "250350.1.0",
+  "id": 1,
+  "ticketConsumeId": 12501,
+  "chargeConsumeId": 12502,
+  "additionalFeePerCharge": 100,
+  "maxFeePerCharge": 10000,
+  "adRewardId": 107,
+  "dailyChargeCount": 3
+ }
+]

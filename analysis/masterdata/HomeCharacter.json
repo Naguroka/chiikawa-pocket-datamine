@@ -1,0 +1,622 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1001,
+  "homeCharacterType": "Main",
+  "value": 11001,
+  "eventZone": [
+   0.0,
+   0.15000000596046448,
+   2.0,
+   1.5
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "giftAssetId": 1001,
+  "sortOrder": 1
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1002,
+  "homeCharacterType": "Main",
+  "value": 12001,
+  "eventZone": [
+   0.0,
+   0.15000000596046448,
+   2.0,
+   1.5
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "giftAssetId": 1002,
+  "sortOrder": 2
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1003,
+  "homeCharacterType": "Main",
+  "value": 13001,
+  "eventZone": [
+   0.0,
+   0.15000000596046448,
+   2.0,
+   1.5
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "giftAssetId": 1003,
+  "sortOrder": 3
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1004,
+  "homeCharacterType": "Main",
+  "value": 14001,
+  "eventZone": [
+   0.0,
+   0.15000000596046448,
+   2.0,
+   1.5
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "giftAssetId": 1004,
+  "sortOrder": 5
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1005,
+  "homeCharacterType": "Main",
+  "value": 15001,
+  "eventZone": [
+   0.0,
+   0.15000000596046448,
+   2.0,
+   1.5
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "giftAssetId": 1005,
+  "sortOrder": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1006,
+  "homeCharacterType": "Main",
+  "value": 16001,
+  "eventZone": [
+   0.0,
+   0.15000000596046448,
+   2.0,
+   1.5
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "giftAssetId": 1006,
+  "sortOrder": 6
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1007,
+  "homeCharacterType": "Main",
+  "value": 17001,
+  "eventZone": [
+   0.0,
+   0.15000000596046448,
+   2.0,
+   1.5
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "giftAssetId": 1007,
+  "sortOrder": 7
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3001,
+  "homeCharacterType": "Sub",
+  "value": 19,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3001,
+  "sortOrder": 8
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3002,
+  "homeCharacterType": "Sub",
+  "value": 7,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3002,
+  "sortOrder": 9
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3003,
+  "homeCharacterType": "Sub",
+  "value": 4,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3003,
+  "sortOrder": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3004,
+  "homeCharacterType": "Sub",
+  "value": 2,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3004,
+  "sortOrder": 11
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3005,
+  "homeCharacterType": "Sub",
+  "value": 1,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3005,
+  "sortOrder": 12
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3006,
+  "homeCharacterType": "Sub",
+  "value": 3,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3006,
+  "sortOrder": 13
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3007,
+  "homeCharacterType": "Sub",
+  "value": 10,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3007,
+  "sortOrder": 14
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3008,
+  "homeCharacterType": "Sub",
+  "value": 6,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3008,
+  "sortOrder": 15
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3009,
+  "homeCharacterType": "Sub",
+  "value": 9,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3009,
+  "sortOrder": 16
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3011,
+  "homeCharacterType": "Sub",
+  "value": 5,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3011,
+  "sortOrder": 17
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3012,
+  "homeCharacterType": "Sub",
+  "value": 13,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3012,
+  "sortOrder": 18
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3013,
+  "homeCharacterType": "Sub",
+  "value": 14,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3013,
+  "sortOrder": 19
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3014,
+  "homeCharacterType": "Sub",
+  "value": 17,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3014,
+  "sortOrder": 20
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3015,
+  "homeCharacterType": "Sub",
+  "value": 8,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3015,
+  "sortOrder": 21
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3016,
+  "homeCharacterType": "Sub",
+  "value": 16,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3016,
+  "sortOrder": 22
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3017,
+  "homeCharacterType": "Sub",
+  "value": 15,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3017,
+  "sortOrder": 23
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3018,
+  "homeCharacterType": "Sub",
+  "value": 12,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3018,
+  "sortOrder": 24
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3019,
+  "homeCharacterType": "Sub",
+  "value": 18,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3019,
+  "sortOrder": 25
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3020,
+  "homeCharacterType": "Sub",
+  "value": 20,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3020,
+  "sortOrder": 26
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3021,
+  "homeCharacterType": "Sub",
+  "value": 21,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3021,
+  "sortOrder": 27
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3022,
+  "homeCharacterType": "Sub",
+  "value": 11,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3022,
+  "sortOrder": 28
+ },
+ {
+  "version": "260810.1.0",
+  "id": 3023,
+  "homeCharacterType": "Sub",
+  "value": 23,
+  "eventZone": [
+   0.0,
+   0.30000001192092896,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "giftAssetId": 3023,
+  "sortOrder": 29
+ },
+ {
+  "version": "260810.1.0",
+  "id": 3024,
+  "homeCharacterType": "Others",
+  "value": 3024,
+  "eventZone": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "giftAssetId": 0,
+  "sortOrder": 1000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 3025,
+  "homeCharacterType": "Others",
+  "value": 3025,
+  "eventZone": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "giftAssetId": 0,
+  "sortOrder": 1000
+ }
+]

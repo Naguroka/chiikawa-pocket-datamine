@@ -1,0 +1,274 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 2,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 102
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 2,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 103
+ },
+ {
+  "version": "250350.1.0",
+  "id": 3,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 2,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 108
+ },
+ {
+  "version": "250410.1.0",
+  "id": 4,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 2,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 109
+ },
+ {
+  "version": "250440.1.0",
+  "id": 5,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 2,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 110
+ },
+ {
+  "version": "250450.1.0",
+  "id": 6,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 2,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 111
+ },
+ {
+  "version": "250530.1.0",
+  "id": 7,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 2,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 112
+ },
+ {
+  "version": "250550.1.0",
+  "id": 8,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 2,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 113
+ },
+ {
+  "version": "250610.1.0",
+  "id": 9,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 2,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 114
+ },
+ {
+  "version": "250630.1.0",
+  "id": 10,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 2,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 115
+ },
+ {
+  "version": "250710.1.0",
+  "id": 11,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 2,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 116
+ },
+ {
+  "version": "250730.1.0",
+  "id": 12,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 2,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 117
+ },
+ {
+  "version": "250725.1.0",
+  "id": 13,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 1,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 118
+ },
+ {
+  "version": "250810.1.0",
+  "id": 1011,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 2,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1011
+ },
+ {
+  "version": "250820.1.0",
+  "id": 1012,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 2,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1012
+ },
+ {
+  "version": "250910.1.0",
+  "id": 1013,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 2,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1013
+ },
+ {
+  "version": "250930.1.0",
+  "id": 1014,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 2,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1014
+ },
+ {
+  "version": "251010.1.0",
+  "id": 1015,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 1,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1015
+ },
+ {
+  "version": "251030.1.0",
+  "id": 1017,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 1,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1017
+ },
+ {
+  "version": "251110.1.0",
+  "id": 1018,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 1,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1018
+ },
+ {
+  "version": "251210.1.0",
+  "id": 1019,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 1,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1019
+ },
+ {
+  "version": "251230.1.0",
+  "id": 1020,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 1,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1020
+ },
+ {
+  "version": "260110.1.0",
+  "id": 1021,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 1,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1021
+ },
+ {
+  "version": "260210.1.0",
+  "id": 1022,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 1,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1022
+ },
+ {
+  "version": "260230.1.0",
+  "id": 1023,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 1,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1023
+ },
+ {
+  "version": "260310.1.0",
+  "id": 1024,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 1,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1024
+ },
+ {
+  "version": "260330.1.0",
+  "id": 1025,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 1,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1025
+ },
+ {
+  "version": "260410.1.0",
+  "id": 14,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 1,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 119
+ },
+ {
+  "version": "260410.1.0",
+  "id": 1026,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 1,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1026
+ },
+ {
+  "version": "260510.1.0",
+  "id": 1027,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 1,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1027
+ },
+ {
+  "version": "260610.1.0",
+  "id": 1028,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 1,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1028
+ },
+ {
+  "version": "260710.1.0",
+  "id": 1029,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 1,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1029
+ },
+ {
+  "version": "260810.1.0",
+  "id": 1030,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 1,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1030
+ },
+ {
+  "version": "260910.1.0",
+  "id": 1031,
+  "consumeGroupId": 7,
+  "dailyLimitCount": 1,
+  "dailyLimitRefreshHourJst": 15,
+  "adRewardId": 1031
+ }
+]

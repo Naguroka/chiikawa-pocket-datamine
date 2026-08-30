@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package gatewayprotocol.v1;
+
+import "gatewayprotocol/v1/dynamic_device_info.proto";
+import "gatewayprotocol/v1/static_device_info.proto";
+
+option swift_prefix = "Gateway";
+
+// An event which should be sent as soon as SDK completed initialization.
+message InitializationCompletedEventRequest {
+  // Static Device Info properties
+  StaticDeviceInfo static_device_info = 1;
+  // Dynamic Device Info properties
+  DynamicDeviceInfo dynamic_device_info = 2;
+}

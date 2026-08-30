@@ -1,0 +1,14 @@
+[
+ {
+  "version": "250850.1.0",
+  "id": 1,
+  "repeatActiveDays": 0,
+  "repeatInactiveDays": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 2,
+  "repeatActiveDays": 3,
+  "repeatInactiveDays": 18
+ }
+]

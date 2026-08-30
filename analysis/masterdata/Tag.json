@@ -1,0 +1,170 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 11,
+  "nameTextKey": -210270740,
+  "tagType": "Cooking"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 12,
+  "nameTextKey": 1786696790,
+  "tagType": "Cooking"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 13,
+  "nameTextKey": 494527680,
+  "tagType": "Cooking"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 14,
+  "nameTextKey": -2095222429,
+  "tagType": "Cooking"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 15,
+  "nameTextKey": -199605771,
+  "tagType": "Cooking"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 16,
+  "nameTextKey": 1829965903,
+  "tagType": "Cooking"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1001,
+  "nameTextKey": 1389417416,
+  "tagType": "Motif"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1002,
+  "nameTextKey": -874937742,
+  "tagType": "Motif"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1003,
+  "nameTextKey": -1126255900,
+  "tagType": "Motif"
+ },
+ {
+  "version": "250420.1.0",
+  "id": 1004,
+  "nameTextKey": 582625095,
+  "tagType": "Motif"
+ },
+ {
+  "version": "250530.1.0",
+  "id": 1005,
+  "nameTextKey": 1438455761,
+  "tagType": "Motif"
+ },
+ {
+  "version": "250610.1.0",
+  "id": 1006,
+  "nameTextKey": -860600725,
+  "tagType": "Motif"
+ },
+ {
+  "version": "250710.1.0",
+  "id": 1007,
+  "nameTextKey": -1145866499,
+  "tagType": "Motif"
+ },
+ {
+  "version": "250810.1.0",
+  "id": 1008,
+  "nameTextKey": 722234220,
+  "tagType": "Motif"
+ },
+ {
+  "version": "250910.1.0",
+  "id": 1009,
+  "nameTextKey": 1544248314,
+  "tagType": "Motif"
+ },
+ {
+  "version": "251010.1.0",
+  "id": 1010,
+  "nameTextKey": 1020056095,
+  "tagType": "Motif"
+ },
+ {
+  "version": "251010.1.0",
+  "id": 1011,
+  "nameTextKey": 1271653001,
+  "tagType": "Motif"
+ },
+ {
+  "version": "251030.1.0",
+  "id": 1012,
+  "nameTextKey": -758992077,
+  "tagType": "Motif"
+ },
+ {
+  "version": "251210.1.0",
+  "id": 1013,
+  "nameTextKey": -1513782363,
+  "tagType": "Motif"
+ },
+ {
+  "version": "260110.1.0",
+  "id": 1014,
+  "nameTextKey": 1000412678,
+  "tagType": "Motif"
+ },
+ {
+  "version": "260210.1.0",
+  "id": 1015,
+  "nameTextKey": 1285957264,
+  "tagType": "Motif"
+ },
+ {
+  "version": "260310.1.0",
+  "id": 1016,
+  "nameTextKey": -709920982,
+  "tagType": "Motif"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 1017,
+  "nameTextKey": -1566029892,
+  "tagType": "Motif"
+ },
+ {
+  "version": "260510.1.0",
+  "id": 1018,
+  "nameTextKey": 840391213,
+  "tagType": "Motif"
+ },
+ {
+  "version": "260610.1.0",
+  "id": 1019,
+  "nameTextKey": 1158703803,
+  "tagType": "Motif"
+ },
+ {
+  "version": "260710.1.0",
+  "id": 1020,
+  "nameTextKey": 400654812,
+  "tagType": "Motif"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 1021,
+  "nameTextKey": 1625731402,
+  "tagType": "Motif"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 1022,
+  "nameTextKey": -101719824,
+  "tagType": "Motif"
+ }
+]

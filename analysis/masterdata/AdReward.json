@@ -1,0 +1,302 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 8,
+  "rewardGroupRelationId": 0,
+  "limitId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 9,
+  "rewardGroupRelationId": 0,
+  "limitId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 10,
+  "rewardGroupRelationId": 0,
+  "limitId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 11,
+  "rewardGroupRelationId": 0,
+  "limitId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 13,
+  "rewardGroupRelationId": 0,
+  "limitId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 14,
+  "rewardGroupRelationId": 0,
+  "limitId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 15,
+  "rewardGroupRelationId": 0,
+  "limitId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 16,
+  "rewardGroupRelationId": 0,
+  "limitId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 18,
+  "rewardGroupRelationId": 0,
+  "limitId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 19,
+  "rewardGroupRelationId": 0,
+  "limitId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 20,
+  "rewardGroupRelationId": 20,
+  "limitId": 8
+ },
+ {
+  "version": "250330.1.0",
+  "id": 101,
+  "rewardGroupRelationId": 101,
+  "limitId": 101
+ },
+ {
+  "version": "250330.1.0",
+  "id": 102,
+  "rewardGroupRelationId": 102,
+  "limitId": 102
+ },
+ {
+  "version": "250330.1.0",
+  "id": 103,
+  "rewardGroupRelationId": 103,
+  "limitId": 103
+ },
+ {
+  "version": "250330.1.0",
+  "id": 104,
+  "rewardGroupRelationId": 104,
+  "limitId": 104
+ },
+ {
+  "version": "250330.1.0",
+  "id": 105,
+  "rewardGroupRelationId": 105,
+  "limitId": 105
+ },
+ {
+  "version": "250330.1.0",
+  "id": 106,
+  "rewardGroupRelationId": 106,
+  "limitId": 106
+ },
+ {
+  "version": "250350.1.0",
+  "id": 107,
+  "rewardGroupRelationId": 107,
+  "limitId": 107
+ },
+ {
+  "version": "250350.1.0",
+  "id": 108,
+  "rewardGroupRelationId": 200000001,
+  "limitId": 108
+ },
+ {
+  "version": "250410.1.0",
+  "id": 109,
+  "rewardGroupRelationId": 200000002,
+  "limitId": 109
+ },
+ {
+  "version": "250440.1.0",
+  "id": 110,
+  "rewardGroupRelationId": 200000003,
+  "limitId": 110
+ },
+ {
+  "version": "250450.1.0",
+  "id": 111,
+  "rewardGroupRelationId": 200000004,
+  "limitId": 111
+ },
+ {
+  "version": "250530.1.0",
+  "id": 112,
+  "rewardGroupRelationId": 200000005,
+  "limitId": 112
+ },
+ {
+  "version": "250550.1.0",
+  "id": 113,
+  "rewardGroupRelationId": 200000006,
+  "limitId": 113
+ },
+ {
+  "version": "250610.1.0",
+  "id": 114,
+  "rewardGroupRelationId": 200000007,
+  "limitId": 114
+ },
+ {
+  "version": "250630.1.0",
+  "id": 115,
+  "rewardGroupRelationId": 200000008,
+  "limitId": 115
+ },
+ {
+  "version": "250710.1.0",
+  "id": 116,
+  "rewardGroupRelationId": 200000009,
+  "limitId": 116
+ },
+ {
+  "version": "250730.1.0",
+  "id": 117,
+  "rewardGroupRelationId": 200000010,
+  "limitId": 117
+ },
+ {
+  "version": "250720.1.0",
+  "id": 118,
+  "rewardGroupRelationId": 118,
+  "limitId": 118
+ },
+ {
+  "version": "250810.1.0",
+  "id": 1011,
+  "rewardGroupRelationId": 200000011,
+  "limitId": 1011
+ },
+ {
+  "version": "250820.1.0",
+  "id": 1012,
+  "rewardGroupRelationId": 200000012,
+  "limitId": 1012
+ },
+ {
+  "version": "250910.1.0",
+  "id": 1013,
+  "rewardGroupRelationId": 200000013,
+  "limitId": 1013
+ },
+ {
+  "version": "250930.1.0",
+  "id": 1014,
+  "rewardGroupRelationId": 200000014,
+  "limitId": 1014
+ },
+ {
+  "version": "251010.1.0",
+  "id": 1015,
+  "rewardGroupRelationId": 200000015,
+  "limitId": 1015
+ },
+ {
+  "version": "251030.1.0",
+  "id": 1017,
+  "rewardGroupRelationId": 200000017,
+  "limitId": 1017
+ },
+ {
+  "version": "251110.1.0",
+  "id": 1018,
+  "rewardGroupRelationId": 200000018,
+  "limitId": 1018
+ },
+ {
+  "version": "251210.1.0",
+  "id": 1019,
+  "rewardGroupRelationId": 200000019,
+  "limitId": 1019
+ },
+ {
+  "version": "251230.1.0",
+  "id": 1020,
+  "rewardGroupRelationId": 200000020,
+  "limitId": 1020
+ },
+ {
+  "version": "260110.1.0",
+  "id": 1021,
+  "rewardGroupRelationId": 200000021,
+  "limitId": 1021
+ },
+ {
+  "version": "260210.1.0",
+  "id": 1022,
+  "rewardGroupRelationId": 200000022,
+  "limitId": 1022
+ },
+ {
+  "version": "260230.1.0",
+  "id": 1023,
+  "rewardGroupRelationId": 200000023,
+  "limitId": 1023
+ },
+ {
+  "version": "260310.1.0",
+  "id": 1024,
+  "rewardGroupRelationId": 200000024,
+  "limitId": 1024
+ },
+ {
+  "version": "260330.1.0",
+  "id": 1025,
+  "rewardGroupRelationId": 200000025,
+  "limitId": 1025
+ },
+ {
+  "version": "260410.1.0",
+  "id": 119,
+  "rewardGroupRelationId": 119,
+  "limitId": 119
+ },
+ {
+  "version": "260410.1.0",
+  "id": 1026,
+  "rewardGroupRelationId": 200000026,
+  "limitId": 1026
+ },
+ {
+  "version": "260510.1.0",
+  "id": 1027,
+  "rewardGroupRelationId": 200000027,
+  "limitId": 1027
+ },
+ {
+  "version": "260610.1.0",
+  "id": 1028,
+  "rewardGroupRelationId": 200000028,
+  "limitId": 1028
+ },
+ {
+  "version": "260710.1.0",
+  "id": 1029,
+  "rewardGroupRelationId": 200000029,
+  "limitId": 1029
+ },
+ {
+  "version": "260810.1.0",
+  "id": 1030,
+  "rewardGroupRelationId": 200000030,
+  "limitId": 1030
+ },
+ {
+  "version": "260910.1.0",
+  "id": 1031,
+  "rewardGroupRelationId": 200000031,
+  "limitId": 1031
+ }
+]

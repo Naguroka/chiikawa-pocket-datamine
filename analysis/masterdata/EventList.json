@@ -1,0 +1,1442 @@
+[
+ {
+  "version": "250620.1.0",
+  "id": 10001,
+  "category": "SpecialMission",
+  "assetId": 2008,
+  "detailId": 1001,
+  "contentLockId": 0,
+  "sortOrder": 1
+ },
+ {
+  "version": "250730.1.0",
+  "id": 1000010,
+  "category": "EventMain",
+  "assetId": 11,
+  "detailId": 10,
+  "contentLockId": 56,
+  "sortOrder": 52507150
+ },
+ {
+  "version": "250710.1.0",
+  "id": 3000010,
+  "category": "SpecialMission",
+  "assetId": 2015,
+  "detailId": 10,
+  "contentLockId": 37,
+  "sortOrder": 1
+ },
+ {
+  "version": "250730.1.0",
+  "id": 3000011,
+  "category": "SpecialMission",
+  "assetId": 2015,
+  "detailId": 11,
+  "contentLockId": 37,
+  "sortOrder": 52507180
+ },
+ {
+  "version": "250730.1.0",
+  "id": 3000012,
+  "category": "SpecialMission",
+  "assetId": 2015,
+  "detailId": 12,
+  "contentLockId": 37,
+  "sortOrder": 52507250
+ },
+ {
+  "version": "250710.1.0",
+  "id": 3001003,
+  "category": "SpecialMission",
+  "assetId": 2008,
+  "detailId": 1003,
+  "contentLockId": 0,
+  "sortOrder": 1
+ },
+ {
+  "version": "250710.1.0",
+  "id": 3000009,
+  "category": "SpecialMission",
+  "assetId": 2014,
+  "detailId": 9,
+  "contentLockId": 37,
+  "sortOrder": 1
+ },
+ {
+  "version": "250710.1.0",
+  "id": 1000009,
+  "category": "EventMain",
+  "assetId": 10,
+  "detailId": 9,
+  "contentLockId": 56,
+  "sortOrder": 1
+ },
+ {
+  "version": "250640.1.0",
+  "id": 3000005,
+  "category": "SpecialMission",
+  "assetId": 2013,
+  "detailId": 5,
+  "contentLockId": 37,
+  "sortOrder": 1
+ },
+ {
+  "version": "250730.1.0",
+  "id": 3001002,
+  "category": "SpecialMission",
+  "assetId": 2009,
+  "detailId": 1002,
+  "contentLockId": 0,
+  "sortOrder": 52507220
+ },
+ {
+  "version": "250820.1.0",
+  "id": 3001004,
+  "category": "SpecialMission",
+  "assetId": 2009,
+  "detailId": 1004,
+  "contentLockId": 0,
+  "sortOrder": 52508190
+ },
+ {
+  "version": "250630.1.0",
+  "id": 2007,
+  "category": "SpecialMission",
+  "assetId": 2012,
+  "detailId": 8,
+  "contentLockId": 37,
+  "sortOrder": 1
+ },
+ {
+  "version": "250630.1.0",
+  "id": 9,
+  "category": "EventMain",
+  "assetId": 9,
+  "detailId": 8,
+  "contentLockId": 56,
+  "sortOrder": 1
+ },
+ {
+  "version": "250620.1.0",
+  "id": 2006,
+  "category": "SpecialMission",
+  "assetId": 2005,
+  "detailId": 7,
+  "contentLockId": 37,
+  "sortOrder": 1
+ },
+ {
+  "version": "250610.1.0",
+  "id": 2005,
+  "category": "SpecialMission",
+  "assetId": 2005,
+  "detailId": 6,
+  "contentLockId": 37,
+  "sortOrder": 1
+ },
+ {
+  "version": "250610.1.0",
+  "id": 8,
+  "category": "EventMain",
+  "assetId": 8,
+  "detailId": 7,
+  "contentLockId": 56,
+  "sortOrder": 1
+ },
+ {
+  "version": "250550.1.0",
+  "id": 7,
+  "category": "EventMain",
+  "assetId": 7,
+  "detailId": 6,
+  "contentLockId": 56,
+  "sortOrder": 1
+ },
+ {
+  "version": "250530.1.0",
+  "id": 6,
+  "category": "EventMain",
+  "assetId": 6,
+  "detailId": 5,
+  "contentLockId": 56,
+  "sortOrder": 1
+ },
+ {
+  "version": "250350.1.0",
+  "id": 2,
+  "category": "League",
+  "assetId": 2,
+  "detailId": 1,
+  "contentLockId": 57,
+  "sortOrder": 32503500
+ },
+ {
+  "version": "250450.1.0",
+  "id": 5,
+  "category": "EventMain",
+  "assetId": 5,
+  "detailId": 4,
+  "contentLockId": 56,
+  "sortOrder": 1
+ },
+ {
+  "version": "250440.1.0",
+  "id": 4,
+  "category": "EventMain",
+  "assetId": 4,
+  "detailId": 3,
+  "contentLockId": 56,
+  "sortOrder": 1
+ },
+ {
+  "version": "250410.1.0",
+  "id": 3,
+  "category": "EventMain",
+  "assetId": 3,
+  "detailId": 2,
+  "contentLockId": 56,
+  "sortOrder": 1
+ },
+ {
+  "version": "250350.1.0",
+  "id": 1,
+  "category": "EventMain",
+  "assetId": 1,
+  "detailId": 1,
+  "contentLockId": 56,
+  "sortOrder": 1
+ },
+ {
+  "version": "250510.1.0",
+  "id": 2002,
+  "category": "SpecialMission",
+  "assetId": 2004,
+  "detailId": 3,
+  "contentLockId": 0,
+  "sortOrder": 1
+ },
+ {
+  "version": "250420.1.0",
+  "id": 2003,
+  "category": "SpecialMission",
+  "assetId": 2006,
+  "detailId": 4,
+  "contentLockId": 0,
+  "sortOrder": 1
+ },
+ {
+  "version": "260610.1.0",
+  "id": 2001,
+  "category": "SpecialMission",
+  "assetId": 2001,
+  "detailId": 1,
+  "contentLockId": 0,
+  "sortOrder": 80000000
+ },
+ {
+  "version": "250730.1.0",
+  "id": 4001010,
+  "category": "LoginBonus",
+  "assetId": 9011,
+  "detailId": 1010,
+  "contentLockId": 0,
+  "sortOrder": 12507150
+ },
+ {
+  "version": "250710.1.0",
+  "id": 4001009,
+  "category": "LoginBonus",
+  "assetId": 9010,
+  "detailId": 1009,
+  "contentLockId": 0,
+  "sortOrder": 12507011
+ },
+ {
+  "version": "250710.1.0",
+  "id": 4003005,
+  "category": "LoginBonus",
+  "assetId": 2007,
+  "detailId": 3005,
+  "contentLockId": 0,
+  "sortOrder": 12507010
+ },
+ {
+  "version": "250630.1.0",
+  "id": 9009,
+  "category": "LoginBonus",
+  "assetId": 9009,
+  "detailId": 1008,
+  "contentLockId": 0,
+  "sortOrder": 1
+ },
+ {
+  "version": "250610.1.0",
+  "id": 9008,
+  "category": "LoginBonus",
+  "assetId": 9008,
+  "detailId": 1007,
+  "contentLockId": 0,
+  "sortOrder": 1
+ },
+ {
+  "version": "250550.1.0",
+  "id": 9007,
+  "category": "LoginBonus",
+  "assetId": 9007,
+  "detailId": 1006,
+  "contentLockId": 0,
+  "sortOrder": 1
+ },
+ {
+  "version": "250530.1.0",
+  "id": 9006,
+  "category": "LoginBonus",
+  "assetId": 9006,
+  "detailId": 1005,
+  "contentLockId": 0,
+  "sortOrder": 1
+ },
+ {
+  "version": "250510.1.0",
+  "id": 300301,
+  "category": "LoginBonus",
+  "assetId": 2003,
+  "detailId": 300301,
+  "contentLockId": 0,
+  "sortOrder": 1
+ },
+ {
+  "version": "250450.1.0",
+  "id": 9005,
+  "category": "LoginBonus",
+  "assetId": 9005,
+  "detailId": 1004,
+  "contentLockId": 0,
+  "sortOrder": 1
+ },
+ {
+  "version": "250440.1.0",
+  "id": 9004,
+  "category": "LoginBonus",
+  "assetId": 9004,
+  "detailId": 1003,
+  "contentLockId": 0,
+  "sortOrder": 1
+ },
+ {
+  "version": "250410.1.0",
+  "id": 9003,
+  "category": "LoginBonus",
+  "assetId": 9003,
+  "detailId": 1002,
+  "contentLockId": 0,
+  "sortOrder": 1
+ },
+ {
+  "version": "250350.1.0",
+  "id": 9002,
+  "category": "LoginBonus",
+  "assetId": 9002,
+  "detailId": 1001,
+  "contentLockId": 0,
+  "sortOrder": 1
+ },
+ {
+  "version": "250330.1.0",
+  "id": 9001,
+  "category": "LoginBonus",
+  "assetId": 9001,
+  "detailId": 3001,
+  "contentLockId": 0,
+  "sortOrder": 1
+ },
+ {
+  "version": "250810.1.0",
+  "id": 3000013,
+  "category": "SpecialMission",
+  "assetId": 2015,
+  "detailId": 13,
+  "contentLockId": 37,
+  "sortOrder": 52508010
+ },
+ {
+  "version": "250810.1.0",
+  "id": 3000014,
+  "category": "SpecialMission",
+  "assetId": 2015,
+  "detailId": 14,
+  "contentLockId": 37,
+  "sortOrder": 52508080
+ },
+ {
+  "version": "250810.1.0",
+  "id": 3001005,
+  "category": "SpecialMission",
+  "assetId": 2008,
+  "detailId": 1005,
+  "contentLockId": 0,
+  "sortOrder": 52508050
+ },
+ {
+  "version": "250810.1.0",
+  "id": 4001011,
+  "category": "LoginBonus",
+  "assetId": 9012,
+  "detailId": 1011,
+  "contentLockId": 0,
+  "sortOrder": 12507290
+ },
+ {
+  "version": "250820.1.0",
+  "id": 4001012,
+  "category": "LoginBonus",
+  "assetId": 9013,
+  "detailId": 1012,
+  "contentLockId": 0,
+  "sortOrder": 12508120
+ },
+ {
+  "version": "250810.1.0",
+  "id": 4003006,
+  "category": "LoginBonus",
+  "assetId": 2011,
+  "detailId": 3006,
+  "contentLockId": 0,
+  "sortOrder": 12507280
+ },
+ {
+  "version": "250810.1.0",
+  "id": 3000019,
+  "category": "SpecialMission",
+  "assetId": 2010,
+  "detailId": 19,
+  "contentLockId": 0,
+  "sortOrder": 52507280
+ },
+ {
+  "version": "250810.1.0",
+  "id": 1000011,
+  "category": "EventMain",
+  "assetId": 12,
+  "detailId": 11,
+  "contentLockId": 56,
+  "sortOrder": 52507290
+ },
+ {
+  "version": "250820.1.0",
+  "id": 1000012,
+  "category": "EventMain",
+  "assetId": 13,
+  "detailId": 12,
+  "contentLockId": 56,
+  "sortOrder": 52508120
+ },
+ {
+  "version": "250820.1.0",
+  "id": 3000020,
+  "category": "SpecialMission",
+  "assetId": 2015,
+  "detailId": 20,
+  "contentLockId": 37,
+  "sortOrder": 52508150
+ },
+ {
+  "version": "250820.1.0",
+  "id": 3000021,
+  "category": "SpecialMission",
+  "assetId": 2015,
+  "detailId": 21,
+  "contentLockId": 37,
+  "sortOrder": 52508220
+ },
+ {
+  "version": "250850.1.0",
+  "id": 3000022,
+  "category": "SpecialMission",
+  "assetId": 2017,
+  "detailId": 2001,
+  "contentLockId": 37,
+  "sortOrder": 100000000
+ },
+ {
+  "version": "250850.1.0",
+  "id": 3000023,
+  "category": "SpecialMission",
+  "assetId": 2017,
+  "detailId": 2002,
+  "contentLockId": 37,
+  "sortOrder": 100000000
+ },
+ {
+  "version": "250850.1.0",
+  "id": 3000024,
+  "category": "SpecialMission",
+  "assetId": 2017,
+  "detailId": 2003,
+  "contentLockId": 37,
+  "sortOrder": 100000000
+ },
+ {
+  "version": "250850.1.0",
+  "id": 3000025,
+  "category": "SpecialMission",
+  "assetId": 2018,
+  "detailId": 2101,
+  "contentLockId": 37,
+  "sortOrder": 100000000
+ },
+ {
+  "version": "250850.1.0",
+  "id": 3000026,
+  "category": "SpecialMission",
+  "assetId": 2018,
+  "detailId": 2102,
+  "contentLockId": 37,
+  "sortOrder": 100000000
+ },
+ {
+  "version": "250850.1.0",
+  "id": 3000027,
+  "category": "SpecialMission",
+  "assetId": 2018,
+  "detailId": 2103,
+  "contentLockId": 37,
+  "sortOrder": 100000000
+ },
+ {
+  "version": "251110.1.0",
+  "id": 3000028,
+  "category": "SpecialMission",
+  "assetId": 2017,
+  "detailId": 10032,
+  "contentLockId": 37,
+  "sortOrder": 100000000
+ },
+ {
+  "version": "251110.1.0",
+  "id": 3000029,
+  "category": "SpecialMission",
+  "assetId": 2017,
+  "detailId": 10033,
+  "contentLockId": 37,
+  "sortOrder": 100000000
+ },
+ {
+  "version": "251110.1.0",
+  "id": 3000030,
+  "category": "SpecialMission",
+  "assetId": 2017,
+  "detailId": 10031,
+  "contentLockId": 37,
+  "sortOrder": 100000000
+ },
+ {
+  "version": "250940.1.0",
+  "id": 4003007,
+  "category": "LoginBonus",
+  "assetId": 9016,
+  "detailId": 3007,
+  "contentLockId": 0,
+  "sortOrder": 12509190
+ },
+ {
+  "version": "250940.1.0",
+  "id": 4003008,
+  "category": "LoginBonus",
+  "assetId": 9016,
+  "detailId": 3008,
+  "contentLockId": 0,
+  "sortOrder": 12509200
+ },
+ {
+  "version": "250940.1.0",
+  "id": 4003009,
+  "category": "LoginBonus",
+  "assetId": 9016,
+  "detailId": 3009,
+  "contentLockId": 0,
+  "sortOrder": 12509210
+ },
+ {
+  "version": "250940.1.0",
+  "id": 4003010,
+  "category": "LoginBonus",
+  "assetId": 9016,
+  "detailId": 3010,
+  "contentLockId": 0,
+  "sortOrder": 12509220
+ },
+ {
+  "version": "250940.1.0",
+  "id": 4003011,
+  "category": "LoginBonus",
+  "assetId": 9016,
+  "detailId": 3011,
+  "contentLockId": 0,
+  "sortOrder": 12509230
+ },
+ {
+  "version": "250940.1.0",
+  "id": 4003012,
+  "category": "LoginBonus",
+  "assetId": 9016,
+  "detailId": 3012,
+  "contentLockId": 0,
+  "sortOrder": 12509240
+ },
+ {
+  "version": "250940.1.0",
+  "id": 4003013,
+  "category": "LoginBonus",
+  "assetId": 9016,
+  "detailId": 3013,
+  "contentLockId": 0,
+  "sortOrder": 12509250
+ },
+ {
+  "version": "250930.1.0",
+  "id": 3001007,
+  "category": "SpecialMission",
+  "assetId": 2008,
+  "detailId": 1007,
+  "contentLockId": 0,
+  "sortOrder": 52509160
+ },
+ {
+  "version": "250910.1.0",
+  "id": 4001013,
+  "category": "LoginBonus",
+  "assetId": 9014,
+  "detailId": 1013,
+  "contentLockId": 0,
+  "sortOrder": 12508260
+ },
+ {
+  "version": "250930.1.0",
+  "id": 4001014,
+  "category": "LoginBonus",
+  "assetId": 9015,
+  "detailId": 1014,
+  "contentLockId": 0,
+  "sortOrder": 12509090
+ },
+ {
+  "version": "250910.1.0",
+  "id": 1000013,
+  "category": "EventMain",
+  "assetId": 14,
+  "detailId": 13,
+  "contentLockId": 56,
+  "sortOrder": 52508260
+ },
+ {
+  "version": "250930.1.0",
+  "id": 1000014,
+  "category": "EventMain",
+  "assetId": 15,
+  "detailId": 14,
+  "contentLockId": 56,
+  "sortOrder": 52509090
+ },
+ {
+  "version": "251010.1.0",
+  "id": 4003014,
+  "category": "LoginBonus",
+  "assetId": 9017,
+  "detailId": 3014,
+  "contentLockId": 0,
+  "sortOrder": 12509261
+ },
+ {
+  "version": "251010.1.0",
+  "id": 4001015,
+  "category": "LoginBonus",
+  "assetId": 9018,
+  "detailId": 1015,
+  "contentLockId": 0,
+  "sortOrder": 12509260
+ },
+ {
+  "version": "251010.1.0",
+  "id": 1000015,
+  "category": "EventMain",
+  "assetId": 16,
+  "detailId": 15,
+  "contentLockId": 56,
+  "sortOrder": 52509260
+ },
+ {
+  "version": "251130.1.0",
+  "id": 4003015,
+  "category": "LoginBonus",
+  "assetId": 9021,
+  "detailId": 3015,
+  "contentLockId": 0,
+  "sortOrder": 12511180
+ },
+ {
+  "version": "251030.1.0",
+  "id": 4001016,
+  "category": "LoginBonus",
+  "assetId": 9019,
+  "detailId": 1016,
+  "contentLockId": 0,
+  "sortOrder": 12510170
+ },
+ {
+  "version": "251130.1.0",
+  "id": 3001009,
+  "category": "SpecialMission",
+  "assetId": 2019,
+  "detailId": 1009,
+  "contentLockId": 0,
+  "sortOrder": 52511181
+ },
+ {
+  "version": "251030.1.0",
+  "id": 1000017,
+  "category": "EventMain",
+  "assetId": 17,
+  "detailId": 17,
+  "contentLockId": 56,
+  "sortOrder": 52510170
+ },
+ {
+  "version": "251110.1.0",
+  "id": 1000018,
+  "category": "EventMain",
+  "assetId": 18,
+  "detailId": 18,
+  "contentLockId": 56,
+  "sortOrder": 52510310
+ },
+ {
+  "version": "251110.1.0",
+  "id": 4001017,
+  "category": "LoginBonus",
+  "assetId": 9020,
+  "detailId": 1017,
+  "contentLockId": 0,
+  "sortOrder": 12510310
+ },
+ {
+  "version": "251210.1.0",
+  "id": 4001018,
+  "category": "LoginBonus",
+  "assetId": 9022,
+  "detailId": 1018,
+  "contentLockId": 0,
+  "sortOrder": 12511270
+ },
+ {
+  "version": "251230.1.0",
+  "id": 4001019,
+  "category": "LoginBonus",
+  "assetId": 9023,
+  "detailId": 1019,
+  "contentLockId": 0,
+  "sortOrder": 12512120
+ },
+ {
+  "version": "251130.1.0",
+  "id": 3001010,
+  "category": "SpecialMission",
+  "assetId": 2020,
+  "detailId": 1010,
+  "contentLockId": 0,
+  "sortOrder": 52511180
+ },
+ {
+  "version": "251210.1.0",
+  "id": 1000019,
+  "category": "EventMain",
+  "assetId": 19,
+  "detailId": 19,
+  "contentLockId": 56,
+  "sortOrder": 52511270
+ },
+ {
+  "version": "251230.1.0",
+  "id": 1000020,
+  "category": "EventMain",
+  "assetId": 20,
+  "detailId": 20,
+  "contentLockId": 56,
+  "sortOrder": 52512120
+ },
+ {
+  "version": "251210.1.0",
+  "id": 4003018,
+  "category": "LoginBonus",
+  "assetId": 9027,
+  "detailId": 3018,
+  "contentLockId": 0,
+  "sortOrder": 12511280
+ },
+ {
+  "version": "260110.1.0",
+  "id": 4001020,
+  "category": "LoginBonus",
+  "assetId": 9025,
+  "detailId": 1020,
+  "contentLockId": 0,
+  "sortOrder": 12601010
+ },
+ {
+  "version": "260130.1.0",
+  "id": 4001021,
+  "category": "LoginBonus",
+  "assetId": 9028,
+  "detailId": 1021,
+  "contentLockId": 0,
+  "sortOrder": 12601130
+ },
+ {
+  "version": "260110.1.0",
+  "id": 3001011,
+  "category": "SpecialMission",
+  "assetId": 2008,
+  "detailId": 1011,
+  "contentLockId": 0,
+  "sortOrder": 52601060
+ },
+ {
+  "version": "260110.1.0",
+  "id": 1000021,
+  "category": "EventMain",
+  "assetId": 21,
+  "detailId": 21,
+  "contentLockId": 56,
+  "sortOrder": 52601010
+ },
+ {
+  "version": "260130.1.0",
+  "id": 4003019,
+  "category": "LoginBonus",
+  "assetId": 9026,
+  "detailId": 3019,
+  "contentLockId": 0,
+  "sortOrder": 12601160
+ },
+ {
+  "version": "260210.1.0",
+  "id": 4001022,
+  "category": "LoginBonus",
+  "assetId": 9029,
+  "detailId": 1022,
+  "contentLockId": 0,
+  "sortOrder": 12601270
+ },
+ {
+  "version": "260230.1.0",
+  "id": 4001023,
+  "category": "LoginBonus",
+  "assetId": 9031,
+  "detailId": 1023,
+  "contentLockId": 0,
+  "sortOrder": 12602100
+ },
+ {
+  "version": "260210.1.0",
+  "id": 4003021,
+  "category": "LoginBonus",
+  "assetId": 9030,
+  "detailId": 3021,
+  "contentLockId": 0,
+  "sortOrder": 12602040
+ },
+ {
+  "version": "260130.1.0",
+  "id": 3000031,
+  "category": "SpecialMission",
+  "assetId": 2021,
+  "detailId": 31,
+  "contentLockId": 0,
+  "sortOrder": 52601200
+ },
+ {
+  "version": "260130.1.0",
+  "id": 3001012,
+  "category": "SpecialMission",
+  "assetId": 2009,
+  "detailId": 1012,
+  "contentLockId": 0,
+  "sortOrder": 52601201
+ },
+ {
+  "version": "260210.1.0",
+  "id": 1000022,
+  "category": "EventMain",
+  "assetId": 22,
+  "detailId": 22,
+  "contentLockId": 56,
+  "sortOrder": 52601270
+ },
+ {
+  "version": "260230.1.0",
+  "id": 1000023,
+  "category": "EventMain",
+  "assetId": 23,
+  "detailId": 23,
+  "contentLockId": 56,
+  "sortOrder": 52602100
+ },
+ {
+  "version": "260210.1.0",
+  "id": 3001013,
+  "category": "SpecialMission",
+  "assetId": 2016,
+  "detailId": 1013,
+  "contentLockId": 0,
+  "sortOrder": 52602060
+ },
+ {
+  "version": "260230.1.0",
+  "id": 3001014,
+  "category": "SpecialMission",
+  "assetId": 2008,
+  "detailId": 1014,
+  "contentLockId": 0,
+  "sortOrder": 52602200
+ },
+ {
+  "version": "260310.1.0",
+  "id": 4001024,
+  "category": "LoginBonus",
+  "assetId": 9032,
+  "detailId": 1024,
+  "contentLockId": 0,
+  "sortOrder": 12602240
+ },
+ {
+  "version": "260330.1.0",
+  "id": 4001025,
+  "category": "LoginBonus",
+  "assetId": 9033,
+  "detailId": 1025,
+  "contentLockId": 0,
+  "sortOrder": 12603100
+ },
+ {
+  "version": "260330.1.0",
+  "id": 3001015,
+  "category": "SpecialMission",
+  "assetId": 2016,
+  "detailId": 1015,
+  "contentLockId": 0,
+  "sortOrder": 52603200
+ },
+ {
+  "version": "260310.1.0",
+  "id": 1000024,
+  "category": "EventMain",
+  "assetId": 24,
+  "detailId": 24,
+  "contentLockId": 56,
+  "sortOrder": 52602240
+ },
+ {
+  "version": "260330.1.0",
+  "id": 1000025,
+  "category": "EventMain",
+  "assetId": 25,
+  "detailId": 25,
+  "contentLockId": 56,
+  "sortOrder": 52603100
+ },
+ {
+  "version": "260310.1.0",
+  "id": 3001016,
+  "category": "SpecialMission",
+  "assetId": 2009,
+  "detailId": 1016,
+  "contentLockId": 0,
+  "sortOrder": 52603060
+ },
+ {
+  "version": "260410.1.0",
+  "id": 3001017,
+  "category": "SpecialMission",
+  "assetId": 2008,
+  "detailId": 1017,
+  "contentLockId": 0,
+  "sortOrder": 52604030
+ },
+ {
+  "version": "260410.1.0",
+  "id": 4001026,
+  "category": "LoginBonus",
+  "assetId": 9035,
+  "detailId": 1026,
+  "contentLockId": 0,
+  "sortOrder": 12603270
+ },
+ {
+  "version": "260420.1.0",
+  "id": 4001027,
+  "category": "LoginBonus",
+  "assetId": 9036,
+  "detailId": 1027,
+  "contentLockId": 0,
+  "sortOrder": 12604100
+ },
+ {
+  "version": "260410.1.0",
+  "id": 3000032,
+  "category": "SpecialMission",
+  "assetId": 2023,
+  "detailId": 32,
+  "contentLockId": 0,
+  "sortOrder": 52604031
+ },
+ {
+  "version": "260420.1.0",
+  "id": 4003067,
+  "category": "LoginBonus",
+  "assetId": 9037,
+  "detailId": 3067,
+  "contentLockId": 0,
+  "sortOrder": 12604099
+ },
+ {
+  "version": "260410.1.0",
+  "id": 1000026,
+  "category": "EventMain",
+  "assetId": 26,
+  "detailId": 26,
+  "contentLockId": 56,
+  "sortOrder": 52603270
+ },
+ {
+  "version": "260430.1.0",
+  "id": 3001018,
+  "category": "SpecialMission",
+  "assetId": 2027,
+  "detailId": 1018,
+  "contentLockId": 0,
+  "sortOrder": 52604170
+ },
+ {
+  "version": "260430.1.0",
+  "id": 3000033,
+  "category": "SpecialMission",
+  "assetId": 2025,
+  "detailId": 33,
+  "contentLockId": 0,
+  "sortOrder": 52604301
+ },
+ {
+  "version": "260510.1.0",
+  "id": 4003068,
+  "category": "LoginBonus",
+  "assetId": 9041,
+  "detailId": 3068,
+  "contentLockId": 0,
+  "sortOrder": 12605010
+ },
+ {
+  "version": "260410.1.0",
+  "id": 3000034,
+  "category": "SpecialMission",
+  "assetId": 2022,
+  "detailId": 34,
+  "contentLockId": 0,
+  "sortOrder": 52603271
+ },
+ {
+  "version": "260510.1.0",
+  "id": 3000035,
+  "category": "SpecialMission",
+  "assetId": 2024,
+  "detailId": 35,
+  "contentLockId": 0,
+  "sortOrder": 52605010
+ },
+ {
+  "version": "260430.1.0",
+  "id": 3000036,
+  "category": "SpecialMission",
+  "assetId": 2018,
+  "detailId": 10041,
+  "contentLockId": 37,
+  "sortOrder": 100000000
+ },
+ {
+  "version": "260430.1.0",
+  "id": 3000037,
+  "category": "SpecialMission",
+  "assetId": 2018,
+  "detailId": 10042,
+  "contentLockId": 37,
+  "sortOrder": 100000000
+ },
+ {
+  "version": "260510.1.0",
+  "id": 3000038,
+  "category": "SpecialMission",
+  "assetId": 2017,
+  "detailId": 10053,
+  "contentLockId": 37,
+  "sortOrder": 100000000
+ },
+ {
+  "version": "260510.1.0",
+  "id": 3000039,
+  "category": "SpecialMission",
+  "assetId": 2017,
+  "detailId": 10051,
+  "contentLockId": 37,
+  "sortOrder": 100000000
+ },
+ {
+  "version": "260510.1.0",
+  "id": 3000040,
+  "category": "SpecialMission",
+  "assetId": 2017,
+  "detailId": 10052,
+  "contentLockId": 37,
+  "sortOrder": 100000000
+ },
+ {
+  "version": "260510.1.0",
+  "id": 4001028,
+  "category": "LoginBonus",
+  "assetId": 9039,
+  "detailId": 1028,
+  "contentLockId": 0,
+  "sortOrder": 12604280
+ },
+ {
+  "version": "260530.1.0",
+  "id": 4001029,
+  "category": "LoginBonus",
+  "assetId": 9040,
+  "detailId": 1029,
+  "contentLockId": 0,
+  "sortOrder": 12605120
+ },
+ {
+  "version": "260530.1.0",
+  "id": 4003081,
+  "category": "LoginBonus",
+  "assetId": 9045,
+  "detailId": 3081,
+  "contentLockId": 0,
+  "sortOrder": 12605190
+ },
+ {
+  "version": "260510.1.0",
+  "id": 3001019,
+  "category": "SpecialMission",
+  "assetId": 2016,
+  "detailId": 1019,
+  "contentLockId": 0,
+  "sortOrder": 52605011
+ },
+ {
+  "version": "260510.1.0",
+  "id": 1000027,
+  "category": "EventMain",
+  "assetId": 28,
+  "detailId": 27,
+  "contentLockId": 56,
+  "sortOrder": 52604302
+ },
+ {
+  "version": "260530.1.0",
+  "id": 3000041,
+  "category": "SpecialMission",
+  "assetId": 2026,
+  "detailId": 4630,
+  "contentLockId": 0,
+  "sortOrder": 52604302
+ },
+ {
+  "version": "260530.1.0",
+  "id": 3001020,
+  "category": "SpecialMission",
+  "assetId": 2008,
+  "detailId": 1020,
+  "contentLockId": 0,
+  "sortOrder": 52604302
+ },
+ {
+  "version": "260610.1.0",
+  "id": 4001030,
+  "category": "LoginBonus",
+  "assetId": 9046,
+  "detailId": 1030,
+  "contentLockId": 0,
+  "sortOrder": 12605290
+ },
+ {
+  "version": "260630.1.0",
+  "id": 4001031,
+  "category": "LoginBonus",
+  "assetId": 9047,
+  "detailId": 1031,
+  "contentLockId": 0,
+  "sortOrder": 12606120
+ },
+ {
+  "version": "260610.1.0",
+  "id": 4003083,
+  "category": "LoginBonus",
+  "assetId": 9044,
+  "detailId": 3083,
+  "contentLockId": 0,
+  "sortOrder": 12606010
+ },
+ {
+  "version": "260610.1.0",
+  "id": 4003084,
+  "category": "LoginBonus",
+  "assetId": 9048,
+  "detailId": 3084,
+  "contentLockId": 0,
+  "sortOrder": 12606050
+ },
+ {
+  "version": "260610.1.0",
+  "id": 3001021,
+  "category": "SpecialMission",
+  "assetId": 2009,
+  "detailId": 1021,
+  "contentLockId": 0,
+  "sortOrder": 52605290
+ },
+ {
+  "version": "260630.1.0",
+  "id": 3001022,
+  "category": "SpecialMission",
+  "assetId": 2016,
+  "detailId": 1022,
+  "contentLockId": 0,
+  "sortOrder": 52606120
+ },
+ {
+  "version": "260610.1.0",
+  "id": 1000028,
+  "category": "EventMain",
+  "assetId": 30,
+  "detailId": 28,
+  "contentLockId": 56,
+  "sortOrder": 90000000
+ },
+ {
+  "version": "260610.1.0",
+  "id": 3000043,
+  "category": "SpecialMission",
+  "assetId": 2029,
+  "detailId": 4660,
+  "contentLockId": 0,
+  "sortOrder": 52606010
+ },
+ {
+  "version": "260910.1.0",
+  "id": 5000001,
+  "category": "MiniGame",
+  "assetId": 3001,
+  "detailId": 5000001,
+  "contentLockId": 0,
+  "sortOrder": 20000000
+ },
+ {
+  "version": "260710.1.0",
+  "id": 3001023,
+  "category": "SpecialMission",
+  "assetId": 2008,
+  "detailId": 1023,
+  "contentLockId": 0,
+  "sortOrder": 52606260
+ },
+ {
+  "version": "260730.1.0",
+  "id": 3001024,
+  "category": "SpecialMission",
+  "assetId": 2009,
+  "detailId": 1024,
+  "contentLockId": 0,
+  "sortOrder": 52607100
+ },
+ {
+  "version": "260610.1.0",
+  "id": 3000044,
+  "category": "SpecialMission",
+  "assetId": 2017,
+  "detailId": 36,
+  "contentLockId": 37,
+  "sortOrder": 100000000
+ },
+ {
+  "version": "260630.1.0",
+  "id": 3000045,
+  "category": "SpecialMission",
+  "assetId": 2017,
+  "detailId": 10061,
+  "contentLockId": 37,
+  "sortOrder": 100000000
+ },
+ {
+  "version": "260710.1.0",
+  "id": 4001032,
+  "category": "LoginBonus",
+  "assetId": 9049,
+  "detailId": 1032,
+  "contentLockId": 0,
+  "sortOrder": 12606260
+ },
+ {
+  "version": "260730.1.0",
+  "id": 4001033,
+  "category": "LoginBonus",
+  "assetId": 9050,
+  "detailId": 1033,
+  "contentLockId": 0,
+  "sortOrder": 12607100
+ },
+ {
+  "version": "260710.1.0",
+  "id": 1000029,
+  "category": "EventMain",
+  "assetId": 32,
+  "detailId": 29,
+  "contentLockId": 56,
+  "sortOrder": 90000010
+ },
+ {
+  "version": "260730.1.0",
+  "id": 4003124,
+  "category": "LoginBonus",
+  "assetId": 9054,
+  "detailId": 3124,
+  "contentLockId": 0,
+  "sortOrder": 12607170
+ },
+ {
+  "version": "260810.1.0",
+  "id": 4003122,
+  "category": "LoginBonus",
+  "assetId": 2030,
+  "detailId": 3122,
+  "contentLockId": 0,
+  "sortOrder": 12607241
+ },
+ {
+  "version": "260810.1.0",
+  "id": 4001034,
+  "category": "LoginBonus",
+  "assetId": 9051,
+  "detailId": 1034,
+  "contentLockId": 0,
+  "sortOrder": 12607240
+ },
+ {
+  "version": "260810.1.0",
+  "id": 3001025,
+  "category": "SpecialMission",
+  "assetId": 2016,
+  "detailId": 1025,
+  "contentLockId": 0,
+  "sortOrder": 52607241
+ },
+ {
+  "version": "260810.1.0",
+  "id": 1000030,
+  "category": "EventMain",
+  "assetId": 33,
+  "detailId": 30,
+  "contentLockId": 56,
+  "sortOrder": 90000020
+ },
+ {
+  "version": "260810.1.0",
+  "id": 3000046,
+  "category": "SpecialMission",
+  "assetId": 2031,
+  "detailId": 4700,
+  "contentLockId": 0,
+  "sortOrder": 52607240
+ },
+ {
+  "version": "260830.1.0",
+  "id": 3001026,
+  "category": "SpecialMission",
+  "assetId": 2008,
+  "detailId": 1026,
+  "contentLockId": 0,
+  "sortOrder": 52608071
+ },
+ {
+  "version": "260830.1.0",
+  "id": 3001027,
+  "category": "SpecialMission",
+  "assetId": 2009,
+  "detailId": 1027,
+  "contentLockId": 0,
+  "sortOrder": 52608211
+ },
+ {
+  "version": "260810.1.0",
+  "id": 4003123,
+  "category": "LoginBonus",
+  "assetId": 9057,
+  "detailId": 3123,
+  "contentLockId": 0,
+  "sortOrder": 12608010
+ },
+ {
+  "version": "260830.1.0",
+  "id": 3000047,
+  "category": "SpecialMission",
+  "assetId": 2032,
+  "detailId": 4740,
+  "contentLockId": 0,
+  "sortOrder": 52608070
+ },
+ {
+  "version": "260830.1.0",
+  "id": 4003125,
+  "category": "LoginBonus",
+  "assetId": 9058,
+  "detailId": 3125,
+  "contentLockId": 0,
+  "sortOrder": 12608210
+ },
+ {
+  "version": "260830.1.0",
+  "id": 3000048,
+  "category": "SpecialMission",
+  "assetId": 2033,
+  "detailId": 4750,
+  "contentLockId": 0,
+  "sortOrder": 52608210
+ },
+ {
+  "version": "260910.1.0",
+  "id": 3001028,
+  "category": "SpecialMission",
+  "assetId": 2016,
+  "detailId": 1028,
+  "contentLockId": 0,
+  "sortOrder": 52609040
+ },
+ {
+  "version": "260910.1.0",
+  "id": 1000031,
+  "category": "EventMain",
+  "assetId": 34,
+  "detailId": 31,
+  "contentLockId": 56,
+  "sortOrder": 90000030
+ },
+ {
+  "version": "260910.1.0",
+  "id": 4001036,
+  "category": "LoginBonus",
+  "assetId": 9055,
+  "detailId": 1036,
+  "contentLockId": 0,
+  "sortOrder": 12608280
+ }
+]

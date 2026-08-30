@@ -1,0 +1,56 @@
+[
+ {
+  "version": "260810.1.0",
+  "id": 50030001,
+  "ticketShopId": 5003001,
+  "paidGemShopId": 5003002
+ },
+ {
+  "version": "260810.1.0",
+  "id": 50031001,
+  "ticketShopId": 5003101,
+  "paidGemShopId": 5003102
+ },
+ {
+  "version": "260810.1.0",
+  "id": 50032001,
+  "ticketShopId": 5003201,
+  "paidGemShopId": 5003202
+ },
+ {
+  "version": "260810.1.0",
+  "id": 50033001,
+  "ticketShopId": 5003301,
+  "paidGemShopId": 5003302
+ },
+ {
+  "version": "260810.1.0",
+  "id": 50020001,
+  "ticketShopId": 5002001,
+  "paidGemShopId": 5002002
+ },
+ {
+  "version": "260810.1.0",
+  "id": 50021001,
+  "ticketShopId": 5002101,
+  "paidGemShopId": 5002102
+ },
+ {
+  "version": "260810.1.0",
+  "id": 50022001,
+  "ticketShopId": 5002201,
+  "paidGemShopId": 5002202
+ },
+ {
+  "version": "260810.1.0",
+  "id": 50023001,
+  "ticketShopId": 5002301,
+  "paidGemShopId": 5002302
+ },
+ {
+  "version": "260810.1.0",
+  "id": 50040001,
+  "ticketShopId": 5004001,
+  "paidGemShopId": 5004002
+ }
+]

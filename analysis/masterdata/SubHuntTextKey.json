@@ -1,0 +1,152 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "nameTextKey": 998831330,
+  "challengePopupTitleTextKey": 998831330,
+  "challengePopupDescriptionTextKey": 209116509,
+  "huntTitleTextKey": 62668614,
+  "huntStageNameTextKey": 256877142,
+  "huntDescriptionTextKey": -591291484
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "nameTextKey": -1349743511,
+  "challengePopupTitleTextKey": -1349743511,
+  "challengePopupDescriptionTextKey": -1126307440,
+  "huntTitleTextKey": -1699385604,
+  "huntStageNameTextKey": -1773734932,
+  "huntDescriptionTextKey": 1170786846
+ },
+ {
+  "version": "250350.1.0",
+  "id": 3,
+  "nameTextKey": -1298221524,
+  "challengePopupTitleTextKey": -1298221524,
+  "challengePopupDescriptionTextKey": -2089409282,
+  "huntTitleTextKey": -1298221524,
+  "huntStageNameTextKey": -1298221524,
+  "huntDescriptionTextKey": -2089409282
+ },
+ {
+  "version": "250410.1.0",
+  "id": 4,
+  "nameTextKey": -1298221524,
+  "challengePopupTitleTextKey": -1298221524,
+  "challengePopupDescriptionTextKey": -2089409282,
+  "huntTitleTextKey": -1298221524,
+  "huntStageNameTextKey": -1298221524,
+  "huntDescriptionTextKey": -2089409282
+ },
+ {
+  "version": "250440.1.0",
+  "id": 5,
+  "nameTextKey": -1298221524,
+  "challengePopupTitleTextKey": -1298221524,
+  "challengePopupDescriptionTextKey": -2089409282,
+  "huntTitleTextKey": -1298221524,
+  "huntStageNameTextKey": -1298221524,
+  "huntDescriptionTextKey": -2089409282
+ },
+ {
+  "version": "250450.1.0",
+  "id": 6,
+  "nameTextKey": -1298221524,
+  "challengePopupTitleTextKey": -1298221524,
+  "challengePopupDescriptionTextKey": -2089409282,
+  "huntTitleTextKey": -1298221524,
+  "huntStageNameTextKey": -1298221524,
+  "huntDescriptionTextKey": -2089409282
+ },
+ {
+  "version": "250530.1.0",
+  "id": 7,
+  "nameTextKey": -1298221524,
+  "challengePopupTitleTextKey": -1298221524,
+  "challengePopupDescriptionTextKey": -2089409282,
+  "huntTitleTextKey": -1298221524,
+  "huntStageNameTextKey": -1298221524,
+  "huntDescriptionTextKey": -2089409282
+ },
+ {
+  "version": "250550.1.0",
+  "id": 8,
+  "nameTextKey": -1298221524,
+  "challengePopupTitleTextKey": -1298221524,
+  "challengePopupDescriptionTextKey": -2089409282,
+  "huntTitleTextKey": -1298221524,
+  "huntStageNameTextKey": -1298221524,
+  "huntDescriptionTextKey": -2089409282
+ },
+ {
+  "version": "250610.1.0",
+  "id": 9,
+  "nameTextKey": -1298221524,
+  "challengePopupTitleTextKey": -1298221524,
+  "challengePopupDescriptionTextKey": -2089409282,
+  "huntTitleTextKey": -1298221524,
+  "huntStageNameTextKey": -1298221524,
+  "huntDescriptionTextKey": -2089409282
+ },
+ {
+  "version": "250630.1.0",
+  "id": 10,
+  "nameTextKey": -1298221524,
+  "challengePopupTitleTextKey": -1298221524,
+  "challengePopupDescriptionTextKey": -2089409282,
+  "huntTitleTextKey": -1298221524,
+  "huntStageNameTextKey": -1298221524,
+  "huntDescriptionTextKey": -2089409282
+ },
+ {
+  "version": "250710.1.0",
+  "id": 11,
+  "nameTextKey": -1298221524,
+  "challengePopupTitleTextKey": -1298221524,
+  "challengePopupDescriptionTextKey": -2089409282,
+  "huntTitleTextKey": -1298221524,
+  "huntStageNameTextKey": -1298221524,
+  "huntDescriptionTextKey": -2089409282
+ },
+ {
+  "version": "250730.1.0",
+  "id": 12,
+  "nameTextKey": -1298221524,
+  "challengePopupTitleTextKey": -1298221524,
+  "challengePopupDescriptionTextKey": -2089409282,
+  "huntTitleTextKey": -1298221524,
+  "huntStageNameTextKey": -1298221524,
+  "huntDescriptionTextKey": -2089409282
+ },
+ {
+  "version": "250725.1.0",
+  "id": 13,
+  "nameTextKey": -1274251022,
+  "challengePopupTitleTextKey": -1274251022,
+  "challengePopupDescriptionTextKey": -727275386,
+  "huntTitleTextKey": 1958416336,
+  "huntStageNameTextKey": 2018022080,
+  "huntDescriptionTextKey": -1413043406
+ },
+ {
+  "version": "250810.1.0",
+  "id": 10001,
+  "nameTextKey": -1298221524,
+  "challengePopupTitleTextKey": -1298221524,
+  "challengePopupDescriptionTextKey": -2089409282,
+  "huntTitleTextKey": -1298221524,
+  "huntStageNameTextKey": -1298221524,
+  "huntDescriptionTextKey": -2089409282
+ },
+ {
+  "version": "260410.1.0",
+  "id": 14,
+  "nameTextKey": 336897005,
+  "challengePopupTitleTextKey": 336897005,
+  "challengePopupDescriptionTextKey": -1763711769,
+  "huntTitleTextKey": -354444685,
+  "huntStageNameTextKey": -433322141,
+  "huntDescriptionTextKey": 899825297
+ }
+]

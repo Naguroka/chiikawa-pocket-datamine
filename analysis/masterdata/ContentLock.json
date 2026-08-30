@@ -1,0 +1,482 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "evaluateConditionId": 1000080,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "evaluateConditionId": 1000110,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "evaluateConditionId": 1000020,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 4,
+  "evaluateConditionId": 1000030,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 5,
+  "evaluateConditionId": 0,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 6,
+  "evaluateConditionId": 1000040,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 7,
+  "evaluateConditionId": 2010210,
+  "unlockTextKey": -849862153
+ },
+ {
+  "version": "250330.1.0",
+  "id": 8,
+  "evaluateConditionId": 2010410,
+  "unlockTextKey": 1575435366
+ },
+ {
+  "version": "250330.1.0",
+  "id": 9,
+  "evaluateConditionId": 2010705,
+  "unlockTextKey": 719326448
+ },
+ {
+  "version": "250330.1.0",
+  "id": 10,
+  "evaluateConditionId": 2010106,
+  "unlockTextKey": 1244103957
+ },
+ {
+  "version": "250611.1.0",
+  "id": 11,
+  "evaluateConditionId": 1000080,
+  "unlockTextKey": 1025553795
+ },
+ {
+  "version": "250330.1.0",
+  "id": 12,
+  "evaluateConditionId": 2010106,
+  "unlockTextKey": 1244103957
+ },
+ {
+  "version": "250330.1.0",
+  "id": 13,
+  "evaluateConditionId": 2010210,
+  "unlockTextKey": -751905617
+ },
+ {
+  "version": "250330.1.0",
+  "id": 14,
+  "evaluateConditionId": 2010410,
+  "unlockTextKey": 1296711948
+ },
+ {
+  "version": "250330.1.0",
+  "id": 15,
+  "evaluateConditionId": 2020210,
+  "unlockTextKey": 978153882
+ },
+ {
+  "version": "250330.1.0",
+  "id": 16,
+  "evaluateConditionId": 2020510,
+  "unlockTextKey": -1555816416
+ },
+ {
+  "version": "250330.1.0",
+  "id": 17,
+  "evaluateConditionId": 2021010,
+  "unlockTextKey": -733802314
+ },
+ {
+  "version": "250330.1.0",
+  "id": 18,
+  "evaluateConditionId": 110,
+  "unlockTextKey": 1157369127
+ },
+ {
+  "version": "250330.1.0",
+  "id": 19,
+  "evaluateConditionId": 1000070,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 20,
+  "evaluateConditionId": 1000050,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 21,
+  "evaluateConditionId": 1000060,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 22,
+  "evaluateConditionId": 1000060,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 23,
+  "evaluateConditionId": 4001000,
+  "unlockTextKey": -133986452
+ },
+ {
+  "version": "250330.1.0",
+  "id": 24,
+  "evaluateConditionId": 2010310,
+  "unlockTextKey": 1718031055
+ },
+ {
+  "version": "250330.1.0",
+  "id": 25,
+  "evaluateConditionId": 4000025,
+  "unlockTextKey": 291512921
+ },
+ {
+  "version": "250330.1.0",
+  "id": 26,
+  "evaluateConditionId": 2020101,
+  "unlockTextKey": -2006354973
+ },
+ {
+  "version": "250612.1.0",
+  "id": 27,
+  "evaluateConditionId": 2010110,
+  "unlockTextKey": -9550987
+ },
+ {
+  "version": "250330.1.0",
+  "id": 28,
+  "evaluateConditionId": 1000010,
+  "unlockTextKey": 745402972
+ },
+ {
+  "version": "250330.1.0",
+  "id": 29,
+  "evaluateConditionId": 1000010,
+  "unlockTextKey": 745402972
+ },
+ {
+  "version": "250330.1.0",
+  "id": 30,
+  "evaluateConditionId": 1000010,
+  "unlockTextKey": 745402972
+ },
+ {
+  "version": "250330.1.0",
+  "id": 31,
+  "evaluateConditionId": 1000010,
+  "unlockTextKey": 745402972
+ },
+ {
+  "version": "250330.1.0",
+  "id": 32,
+  "evaluateConditionId": 100,
+  "unlockTextKey": -1776318789
+ },
+ {
+  "version": "250330.1.0",
+  "id": 33,
+  "evaluateConditionId": 100,
+  "unlockTextKey": -1776318789
+ },
+ {
+  "version": "250330.1.0",
+  "id": 34,
+  "evaluateConditionId": 2010110,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 35,
+  "evaluateConditionId": 2020101,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 36,
+  "evaluateConditionId": 0,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 37,
+  "evaluateConditionId": 2010110,
+  "unlockTextKey": -428510668
+ },
+ {
+  "version": "250330.1.0",
+  "id": 38,
+  "evaluateConditionId": 2010103,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 39,
+  "evaluateConditionId": 0,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 40,
+  "evaluateConditionId": 0,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 41,
+  "evaluateConditionId": 2010110,
+  "unlockTextKey": 1079460294
+ },
+ {
+  "version": "250330.1.0",
+  "id": 42,
+  "evaluateConditionId": 2010103,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 43,
+  "evaluateConditionId": 0,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 44,
+  "evaluateConditionId": 2010106,
+  "unlockTextKey": 809350473
+ },
+ {
+  "version": "250330.1.0",
+  "id": 45,
+  "evaluateConditionId": 3010010,
+  "unlockTextKey": 1195017695
+ },
+ {
+  "version": "250330.1.0",
+  "id": 46,
+  "evaluateConditionId": 2010110,
+  "unlockTextKey": -567028635
+ },
+ {
+  "version": "250330.1.0",
+  "id": 47,
+  "evaluateConditionId": 2010410,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 48,
+  "evaluateConditionId": 2010201,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 49,
+  "evaluateConditionId": 0,
+  "unlockTextKey": 1317849588
+ },
+ {
+  "version": "250330.1.0",
+  "id": 50,
+  "evaluateConditionId": 0,
+  "unlockTextKey": 776683537
+ },
+ {
+  "version": "250330.1.0",
+  "id": 51,
+  "evaluateConditionId": 0,
+  "unlockTextKey": 1498181767
+ },
+ {
+  "version": "250330.1.0",
+  "id": 52,
+  "evaluateConditionId": 0,
+  "unlockTextKey": -1069211331
+ },
+ {
+  "version": "250330.1.0",
+  "id": 53,
+  "evaluateConditionId": 0,
+  "unlockTextKey": -1220406869
+ },
+ {
+  "version": "250330.1.0",
+  "id": 54,
+  "evaluateConditionId": 0,
+  "unlockTextKey": 690390024
+ },
+ {
+  "version": "250330.1.0",
+  "id": 55,
+  "evaluateConditionId": 0,
+  "unlockTextKey": 1579267230
+ },
+ {
+  "version": "250330.1.0",
+  "id": 56,
+  "evaluateConditionId": 2010110,
+  "unlockTextKey": -953621212
+ },
+ {
+  "version": "250330.1.0",
+  "id": 57,
+  "evaluateConditionId": 2010110,
+  "unlockTextKey": -1339042382
+ },
+ {
+  "version": "250330.1.0",
+  "id": 58,
+  "evaluateConditionId": 0,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 59,
+  "evaluateConditionId": 1000080,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 60,
+  "evaluateConditionId": 1000090,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 61,
+  "evaluateConditionId": 1000100,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 62,
+  "evaluateConditionId": 2010201,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "250611.1.0",
+  "id": 63,
+  "evaluateConditionId": 130,
+  "unlockTextKey": -1670430104
+ },
+ {
+  "version": "250611.1.0",
+  "id": 64,
+  "evaluateConditionId": 130,
+  "unlockTextKey": 34330571
+ },
+ {
+  "version": "250730.1.0",
+  "id": 65,
+  "evaluateConditionId": 3130010,
+  "unlockTextKey": 1963779933
+ },
+ {
+  "version": "250730.1.0",
+  "id": 66,
+  "evaluateConditionId": 3130010,
+  "unlockTextKey": -335169817
+ },
+ {
+  "version": "250720.1.0",
+  "id": 67,
+  "evaluateConditionId": 140,
+  "unlockTextKey": -1694333327
+ },
+ {
+  "version": "250720.1.0",
+  "id": 68,
+  "evaluateConditionId": 150,
+  "unlockTextKey": 196975584
+ },
+ {
+  "version": "250720.1.0",
+  "id": 69,
+  "evaluateConditionId": 160,
+  "unlockTextKey": 2092608374
+ },
+ {
+  "version": "250720.1.0",
+  "id": 70,
+  "evaluateConditionId": 170,
+  "unlockTextKey": 477962899
+ },
+ {
+  "version": "250730.1.0",
+  "id": 71,
+  "evaluateConditionId": 2040101,
+  "unlockTextKey": 1803162117
+ },
+ {
+  "version": "251010.1.0",
+  "id": 72,
+  "evaluateConditionId": 72008111,
+  "unlockTextKey": 425909798
+ },
+ {
+  "version": "251030.1.0",
+  "id": 73,
+  "evaluateConditionId": 0,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "260110.1.0",
+  "id": 74,
+  "evaluateConditionId": 72011111,
+  "unlockTextKey": 425909798
+ },
+ {
+  "version": "260410.1.0",
+  "id": 75,
+  "evaluateConditionId": 2050101,
+  "unlockTextKey": 1813501468
+ },
+ {
+  "version": "260410.1.0",
+  "id": 81,
+  "evaluateConditionId": 2050101,
+  "unlockTextKey": 1813501468
+ },
+ {
+  "version": "260410.1.0",
+  "id": 82,
+  "evaluateConditionId": 2050101,
+  "unlockTextKey": 1813501468
+ },
+ {
+  "version": "260410.1.0",
+  "id": 76,
+  "evaluateConditionId": 72014111,
+  "unlockTextKey": 425909798
+ },
+ {
+  "version": "260810.1.0",
+  "id": 83,
+  "evaluateConditionId": 1000120,
+  "unlockTextKey": 0
+ },
+ {
+  "version": "260910.1.0",
+  "id": 84,
+  "evaluateConditionId": 2609100,
+  "unlockTextKey": -185365450
+ }
+]

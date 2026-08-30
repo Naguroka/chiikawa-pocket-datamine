@@ -1,0 +1,6 @@
+package com.google.android.gms.common;
+
+/* JADX INFO: compiled from: com.google.android.gms:play-services-basement@@18.6.0 */
+/* JADX INFO: loaded from: classes4.dex */
+public final class zzak extends java.lang.IllegalStateException {
+}

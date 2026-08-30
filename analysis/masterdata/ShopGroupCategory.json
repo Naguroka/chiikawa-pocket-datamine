@@ -1,0 +1,12 @@
+[
+ {
+  "version": "260110.1.0",
+  "id": 1,
+  "viewPlaceType": "TicketPermanentExchange"
+ },
+ {
+  "version": "260110.1.0",
+  "id": 2,
+  "viewPlaceType": "PermanentExchange"
+ }
+]

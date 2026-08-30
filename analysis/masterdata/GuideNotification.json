@@ -1,0 +1,56 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": "GlobalFooterShop",
+  "evaluateConditionOrGroupRelation": 1,
+  "value": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": "ShopMainTabShop",
+  "evaluateConditionOrGroupRelation": 1,
+  "value": 1
+ },
+ {
+  "version": "250330.1.0",
+  "id": "CookingGimmickKitchenBoard",
+  "evaluateConditionOrGroupRelation": 2,
+  "value": 1
+ },
+ {
+  "version": "250330.1.0",
+  "id": "CookingGimmickKitchenBoard2",
+  "evaluateConditionOrGroupRelation": 3,
+  "value": 1
+ },
+ {
+  "version": "250330.1.0",
+  "id": "CookingKitchenFormationMainSlot",
+  "evaluateConditionOrGroupRelation": 2,
+  "value": 1
+ },
+ {
+  "version": "250330.1.0",
+  "id": "CookingKitchenEnhance",
+  "evaluateConditionOrGroupRelation": 3,
+  "value": 1
+ },
+ {
+  "version": "250330.1.0",
+  "id": "CookingResearch",
+  "evaluateConditionOrGroupRelation": 4,
+  "value": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": "CookingMenuThumbnail",
+  "evaluateConditionOrGroupRelation": 4,
+  "value": 1
+ },
+ {
+  "version": "250330.1.0",
+  "id": "CookingMenuDetailEnhance",
+  "evaluateConditionOrGroupRelation": 4,
+  "value": 1
+ }
+]

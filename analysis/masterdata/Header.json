@@ -1,0 +1,423 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "headerResourceItemIds": [
+   0
+  ],
+  "visibleProfile": false,
+  "visibleGuide": false,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": false,
+  "headerLocalizationKey": 2147483647
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "headerResourceItemIds": [
+   1,
+   2
+  ],
+  "visibleProfile": false,
+  "visibleGuide": false,
+  "visibleMenu": true,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": false,
+  "headerLocalizationKey": 2147483647
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "headerResourceItemIds": [
+   1,
+   2
+  ],
+  "visibleProfile": true,
+  "visibleGuide": false,
+  "visibleMenu": true,
+  "visibleSpeedUp": true,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": false,
+  "headerLocalizationKey": 2147483647
+ },
+ {
+  "version": "250330.1.0",
+  "id": 4,
+  "headerResourceItemIds": [
+   1,
+   2
+  ],
+  "visibleProfile": true,
+  "visibleGuide": false,
+  "visibleMenu": true,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": false,
+  "headerLocalizationKey": 2147483647
+ },
+ {
+  "version": "250330.1.0",
+  "id": 5,
+  "headerResourceItemIds": [
+   2
+  ],
+  "visibleProfile": false,
+  "visibleGuide": false,
+  "visibleMenu": true,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": false,
+  "headerLocalizationKey": 2147483647
+ },
+ {
+  "version": "250330.1.0",
+  "id": 11,
+  "headerResourceItemIds": [
+   11,
+   12
+  ],
+  "visibleProfile": false,
+  "visibleGuide": false,
+  "visibleMenu": true,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": true,
+  "headerLocalizationKey": -911730596
+ },
+ {
+  "version": "250330.1.0",
+  "id": 12,
+  "headerResourceItemIds": [
+   11,
+   12
+  ],
+  "visibleProfile": false,
+  "visibleGuide": false,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": true,
+  "headerLocalizationKey": -1821180598
+ },
+ {
+  "version": "250330.1.0",
+  "id": 13,
+  "headerResourceItemIds": [
+   13,
+   2
+  ],
+  "visibleProfile": false,
+  "visibleGuide": true,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": true,
+  "headerLocalizationKey": -494466848
+ },
+ {
+  "version": "250330.1.0",
+  "id": 19,
+  "headerResourceItemIds": [
+   14,
+   2
+  ],
+  "visibleProfile": false,
+  "visibleGuide": true,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": true,
+  "headerLocalizationKey": 1033351327
+ },
+ {
+  "version": "250330.1.0",
+  "id": 101,
+  "headerResourceItemIds": [
+   101
+  ],
+  "visibleProfile": false,
+  "visibleGuide": true,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": true,
+  "headerLocalizationKey": 763859039
+ },
+ {
+  "version": "250330.1.0",
+  "id": 102,
+  "headerResourceItemIds": [
+   201,
+   202
+  ],
+  "visibleProfile": false,
+  "visibleGuide": true,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": true,
+  "visibleHeaderTitle": true,
+  "headerLocalizationKey": 224264979
+ },
+ {
+  "version": "250330.1.0",
+  "id": 103,
+  "headerResourceItemIds": [
+   101,
+   2
+  ],
+  "visibleProfile": false,
+  "visibleGuide": true,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": true,
+  "headerLocalizationKey": 1363424842
+ },
+ {
+  "version": "250330.1.0",
+  "id": 14,
+  "headerResourceItemIds": [
+   11,
+   12
+  ],
+  "visibleProfile": false,
+  "visibleGuide": true,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": true,
+  "headerLocalizationKey": 1064325134
+ },
+ {
+  "version": "250330.1.0",
+  "id": 15,
+  "headerResourceItemIds": [
+   0
+  ],
+  "visibleProfile": false,
+  "visibleGuide": true,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": true,
+  "headerLocalizationKey": 188686638
+ },
+ {
+  "version": "250330.1.0",
+  "id": 16,
+  "headerResourceItemIds": [
+   2,
+   1001
+  ],
+  "visibleProfile": false,
+  "visibleGuide": true,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": false,
+  "headerLocalizationKey": 2147483647
+ },
+ {
+  "version": "250330.1.0",
+  "id": 17,
+  "headerResourceItemIds": [
+   0
+  ],
+  "visibleProfile": false,
+  "visibleGuide": true,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": false,
+  "headerLocalizationKey": 2147483647
+ },
+ {
+  "version": "250330.1.0",
+  "id": 18,
+  "headerResourceItemIds": [
+   401
+  ],
+  "visibleProfile": false,
+  "visibleGuide": true,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": true,
+  "headerLocalizationKey": -2035450581
+ },
+ {
+  "version": "250330.1.0",
+  "id": 20,
+  "headerResourceItemIds": [
+   501,
+   502
+  ],
+  "visibleProfile": false,
+  "visibleGuide": false,
+  "visibleMenu": true,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": false,
+  "headerLocalizationKey": 2147483647
+ },
+ {
+  "version": "250330.1.0",
+  "id": 21,
+  "headerResourceItemIds": [
+   2
+  ],
+  "visibleProfile": false,
+  "visibleGuide": true,
+  "visibleMenu": true,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": false,
+  "headerLocalizationKey": 2147483647
+ },
+ {
+  "version": "260110.1.0",
+  "id": 22,
+  "headerResourceItemIds": [
+   203,
+   16,
+   12
+  ],
+  "visibleProfile": false,
+  "visibleGuide": true,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": true,
+  "headerLocalizationKey": 443123646
+ },
+ {
+  "version": "250850.1.0",
+  "id": 23,
+  "headerResourceItemIds": [
+   0
+  ],
+  "visibleProfile": false,
+  "visibleGuide": true,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": true,
+  "headerLocalizationKey": 1132701167
+ },
+ {
+  "version": "251010.1.0",
+  "id": 24,
+  "headerResourceItemIds": [
+   0
+  ],
+  "visibleProfile": false,
+  "visibleGuide": true,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": false,
+  "headerLocalizationKey": 2147483647
+ },
+ {
+  "version": "260110.1.0",
+  "id": 25,
+  "headerResourceItemIds": [
+   2
+  ],
+  "visibleProfile": false,
+  "visibleGuide": false,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": false,
+  "headerLocalizationKey": 2147483647
+ },
+ {
+  "version": "260410.1.0",
+  "id": 26,
+  "headerResourceItemIds": [
+   0
+  ],
+  "visibleProfile": false,
+  "visibleGuide": true,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": true,
+  "headerLocalizationKey": 911234640
+ },
+ {
+  "version": "260410.1.0",
+  "id": 27,
+  "headerResourceItemIds": [
+   34
+  ],
+  "visibleProfile": false,
+  "visibleGuide": true,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": true,
+  "headerLocalizationKey": -705716486
+ },
+ {
+  "version": "260410.1.0",
+  "id": 28,
+  "headerResourceItemIds": [
+   34
+  ],
+  "visibleProfile": false,
+  "visibleGuide": false,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": true,
+  "headerLocalizationKey": -1362037219
+ },
+ {
+  "version": "260810.1.0",
+  "id": 29,
+  "headerResourceItemIds": [
+   2,
+   6
+  ],
+  "visibleProfile": true,
+  "visibleGuide": false,
+  "visibleMenu": true,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": false,
+  "headerLocalizationKey": 2147483647
+ },
+ {
+  "version": "260810.1.0",
+  "id": 30,
+  "headerResourceItemIds": [
+   0
+  ],
+  "visibleProfile": false,
+  "visibleGuide": false,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": true,
+  "headerLocalizationKey": -32038379
+ },
+ {
+  "version": "260535.1.0",
+  "id": 38,
+  "headerResourceItemIds": [
+   0
+  ],
+  "visibleProfile": false,
+  "visibleGuide": true,
+  "visibleMenu": false,
+  "visibleSpeedUp": false,
+  "visibleCookingBoost": false,
+  "visibleHeaderTitle": true,
+  "headerLocalizationKey": -1021940758
+ }
+]

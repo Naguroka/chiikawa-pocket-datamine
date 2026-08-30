@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package gatewayprotocol.v1;
+
+option swift_prefix = "Gateway";
+
+// The request to upload SCAR signals.
+message GetTokenEventRequest {
+  // SCAR signal for rewarded ads.
+  optional bytes rewarded = 1;
+  // SCAR signal for interstitial ads.
+  optional bytes interstitial = 2;
+  // SCAR signal for banner ads.
+  optional bytes banner = 3;
+  // Token UUID associated with this signals
+  bytes token_id = 4;
+}

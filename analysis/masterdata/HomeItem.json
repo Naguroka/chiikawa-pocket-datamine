@@ -1,0 +1,2966 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "viewConditionId": 0,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 113014,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1033515423,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "viewConditionId": 0,
+  "homeBackgroundType": "Indoor",
+  "assetId": 112001,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1307624720,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "viewConditionId": 0,
+  "homeBackgroundType": "Indoor",
+  "assetId": 112002,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 989328774,
+  "rarityId": 1,
+  "maxLevel": 1,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 4,
+  "viewConditionId": 0,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 113001,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -721840982,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 5,
+  "viewConditionId": 0,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 113003,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 685393252,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 6,
+  "viewConditionId": 0,
+  "homeBackgroundType": "All",
+  "assetId": 211002,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1694611683,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 7,
+  "viewConditionId": 0,
+  "homeBackgroundType": "All",
+  "assetId": 211003,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 66524839,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 8,
+  "viewConditionId": 0,
+  "homeBackgroundType": "All",
+  "assetId": 211004,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1961895473,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 9,
+  "viewConditionId": 0,
+  "homeBackgroundType": "All",
+  "assetId": 111001,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 859945389,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 10,
+  "viewConditionId": 0,
+  "homeBackgroundType": "All",
+  "assetId": 111002,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -959175608,
+  "rarityId": 1,
+  "maxLevel": 1,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 11,
+  "viewConditionId": 0,
+  "homeBackgroundType": "All",
+  "assetId": 111003,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1608349170,
+  "rarityId": 1,
+  "maxLevel": 1,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 12,
+  "viewConditionId": 0,
+  "homeBackgroundType": "All",
+  "assetId": 111004,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1089954580,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 13,
+  "viewConditionId": 0,
+  "homeBackgroundType": "All",
+  "assetId": 111005,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -302418037,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 14,
+  "viewConditionId": 0,
+  "homeBackgroundType": "Indoor",
+  "assetId": 112003,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1543592900,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 15,
+  "viewConditionId": 0,
+  "homeBackgroundType": "Indoor",
+  "assetId": 112004,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1145473339,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 16,
+  "viewConditionId": 0,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 113002,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1311566626,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 17,
+  "viewConditionId": 0,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 113004,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1044783023,
+  "rarityId": 1,
+  "maxLevel": 1,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 18,
+  "viewConditionId": 0,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 113005,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1229008697,
+  "rarityId": 1,
+  "maxLevel": 1,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 19,
+  "viewConditionId": 0,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 113006,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 800555389,
+  "rarityId": 1,
+  "maxLevel": 1,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 20,
+  "viewConditionId": 0,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 113007,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1487974891,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 21,
+  "viewConditionId": 0,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 113008,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -938496902,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 22,
+  "viewConditionId": 0,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 123002,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": -1533845467,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 23,
+  "viewConditionId": 0,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 123003,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": -745254733,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 25,
+  "viewConditionId": 0,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 223002,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": -359353454,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 26,
+  "viewConditionId": 0,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 213003,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1651277052,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 27,
+  "viewConditionId": 0,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 223003,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": 77255358,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250410.1.0",
+  "id": 28,
+  "viewConditionId": 2504104,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 213006,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1939726888,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250350.1.0",
+  "id": 29,
+  "viewConditionId": 2503508,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 213007,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -484245575,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250350.1.0",
+  "id": 30,
+  "viewConditionId": 2503508,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 223004,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": -1809461457,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250410.1.0",
+  "id": 31,
+  "viewConditionId": 2504104,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 223001,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": -186497334,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 32,
+  "viewConditionId": 0,
+  "homeBackgroundType": "Indoor",
+  "assetId": 111006,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -2082113956,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250612.1.0",
+  "id": 33,
+  "viewConditionId": 2506121,
+  "homeBackgroundType": "Indoor",
+  "assetId": 111007,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 451684326,
+  "rarityId": 1,
+  "maxLevel": 1,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250610.1.0",
+  "id": 34,
+  "viewConditionId": 2506102,
+  "homeBackgroundType": "Indoor",
+  "assetId": 111008,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1925251474,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250612.1.0",
+  "id": 35,
+  "viewConditionId": 2506121,
+  "homeBackgroundType": "Indoor",
+  "assetId": 111009,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 495051775,
+  "rarityId": 1,
+  "maxLevel": 1,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250612.1.0",
+  "id": 37,
+  "viewConditionId": 2506121,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 113009,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -208698669,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250910.1.0",
+  "id": 38,
+  "viewConditionId": 2508105,
+  "homeBackgroundType": "All",
+  "assetId": 113010,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -96874760,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250710.1.0",
+  "id": 39,
+  "viewConditionId": 2507001,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 113011,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -2071416251,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250510.1.0",
+  "id": 41,
+  "viewConditionId": 2505103,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 113013,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1146892275,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250350.1.0",
+  "id": 42,
+  "viewConditionId": 2503508,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 213009,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -861609829,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 2503501
+ },
+ {
+  "version": "250410.1.0",
+  "id": 43,
+  "viewConditionId": 2504104,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 213010,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1437446433,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 2504101
+ },
+ {
+  "version": "250440.1.0",
+  "id": 44,
+  "viewConditionId": 2504407,
+  "homeBackgroundType": "All",
+  "assetId": 213011,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 581599671,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250440.1.0",
+  "id": 45,
+  "viewConditionId": 2504407,
+  "homeBackgroundType": "All",
+  "assetId": 213012,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1127345132,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250450.1.0",
+  "id": 46,
+  "viewConditionId": 2504506,
+  "homeBackgroundType": "All",
+  "assetId": 213013,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -876010366,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250440.1.0",
+  "id": 47,
+  "viewConditionId": 2504407,
+  "homeBackgroundType": "All",
+  "assetId": 213018,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1388344632,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250450.1.0",
+  "id": 48,
+  "viewConditionId": 2504506,
+  "homeBackgroundType": "All",
+  "assetId": 213019,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 633816494,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250550.1.0",
+  "id": 49,
+  "viewConditionId": 2505502,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 213022,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1250404289,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250550.1.0",
+  "id": 50,
+  "viewConditionId": 2505502,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 213020,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1031837527,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250550.1.0",
+  "id": 51,
+  "viewConditionId": 2505502,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 213021,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1564942004,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250550.1.0",
+  "id": 52,
+  "viewConditionId": 2505502,
+  "homeBackgroundType": "Outdoor",
+  "assetId": 213023,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -708849190,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250530.1.0",
+  "id": 53,
+  "viewConditionId": 2505302,
+  "homeBackgroundType": "All",
+  "assetId": 213024,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1287028832,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250630.1.0",
+  "id": 54,
+  "viewConditionId": 2506302,
+  "homeBackgroundType": "All",
+  "assetId": 213029,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1001500918,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250610.1.0",
+  "id": 55,
+  "viewConditionId": 2506102,
+  "homeBackgroundType": "All",
+  "assetId": 213025,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1512757931,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250630.1.0",
+  "id": 56,
+  "viewConditionId": 2506302,
+  "homeBackgroundType": "All",
+  "assetId": 213027,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -757983805,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250610.1.0",
+  "id": 57,
+  "viewConditionId": 2506102,
+  "homeBackgroundType": "All",
+  "assetId": 213026,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1272661113,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250610.1.0",
+  "id": 58,
+  "viewConditionId": 2506102,
+  "homeBackgroundType": "All",
+  "assetId": 213028,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1021080815,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250710.1.0",
+  "id": 59,
+  "viewConditionId": 2507001,
+  "homeBackgroundType": "All",
+  "assetId": 213030,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1402771074,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250710.1.0",
+  "id": 60,
+  "viewConditionId": 2507001,
+  "homeBackgroundType": "All",
+  "assetId": 213031,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -23952871,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250730.1.0",
+  "id": 61,
+  "viewConditionId": 2507301,
+  "homeBackgroundType": "All",
+  "assetId": 213032,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -614180376,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250710.1.0",
+  "id": 62,
+  "viewConditionId": 2507001,
+  "homeBackgroundType": "All",
+  "assetId": 213033,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1738265507,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250730.1.0",
+  "id": 63,
+  "viewConditionId": 2507301,
+  "homeBackgroundType": "All",
+  "assetId": 213034,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1986678129,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250810.1.0",
+  "id": 64,
+  "viewConditionId": 2508105,
+  "homeBackgroundType": "All",
+  "assetId": 213035,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 278717237,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250820.1.0",
+  "id": 65,
+  "viewConditionId": 2508201,
+  "homeBackgroundType": "All",
+  "assetId": 213036,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1896319338,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250820.1.0",
+  "id": 66,
+  "viewConditionId": 2508201,
+  "homeBackgroundType": "All",
+  "assetId": 223005,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": -100710912,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250930.1.0",
+  "id": 67,
+  "viewConditionId": 2509301,
+  "homeBackgroundType": "All",
+  "assetId": 223006,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": -2024916291,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250930.1.0",
+  "id": 68,
+  "viewConditionId": 2509301,
+  "homeBackgroundType": "All",
+  "assetId": 213037,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 401680172,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250910.1.0",
+  "id": 69,
+  "viewConditionId": 2509102,
+  "homeBackgroundType": "All",
+  "assetId": 213038,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1626740666,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "250910.1.0",
+  "id": 70,
+  "viewConditionId": 2509103,
+  "homeBackgroundType": "All",
+  "assetId": 121001,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": -263648725,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "251010.1.0",
+  "id": 71,
+  "viewConditionId": 2510101,
+  "homeBackgroundType": "All",
+  "assetId": 223007,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": -410406056,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "251020.1.0",
+  "id": 72,
+  "viewConditionId": 2510301,
+  "homeBackgroundType": "All",
+  "assetId": 223008,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": 159896180,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "251010.1.0",
+  "id": 73,
+  "viewConditionId": 2510101,
+  "homeBackgroundType": "All",
+  "assetId": 223009,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": 2122375906,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "251010.1.0",
+  "id": 74,
+  "viewConditionId": 2510101,
+  "homeBackgroundType": "All",
+  "assetId": 113015,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1869708338,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "251110.1.0",
+  "id": 75,
+  "viewConditionId": 2511101,
+  "homeBackgroundType": "All",
+  "assetId": 223010,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": -1746712617,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "251030.1.0",
+  "id": 76,
+  "viewConditionId": 2510302,
+  "homeBackgroundType": "All",
+  "assetId": 213039,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -521898175,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "251110.1.0",
+  "id": 77,
+  "viewConditionId": 2511101,
+  "homeBackgroundType": "All",
+  "assetId": 213040,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 2045585147,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "251110.1.0",
+  "id": 78,
+  "viewConditionId": 2511102,
+  "homeBackgroundType": "All",
+  "assetId": 121002,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": 250222189,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "251230.1.0",
+  "id": 79,
+  "viewConditionId": 2512301,
+  "homeBackgroundType": "All",
+  "assetId": 223011,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": -1638593540,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "251230.1.0",
+  "id": 80,
+  "viewConditionId": 2512301,
+  "homeBackgroundType": "All",
+  "assetId": 213041,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -380486806,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "251210.1.0",
+  "id": 81,
+  "viewConditionId": 2512101,
+  "homeBackgroundType": "All",
+  "assetId": 213042,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 387358465,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "251210.1.0",
+  "id": 82,
+  "viewConditionId": 2512102,
+  "homeBackgroundType": "All",
+  "assetId": 113016,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1611771799,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260130.1.0",
+  "id": 83,
+  "viewConditionId": 2601301,
+  "homeBackgroundType": "All",
+  "assetId": 223012,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": -1910518085,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260110.1.0",
+  "id": 84,
+  "viewConditionId": 2601101,
+  "homeBackgroundType": "All",
+  "assetId": 213043,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 276519704,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260130.1.0",
+  "id": 85,
+  "viewConditionId": 2601301,
+  "homeBackgroundType": "All",
+  "assetId": 213044,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1736207246,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260110.1.0",
+  "id": 86,
+  "viewConditionId": 2601101,
+  "homeBackgroundType": "All",
+  "assetId": 113018,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -25871820,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260130.1.0",
+  "id": 87,
+  "viewConditionId": 2601302,
+  "homeBackgroundType": "All",
+  "assetId": 113017,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -115802579,
+  "rarityId": 1,
+  "maxLevel": 1,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260230.1.0",
+  "id": 88,
+  "viewConditionId": 2602301,
+  "homeBackgroundType": "All",
+  "assetId": 223013,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": -1989014878,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260210.1.0",
+  "id": 89,
+  "viewConditionId": 2602101,
+  "homeBackgroundType": "All",
+  "assetId": 213045,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 432871219,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260230.1.0",
+  "id": 90,
+  "viewConditionId": 2602301,
+  "homeBackgroundType": "All",
+  "assetId": 213046,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1858742181,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260210.1.0",
+  "id": 91,
+  "viewConditionId": 2602101,
+  "homeBackgroundType": "All",
+  "assetId": 113019,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 235777600,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260330.1.0",
+  "id": 92,
+  "viewConditionId": 2603301,
+  "homeBackgroundType": "All",
+  "assetId": 223014,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": 2030739158,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260310.1.0",
+  "id": 93,
+  "viewConditionId": 2603101,
+  "homeBackgroundType": "All",
+  "assetId": 213047,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -536621204,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260330.1.0",
+  "id": 94,
+  "viewConditionId": 2603301,
+  "homeBackgroundType": "All",
+  "assetId": 213048,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1761280006,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260310.1.0",
+  "id": 95,
+  "viewConditionId": 2603102,
+  "homeBackgroundType": "All",
+  "assetId": 113021,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 157313625,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 96,
+  "viewConditionId": 2604101,
+  "homeBackgroundType": "All",
+  "assetId": 223015,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": 2120702671,
+  "rarityId": 2,
+  "maxLevel": 3,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260420.1.0",
+  "id": 97,
+  "viewConditionId": 2604201,
+  "homeBackgroundType": "All",
+  "assetId": 223016,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": -412218507,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260420.1.0",
+  "id": 98,
+  "viewConditionId": 2604201,
+  "homeBackgroundType": "All",
+  "assetId": 223017,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": -1872151581,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 99,
+  "viewConditionId": 2604102,
+  "homeBackgroundType": "All",
+  "assetId": 121003,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": 14034546,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 100,
+  "viewConditionId": 2604103,
+  "homeBackgroundType": "All",
+  "assetId": 113020,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 2010191588,
+  "rarityId": 1,
+  "maxLevel": 1,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260510.1.0",
+  "id": 101,
+  "viewConditionId": 2605101,
+  "homeBackgroundType": "All",
+  "assetId": 223018,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": -560452310,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260530.1.0",
+  "id": 102,
+  "viewConditionId": 2605301,
+  "homeBackgroundType": "All",
+  "assetId": 213049,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1449189956,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260530.1.0",
+  "id": 103,
+  "viewConditionId": 2605301,
+  "homeBackgroundType": "All",
+  "assetId": 213050,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 815156230,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260510.1.0",
+  "id": 104,
+  "viewConditionId": 2605102,
+  "homeBackgroundType": "All",
+  "assetId": 113023,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1200716944,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260630.1.0",
+  "id": 105,
+  "viewConditionId": 2606301,
+  "homeBackgroundType": "All",
+  "assetId": 223019,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": -638195405,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260610.1.0",
+  "id": 106,
+  "viewConditionId": 2606101,
+  "homeBackgroundType": "All",
+  "assetId": 213051,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 939231263,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260630.1.0",
+  "id": 107,
+  "viewConditionId": 2606301,
+  "homeBackgroundType": "All",
+  "assetId": 213052,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1359816283,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260610.1.0",
+  "id": 108,
+  "viewConditionId": 2606102,
+  "homeBackgroundType": "All",
+  "assetId": 121004,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": 1090304137,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260730.1.0",
+  "id": 109,
+  "viewConditionId": 2607301,
+  "homeBackgroundType": "All",
+  "assetId": 223020,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": -800873192,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260710.1.0",
+  "id": 110,
+  "viewConditionId": 2607101,
+  "homeBackgroundType": "All",
+  "assetId": 213053,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1488677490,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260730.1.0",
+  "id": 111,
+  "viewConditionId": 2607301,
+  "homeBackgroundType": "All",
+  "assetId": 213054,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -947708821,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260710.1.0",
+  "id": 112,
+  "viewConditionId": 2607102,
+  "homeBackgroundType": "All",
+  "assetId": 113026,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1333515011,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260810.1.0",
+  "id": 113,
+  "viewConditionId": 2608105,
+  "homeBackgroundType": "All",
+  "assetId": 213055,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 697138503,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260810.1.0",
+  "id": 114,
+  "viewConditionId": 2608106,
+  "homeBackgroundType": "All",
+  "assetId": 113027,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": 1586122193,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260830.1.0",
+  "id": 115,
+  "viewConditionId": 2608306,
+  "homeBackgroundType": "All",
+  "assetId": 113024,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1058088846,
+  "rarityId": 1,
+  "maxLevel": 1,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260910.1.0",
+  "id": 116,
+  "viewConditionId": 2609105,
+  "homeBackgroundType": "All",
+  "assetId": 213056,
+  "slotNum": 1,
+  "eventZone": [
+   0.0,
+   0.5,
+   3.0,
+   3.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.0,
+   2.0,
+   2.0
+  ],
+  "nameTextKey": -1209407260,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ },
+ {
+  "version": "260910.1.0",
+  "id": 117,
+  "viewConditionId": 2609106,
+  "homeBackgroundType": "All",
+  "assetId": 121005,
+  "slotNum": 2,
+  "eventZone": [
+   0.0,
+   0.0,
+   5.0,
+   4.0
+  ],
+  "bodyZone": [
+   0.0,
+   0.5,
+   4.0,
+   3.0
+  ],
+  "nameTextKey": 786479454,
+  "rarityId": 1,
+  "maxLevel": 2,
+  "experienceGroupId": 19,
+  "possessionEffectId": 3501,
+  "rewardAcquisitionRouteViewConditionId": 0
+ }
+]

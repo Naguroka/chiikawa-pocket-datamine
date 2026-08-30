@@ -1,0 +1,44 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "assetId": 1,
+  "offsetX": 0.5,
+  "offsetY": 1.0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 101,
+  "assetId": 101,
+  "offsetX": 0.5,
+  "offsetY": 2.0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 201,
+  "assetId": 201,
+  "offsetX": -0.5,
+  "offsetY": 1.0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 301,
+  "assetId": 301,
+  "offsetX": -0.5,
+  "offsetY": 2.0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 501,
+  "assetId": 501,
+  "offsetX": -0.5,
+  "offsetY": 1.0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 601,
+  "assetId": 601,
+  "offsetX": -0.5,
+  "offsetY": 1.0
+ }
+]

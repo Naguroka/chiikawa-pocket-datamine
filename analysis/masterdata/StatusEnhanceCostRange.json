@@ -1,0 +1,234 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 101,
+  "groupId": 1,
+  "startLevel": 2,
+  "endLevel": 3,
+  "coefficient": 1.25
+ },
+ {
+  "version": "250330.1.0",
+  "id": 102,
+  "groupId": 1,
+  "startLevel": 4,
+  "endLevel": 4,
+  "coefficient": 1.600000023841858
+ },
+ {
+  "version": "250330.1.0",
+  "id": 103,
+  "groupId": 1,
+  "startLevel": 5,
+  "endLevel": 5,
+  "coefficient": 2.0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 104,
+  "groupId": 1,
+  "startLevel": 6,
+  "endLevel": 1000,
+  "coefficient": 1.0180000066757202
+ },
+ {
+  "version": "250330.1.0",
+  "id": 105,
+  "groupId": 1,
+  "startLevel": 1001,
+  "endLevel": 10000,
+  "coefficient": 1.0080000162124634
+ },
+ {
+  "version": "250330.1.0",
+  "id": 106,
+  "groupId": 1,
+  "startLevel": 10001,
+  "endLevel": 90000,
+  "coefficient": 1.0049999952316284
+ },
+ {
+  "version": "251210.1.0",
+  "id": 107,
+  "groupId": 1,
+  "startLevel": 90001,
+  "endLevel": 120000,
+  "coefficient": 1.0049999952316284
+ },
+ {
+  "version": "260330.1.0",
+  "id": 108,
+  "groupId": 1,
+  "startLevel": 120001,
+  "endLevel": 150000,
+  "coefficient": 1.0045000314712524
+ },
+ {
+  "version": "260630.1.0",
+  "id": 109,
+  "groupId": 1,
+  "startLevel": 150001,
+  "endLevel": 180000,
+  "coefficient": 1.0045000314712524
+ },
+ {
+  "version": "250330.1.0",
+  "id": 201,
+  "groupId": 2,
+  "startLevel": 2,
+  "endLevel": 100,
+  "coefficient": 1.0700000524520874
+ },
+ {
+  "version": "250330.1.0",
+  "id": 202,
+  "groupId": 2,
+  "startLevel": 101,
+  "endLevel": 500,
+  "coefficient": 1.0410000085830688
+ },
+ {
+  "version": "250330.1.0",
+  "id": 203,
+  "groupId": 2,
+  "startLevel": 501,
+  "endLevel": 1000,
+  "coefficient": 1.031999945640564
+ },
+ {
+  "version": "250330.1.0",
+  "id": 301,
+  "groupId": 3,
+  "startLevel": 2,
+  "endLevel": 1000,
+  "coefficient": 1.0019999742507935
+ },
+ {
+  "version": "250330.1.0",
+  "id": 302,
+  "groupId": 3,
+  "startLevel": 1001,
+  "endLevel": 2500,
+  "coefficient": 1.0049999952316284
+ },
+ {
+  "version": "250330.1.0",
+  "id": 303,
+  "groupId": 3,
+  "startLevel": 2501,
+  "endLevel": 4000,
+  "coefficient": 1.00600004196167
+ },
+ {
+  "version": "250330.1.0",
+  "id": 304,
+  "groupId": 3,
+  "startLevel": 4001,
+  "endLevel": 7000,
+  "coefficient": 1.0049999952316284
+ },
+ {
+  "version": "250330.1.0",
+  "id": 305,
+  "groupId": 3,
+  "startLevel": 7001,
+  "endLevel": 10000,
+  "coefficient": 1.0080000162124634
+ },
+ {
+  "version": "250330.1.0",
+  "id": 306,
+  "groupId": 3,
+  "startLevel": 10001,
+  "endLevel": 90000,
+  "coefficient": 1.0049999952316284
+ },
+ {
+  "version": "251210.1.0",
+  "id": 307,
+  "groupId": 3,
+  "startLevel": 90001,
+  "endLevel": 120000,
+  "coefficient": 1.0049999952316284
+ },
+ {
+  "version": "260330.1.0",
+  "id": 308,
+  "groupId": 3,
+  "startLevel": 120001,
+  "endLevel": 150000,
+  "coefficient": 1.0045000314712524
+ },
+ {
+  "version": "260630.1.0",
+  "id": 309,
+  "groupId": 3,
+  "startLevel": 150001,
+  "endLevel": 180000,
+  "coefficient": 1.0045000314712524
+ },
+ {
+  "version": "250612.1.0",
+  "id": 401,
+  "groupId": 4,
+  "startLevel": 2,
+  "endLevel": 50,
+  "coefficient": 59.599998474121094
+ },
+ {
+  "version": "250612.1.0",
+  "id": 402,
+  "groupId": 4,
+  "startLevel": 51,
+  "endLevel": 300,
+  "coefficient": 1.062000036239624
+ },
+ {
+  "version": "250612.1.0",
+  "id": 403,
+  "groupId": 4,
+  "startLevel": 301,
+  "endLevel": 3000,
+  "coefficient": 1.0509999990463257
+ },
+ {
+  "version": "250612.1.0",
+  "id": 404,
+  "groupId": 4,
+  "startLevel": 3001,
+  "endLevel": 10000,
+  "coefficient": 1.0199999809265137
+ },
+ {
+  "version": "251210.1.0",
+  "id": 405,
+  "groupId": 4,
+  "startLevel": 10001,
+  "endLevel": 16000,
+  "coefficient": 1.0199999809265137
+ },
+ {
+  "version": "260330.1.0",
+  "id": 406,
+  "groupId": 4,
+  "startLevel": 16001,
+  "endLevel": 20000,
+  "coefficient": 1.0199999809265137
+ },
+ {
+  "version": "260610.1.0",
+  "id": 407,
+  "groupId": 4,
+  "startLevel": 20001,
+  "endLevel": 21000,
+  "coefficient": 1.0199999809265137
+ },
+ {
+  "version": "260630.1.0",
+  "id": 408,
+  "groupId": 4,
+  "startLevel": 21001,
+  "endLevel": 29000,
+  "coefficient": 1.0199999809265137
+ }
+]

@@ -1,0 +1,198 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "groupType": "MainBattleLose",
+  "textKey": 1614089256,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "groupType": "MainBattleTimeUp",
+  "textKey": -1568855975,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "groupType": "SubBattleBossRushLose",
+  "textKey": 1614089256,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 4,
+  "groupType": "SubBattleBossRushTimeUp",
+  "textKey": -1568855975,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 5,
+  "groupType": "SubBattleGoldTimeUp",
+  "textKey": -1568855975,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 6,
+  "groupType": "GemResourceLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 7,
+  "groupType": "CostumeEnhanceResourceLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 8,
+  "groupType": "CostumePromotionResourceLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 9,
+  "groupType": "BossRushResourceLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 10,
+  "groupType": "GoldDungeonResourceLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 11,
+  "groupType": "WeedingHoeLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 12,
+  "groupType": "WeedingDrillLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 13,
+  "groupType": "WeedingBombLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 14,
+  "groupType": "StudyResourceLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 15,
+  "groupType": "CookingResourceLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 16,
+  "groupType": "MasteryEnhanceResourceLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 17,
+  "groupType": "MasteryPromotionResourceLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 18,
+  "groupType": "PaidGemResourceLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 19,
+  "groupType": "CookingUnlockLevelUpperResourceLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 20,
+  "groupType": "HomeItemEnhanceResourceLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250720.1.0",
+  "id": 21,
+  "groupType": "SubBattleTreasureLose",
+  "textKey": 1614089256,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250720.1.0",
+  "id": 22,
+  "groupType": "SubBattleTreasureTimeUp",
+  "textKey": -1568855975,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "250720.1.0",
+  "id": 23,
+  "groupType": "SubBattleTreasureResourceLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "260110.1.0",
+  "id": 24,
+  "groupType": "TreasureEnhanceResourceLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "260110.1.0",
+  "id": 25,
+  "groupType": "TreasurePromotionResourceLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "260410.1.0",
+  "id": 26,
+  "groupType": "SubBattleStrongGemResourceLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "260410.1.0",
+  "id": 31,
+  "groupType": "KeyholderEnhanceResourceLack",
+  "textKey": 1165060948,
+  "maximumDisplayCount": 4
+ },
+ {
+  "version": "260410.1.0",
+  "id": 32,
+  "groupType": "KeyholderMax",
+  "textKey": -1774555501,
+  "maximumDisplayCount": 4
+ }
+]

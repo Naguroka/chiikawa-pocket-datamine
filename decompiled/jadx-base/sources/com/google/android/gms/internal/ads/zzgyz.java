@@ -1,0 +1,11 @@
+package com.google.android.gms.internal.ads;
+
+/* JADX INFO: compiled from: com.google.android.gms:play-services-ads-lite@@23.6.0 */
+/* JADX INFO: loaded from: classes4.dex */
+interface zzgyz {
+    com.google.android.gms.internal.ads.zzgzc zza();
+
+    boolean zzb();
+
+    int zzc();
+}

@@ -1,0 +1,3572 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "huntDifficultyId": 1,
+  "index": 0,
+  "huntAreaId": 101
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "huntDifficultyId": 1,
+  "index": 1,
+  "huntAreaId": 102
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "huntDifficultyId": 1,
+  "index": 2,
+  "huntAreaId": 103
+ },
+ {
+  "version": "250330.1.0",
+  "id": 4,
+  "huntDifficultyId": 1,
+  "index": 3,
+  "huntAreaId": 104
+ },
+ {
+  "version": "250330.1.0",
+  "id": 5,
+  "huntDifficultyId": 1,
+  "index": 4,
+  "huntAreaId": 105
+ },
+ {
+  "version": "250330.1.0",
+  "id": 6,
+  "huntDifficultyId": 1,
+  "index": 5,
+  "huntAreaId": 106
+ },
+ {
+  "version": "250330.1.0",
+  "id": 7,
+  "huntDifficultyId": 1,
+  "index": 6,
+  "huntAreaId": 107
+ },
+ {
+  "version": "250330.1.0",
+  "id": 8,
+  "huntDifficultyId": 1,
+  "index": 7,
+  "huntAreaId": 108
+ },
+ {
+  "version": "250330.1.0",
+  "id": 9,
+  "huntDifficultyId": 1,
+  "index": 8,
+  "huntAreaId": 109
+ },
+ {
+  "version": "250330.1.0",
+  "id": 10,
+  "huntDifficultyId": 1,
+  "index": 9,
+  "huntAreaId": 110
+ },
+ {
+  "version": "250330.1.0",
+  "id": 11,
+  "huntDifficultyId": 2,
+  "index": 0,
+  "huntAreaId": 201
+ },
+ {
+  "version": "250330.1.0",
+  "id": 12,
+  "huntDifficultyId": 2,
+  "index": 1,
+  "huntAreaId": 202
+ },
+ {
+  "version": "250330.1.0",
+  "id": 13,
+  "huntDifficultyId": 2,
+  "index": 2,
+  "huntAreaId": 203
+ },
+ {
+  "version": "250330.1.0",
+  "id": 14,
+  "huntDifficultyId": 2,
+  "index": 3,
+  "huntAreaId": 204
+ },
+ {
+  "version": "250330.1.0",
+  "id": 15,
+  "huntDifficultyId": 2,
+  "index": 4,
+  "huntAreaId": 205
+ },
+ {
+  "version": "250330.1.0",
+  "id": 16,
+  "huntDifficultyId": 2,
+  "index": 5,
+  "huntAreaId": 206
+ },
+ {
+  "version": "250330.1.0",
+  "id": 17,
+  "huntDifficultyId": 2,
+  "index": 6,
+  "huntAreaId": 207
+ },
+ {
+  "version": "250330.1.0",
+  "id": 18,
+  "huntDifficultyId": 2,
+  "index": 7,
+  "huntAreaId": 208
+ },
+ {
+  "version": "250330.1.0",
+  "id": 19,
+  "huntDifficultyId": 2,
+  "index": 8,
+  "huntAreaId": 209
+ },
+ {
+  "version": "250330.1.0",
+  "id": 20,
+  "huntDifficultyId": 2,
+  "index": 9,
+  "huntAreaId": 210
+ },
+ {
+  "version": "250330.1.0",
+  "id": 21,
+  "huntDifficultyId": 3,
+  "index": 0,
+  "huntAreaId": 301
+ },
+ {
+  "version": "250330.1.0",
+  "id": 22,
+  "huntDifficultyId": 3,
+  "index": 1,
+  "huntAreaId": 302
+ },
+ {
+  "version": "250330.1.0",
+  "id": 23,
+  "huntDifficultyId": 3,
+  "index": 2,
+  "huntAreaId": 303
+ },
+ {
+  "version": "250330.1.0",
+  "id": 24,
+  "huntDifficultyId": 3,
+  "index": 3,
+  "huntAreaId": 304
+ },
+ {
+  "version": "250330.1.0",
+  "id": 25,
+  "huntDifficultyId": 3,
+  "index": 4,
+  "huntAreaId": 305
+ },
+ {
+  "version": "250330.1.0",
+  "id": 26,
+  "huntDifficultyId": 3,
+  "index": 5,
+  "huntAreaId": 306
+ },
+ {
+  "version": "250330.1.0",
+  "id": 27,
+  "huntDifficultyId": 3,
+  "index": 6,
+  "huntAreaId": 307
+ },
+ {
+  "version": "250330.1.0",
+  "id": 28,
+  "huntDifficultyId": 3,
+  "index": 7,
+  "huntAreaId": 308
+ },
+ {
+  "version": "250330.1.0",
+  "id": 29,
+  "huntDifficultyId": 3,
+  "index": 8,
+  "huntAreaId": 309
+ },
+ {
+  "version": "250330.1.0",
+  "id": 30,
+  "huntDifficultyId": 3,
+  "index": 9,
+  "huntAreaId": 310
+ },
+ {
+  "version": "250330.1.0",
+  "id": 31,
+  "huntDifficultyId": 4,
+  "index": 0,
+  "huntAreaId": 401
+ },
+ {
+  "version": "250330.1.0",
+  "id": 32,
+  "huntDifficultyId": 4,
+  "index": 1,
+  "huntAreaId": 402
+ },
+ {
+  "version": "250330.1.0",
+  "id": 33,
+  "huntDifficultyId": 4,
+  "index": 2,
+  "huntAreaId": 403
+ },
+ {
+  "version": "250330.1.0",
+  "id": 34,
+  "huntDifficultyId": 4,
+  "index": 3,
+  "huntAreaId": 404
+ },
+ {
+  "version": "250330.1.0",
+  "id": 35,
+  "huntDifficultyId": 4,
+  "index": 4,
+  "huntAreaId": 405
+ },
+ {
+  "version": "250330.1.0",
+  "id": 36,
+  "huntDifficultyId": 4,
+  "index": 5,
+  "huntAreaId": 406
+ },
+ {
+  "version": "250330.1.0",
+  "id": 37,
+  "huntDifficultyId": 4,
+  "index": 6,
+  "huntAreaId": 407
+ },
+ {
+  "version": "250330.1.0",
+  "id": 38,
+  "huntDifficultyId": 4,
+  "index": 7,
+  "huntAreaId": 408
+ },
+ {
+  "version": "250330.1.0",
+  "id": 39,
+  "huntDifficultyId": 4,
+  "index": 8,
+  "huntAreaId": 409
+ },
+ {
+  "version": "250330.1.0",
+  "id": 40,
+  "huntDifficultyId": 4,
+  "index": 9,
+  "huntAreaId": 410
+ },
+ {
+  "version": "250330.1.0",
+  "id": 41,
+  "huntDifficultyId": 5,
+  "index": 0,
+  "huntAreaId": 501
+ },
+ {
+  "version": "250330.1.0",
+  "id": 42,
+  "huntDifficultyId": 5,
+  "index": 1,
+  "huntAreaId": 502
+ },
+ {
+  "version": "250330.1.0",
+  "id": 43,
+  "huntDifficultyId": 5,
+  "index": 2,
+  "huntAreaId": 503
+ },
+ {
+  "version": "250330.1.0",
+  "id": 44,
+  "huntDifficultyId": 5,
+  "index": 3,
+  "huntAreaId": 504
+ },
+ {
+  "version": "250330.1.0",
+  "id": 45,
+  "huntDifficultyId": 5,
+  "index": 4,
+  "huntAreaId": 505
+ },
+ {
+  "version": "250330.1.0",
+  "id": 46,
+  "huntDifficultyId": 5,
+  "index": 5,
+  "huntAreaId": 506
+ },
+ {
+  "version": "250330.1.0",
+  "id": 47,
+  "huntDifficultyId": 5,
+  "index": 6,
+  "huntAreaId": 507
+ },
+ {
+  "version": "250330.1.0",
+  "id": 48,
+  "huntDifficultyId": 5,
+  "index": 7,
+  "huntAreaId": 508
+ },
+ {
+  "version": "250330.1.0",
+  "id": 49,
+  "huntDifficultyId": 5,
+  "index": 8,
+  "huntAreaId": 509
+ },
+ {
+  "version": "250330.1.0",
+  "id": 50,
+  "huntDifficultyId": 5,
+  "index": 9,
+  "huntAreaId": 510
+ },
+ {
+  "version": "250330.1.0",
+  "id": 51,
+  "huntDifficultyId": 6,
+  "index": 0,
+  "huntAreaId": 601
+ },
+ {
+  "version": "250330.1.0",
+  "id": 52,
+  "huntDifficultyId": 6,
+  "index": 1,
+  "huntAreaId": 602
+ },
+ {
+  "version": "250330.1.0",
+  "id": 53,
+  "huntDifficultyId": 6,
+  "index": 2,
+  "huntAreaId": 603
+ },
+ {
+  "version": "250330.1.0",
+  "id": 54,
+  "huntDifficultyId": 6,
+  "index": 3,
+  "huntAreaId": 604
+ },
+ {
+  "version": "250330.1.0",
+  "id": 55,
+  "huntDifficultyId": 6,
+  "index": 4,
+  "huntAreaId": 605
+ },
+ {
+  "version": "250330.1.0",
+  "id": 56,
+  "huntDifficultyId": 6,
+  "index": 5,
+  "huntAreaId": 606
+ },
+ {
+  "version": "250330.1.0",
+  "id": 57,
+  "huntDifficultyId": 6,
+  "index": 6,
+  "huntAreaId": 607
+ },
+ {
+  "version": "250330.1.0",
+  "id": 58,
+  "huntDifficultyId": 6,
+  "index": 7,
+  "huntAreaId": 608
+ },
+ {
+  "version": "250330.1.0",
+  "id": 59,
+  "huntDifficultyId": 6,
+  "index": 8,
+  "huntAreaId": 609
+ },
+ {
+  "version": "250330.1.0",
+  "id": 60,
+  "huntDifficultyId": 6,
+  "index": 9,
+  "huntAreaId": 610
+ },
+ {
+  "version": "250330.1.0",
+  "id": 61,
+  "huntDifficultyId": 7,
+  "index": 0,
+  "huntAreaId": 701
+ },
+ {
+  "version": "250330.1.0",
+  "id": 62,
+  "huntDifficultyId": 7,
+  "index": 1,
+  "huntAreaId": 702
+ },
+ {
+  "version": "250330.1.0",
+  "id": 63,
+  "huntDifficultyId": 7,
+  "index": 2,
+  "huntAreaId": 703
+ },
+ {
+  "version": "250330.1.0",
+  "id": 64,
+  "huntDifficultyId": 7,
+  "index": 3,
+  "huntAreaId": 704
+ },
+ {
+  "version": "250330.1.0",
+  "id": 65,
+  "huntDifficultyId": 7,
+  "index": 4,
+  "huntAreaId": 705
+ },
+ {
+  "version": "250330.1.0",
+  "id": 66,
+  "huntDifficultyId": 7,
+  "index": 5,
+  "huntAreaId": 706
+ },
+ {
+  "version": "250330.1.0",
+  "id": 67,
+  "huntDifficultyId": 7,
+  "index": 6,
+  "huntAreaId": 707
+ },
+ {
+  "version": "250330.1.0",
+  "id": 68,
+  "huntDifficultyId": 7,
+  "index": 7,
+  "huntAreaId": 708
+ },
+ {
+  "version": "250330.1.0",
+  "id": 69,
+  "huntDifficultyId": 7,
+  "index": 8,
+  "huntAreaId": 709
+ },
+ {
+  "version": "250330.1.0",
+  "id": 70,
+  "huntDifficultyId": 7,
+  "index": 9,
+  "huntAreaId": 710
+ },
+ {
+  "version": "250330.1.0",
+  "id": 71,
+  "huntDifficultyId": 8,
+  "index": 0,
+  "huntAreaId": 801
+ },
+ {
+  "version": "250330.1.0",
+  "id": 72,
+  "huntDifficultyId": 8,
+  "index": 1,
+  "huntAreaId": 802
+ },
+ {
+  "version": "250330.1.0",
+  "id": 73,
+  "huntDifficultyId": 8,
+  "index": 2,
+  "huntAreaId": 803
+ },
+ {
+  "version": "250330.1.0",
+  "id": 74,
+  "huntDifficultyId": 8,
+  "index": 3,
+  "huntAreaId": 804
+ },
+ {
+  "version": "250330.1.0",
+  "id": 75,
+  "huntDifficultyId": 8,
+  "index": 4,
+  "huntAreaId": 805
+ },
+ {
+  "version": "250330.1.0",
+  "id": 76,
+  "huntDifficultyId": 8,
+  "index": 5,
+  "huntAreaId": 806
+ },
+ {
+  "version": "250330.1.0",
+  "id": 77,
+  "huntDifficultyId": 8,
+  "index": 6,
+  "huntAreaId": 807
+ },
+ {
+  "version": "250330.1.0",
+  "id": 78,
+  "huntDifficultyId": 8,
+  "index": 7,
+  "huntAreaId": 808
+ },
+ {
+  "version": "250330.1.0",
+  "id": 79,
+  "huntDifficultyId": 8,
+  "index": 8,
+  "huntAreaId": 809
+ },
+ {
+  "version": "250330.1.0",
+  "id": 80,
+  "huntDifficultyId": 8,
+  "index": 9,
+  "huntAreaId": 810
+ },
+ {
+  "version": "250330.1.0",
+  "id": 81,
+  "huntDifficultyId": 9,
+  "index": 0,
+  "huntAreaId": 901
+ },
+ {
+  "version": "250330.1.0",
+  "id": 82,
+  "huntDifficultyId": 9,
+  "index": 1,
+  "huntAreaId": 902
+ },
+ {
+  "version": "250330.1.0",
+  "id": 83,
+  "huntDifficultyId": 9,
+  "index": 2,
+  "huntAreaId": 903
+ },
+ {
+  "version": "250330.1.0",
+  "id": 84,
+  "huntDifficultyId": 9,
+  "index": 3,
+  "huntAreaId": 904
+ },
+ {
+  "version": "250330.1.0",
+  "id": 85,
+  "huntDifficultyId": 9,
+  "index": 4,
+  "huntAreaId": 905
+ },
+ {
+  "version": "250330.1.0",
+  "id": 86,
+  "huntDifficultyId": 9,
+  "index": 5,
+  "huntAreaId": 906
+ },
+ {
+  "version": "250330.1.0",
+  "id": 87,
+  "huntDifficultyId": 9,
+  "index": 6,
+  "huntAreaId": 907
+ },
+ {
+  "version": "250330.1.0",
+  "id": 88,
+  "huntDifficultyId": 9,
+  "index": 7,
+  "huntAreaId": 908
+ },
+ {
+  "version": "250330.1.0",
+  "id": 89,
+  "huntDifficultyId": 9,
+  "index": 8,
+  "huntAreaId": 909
+ },
+ {
+  "version": "250330.1.0",
+  "id": 90,
+  "huntDifficultyId": 9,
+  "index": 9,
+  "huntAreaId": 910
+ },
+ {
+  "version": "250330.1.0",
+  "id": 91,
+  "huntDifficultyId": 10,
+  "index": 0,
+  "huntAreaId": 1001
+ },
+ {
+  "version": "250330.1.0",
+  "id": 92,
+  "huntDifficultyId": 10,
+  "index": 1,
+  "huntAreaId": 1002
+ },
+ {
+  "version": "250330.1.0",
+  "id": 93,
+  "huntDifficultyId": 10,
+  "index": 2,
+  "huntAreaId": 1003
+ },
+ {
+  "version": "250330.1.0",
+  "id": 94,
+  "huntDifficultyId": 10,
+  "index": 3,
+  "huntAreaId": 1004
+ },
+ {
+  "version": "250330.1.0",
+  "id": 95,
+  "huntDifficultyId": 10,
+  "index": 4,
+  "huntAreaId": 1005
+ },
+ {
+  "version": "250330.1.0",
+  "id": 96,
+  "huntDifficultyId": 10,
+  "index": 5,
+  "huntAreaId": 1006
+ },
+ {
+  "version": "250330.1.0",
+  "id": 97,
+  "huntDifficultyId": 10,
+  "index": 6,
+  "huntAreaId": 1007
+ },
+ {
+  "version": "250330.1.0",
+  "id": 98,
+  "huntDifficultyId": 10,
+  "index": 7,
+  "huntAreaId": 1008
+ },
+ {
+  "version": "250330.1.0",
+  "id": 99,
+  "huntDifficultyId": 10,
+  "index": 8,
+  "huntAreaId": 1009
+ },
+ {
+  "version": "250330.1.0",
+  "id": 100,
+  "huntDifficultyId": 10,
+  "index": 9,
+  "huntAreaId": 1010
+ },
+ {
+  "version": "250330.1.0",
+  "id": 101,
+  "huntDifficultyId": 11,
+  "index": 0,
+  "huntAreaId": 1101
+ },
+ {
+  "version": "250330.1.0",
+  "id": 102,
+  "huntDifficultyId": 11,
+  "index": 1,
+  "huntAreaId": 1102
+ },
+ {
+  "version": "250330.1.0",
+  "id": 103,
+  "huntDifficultyId": 11,
+  "index": 2,
+  "huntAreaId": 1103
+ },
+ {
+  "version": "250330.1.0",
+  "id": 104,
+  "huntDifficultyId": 11,
+  "index": 3,
+  "huntAreaId": 1104
+ },
+ {
+  "version": "250330.1.0",
+  "id": 105,
+  "huntDifficultyId": 11,
+  "index": 4,
+  "huntAreaId": 1105
+ },
+ {
+  "version": "250330.1.0",
+  "id": 106,
+  "huntDifficultyId": 11,
+  "index": 5,
+  "huntAreaId": 1106
+ },
+ {
+  "version": "250330.1.0",
+  "id": 107,
+  "huntDifficultyId": 11,
+  "index": 6,
+  "huntAreaId": 1107
+ },
+ {
+  "version": "250330.1.0",
+  "id": 108,
+  "huntDifficultyId": 11,
+  "index": 7,
+  "huntAreaId": 1108
+ },
+ {
+  "version": "250330.1.0",
+  "id": 109,
+  "huntDifficultyId": 11,
+  "index": 8,
+  "huntAreaId": 1109
+ },
+ {
+  "version": "250330.1.0",
+  "id": 110,
+  "huntDifficultyId": 11,
+  "index": 9,
+  "huntAreaId": 1110
+ },
+ {
+  "version": "250330.1.0",
+  "id": 111,
+  "huntDifficultyId": 12,
+  "index": 0,
+  "huntAreaId": 1201
+ },
+ {
+  "version": "250330.1.0",
+  "id": 112,
+  "huntDifficultyId": 12,
+  "index": 1,
+  "huntAreaId": 1202
+ },
+ {
+  "version": "250330.1.0",
+  "id": 113,
+  "huntDifficultyId": 12,
+  "index": 2,
+  "huntAreaId": 1203
+ },
+ {
+  "version": "250330.1.0",
+  "id": 114,
+  "huntDifficultyId": 12,
+  "index": 3,
+  "huntAreaId": 1204
+ },
+ {
+  "version": "250330.1.0",
+  "id": 115,
+  "huntDifficultyId": 12,
+  "index": 4,
+  "huntAreaId": 1205
+ },
+ {
+  "version": "250330.1.0",
+  "id": 116,
+  "huntDifficultyId": 12,
+  "index": 5,
+  "huntAreaId": 1206
+ },
+ {
+  "version": "250330.1.0",
+  "id": 117,
+  "huntDifficultyId": 12,
+  "index": 6,
+  "huntAreaId": 1207
+ },
+ {
+  "version": "250330.1.0",
+  "id": 118,
+  "huntDifficultyId": 12,
+  "index": 7,
+  "huntAreaId": 1208
+ },
+ {
+  "version": "250330.1.0",
+  "id": 119,
+  "huntDifficultyId": 12,
+  "index": 8,
+  "huntAreaId": 1209
+ },
+ {
+  "version": "250330.1.0",
+  "id": 120,
+  "huntDifficultyId": 12,
+  "index": 9,
+  "huntAreaId": 1210
+ },
+ {
+  "version": "250330.1.0",
+  "id": 121,
+  "huntDifficultyId": 13,
+  "index": 0,
+  "huntAreaId": 1301
+ },
+ {
+  "version": "250330.1.0",
+  "id": 122,
+  "huntDifficultyId": 13,
+  "index": 1,
+  "huntAreaId": 1302
+ },
+ {
+  "version": "250330.1.0",
+  "id": 123,
+  "huntDifficultyId": 13,
+  "index": 2,
+  "huntAreaId": 1303
+ },
+ {
+  "version": "250330.1.0",
+  "id": 124,
+  "huntDifficultyId": 13,
+  "index": 3,
+  "huntAreaId": 1304
+ },
+ {
+  "version": "250330.1.0",
+  "id": 125,
+  "huntDifficultyId": 13,
+  "index": 4,
+  "huntAreaId": 1305
+ },
+ {
+  "version": "250330.1.0",
+  "id": 126,
+  "huntDifficultyId": 13,
+  "index": 5,
+  "huntAreaId": 1306
+ },
+ {
+  "version": "250330.1.0",
+  "id": 127,
+  "huntDifficultyId": 13,
+  "index": 6,
+  "huntAreaId": 1307
+ },
+ {
+  "version": "250330.1.0",
+  "id": 128,
+  "huntDifficultyId": 13,
+  "index": 7,
+  "huntAreaId": 1308
+ },
+ {
+  "version": "250330.1.0",
+  "id": 129,
+  "huntDifficultyId": 13,
+  "index": 8,
+  "huntAreaId": 1309
+ },
+ {
+  "version": "250330.1.0",
+  "id": 130,
+  "huntDifficultyId": 13,
+  "index": 9,
+  "huntAreaId": 1310
+ },
+ {
+  "version": "250330.1.0",
+  "id": 131,
+  "huntDifficultyId": 14,
+  "index": 0,
+  "huntAreaId": 1401
+ },
+ {
+  "version": "250330.1.0",
+  "id": 132,
+  "huntDifficultyId": 14,
+  "index": 1,
+  "huntAreaId": 1402
+ },
+ {
+  "version": "250330.1.0",
+  "id": 133,
+  "huntDifficultyId": 14,
+  "index": 2,
+  "huntAreaId": 1403
+ },
+ {
+  "version": "250330.1.0",
+  "id": 134,
+  "huntDifficultyId": 14,
+  "index": 3,
+  "huntAreaId": 1404
+ },
+ {
+  "version": "250330.1.0",
+  "id": 135,
+  "huntDifficultyId": 14,
+  "index": 4,
+  "huntAreaId": 1405
+ },
+ {
+  "version": "250330.1.0",
+  "id": 136,
+  "huntDifficultyId": 14,
+  "index": 5,
+  "huntAreaId": 1406
+ },
+ {
+  "version": "250330.1.0",
+  "id": 137,
+  "huntDifficultyId": 14,
+  "index": 6,
+  "huntAreaId": 1407
+ },
+ {
+  "version": "250330.1.0",
+  "id": 138,
+  "huntDifficultyId": 14,
+  "index": 7,
+  "huntAreaId": 1408
+ },
+ {
+  "version": "250330.1.0",
+  "id": 139,
+  "huntDifficultyId": 14,
+  "index": 8,
+  "huntAreaId": 1409
+ },
+ {
+  "version": "250330.1.0",
+  "id": 140,
+  "huntDifficultyId": 14,
+  "index": 9,
+  "huntAreaId": 1410
+ },
+ {
+  "version": "250330.1.0",
+  "id": 141,
+  "huntDifficultyId": 15,
+  "index": 0,
+  "huntAreaId": 1501
+ },
+ {
+  "version": "250330.1.0",
+  "id": 142,
+  "huntDifficultyId": 15,
+  "index": 1,
+  "huntAreaId": 1502
+ },
+ {
+  "version": "250330.1.0",
+  "id": 143,
+  "huntDifficultyId": 15,
+  "index": 2,
+  "huntAreaId": 1503
+ },
+ {
+  "version": "250330.1.0",
+  "id": 144,
+  "huntDifficultyId": 15,
+  "index": 3,
+  "huntAreaId": 1504
+ },
+ {
+  "version": "250330.1.0",
+  "id": 145,
+  "huntDifficultyId": 15,
+  "index": 4,
+  "huntAreaId": 1505
+ },
+ {
+  "version": "250330.1.0",
+  "id": 146,
+  "huntDifficultyId": 15,
+  "index": 5,
+  "huntAreaId": 1506
+ },
+ {
+  "version": "250330.1.0",
+  "id": 147,
+  "huntDifficultyId": 15,
+  "index": 6,
+  "huntAreaId": 1507
+ },
+ {
+  "version": "250330.1.0",
+  "id": 148,
+  "huntDifficultyId": 15,
+  "index": 7,
+  "huntAreaId": 1508
+ },
+ {
+  "version": "250330.1.0",
+  "id": 149,
+  "huntDifficultyId": 15,
+  "index": 8,
+  "huntAreaId": 1509
+ },
+ {
+  "version": "250330.1.0",
+  "id": 150,
+  "huntDifficultyId": 15,
+  "index": 9,
+  "huntAreaId": 1510
+ },
+ {
+  "version": "250330.1.0",
+  "id": 151,
+  "huntDifficultyId": 16,
+  "index": 0,
+  "huntAreaId": 1601
+ },
+ {
+  "version": "250330.1.0",
+  "id": 152,
+  "huntDifficultyId": 16,
+  "index": 1,
+  "huntAreaId": 1602
+ },
+ {
+  "version": "250330.1.0",
+  "id": 153,
+  "huntDifficultyId": 16,
+  "index": 2,
+  "huntAreaId": 1603
+ },
+ {
+  "version": "250330.1.0",
+  "id": 154,
+  "huntDifficultyId": 16,
+  "index": 3,
+  "huntAreaId": 1604
+ },
+ {
+  "version": "250330.1.0",
+  "id": 155,
+  "huntDifficultyId": 16,
+  "index": 4,
+  "huntAreaId": 1605
+ },
+ {
+  "version": "250330.1.0",
+  "id": 156,
+  "huntDifficultyId": 16,
+  "index": 5,
+  "huntAreaId": 1606
+ },
+ {
+  "version": "250330.1.0",
+  "id": 157,
+  "huntDifficultyId": 16,
+  "index": 6,
+  "huntAreaId": 1607
+ },
+ {
+  "version": "250330.1.0",
+  "id": 158,
+  "huntDifficultyId": 16,
+  "index": 7,
+  "huntAreaId": 1608
+ },
+ {
+  "version": "250330.1.0",
+  "id": 159,
+  "huntDifficultyId": 16,
+  "index": 8,
+  "huntAreaId": 1609
+ },
+ {
+  "version": "250330.1.0",
+  "id": 160,
+  "huntDifficultyId": 16,
+  "index": 9,
+  "huntAreaId": 1610
+ },
+ {
+  "version": "250330.1.0",
+  "id": 161,
+  "huntDifficultyId": 17,
+  "index": 0,
+  "huntAreaId": 1701
+ },
+ {
+  "version": "250330.1.0",
+  "id": 162,
+  "huntDifficultyId": 17,
+  "index": 1,
+  "huntAreaId": 1702
+ },
+ {
+  "version": "250330.1.0",
+  "id": 163,
+  "huntDifficultyId": 17,
+  "index": 2,
+  "huntAreaId": 1703
+ },
+ {
+  "version": "250330.1.0",
+  "id": 164,
+  "huntDifficultyId": 17,
+  "index": 3,
+  "huntAreaId": 1704
+ },
+ {
+  "version": "250330.1.0",
+  "id": 165,
+  "huntDifficultyId": 17,
+  "index": 4,
+  "huntAreaId": 1705
+ },
+ {
+  "version": "250330.1.0",
+  "id": 166,
+  "huntDifficultyId": 17,
+  "index": 5,
+  "huntAreaId": 1706
+ },
+ {
+  "version": "250330.1.0",
+  "id": 167,
+  "huntDifficultyId": 17,
+  "index": 6,
+  "huntAreaId": 1707
+ },
+ {
+  "version": "250330.1.0",
+  "id": 168,
+  "huntDifficultyId": 17,
+  "index": 7,
+  "huntAreaId": 1708
+ },
+ {
+  "version": "250330.1.0",
+  "id": 169,
+  "huntDifficultyId": 17,
+  "index": 8,
+  "huntAreaId": 1709
+ },
+ {
+  "version": "250330.1.0",
+  "id": 170,
+  "huntDifficultyId": 17,
+  "index": 9,
+  "huntAreaId": 1710
+ },
+ {
+  "version": "250330.1.0",
+  "id": 171,
+  "huntDifficultyId": 18,
+  "index": 0,
+  "huntAreaId": 1801
+ },
+ {
+  "version": "250330.1.0",
+  "id": 172,
+  "huntDifficultyId": 18,
+  "index": 1,
+  "huntAreaId": 1802
+ },
+ {
+  "version": "250330.1.0",
+  "id": 173,
+  "huntDifficultyId": 18,
+  "index": 2,
+  "huntAreaId": 1803
+ },
+ {
+  "version": "250330.1.0",
+  "id": 174,
+  "huntDifficultyId": 18,
+  "index": 3,
+  "huntAreaId": 1804
+ },
+ {
+  "version": "250330.1.0",
+  "id": 175,
+  "huntDifficultyId": 18,
+  "index": 4,
+  "huntAreaId": 1805
+ },
+ {
+  "version": "250330.1.0",
+  "id": 176,
+  "huntDifficultyId": 18,
+  "index": 5,
+  "huntAreaId": 1806
+ },
+ {
+  "version": "250330.1.0",
+  "id": 177,
+  "huntDifficultyId": 18,
+  "index": 6,
+  "huntAreaId": 1807
+ },
+ {
+  "version": "250330.1.0",
+  "id": 178,
+  "huntDifficultyId": 18,
+  "index": 7,
+  "huntAreaId": 1808
+ },
+ {
+  "version": "250330.1.0",
+  "id": 179,
+  "huntDifficultyId": 18,
+  "index": 8,
+  "huntAreaId": 1809
+ },
+ {
+  "version": "250330.1.0",
+  "id": 180,
+  "huntDifficultyId": 18,
+  "index": 9,
+  "huntAreaId": 1810
+ },
+ {
+  "version": "250330.1.0",
+  "id": 181,
+  "huntDifficultyId": 19,
+  "index": 0,
+  "huntAreaId": 1901
+ },
+ {
+  "version": "250330.1.0",
+  "id": 182,
+  "huntDifficultyId": 19,
+  "index": 1,
+  "huntAreaId": 1902
+ },
+ {
+  "version": "250330.1.0",
+  "id": 183,
+  "huntDifficultyId": 19,
+  "index": 2,
+  "huntAreaId": 1903
+ },
+ {
+  "version": "250330.1.0",
+  "id": 184,
+  "huntDifficultyId": 19,
+  "index": 3,
+  "huntAreaId": 1904
+ },
+ {
+  "version": "250330.1.0",
+  "id": 185,
+  "huntDifficultyId": 19,
+  "index": 4,
+  "huntAreaId": 1905
+ },
+ {
+  "version": "250330.1.0",
+  "id": 186,
+  "huntDifficultyId": 19,
+  "index": 5,
+  "huntAreaId": 1906
+ },
+ {
+  "version": "250330.1.0",
+  "id": 187,
+  "huntDifficultyId": 19,
+  "index": 6,
+  "huntAreaId": 1907
+ },
+ {
+  "version": "250330.1.0",
+  "id": 188,
+  "huntDifficultyId": 19,
+  "index": 7,
+  "huntAreaId": 1908
+ },
+ {
+  "version": "250330.1.0",
+  "id": 189,
+  "huntDifficultyId": 19,
+  "index": 8,
+  "huntAreaId": 1909
+ },
+ {
+  "version": "250330.1.0",
+  "id": 190,
+  "huntDifficultyId": 19,
+  "index": 9,
+  "huntAreaId": 1910
+ },
+ {
+  "version": "250330.1.0",
+  "id": 191,
+  "huntDifficultyId": 20,
+  "index": 0,
+  "huntAreaId": 2001
+ },
+ {
+  "version": "250330.1.0",
+  "id": 192,
+  "huntDifficultyId": 20,
+  "index": 1,
+  "huntAreaId": 2002
+ },
+ {
+  "version": "250330.1.0",
+  "id": 193,
+  "huntDifficultyId": 20,
+  "index": 2,
+  "huntAreaId": 2003
+ },
+ {
+  "version": "250330.1.0",
+  "id": 194,
+  "huntDifficultyId": 20,
+  "index": 3,
+  "huntAreaId": 2004
+ },
+ {
+  "version": "250330.1.0",
+  "id": 195,
+  "huntDifficultyId": 20,
+  "index": 4,
+  "huntAreaId": 2005
+ },
+ {
+  "version": "250330.1.0",
+  "id": 196,
+  "huntDifficultyId": 20,
+  "index": 5,
+  "huntAreaId": 2006
+ },
+ {
+  "version": "250330.1.0",
+  "id": 197,
+  "huntDifficultyId": 20,
+  "index": 6,
+  "huntAreaId": 2007
+ },
+ {
+  "version": "250330.1.0",
+  "id": 198,
+  "huntDifficultyId": 20,
+  "index": 7,
+  "huntAreaId": 2008
+ },
+ {
+  "version": "250330.1.0",
+  "id": 199,
+  "huntDifficultyId": 20,
+  "index": 8,
+  "huntAreaId": 2009
+ },
+ {
+  "version": "250330.1.0",
+  "id": 200,
+  "huntDifficultyId": 20,
+  "index": 9,
+  "huntAreaId": 2010
+ },
+ {
+  "version": "250330.1.0",
+  "id": 201,
+  "huntDifficultyId": 21,
+  "index": 0,
+  "huntAreaId": 2101
+ },
+ {
+  "version": "250330.1.0",
+  "id": 202,
+  "huntDifficultyId": 21,
+  "index": 1,
+  "huntAreaId": 2102
+ },
+ {
+  "version": "250330.1.0",
+  "id": 203,
+  "huntDifficultyId": 21,
+  "index": 2,
+  "huntAreaId": 2103
+ },
+ {
+  "version": "250330.1.0",
+  "id": 204,
+  "huntDifficultyId": 21,
+  "index": 3,
+  "huntAreaId": 2104
+ },
+ {
+  "version": "250330.1.0",
+  "id": 205,
+  "huntDifficultyId": 21,
+  "index": 4,
+  "huntAreaId": 2105
+ },
+ {
+  "version": "250330.1.0",
+  "id": 206,
+  "huntDifficultyId": 21,
+  "index": 5,
+  "huntAreaId": 2106
+ },
+ {
+  "version": "250330.1.0",
+  "id": 207,
+  "huntDifficultyId": 21,
+  "index": 6,
+  "huntAreaId": 2107
+ },
+ {
+  "version": "250330.1.0",
+  "id": 208,
+  "huntDifficultyId": 21,
+  "index": 7,
+  "huntAreaId": 2108
+ },
+ {
+  "version": "250330.1.0",
+  "id": 209,
+  "huntDifficultyId": 21,
+  "index": 8,
+  "huntAreaId": 2109
+ },
+ {
+  "version": "250330.1.0",
+  "id": 210,
+  "huntDifficultyId": 21,
+  "index": 9,
+  "huntAreaId": 2110
+ },
+ {
+  "version": "250710.1.0",
+  "id": 211,
+  "huntDifficultyId": 22,
+  "index": 0,
+  "huntAreaId": 2201
+ },
+ {
+  "version": "250710.1.0",
+  "id": 212,
+  "huntDifficultyId": 22,
+  "index": 1,
+  "huntAreaId": 2202
+ },
+ {
+  "version": "250710.1.0",
+  "id": 213,
+  "huntDifficultyId": 22,
+  "index": 2,
+  "huntAreaId": 2203
+ },
+ {
+  "version": "250710.1.0",
+  "id": 214,
+  "huntDifficultyId": 22,
+  "index": 3,
+  "huntAreaId": 2204
+ },
+ {
+  "version": "250710.1.0",
+  "id": 215,
+  "huntDifficultyId": 22,
+  "index": 4,
+  "huntAreaId": 2205
+ },
+ {
+  "version": "250710.1.0",
+  "id": 216,
+  "huntDifficultyId": 22,
+  "index": 5,
+  "huntAreaId": 2206
+ },
+ {
+  "version": "250710.1.0",
+  "id": 217,
+  "huntDifficultyId": 22,
+  "index": 6,
+  "huntAreaId": 2207
+ },
+ {
+  "version": "250710.1.0",
+  "id": 218,
+  "huntDifficultyId": 22,
+  "index": 7,
+  "huntAreaId": 2208
+ },
+ {
+  "version": "250710.1.0",
+  "id": 219,
+  "huntDifficultyId": 22,
+  "index": 8,
+  "huntAreaId": 2209
+ },
+ {
+  "version": "250710.1.0",
+  "id": 220,
+  "huntDifficultyId": 22,
+  "index": 9,
+  "huntAreaId": 2210
+ },
+ {
+  "version": "250710.1.0",
+  "id": 221,
+  "huntDifficultyId": 23,
+  "index": 0,
+  "huntAreaId": 2301
+ },
+ {
+  "version": "250710.1.0",
+  "id": 222,
+  "huntDifficultyId": 23,
+  "index": 1,
+  "huntAreaId": 2302
+ },
+ {
+  "version": "250710.1.0",
+  "id": 223,
+  "huntDifficultyId": 23,
+  "index": 2,
+  "huntAreaId": 2303
+ },
+ {
+  "version": "250710.1.0",
+  "id": 224,
+  "huntDifficultyId": 23,
+  "index": 3,
+  "huntAreaId": 2304
+ },
+ {
+  "version": "250710.1.0",
+  "id": 225,
+  "huntDifficultyId": 23,
+  "index": 4,
+  "huntAreaId": 2305
+ },
+ {
+  "version": "250710.1.0",
+  "id": 226,
+  "huntDifficultyId": 23,
+  "index": 5,
+  "huntAreaId": 2306
+ },
+ {
+  "version": "250710.1.0",
+  "id": 227,
+  "huntDifficultyId": 23,
+  "index": 6,
+  "huntAreaId": 2307
+ },
+ {
+  "version": "250710.1.0",
+  "id": 228,
+  "huntDifficultyId": 23,
+  "index": 7,
+  "huntAreaId": 2308
+ },
+ {
+  "version": "250710.1.0",
+  "id": 229,
+  "huntDifficultyId": 23,
+  "index": 8,
+  "huntAreaId": 2309
+ },
+ {
+  "version": "250710.1.0",
+  "id": 230,
+  "huntDifficultyId": 23,
+  "index": 9,
+  "huntAreaId": 2310
+ },
+ {
+  "version": "250710.1.0",
+  "id": 231,
+  "huntDifficultyId": 24,
+  "index": 0,
+  "huntAreaId": 2401
+ },
+ {
+  "version": "250710.1.0",
+  "id": 232,
+  "huntDifficultyId": 24,
+  "index": 1,
+  "huntAreaId": 2402
+ },
+ {
+  "version": "250710.1.0",
+  "id": 233,
+  "huntDifficultyId": 24,
+  "index": 2,
+  "huntAreaId": 2403
+ },
+ {
+  "version": "250710.1.0",
+  "id": 234,
+  "huntDifficultyId": 24,
+  "index": 3,
+  "huntAreaId": 2404
+ },
+ {
+  "version": "250710.1.0",
+  "id": 235,
+  "huntDifficultyId": 24,
+  "index": 4,
+  "huntAreaId": 2405
+ },
+ {
+  "version": "250710.1.0",
+  "id": 236,
+  "huntDifficultyId": 24,
+  "index": 5,
+  "huntAreaId": 2406
+ },
+ {
+  "version": "250710.1.0",
+  "id": 237,
+  "huntDifficultyId": 24,
+  "index": 6,
+  "huntAreaId": 2407
+ },
+ {
+  "version": "250710.1.0",
+  "id": 238,
+  "huntDifficultyId": 24,
+  "index": 7,
+  "huntAreaId": 2408
+ },
+ {
+  "version": "250710.1.0",
+  "id": 239,
+  "huntDifficultyId": 24,
+  "index": 8,
+  "huntAreaId": 2409
+ },
+ {
+  "version": "250710.1.0",
+  "id": 240,
+  "huntDifficultyId": 24,
+  "index": 9,
+  "huntAreaId": 2410
+ },
+ {
+  "version": "251035.1.0",
+  "id": 241,
+  "huntDifficultyId": 25,
+  "index": 0,
+  "huntAreaId": 2501
+ },
+ {
+  "version": "251035.1.0",
+  "id": 242,
+  "huntDifficultyId": 25,
+  "index": 1,
+  "huntAreaId": 2502
+ },
+ {
+  "version": "251035.1.0",
+  "id": 243,
+  "huntDifficultyId": 25,
+  "index": 2,
+  "huntAreaId": 2503
+ },
+ {
+  "version": "251035.1.0",
+  "id": 244,
+  "huntDifficultyId": 25,
+  "index": 3,
+  "huntAreaId": 2504
+ },
+ {
+  "version": "251035.1.0",
+  "id": 245,
+  "huntDifficultyId": 25,
+  "index": 4,
+  "huntAreaId": 2505
+ },
+ {
+  "version": "251035.1.0",
+  "id": 246,
+  "huntDifficultyId": 25,
+  "index": 5,
+  "huntAreaId": 2506
+ },
+ {
+  "version": "251035.1.0",
+  "id": 247,
+  "huntDifficultyId": 25,
+  "index": 6,
+  "huntAreaId": 2507
+ },
+ {
+  "version": "251035.1.0",
+  "id": 248,
+  "huntDifficultyId": 25,
+  "index": 7,
+  "huntAreaId": 2508
+ },
+ {
+  "version": "251035.1.0",
+  "id": 249,
+  "huntDifficultyId": 25,
+  "index": 8,
+  "huntAreaId": 2509
+ },
+ {
+  "version": "251035.1.0",
+  "id": 250,
+  "huntDifficultyId": 25,
+  "index": 9,
+  "huntAreaId": 2510
+ },
+ {
+  "version": "251035.1.0",
+  "id": 251,
+  "huntDifficultyId": 26,
+  "index": 0,
+  "huntAreaId": 2601
+ },
+ {
+  "version": "251035.1.0",
+  "id": 252,
+  "huntDifficultyId": 26,
+  "index": 1,
+  "huntAreaId": 2602
+ },
+ {
+  "version": "251035.1.0",
+  "id": 253,
+  "huntDifficultyId": 26,
+  "index": 2,
+  "huntAreaId": 2603
+ },
+ {
+  "version": "251035.1.0",
+  "id": 254,
+  "huntDifficultyId": 26,
+  "index": 3,
+  "huntAreaId": 2604
+ },
+ {
+  "version": "251035.1.0",
+  "id": 255,
+  "huntDifficultyId": 26,
+  "index": 4,
+  "huntAreaId": 2605
+ },
+ {
+  "version": "251035.1.0",
+  "id": 256,
+  "huntDifficultyId": 26,
+  "index": 5,
+  "huntAreaId": 2606
+ },
+ {
+  "version": "251035.1.0",
+  "id": 257,
+  "huntDifficultyId": 26,
+  "index": 6,
+  "huntAreaId": 2607
+ },
+ {
+  "version": "251035.1.0",
+  "id": 258,
+  "huntDifficultyId": 26,
+  "index": 7,
+  "huntAreaId": 2608
+ },
+ {
+  "version": "251035.1.0",
+  "id": 259,
+  "huntDifficultyId": 26,
+  "index": 8,
+  "huntAreaId": 2609
+ },
+ {
+  "version": "251035.1.0",
+  "id": 260,
+  "huntDifficultyId": 26,
+  "index": 9,
+  "huntAreaId": 2610
+ },
+ {
+  "version": "251035.1.0",
+  "id": 261,
+  "huntDifficultyId": 27,
+  "index": 0,
+  "huntAreaId": 2701
+ },
+ {
+  "version": "251035.1.0",
+  "id": 262,
+  "huntDifficultyId": 27,
+  "index": 1,
+  "huntAreaId": 2702
+ },
+ {
+  "version": "251035.1.0",
+  "id": 263,
+  "huntDifficultyId": 27,
+  "index": 2,
+  "huntAreaId": 2703
+ },
+ {
+  "version": "251035.1.0",
+  "id": 264,
+  "huntDifficultyId": 27,
+  "index": 3,
+  "huntAreaId": 2704
+ },
+ {
+  "version": "251035.1.0",
+  "id": 265,
+  "huntDifficultyId": 27,
+  "index": 4,
+  "huntAreaId": 2705
+ },
+ {
+  "version": "251035.1.0",
+  "id": 266,
+  "huntDifficultyId": 27,
+  "index": 5,
+  "huntAreaId": 2706
+ },
+ {
+  "version": "251035.1.0",
+  "id": 267,
+  "huntDifficultyId": 27,
+  "index": 6,
+  "huntAreaId": 2707
+ },
+ {
+  "version": "251035.1.0",
+  "id": 268,
+  "huntDifficultyId": 27,
+  "index": 7,
+  "huntAreaId": 2708
+ },
+ {
+  "version": "251035.1.0",
+  "id": 269,
+  "huntDifficultyId": 27,
+  "index": 8,
+  "huntAreaId": 2709
+ },
+ {
+  "version": "251035.1.0",
+  "id": 270,
+  "huntDifficultyId": 27,
+  "index": 9,
+  "huntAreaId": 2710
+ },
+ {
+  "version": "251035.1.0",
+  "id": 271,
+  "huntDifficultyId": 28,
+  "index": 0,
+  "huntAreaId": 2801
+ },
+ {
+  "version": "251035.1.0",
+  "id": 272,
+  "huntDifficultyId": 28,
+  "index": 1,
+  "huntAreaId": 2802
+ },
+ {
+  "version": "251035.1.0",
+  "id": 273,
+  "huntDifficultyId": 28,
+  "index": 2,
+  "huntAreaId": 2803
+ },
+ {
+  "version": "251035.1.0",
+  "id": 274,
+  "huntDifficultyId": 28,
+  "index": 3,
+  "huntAreaId": 2804
+ },
+ {
+  "version": "251035.1.0",
+  "id": 275,
+  "huntDifficultyId": 28,
+  "index": 4,
+  "huntAreaId": 2805
+ },
+ {
+  "version": "251035.1.0",
+  "id": 276,
+  "huntDifficultyId": 28,
+  "index": 5,
+  "huntAreaId": 2806
+ },
+ {
+  "version": "251035.1.0",
+  "id": 277,
+  "huntDifficultyId": 28,
+  "index": 6,
+  "huntAreaId": 2807
+ },
+ {
+  "version": "251035.1.0",
+  "id": 278,
+  "huntDifficultyId": 28,
+  "index": 7,
+  "huntAreaId": 2808
+ },
+ {
+  "version": "251035.1.0",
+  "id": 279,
+  "huntDifficultyId": 28,
+  "index": 8,
+  "huntAreaId": 2809
+ },
+ {
+  "version": "251035.1.0",
+  "id": 280,
+  "huntDifficultyId": 28,
+  "index": 9,
+  "huntAreaId": 2810
+ },
+ {
+  "version": "251035.1.0",
+  "id": 281,
+  "huntDifficultyId": 29,
+  "index": 0,
+  "huntAreaId": 2901
+ },
+ {
+  "version": "251035.1.0",
+  "id": 282,
+  "huntDifficultyId": 29,
+  "index": 1,
+  "huntAreaId": 2902
+ },
+ {
+  "version": "251035.1.0",
+  "id": 283,
+  "huntDifficultyId": 29,
+  "index": 2,
+  "huntAreaId": 2903
+ },
+ {
+  "version": "251035.1.0",
+  "id": 284,
+  "huntDifficultyId": 29,
+  "index": 3,
+  "huntAreaId": 2904
+ },
+ {
+  "version": "251035.1.0",
+  "id": 285,
+  "huntDifficultyId": 29,
+  "index": 4,
+  "huntAreaId": 2905
+ },
+ {
+  "version": "251035.1.0",
+  "id": 286,
+  "huntDifficultyId": 29,
+  "index": 5,
+  "huntAreaId": 2906
+ },
+ {
+  "version": "251035.1.0",
+  "id": 287,
+  "huntDifficultyId": 29,
+  "index": 6,
+  "huntAreaId": 2907
+ },
+ {
+  "version": "251035.1.0",
+  "id": 288,
+  "huntDifficultyId": 29,
+  "index": 7,
+  "huntAreaId": 2908
+ },
+ {
+  "version": "251035.1.0",
+  "id": 289,
+  "huntDifficultyId": 29,
+  "index": 8,
+  "huntAreaId": 2909
+ },
+ {
+  "version": "251035.1.0",
+  "id": 290,
+  "huntDifficultyId": 29,
+  "index": 9,
+  "huntAreaId": 2910
+ },
+ {
+  "version": "251035.1.0",
+  "id": 291,
+  "huntDifficultyId": 30,
+  "index": 0,
+  "huntAreaId": 3001
+ },
+ {
+  "version": "251035.1.0",
+  "id": 292,
+  "huntDifficultyId": 30,
+  "index": 1,
+  "huntAreaId": 3002
+ },
+ {
+  "version": "251035.1.0",
+  "id": 293,
+  "huntDifficultyId": 30,
+  "index": 2,
+  "huntAreaId": 3003
+ },
+ {
+  "version": "251035.1.0",
+  "id": 294,
+  "huntDifficultyId": 30,
+  "index": 3,
+  "huntAreaId": 3004
+ },
+ {
+  "version": "251035.1.0",
+  "id": 295,
+  "huntDifficultyId": 30,
+  "index": 4,
+  "huntAreaId": 3005
+ },
+ {
+  "version": "251035.1.0",
+  "id": 296,
+  "huntDifficultyId": 30,
+  "index": 5,
+  "huntAreaId": 3006
+ },
+ {
+  "version": "251035.1.0",
+  "id": 297,
+  "huntDifficultyId": 30,
+  "index": 6,
+  "huntAreaId": 3007
+ },
+ {
+  "version": "251035.1.0",
+  "id": 298,
+  "huntDifficultyId": 30,
+  "index": 7,
+  "huntAreaId": 3008
+ },
+ {
+  "version": "251035.1.0",
+  "id": 299,
+  "huntDifficultyId": 30,
+  "index": 8,
+  "huntAreaId": 3009
+ },
+ {
+  "version": "251035.1.0",
+  "id": 300,
+  "huntDifficultyId": 30,
+  "index": 9,
+  "huntAreaId": 3010
+ },
+ {
+  "version": "251035.1.0",
+  "id": 301,
+  "huntDifficultyId": 31,
+  "index": 0,
+  "huntAreaId": 3101
+ },
+ {
+  "version": "251035.1.0",
+  "id": 302,
+  "huntDifficultyId": 31,
+  "index": 1,
+  "huntAreaId": 3102
+ },
+ {
+  "version": "251035.1.0",
+  "id": 303,
+  "huntDifficultyId": 31,
+  "index": 2,
+  "huntAreaId": 3103
+ },
+ {
+  "version": "251035.1.0",
+  "id": 304,
+  "huntDifficultyId": 31,
+  "index": 3,
+  "huntAreaId": 3104
+ },
+ {
+  "version": "251035.1.0",
+  "id": 305,
+  "huntDifficultyId": 31,
+  "index": 4,
+  "huntAreaId": 3105
+ },
+ {
+  "version": "251035.1.0",
+  "id": 306,
+  "huntDifficultyId": 31,
+  "index": 5,
+  "huntAreaId": 3106
+ },
+ {
+  "version": "251035.1.0",
+  "id": 307,
+  "huntDifficultyId": 31,
+  "index": 6,
+  "huntAreaId": 3107
+ },
+ {
+  "version": "251035.1.0",
+  "id": 308,
+  "huntDifficultyId": 31,
+  "index": 7,
+  "huntAreaId": 3108
+ },
+ {
+  "version": "251035.1.0",
+  "id": 309,
+  "huntDifficultyId": 31,
+  "index": 8,
+  "huntAreaId": 3109
+ },
+ {
+  "version": "251035.1.0",
+  "id": 310,
+  "huntDifficultyId": 31,
+  "index": 9,
+  "huntAreaId": 3110
+ },
+ {
+  "version": "251035.1.0",
+  "id": 311,
+  "huntDifficultyId": 32,
+  "index": 0,
+  "huntAreaId": 3201
+ },
+ {
+  "version": "251035.1.0",
+  "id": 312,
+  "huntDifficultyId": 32,
+  "index": 1,
+  "huntAreaId": 3202
+ },
+ {
+  "version": "251035.1.0",
+  "id": 313,
+  "huntDifficultyId": 32,
+  "index": 2,
+  "huntAreaId": 3203
+ },
+ {
+  "version": "251035.1.0",
+  "id": 314,
+  "huntDifficultyId": 32,
+  "index": 3,
+  "huntAreaId": 3204
+ },
+ {
+  "version": "251035.1.0",
+  "id": 315,
+  "huntDifficultyId": 32,
+  "index": 4,
+  "huntAreaId": 3205
+ },
+ {
+  "version": "251035.1.0",
+  "id": 316,
+  "huntDifficultyId": 32,
+  "index": 5,
+  "huntAreaId": 3206
+ },
+ {
+  "version": "251035.1.0",
+  "id": 317,
+  "huntDifficultyId": 32,
+  "index": 6,
+  "huntAreaId": 3207
+ },
+ {
+  "version": "251035.1.0",
+  "id": 318,
+  "huntDifficultyId": 32,
+  "index": 7,
+  "huntAreaId": 3208
+ },
+ {
+  "version": "251035.1.0",
+  "id": 319,
+  "huntDifficultyId": 32,
+  "index": 8,
+  "huntAreaId": 3209
+ },
+ {
+  "version": "251035.1.0",
+  "id": 320,
+  "huntDifficultyId": 32,
+  "index": 9,
+  "huntAreaId": 3210
+ },
+ {
+  "version": "251035.1.0",
+  "id": 321,
+  "huntDifficultyId": 33,
+  "index": 0,
+  "huntAreaId": 3301
+ },
+ {
+  "version": "251035.1.0",
+  "id": 322,
+  "huntDifficultyId": 33,
+  "index": 1,
+  "huntAreaId": 3302
+ },
+ {
+  "version": "251035.1.0",
+  "id": 323,
+  "huntDifficultyId": 33,
+  "index": 2,
+  "huntAreaId": 3303
+ },
+ {
+  "version": "251035.1.0",
+  "id": 324,
+  "huntDifficultyId": 33,
+  "index": 3,
+  "huntAreaId": 3304
+ },
+ {
+  "version": "251035.1.0",
+  "id": 325,
+  "huntDifficultyId": 33,
+  "index": 4,
+  "huntAreaId": 3305
+ },
+ {
+  "version": "251035.1.0",
+  "id": 326,
+  "huntDifficultyId": 33,
+  "index": 5,
+  "huntAreaId": 3306
+ },
+ {
+  "version": "251035.1.0",
+  "id": 327,
+  "huntDifficultyId": 33,
+  "index": 6,
+  "huntAreaId": 3307
+ },
+ {
+  "version": "251035.1.0",
+  "id": 328,
+  "huntDifficultyId": 33,
+  "index": 7,
+  "huntAreaId": 3308
+ },
+ {
+  "version": "251035.1.0",
+  "id": 329,
+  "huntDifficultyId": 33,
+  "index": 8,
+  "huntAreaId": 3309
+ },
+ {
+  "version": "251035.1.0",
+  "id": 330,
+  "huntDifficultyId": 33,
+  "index": 9,
+  "huntAreaId": 3310
+ },
+ {
+  "version": "260330.1.0",
+  "id": 331,
+  "huntDifficultyId": 34,
+  "index": 0,
+  "huntAreaId": 3401
+ },
+ {
+  "version": "260330.1.0",
+  "id": 332,
+  "huntDifficultyId": 34,
+  "index": 1,
+  "huntAreaId": 3402
+ },
+ {
+  "version": "260330.1.0",
+  "id": 333,
+  "huntDifficultyId": 34,
+  "index": 2,
+  "huntAreaId": 3403
+ },
+ {
+  "version": "260330.1.0",
+  "id": 334,
+  "huntDifficultyId": 34,
+  "index": 3,
+  "huntAreaId": 3404
+ },
+ {
+  "version": "260330.1.0",
+  "id": 335,
+  "huntDifficultyId": 34,
+  "index": 4,
+  "huntAreaId": 3405
+ },
+ {
+  "version": "260330.1.0",
+  "id": 336,
+  "huntDifficultyId": 34,
+  "index": 5,
+  "huntAreaId": 3406
+ },
+ {
+  "version": "260330.1.0",
+  "id": 337,
+  "huntDifficultyId": 34,
+  "index": 6,
+  "huntAreaId": 3407
+ },
+ {
+  "version": "260330.1.0",
+  "id": 338,
+  "huntDifficultyId": 34,
+  "index": 7,
+  "huntAreaId": 3408
+ },
+ {
+  "version": "260330.1.0",
+  "id": 339,
+  "huntDifficultyId": 34,
+  "index": 8,
+  "huntAreaId": 3409
+ },
+ {
+  "version": "260330.1.0",
+  "id": 340,
+  "huntDifficultyId": 34,
+  "index": 9,
+  "huntAreaId": 3410
+ },
+ {
+  "version": "260330.1.0",
+  "id": 341,
+  "huntDifficultyId": 35,
+  "index": 0,
+  "huntAreaId": 3501
+ },
+ {
+  "version": "260330.1.0",
+  "id": 342,
+  "huntDifficultyId": 35,
+  "index": 1,
+  "huntAreaId": 3502
+ },
+ {
+  "version": "260330.1.0",
+  "id": 343,
+  "huntDifficultyId": 35,
+  "index": 2,
+  "huntAreaId": 3503
+ },
+ {
+  "version": "260330.1.0",
+  "id": 344,
+  "huntDifficultyId": 35,
+  "index": 3,
+  "huntAreaId": 3504
+ },
+ {
+  "version": "260330.1.0",
+  "id": 345,
+  "huntDifficultyId": 35,
+  "index": 4,
+  "huntAreaId": 3505
+ },
+ {
+  "version": "260330.1.0",
+  "id": 346,
+  "huntDifficultyId": 35,
+  "index": 5,
+  "huntAreaId": 3506
+ },
+ {
+  "version": "260330.1.0",
+  "id": 347,
+  "huntDifficultyId": 35,
+  "index": 6,
+  "huntAreaId": 3507
+ },
+ {
+  "version": "260330.1.0",
+  "id": 348,
+  "huntDifficultyId": 35,
+  "index": 7,
+  "huntAreaId": 3508
+ },
+ {
+  "version": "260330.1.0",
+  "id": 349,
+  "huntDifficultyId": 35,
+  "index": 8,
+  "huntAreaId": 3509
+ },
+ {
+  "version": "260330.1.0",
+  "id": 350,
+  "huntDifficultyId": 35,
+  "index": 9,
+  "huntAreaId": 3510
+ },
+ {
+  "version": "260330.1.0",
+  "id": 351,
+  "huntDifficultyId": 36,
+  "index": 0,
+  "huntAreaId": 3601
+ },
+ {
+  "version": "260330.1.0",
+  "id": 352,
+  "huntDifficultyId": 36,
+  "index": 1,
+  "huntAreaId": 3602
+ },
+ {
+  "version": "260330.1.0",
+  "id": 353,
+  "huntDifficultyId": 36,
+  "index": 2,
+  "huntAreaId": 3603
+ },
+ {
+  "version": "260330.1.0",
+  "id": 354,
+  "huntDifficultyId": 36,
+  "index": 3,
+  "huntAreaId": 3604
+ },
+ {
+  "version": "260330.1.0",
+  "id": 355,
+  "huntDifficultyId": 36,
+  "index": 4,
+  "huntAreaId": 3605
+ },
+ {
+  "version": "260330.1.0",
+  "id": 356,
+  "huntDifficultyId": 36,
+  "index": 5,
+  "huntAreaId": 3606
+ },
+ {
+  "version": "260330.1.0",
+  "id": 357,
+  "huntDifficultyId": 36,
+  "index": 6,
+  "huntAreaId": 3607
+ },
+ {
+  "version": "260330.1.0",
+  "id": 358,
+  "huntDifficultyId": 36,
+  "index": 7,
+  "huntAreaId": 3608
+ },
+ {
+  "version": "260330.1.0",
+  "id": 359,
+  "huntDifficultyId": 36,
+  "index": 8,
+  "huntAreaId": 3609
+ },
+ {
+  "version": "260330.1.0",
+  "id": 360,
+  "huntDifficultyId": 36,
+  "index": 9,
+  "huntAreaId": 3610
+ },
+ {
+  "version": "260330.1.0",
+  "id": 361,
+  "huntDifficultyId": 37,
+  "index": 0,
+  "huntAreaId": 3701
+ },
+ {
+  "version": "260330.1.0",
+  "id": 362,
+  "huntDifficultyId": 37,
+  "index": 1,
+  "huntAreaId": 3702
+ },
+ {
+  "version": "260330.1.0",
+  "id": 363,
+  "huntDifficultyId": 37,
+  "index": 2,
+  "huntAreaId": 3703
+ },
+ {
+  "version": "260330.1.0",
+  "id": 364,
+  "huntDifficultyId": 37,
+  "index": 3,
+  "huntAreaId": 3704
+ },
+ {
+  "version": "260330.1.0",
+  "id": 365,
+  "huntDifficultyId": 37,
+  "index": 4,
+  "huntAreaId": 3705
+ },
+ {
+  "version": "260330.1.0",
+  "id": 366,
+  "huntDifficultyId": 37,
+  "index": 5,
+  "huntAreaId": 3706
+ },
+ {
+  "version": "260330.1.0",
+  "id": 367,
+  "huntDifficultyId": 37,
+  "index": 6,
+  "huntAreaId": 3707
+ },
+ {
+  "version": "260330.1.0",
+  "id": 368,
+  "huntDifficultyId": 37,
+  "index": 7,
+  "huntAreaId": 3708
+ },
+ {
+  "version": "260330.1.0",
+  "id": 369,
+  "huntDifficultyId": 37,
+  "index": 8,
+  "huntAreaId": 3709
+ },
+ {
+  "version": "260330.1.0",
+  "id": 370,
+  "huntDifficultyId": 37,
+  "index": 9,
+  "huntAreaId": 3710
+ },
+ {
+  "version": "260330.1.0",
+  "id": 371,
+  "huntDifficultyId": 38,
+  "index": 0,
+  "huntAreaId": 3801
+ },
+ {
+  "version": "260330.1.0",
+  "id": 372,
+  "huntDifficultyId": 38,
+  "index": 1,
+  "huntAreaId": 3802
+ },
+ {
+  "version": "260330.1.0",
+  "id": 373,
+  "huntDifficultyId": 38,
+  "index": 2,
+  "huntAreaId": 3803
+ },
+ {
+  "version": "260330.1.0",
+  "id": 374,
+  "huntDifficultyId": 38,
+  "index": 3,
+  "huntAreaId": 3804
+ },
+ {
+  "version": "260330.1.0",
+  "id": 375,
+  "huntDifficultyId": 38,
+  "index": 4,
+  "huntAreaId": 3805
+ },
+ {
+  "version": "260330.1.0",
+  "id": 376,
+  "huntDifficultyId": 38,
+  "index": 5,
+  "huntAreaId": 3806
+ },
+ {
+  "version": "260330.1.0",
+  "id": 377,
+  "huntDifficultyId": 38,
+  "index": 6,
+  "huntAreaId": 3807
+ },
+ {
+  "version": "260330.1.0",
+  "id": 378,
+  "huntDifficultyId": 38,
+  "index": 7,
+  "huntAreaId": 3808
+ },
+ {
+  "version": "260330.1.0",
+  "id": 379,
+  "huntDifficultyId": 38,
+  "index": 8,
+  "huntAreaId": 3809
+ },
+ {
+  "version": "260330.1.0",
+  "id": 380,
+  "huntDifficultyId": 38,
+  "index": 9,
+  "huntAreaId": 3810
+ },
+ {
+  "version": "260330.1.0",
+  "id": 381,
+  "huntDifficultyId": 39,
+  "index": 0,
+  "huntAreaId": 3901
+ },
+ {
+  "version": "260330.1.0",
+  "id": 382,
+  "huntDifficultyId": 39,
+  "index": 1,
+  "huntAreaId": 3902
+ },
+ {
+  "version": "260330.1.0",
+  "id": 383,
+  "huntDifficultyId": 39,
+  "index": 2,
+  "huntAreaId": 3903
+ },
+ {
+  "version": "260330.1.0",
+  "id": 384,
+  "huntDifficultyId": 39,
+  "index": 3,
+  "huntAreaId": 3904
+ },
+ {
+  "version": "260330.1.0",
+  "id": 385,
+  "huntDifficultyId": 39,
+  "index": 4,
+  "huntAreaId": 3905
+ },
+ {
+  "version": "260330.1.0",
+  "id": 386,
+  "huntDifficultyId": 39,
+  "index": 5,
+  "huntAreaId": 3906
+ },
+ {
+  "version": "260330.1.0",
+  "id": 387,
+  "huntDifficultyId": 39,
+  "index": 6,
+  "huntAreaId": 3907
+ },
+ {
+  "version": "260330.1.0",
+  "id": 388,
+  "huntDifficultyId": 39,
+  "index": 7,
+  "huntAreaId": 3908
+ },
+ {
+  "version": "260330.1.0",
+  "id": 389,
+  "huntDifficultyId": 39,
+  "index": 8,
+  "huntAreaId": 3909
+ },
+ {
+  "version": "260330.1.0",
+  "id": 390,
+  "huntDifficultyId": 39,
+  "index": 9,
+  "huntAreaId": 3910
+ },
+ {
+  "version": "260330.1.0",
+  "id": 391,
+  "huntDifficultyId": 40,
+  "index": 0,
+  "huntAreaId": 4001
+ },
+ {
+  "version": "260330.1.0",
+  "id": 392,
+  "huntDifficultyId": 40,
+  "index": 1,
+  "huntAreaId": 4002
+ },
+ {
+  "version": "260330.1.0",
+  "id": 393,
+  "huntDifficultyId": 40,
+  "index": 2,
+  "huntAreaId": 4003
+ },
+ {
+  "version": "260330.1.0",
+  "id": 394,
+  "huntDifficultyId": 40,
+  "index": 3,
+  "huntAreaId": 4004
+ },
+ {
+  "version": "260330.1.0",
+  "id": 395,
+  "huntDifficultyId": 40,
+  "index": 4,
+  "huntAreaId": 4005
+ },
+ {
+  "version": "260330.1.0",
+  "id": 396,
+  "huntDifficultyId": 40,
+  "index": 5,
+  "huntAreaId": 4006
+ },
+ {
+  "version": "260330.1.0",
+  "id": 397,
+  "huntDifficultyId": 40,
+  "index": 6,
+  "huntAreaId": 4007
+ },
+ {
+  "version": "260330.1.0",
+  "id": 398,
+  "huntDifficultyId": 40,
+  "index": 7,
+  "huntAreaId": 4008
+ },
+ {
+  "version": "260330.1.0",
+  "id": 399,
+  "huntDifficultyId": 40,
+  "index": 8,
+  "huntAreaId": 4009
+ },
+ {
+  "version": "260330.1.0",
+  "id": 400,
+  "huntDifficultyId": 40,
+  "index": 9,
+  "huntAreaId": 4010
+ },
+ {
+  "version": "260330.1.0",
+  "id": 401,
+  "huntDifficultyId": 41,
+  "index": 0,
+  "huntAreaId": 4101
+ },
+ {
+  "version": "260330.1.0",
+  "id": 402,
+  "huntDifficultyId": 41,
+  "index": 1,
+  "huntAreaId": 4102
+ },
+ {
+  "version": "260330.1.0",
+  "id": 403,
+  "huntDifficultyId": 41,
+  "index": 2,
+  "huntAreaId": 4103
+ },
+ {
+  "version": "260330.1.0",
+  "id": 404,
+  "huntDifficultyId": 41,
+  "index": 3,
+  "huntAreaId": 4104
+ },
+ {
+  "version": "260330.1.0",
+  "id": 405,
+  "huntDifficultyId": 41,
+  "index": 4,
+  "huntAreaId": 4105
+ },
+ {
+  "version": "260330.1.0",
+  "id": 406,
+  "huntDifficultyId": 41,
+  "index": 5,
+  "huntAreaId": 4106
+ },
+ {
+  "version": "260330.1.0",
+  "id": 407,
+  "huntDifficultyId": 41,
+  "index": 6,
+  "huntAreaId": 4107
+ },
+ {
+  "version": "260330.1.0",
+  "id": 408,
+  "huntDifficultyId": 41,
+  "index": 7,
+  "huntAreaId": 4108
+ },
+ {
+  "version": "260330.1.0",
+  "id": 409,
+  "huntDifficultyId": 41,
+  "index": 8,
+  "huntAreaId": 4109
+ },
+ {
+  "version": "260330.1.0",
+  "id": 410,
+  "huntDifficultyId": 41,
+  "index": 9,
+  "huntAreaId": 4110
+ },
+ {
+  "version": "260330.1.0",
+  "id": 411,
+  "huntDifficultyId": 42,
+  "index": 0,
+  "huntAreaId": 4201
+ },
+ {
+  "version": "260330.1.0",
+  "id": 412,
+  "huntDifficultyId": 42,
+  "index": 1,
+  "huntAreaId": 4202
+ },
+ {
+  "version": "260330.1.0",
+  "id": 413,
+  "huntDifficultyId": 42,
+  "index": 2,
+  "huntAreaId": 4203
+ },
+ {
+  "version": "260330.1.0",
+  "id": 414,
+  "huntDifficultyId": 42,
+  "index": 3,
+  "huntAreaId": 4204
+ },
+ {
+  "version": "260330.1.0",
+  "id": 415,
+  "huntDifficultyId": 42,
+  "index": 4,
+  "huntAreaId": 4205
+ },
+ {
+  "version": "260330.1.0",
+  "id": 416,
+  "huntDifficultyId": 42,
+  "index": 5,
+  "huntAreaId": 4206
+ },
+ {
+  "version": "260330.1.0",
+  "id": 417,
+  "huntDifficultyId": 42,
+  "index": 6,
+  "huntAreaId": 4207
+ },
+ {
+  "version": "260330.1.0",
+  "id": 418,
+  "huntDifficultyId": 42,
+  "index": 7,
+  "huntAreaId": 4208
+ },
+ {
+  "version": "260330.1.0",
+  "id": 419,
+  "huntDifficultyId": 42,
+  "index": 8,
+  "huntAreaId": 4209
+ },
+ {
+  "version": "260330.1.0",
+  "id": 420,
+  "huntDifficultyId": 42,
+  "index": 9,
+  "huntAreaId": 4210
+ },
+ {
+  "version": "260630.1.0",
+  "id": 421,
+  "huntDifficultyId": 43,
+  "index": 0,
+  "huntAreaId": 4301
+ },
+ {
+  "version": "260630.1.0",
+  "id": 422,
+  "huntDifficultyId": 43,
+  "index": 1,
+  "huntAreaId": 4302
+ },
+ {
+  "version": "260630.1.0",
+  "id": 423,
+  "huntDifficultyId": 43,
+  "index": 2,
+  "huntAreaId": 4303
+ },
+ {
+  "version": "260630.1.0",
+  "id": 424,
+  "huntDifficultyId": 43,
+  "index": 3,
+  "huntAreaId": 4304
+ },
+ {
+  "version": "260630.1.0",
+  "id": 425,
+  "huntDifficultyId": 43,
+  "index": 4,
+  "huntAreaId": 4305
+ },
+ {
+  "version": "260630.1.0",
+  "id": 426,
+  "huntDifficultyId": 43,
+  "index": 5,
+  "huntAreaId": 4306
+ },
+ {
+  "version": "260630.1.0",
+  "id": 427,
+  "huntDifficultyId": 43,
+  "index": 6,
+  "huntAreaId": 4307
+ },
+ {
+  "version": "260630.1.0",
+  "id": 428,
+  "huntDifficultyId": 43,
+  "index": 7,
+  "huntAreaId": 4308
+ },
+ {
+  "version": "260630.1.0",
+  "id": 429,
+  "huntDifficultyId": 43,
+  "index": 8,
+  "huntAreaId": 4309
+ },
+ {
+  "version": "260630.1.0",
+  "id": 430,
+  "huntDifficultyId": 43,
+  "index": 9,
+  "huntAreaId": 4310
+ },
+ {
+  "version": "260630.1.0",
+  "id": 431,
+  "huntDifficultyId": 44,
+  "index": 0,
+  "huntAreaId": 4401
+ },
+ {
+  "version": "260630.1.0",
+  "id": 432,
+  "huntDifficultyId": 44,
+  "index": 1,
+  "huntAreaId": 4402
+ },
+ {
+  "version": "260630.1.0",
+  "id": 433,
+  "huntDifficultyId": 44,
+  "index": 2,
+  "huntAreaId": 4403
+ },
+ {
+  "version": "260630.1.0",
+  "id": 434,
+  "huntDifficultyId": 44,
+  "index": 3,
+  "huntAreaId": 4404
+ },
+ {
+  "version": "260630.1.0",
+  "id": 435,
+  "huntDifficultyId": 44,
+  "index": 4,
+  "huntAreaId": 4405
+ },
+ {
+  "version": "260630.1.0",
+  "id": 436,
+  "huntDifficultyId": 44,
+  "index": 5,
+  "huntAreaId": 4406
+ },
+ {
+  "version": "260630.1.0",
+  "id": 437,
+  "huntDifficultyId": 44,
+  "index": 6,
+  "huntAreaId": 4407
+ },
+ {
+  "version": "260630.1.0",
+  "id": 438,
+  "huntDifficultyId": 44,
+  "index": 7,
+  "huntAreaId": 4408
+ },
+ {
+  "version": "260630.1.0",
+  "id": 439,
+  "huntDifficultyId": 44,
+  "index": 8,
+  "huntAreaId": 4409
+ },
+ {
+  "version": "260630.1.0",
+  "id": 440,
+  "huntDifficultyId": 44,
+  "index": 9,
+  "huntAreaId": 4410
+ },
+ {
+  "version": "260630.1.0",
+  "id": 441,
+  "huntDifficultyId": 45,
+  "index": 0,
+  "huntAreaId": 4501
+ },
+ {
+  "version": "260630.1.0",
+  "id": 442,
+  "huntDifficultyId": 45,
+  "index": 1,
+  "huntAreaId": 4502
+ },
+ {
+  "version": "260630.1.0",
+  "id": 443,
+  "huntDifficultyId": 45,
+  "index": 2,
+  "huntAreaId": 4503
+ },
+ {
+  "version": "260630.1.0",
+  "id": 444,
+  "huntDifficultyId": 45,
+  "index": 3,
+  "huntAreaId": 4504
+ },
+ {
+  "version": "260630.1.0",
+  "id": 445,
+  "huntDifficultyId": 45,
+  "index": 4,
+  "huntAreaId": 4505
+ },
+ {
+  "version": "260630.1.0",
+  "id": 446,
+  "huntDifficultyId": 45,
+  "index": 5,
+  "huntAreaId": 4506
+ },
+ {
+  "version": "260630.1.0",
+  "id": 447,
+  "huntDifficultyId": 45,
+  "index": 6,
+  "huntAreaId": 4507
+ },
+ {
+  "version": "260630.1.0",
+  "id": 448,
+  "huntDifficultyId": 45,
+  "index": 7,
+  "huntAreaId": 4508
+ },
+ {
+  "version": "260630.1.0",
+  "id": 449,
+  "huntDifficultyId": 45,
+  "index": 8,
+  "huntAreaId": 4509
+ },
+ {
+  "version": "260630.1.0",
+  "id": 450,
+  "huntDifficultyId": 45,
+  "index": 9,
+  "huntAreaId": 4510
+ },
+ {
+  "version": "260630.1.0",
+  "id": 451,
+  "huntDifficultyId": 46,
+  "index": 0,
+  "huntAreaId": 4601
+ },
+ {
+  "version": "260630.1.0",
+  "id": 452,
+  "huntDifficultyId": 46,
+  "index": 1,
+  "huntAreaId": 4602
+ },
+ {
+  "version": "260630.1.0",
+  "id": 453,
+  "huntDifficultyId": 46,
+  "index": 2,
+  "huntAreaId": 4603
+ },
+ {
+  "version": "260630.1.0",
+  "id": 454,
+  "huntDifficultyId": 46,
+  "index": 3,
+  "huntAreaId": 4604
+ },
+ {
+  "version": "260630.1.0",
+  "id": 455,
+  "huntDifficultyId": 46,
+  "index": 4,
+  "huntAreaId": 4605
+ },
+ {
+  "version": "260630.1.0",
+  "id": 456,
+  "huntDifficultyId": 46,
+  "index": 5,
+  "huntAreaId": 4606
+ },
+ {
+  "version": "260630.1.0",
+  "id": 457,
+  "huntDifficultyId": 46,
+  "index": 6,
+  "huntAreaId": 4607
+ },
+ {
+  "version": "260630.1.0",
+  "id": 458,
+  "huntDifficultyId": 46,
+  "index": 7,
+  "huntAreaId": 4608
+ },
+ {
+  "version": "260630.1.0",
+  "id": 459,
+  "huntDifficultyId": 46,
+  "index": 8,
+  "huntAreaId": 4609
+ },
+ {
+  "version": "260630.1.0",
+  "id": 460,
+  "huntDifficultyId": 46,
+  "index": 9,
+  "huntAreaId": 4610
+ },
+ {
+  "version": "260630.1.0",
+  "id": 461,
+  "huntDifficultyId": 47,
+  "index": 0,
+  "huntAreaId": 4701
+ },
+ {
+  "version": "260630.1.0",
+  "id": 462,
+  "huntDifficultyId": 47,
+  "index": 1,
+  "huntAreaId": 4702
+ },
+ {
+  "version": "260630.1.0",
+  "id": 463,
+  "huntDifficultyId": 47,
+  "index": 2,
+  "huntAreaId": 4703
+ },
+ {
+  "version": "260630.1.0",
+  "id": 464,
+  "huntDifficultyId": 47,
+  "index": 3,
+  "huntAreaId": 4704
+ },
+ {
+  "version": "260630.1.0",
+  "id": 465,
+  "huntDifficultyId": 47,
+  "index": 4,
+  "huntAreaId": 4705
+ },
+ {
+  "version": "260630.1.0",
+  "id": 466,
+  "huntDifficultyId": 47,
+  "index": 5,
+  "huntAreaId": 4706
+ },
+ {
+  "version": "260630.1.0",
+  "id": 467,
+  "huntDifficultyId": 47,
+  "index": 6,
+  "huntAreaId": 4707
+ },
+ {
+  "version": "260630.1.0",
+  "id": 468,
+  "huntDifficultyId": 47,
+  "index": 7,
+  "huntAreaId": 4708
+ },
+ {
+  "version": "260630.1.0",
+  "id": 469,
+  "huntDifficultyId": 47,
+  "index": 8,
+  "huntAreaId": 4709
+ },
+ {
+  "version": "260630.1.0",
+  "id": 470,
+  "huntDifficultyId": 47,
+  "index": 9,
+  "huntAreaId": 4710
+ },
+ {
+  "version": "260630.1.0",
+  "id": 471,
+  "huntDifficultyId": 48,
+  "index": 0,
+  "huntAreaId": 4801
+ },
+ {
+  "version": "260630.1.0",
+  "id": 472,
+  "huntDifficultyId": 48,
+  "index": 1,
+  "huntAreaId": 4802
+ },
+ {
+  "version": "260630.1.0",
+  "id": 473,
+  "huntDifficultyId": 48,
+  "index": 2,
+  "huntAreaId": 4803
+ },
+ {
+  "version": "260630.1.0",
+  "id": 474,
+  "huntDifficultyId": 48,
+  "index": 3,
+  "huntAreaId": 4804
+ },
+ {
+  "version": "260630.1.0",
+  "id": 475,
+  "huntDifficultyId": 48,
+  "index": 4,
+  "huntAreaId": 4805
+ },
+ {
+  "version": "260630.1.0",
+  "id": 476,
+  "huntDifficultyId": 48,
+  "index": 5,
+  "huntAreaId": 4806
+ },
+ {
+  "version": "260630.1.0",
+  "id": 477,
+  "huntDifficultyId": 48,
+  "index": 6,
+  "huntAreaId": 4807
+ },
+ {
+  "version": "260630.1.0",
+  "id": 478,
+  "huntDifficultyId": 48,
+  "index": 7,
+  "huntAreaId": 4808
+ },
+ {
+  "version": "260630.1.0",
+  "id": 479,
+  "huntDifficultyId": 48,
+  "index": 8,
+  "huntAreaId": 4809
+ },
+ {
+  "version": "260630.1.0",
+  "id": 480,
+  "huntDifficultyId": 48,
+  "index": 9,
+  "huntAreaId": 4810
+ },
+ {
+  "version": "260630.1.0",
+  "id": 481,
+  "huntDifficultyId": 49,
+  "index": 0,
+  "huntAreaId": 4901
+ },
+ {
+  "version": "260630.1.0",
+  "id": 482,
+  "huntDifficultyId": 49,
+  "index": 1,
+  "huntAreaId": 4902
+ },
+ {
+  "version": "260630.1.0",
+  "id": 483,
+  "huntDifficultyId": 49,
+  "index": 2,
+  "huntAreaId": 4903
+ },
+ {
+  "version": "260630.1.0",
+  "id": 484,
+  "huntDifficultyId": 49,
+  "index": 3,
+  "huntAreaId": 4904
+ },
+ {
+  "version": "260630.1.0",
+  "id": 485,
+  "huntDifficultyId": 49,
+  "index": 4,
+  "huntAreaId": 4905
+ },
+ {
+  "version": "260630.1.0",
+  "id": 486,
+  "huntDifficultyId": 49,
+  "index": 5,
+  "huntAreaId": 4906
+ },
+ {
+  "version": "260630.1.0",
+  "id": 487,
+  "huntDifficultyId": 49,
+  "index": 6,
+  "huntAreaId": 4907
+ },
+ {
+  "version": "260630.1.0",
+  "id": 488,
+  "huntDifficultyId": 49,
+  "index": 7,
+  "huntAreaId": 4908
+ },
+ {
+  "version": "260630.1.0",
+  "id": 489,
+  "huntDifficultyId": 49,
+  "index": 8,
+  "huntAreaId": 4909
+ },
+ {
+  "version": "260630.1.0",
+  "id": 490,
+  "huntDifficultyId": 49,
+  "index": 9,
+  "huntAreaId": 4910
+ },
+ {
+  "version": "260630.1.0",
+  "id": 491,
+  "huntDifficultyId": 50,
+  "index": 0,
+  "huntAreaId": 5001
+ },
+ {
+  "version": "260630.1.0",
+  "id": 492,
+  "huntDifficultyId": 50,
+  "index": 1,
+  "huntAreaId": 5002
+ },
+ {
+  "version": "260630.1.0",
+  "id": 493,
+  "huntDifficultyId": 50,
+  "index": 2,
+  "huntAreaId": 5003
+ },
+ {
+  "version": "260630.1.0",
+  "id": 494,
+  "huntDifficultyId": 50,
+  "index": 3,
+  "huntAreaId": 5004
+ },
+ {
+  "version": "260630.1.0",
+  "id": 495,
+  "huntDifficultyId": 50,
+  "index": 4,
+  "huntAreaId": 5005
+ },
+ {
+  "version": "260630.1.0",
+  "id": 496,
+  "huntDifficultyId": 50,
+  "index": 5,
+  "huntAreaId": 5006
+ },
+ {
+  "version": "260630.1.0",
+  "id": 497,
+  "huntDifficultyId": 50,
+  "index": 6,
+  "huntAreaId": 5007
+ },
+ {
+  "version": "260630.1.0",
+  "id": 498,
+  "huntDifficultyId": 50,
+  "index": 7,
+  "huntAreaId": 5008
+ },
+ {
+  "version": "260630.1.0",
+  "id": 499,
+  "huntDifficultyId": 50,
+  "index": 8,
+  "huntAreaId": 5009
+ },
+ {
+  "version": "260630.1.0",
+  "id": 500,
+  "huntDifficultyId": 50,
+  "index": 9,
+  "huntAreaId": 5010
+ },
+ {
+  "version": "260630.1.0",
+  "id": 501,
+  "huntDifficultyId": 51,
+  "index": 0,
+  "huntAreaId": 5101
+ },
+ {
+  "version": "260630.1.0",
+  "id": 502,
+  "huntDifficultyId": 51,
+  "index": 1,
+  "huntAreaId": 5102
+ },
+ {
+  "version": "260630.1.0",
+  "id": 503,
+  "huntDifficultyId": 51,
+  "index": 2,
+  "huntAreaId": 5103
+ },
+ {
+  "version": "260630.1.0",
+  "id": 504,
+  "huntDifficultyId": 51,
+  "index": 3,
+  "huntAreaId": 5104
+ },
+ {
+  "version": "260630.1.0",
+  "id": 505,
+  "huntDifficultyId": 51,
+  "index": 4,
+  "huntAreaId": 5105
+ },
+ {
+  "version": "260630.1.0",
+  "id": 506,
+  "huntDifficultyId": 51,
+  "index": 5,
+  "huntAreaId": 5106
+ },
+ {
+  "version": "260630.1.0",
+  "id": 507,
+  "huntDifficultyId": 51,
+  "index": 6,
+  "huntAreaId": 5107
+ },
+ {
+  "version": "260630.1.0",
+  "id": 508,
+  "huntDifficultyId": 51,
+  "index": 7,
+  "huntAreaId": 5108
+ },
+ {
+  "version": "260630.1.0",
+  "id": 509,
+  "huntDifficultyId": 51,
+  "index": 8,
+  "huntAreaId": 5109
+ },
+ {
+  "version": "260630.1.0",
+  "id": 510,
+  "huntDifficultyId": 51,
+  "index": 9,
+  "huntAreaId": 5110
+ }
+]

@@ -1,0 +1,47 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "index": 1,
+  "profileAchievementType": "MainHunt",
+  "labelTextKey": 438915876,
+  "value": 0,
+  "evaluateConditionId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "index": 2,
+  "profileAchievementType": "SubHunt",
+  "labelTextKey": -622494567,
+  "value": 1,
+  "evaluateConditionId": 2010110
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "index": 3,
+  "profileAchievementType": "SubHunt",
+  "labelTextKey": 1139551523,
+  "value": 2,
+  "evaluateConditionId": 3010010
+ },
+ {
+  "version": "250725.1.0",
+  "id": 4,
+  "index": 4,
+  "profileAchievementType": "SubHunt",
+  "labelTextKey": 887823797,
+  "value": 13,
+  "evaluateConditionId": 2040101
+ },
+ {
+  "version": "260410.1.0",
+  "id": 5,
+  "index": 5,
+  "profileAchievementType": "SubHunt",
+  "labelTextKey": -1433434090,
+  "value": 14,
+  "evaluateConditionId": 2050101
+ }
+]

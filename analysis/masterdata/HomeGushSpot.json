@@ -1,0 +1,11 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "conditionDateTermId": 0,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "assetId": 1,
+  "prizeLotteryGroupId": 100
+ }
+]

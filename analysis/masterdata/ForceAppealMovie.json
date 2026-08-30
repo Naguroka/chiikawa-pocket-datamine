@@ -1,0 +1,18 @@
+[
+ {
+  "version": "260730.1.0",
+  "id": 1,
+  "appealStartAtJst": 0,
+  "appealEndAtJst": 306520,
+  "priority": 20,
+  "movieUrl": "\u0000��\u0017���\b\u0001)movies/260730/interact_C_jp_1080-1920.mp4"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 2,
+  "appealStartAtJst": 0,
+  "appealEndAtJst": 24,
+  "priority": 7615,
+  "movieUrl": "\u0000\u0012q�\u0014\u0005�\b\u0002.movies/260810/mermaidisland_B_jp_1080-1920.mp4"
+ }
+]

@@ -1,0 +1,92 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "cookingLicenseId": 1,
+  "level": 1,
+  "rewardId": 0,
+  "levelUpMenuCount": 0,
+  "levelUpReachMenuLevel": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "cookingLicenseId": 1,
+  "level": 2,
+  "rewardId": 7007,
+  "levelUpMenuCount": 2,
+  "levelUpReachMenuLevel": 50
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "cookingLicenseId": 1,
+  "level": 3,
+  "rewardId": 7016,
+  "levelUpMenuCount": 2,
+  "levelUpReachMenuLevel": 100
+ },
+ {
+  "version": "250330.1.0",
+  "id": 4,
+  "cookingLicenseId": 1,
+  "level": 4,
+  "rewardId": 7018,
+  "levelUpMenuCount": 4,
+  "levelUpReachMenuLevel": 50
+ },
+ {
+  "version": "250330.1.0",
+  "id": 5,
+  "cookingLicenseId": 1,
+  "level": 5,
+  "rewardId": 7028,
+  "levelUpMenuCount": 4,
+  "levelUpReachMenuLevel": 100
+ },
+ {
+  "version": "250330.1.0",
+  "id": 6,
+  "cookingLicenseId": 1,
+  "level": 6,
+  "rewardId": 7029,
+  "levelUpMenuCount": 6,
+  "levelUpReachMenuLevel": 100
+ },
+ {
+  "version": "250330.1.0",
+  "id": 7,
+  "cookingLicenseId": 1,
+  "level": 7,
+  "rewardId": 7030,
+  "levelUpMenuCount": 8,
+  "levelUpReachMenuLevel": 100
+ },
+ {
+  "version": "250330.1.0",
+  "id": 8,
+  "cookingLicenseId": 1,
+  "level": 8,
+  "rewardId": 7039,
+  "levelUpMenuCount": 10,
+  "levelUpReachMenuLevel": 100
+ },
+ {
+  "version": "250330.1.0",
+  "id": 9,
+  "cookingLicenseId": 1,
+  "level": 9,
+  "rewardId": 7040,
+  "levelUpMenuCount": 12,
+  "levelUpReachMenuLevel": 100
+ },
+ {
+  "version": "250330.1.0",
+  "id": 10,
+  "cookingLicenseId": 1,
+  "level": 10,
+  "rewardId": 7050,
+  "levelUpMenuCount": 15,
+  "levelUpReachMenuLevel": 100
+ }
+]

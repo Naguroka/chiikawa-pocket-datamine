@@ -1,0 +1,98 @@
+[
+ {
+  "version": "251010.1.0",
+  "id": 101506,
+  "nameTextKey": -542934241,
+  "backgroundType": "Book",
+  "assetId": 1001,
+  "order": 1
+ },
+ {
+  "version": "251030.1.0",
+  "id": 101706,
+  "nameTextKey": -601378959,
+  "backgroundType": "Canvas",
+  "assetId": 2001,
+  "order": 2
+ },
+ {
+  "version": "251210.1.0",
+  "id": 101906,
+  "nameTextKey": -692485509,
+  "backgroundType": "Canvas",
+  "assetId": 3001,
+  "order": 3
+ },
+ {
+  "version": "260110.1.0",
+  "id": 102106,
+  "nameTextKey": -903906259,
+  "backgroundType": "Book",
+  "assetId": 4001,
+  "order": 4
+ },
+ {
+  "version": "260210.1.0",
+  "id": 102206,
+  "nameTextKey": -933641612,
+  "backgroundType": "Canvas",
+  "assetId": 5001,
+  "order": 5
+ },
+ {
+  "version": "260310.1.0",
+  "id": 102406,
+  "nameTextKey": -858472762,
+  "backgroundType": "Canvas",
+  "assetId": 6001,
+  "order": 6
+ },
+ {
+  "version": "260410.1.0",
+  "id": 102606,
+  "nameTextKey": -816813400,
+  "backgroundType": "Book",
+  "assetId": 7001,
+  "order": 7
+ },
+ {
+  "version": "260510.1.0",
+  "id": 102706,
+  "nameTextKey": -829292385,
+  "backgroundType": "Canvas",
+  "assetId": 8001,
+  "order": 8
+ },
+ {
+  "version": "260610.1.0",
+  "id": 102806,
+  "nameTextKey": -976336990,
+  "backgroundType": "Canvas",
+  "assetId": 9001,
+  "order": 9
+ },
+ {
+  "version": "260710.1.0",
+  "id": 102906,
+  "nameTextKey": -1005834859,
+  "backgroundType": "Canvas",
+  "assetId": 10001,
+  "order": 10
+ },
+ {
+  "version": "260810.1.0",
+  "id": 103006,
+  "nameTextKey": 1935765887,
+  "backgroundType": "Canvas",
+  "assetId": 11001,
+  "order": 11
+ },
+ {
+  "version": "260910.1.0",
+  "id": 103106,
+  "nameTextKey": 1923291976,
+  "backgroundType": "Canvas",
+  "assetId": 12001,
+  "order": 12
+ }
+]

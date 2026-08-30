@@ -1,0 +1,18 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "nameKey": -108365789,
+  "shopPassType": "ClubMembership",
+  "shopItemId": 32008,
+  "loginBonusCampaignId": 3200801
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "nameKey": -1035526669,
+  "shopPassType": "CookingPass",
+  "shopItemId": 32002,
+  "loginBonusCampaignId": 0
+ }
+]

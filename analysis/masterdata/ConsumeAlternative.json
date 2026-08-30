@@ -1,0 +1,18 @@
+[
+ {
+  "version": "260110.1.0",
+  "id": 1215,
+  "consumeType": "ResourceItem",
+  "consumeTargetId": 12,
+  "alternativeConsumeType": "ResourceItem",
+  "alternativeConsumeTargetId": 15
+ },
+ {
+  "version": "260110.1.0",
+  "id": 1216,
+  "consumeType": "ResourceItem",
+  "consumeTargetId": 12,
+  "alternativeConsumeType": "ResourceItem",
+  "alternativeConsumeTargetId": 16
+ }
+]

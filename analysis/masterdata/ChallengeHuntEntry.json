@@ -1,0 +1,29 @@
+[
+ {
+  "version": "251010.1.0",
+  "id": 101507,
+  "normalConsumeId": 15015,
+  "extraConsumeId": 16015,
+  "dailyRecoveryUnitRewardId": 101507,
+  "dailyRecoveryCount": 1,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "260410.1.0",
+  "id": 102607,
+  "normalConsumeId": 15026,
+  "extraConsumeId": 16026,
+  "dailyRecoveryUnitRewardId": 102607,
+  "dailyRecoveryCount": 1,
+  "dailyRecoveryHourJst": 15
+ },
+ {
+  "version": "260810.1.0",
+  "id": 103007,
+  "normalConsumeId": 15030,
+  "extraConsumeId": 16030,
+  "dailyRecoveryUnitRewardId": 103007,
+  "dailyRecoveryCount": 1,
+  "dailyRecoveryHourJst": 15
+ }
+]

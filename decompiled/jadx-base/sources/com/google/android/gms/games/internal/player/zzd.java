@@ -1,0 +1,128 @@
+package com.google.android.gms.games.internal.player;
+
+/* JADX INFO: compiled from: com.google.android.gms:play-services-games-v2@@17.0.0 */
+/* JADX INFO: loaded from: classes4.dex */
+public final class zzd {
+    public final java.lang.String zzA;
+    public final java.lang.String zzB;
+    public final java.lang.String zzC;
+    public final java.lang.String zzD;
+    public final java.lang.String zzE;
+    public final java.lang.String zzF;
+    public final java.lang.String zzG;
+    public final java.lang.String zzH;
+    public final java.lang.String zzI;
+    public final java.lang.String zzJ;
+    public final java.lang.String zzK;
+    public final java.lang.String zzL;
+    public final java.lang.String zza;
+    public final java.lang.String zzb;
+    public final java.lang.String zzc;
+    public final java.lang.String zzd;
+    public final java.lang.String zze;
+    public final java.lang.String zzf;
+    public final java.lang.String zzg;
+    public final java.lang.String zzh;
+    public final java.lang.String zzi;
+    public final java.lang.String zzj;
+    public final java.lang.String zzk;
+    public final java.lang.String zzl;
+    public final java.lang.String zzm;
+    public final java.lang.String zzn;
+    public final java.lang.String zzo;
+    public final java.lang.String zzp;
+    public final java.lang.String zzq;
+    public final java.lang.String zzr;
+    public final java.lang.String zzs;
+    public final java.lang.String zzt;
+    public final java.lang.String zzu;
+    public final java.lang.String zzv;
+    public final java.lang.String zzw;
+    public final java.lang.String zzx;
+    public final java.lang.String zzy;
+    public final java.lang.String zzz;
+
+    public zzd(java.lang.String str) {
+        java.lang.String str2;
+        if (android.text.TextUtils.isEmpty(null)) {
+            this.zza = "external_player_id";
+            this.zzb = "profile_name";
+            this.zzc = "profile_icon_image_uri";
+            this.zzd = "profile_icon_image_url";
+            this.zze = "profile_hi_res_image_uri";
+            this.zzf = "profile_hi_res_image_url";
+            this.zzg = "last_updated";
+            this.zzh = "is_in_circles";
+            this.zzi = "played_with_timestamp";
+            this.zzj = "current_xp_total";
+            this.zzk = "current_level";
+            this.zzl = "current_level_min_xp";
+            this.zzm = "current_level_max_xp";
+            this.zzn = "next_level";
+            this.zzo = "next_level_max_xp";
+            this.zzp = "last_level_up_timestamp";
+            this.zzq = "player_title";
+            this.zzr = "is_profile_visible";
+            this.zzs = "most_recent_external_game_id";
+            this.zzt = "most_recent_game_name";
+            this.zzu = "most_recent_activity_timestamp";
+            this.zzv = "most_recent_game_icon_uri";
+            this.zzw = "most_recent_game_hi_res_uri";
+            this.zzx = "most_recent_game_featured_uri";
+            this.zzy = "has_debug_access";
+            this.zzz = "gamer_tag";
+            this.zzA = "real_name";
+            this.zzB = "banner_image_landscape_uri";
+            this.zzC = "banner_image_landscape_url";
+            this.zzD = "banner_image_portrait_uri";
+            this.zzE = "banner_image_portrait_url";
+            this.zzF = "total_unlocked_achievements";
+            this.zzG = "play_together_friend_status";
+            this.zzH = "play_together_nickname";
+            this.zzI = "play_together_invitation_nickname";
+            this.zzJ = "nickname_abuse_report_token";
+            this.zzK = "friends_list_visibility";
+            str2 = "always_auto_sign_in";
+        } else {
+            this.zza = "nullexternal_player_id";
+            this.zzb = "nullprofile_name";
+            this.zzc = "nullprofile_icon_image_uri";
+            this.zzd = "nullprofile_icon_image_url";
+            this.zze = "nullprofile_hi_res_image_uri";
+            this.zzf = "nullprofile_hi_res_image_url";
+            this.zzg = "nulllast_updated";
+            this.zzh = "nullis_in_circles";
+            this.zzi = "nullplayed_with_timestamp";
+            this.zzj = "nullcurrent_xp_total";
+            this.zzk = "nullcurrent_level";
+            this.zzl = "nullcurrent_level_min_xp";
+            this.zzm = "nullcurrent_level_max_xp";
+            this.zzn = "nullnext_level";
+            this.zzo = "nullnext_level_max_xp";
+            this.zzp = "nulllast_level_up_timestamp";
+            this.zzq = "nullplayer_title";
+            this.zzr = "nullis_profile_visible";
+            this.zzs = "nullmost_recent_external_game_id";
+            this.zzt = "nullmost_recent_game_name";
+            this.zzu = "nullmost_recent_activity_timestamp";
+            this.zzv = "nullmost_recent_game_icon_uri";
+            this.zzw = "nullmost_recent_game_hi_res_uri";
+            this.zzx = "nullmost_recent_game_featured_uri";
+            this.zzy = "nullhas_debug_access";
+            this.zzz = "nullgamer_tag";
+            this.zzA = "nullreal_name";
+            this.zzB = "nullbanner_image_landscape_uri";
+            this.zzC = "nullbanner_image_landscape_url";
+            this.zzD = "nullbanner_image_portrait_uri";
+            this.zzE = "nullbanner_image_portrait_url";
+            this.zzF = "nulltotal_unlocked_achievements";
+            this.zzG = "nullplay_together_friend_status";
+            this.zzH = "nullplay_together_nickname";
+            this.zzI = "nullplay_together_invitation_nickname";
+            this.zzJ = "nullnickname_abuse_report_token";
+            this.zzK = "nullfriends_list_visibility";
+            str2 = "nullalways_auto_sign_in";
+        }
+        this.zzL = str2;
+    }
+}

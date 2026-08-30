@@ -1,0 +1,35 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 101,
+  "possessionEffectId": 6001,
+  "timeUnitType": "Day",
+  "timeUnitCount": 28,
+  "spriteName": "buffitem_icon_cooking_abandonedtime_up",
+  "nameTextKey": 331634603,
+  "descriptionTextKey": 1270182486,
+  "relativeScheduleId": 3
+ },
+ {
+  "version": "250330.1.0",
+  "id": 102,
+  "possessionEffectId": 6002,
+  "timeUnitType": "Day",
+  "timeUnitCount": 28,
+  "spriteName": "buffitem_icon_cookingpoint_up",
+  "nameTextKey": -1966275055,
+  "descriptionTextKey": -759421972,
+  "relativeScheduleId": 3
+ },
+ {
+  "version": "250330.1.0",
+  "id": 103,
+  "possessionEffectId": 6003,
+  "timeUnitType": "Day",
+  "timeUnitCount": 28,
+  "spriteName": "buffitem_icon_study_research_up",
+  "nameTextKey": -37079417,
+  "descriptionTextKey": -1514466438,
+  "relativeScheduleId": 2
+ }
+]

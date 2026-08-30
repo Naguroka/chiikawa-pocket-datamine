@@ -1,0 +1,298 @@
+[
+ {
+  "version": "260810.1.0",
+  "id": 10010,
+  "nameTextKey": 2147483647,
+  "assetId": 10,
+  "sortOrder": 99999,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10011,
+  "nameTextKey": 2147483647,
+  "assetId": 11,
+  "sortOrder": 99998,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10012,
+  "nameTextKey": 2147483647,
+  "assetId": 12,
+  "sortOrder": 99997,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10020,
+  "nameTextKey": 2147483647,
+  "assetId": 20,
+  "sortOrder": 99989,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10021,
+  "nameTextKey": 2147483647,
+  "assetId": 21,
+  "sortOrder": 99988,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10022,
+  "nameTextKey": 2147483647,
+  "assetId": 22,
+  "sortOrder": 99987,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10030,
+  "nameTextKey": 2147483647,
+  "assetId": 30,
+  "sortOrder": 99979,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10031,
+  "nameTextKey": 2147483647,
+  "assetId": 31,
+  "sortOrder": 99978,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10032,
+  "nameTextKey": 2147483647,
+  "assetId": 32,
+  "sortOrder": 99977,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10040,
+  "nameTextKey": 2147483647,
+  "assetId": 40,
+  "sortOrder": 99969,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10041,
+  "nameTextKey": 2147483647,
+  "assetId": 41,
+  "sortOrder": 99968,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10042,
+  "nameTextKey": 2147483647,
+  "assetId": 42,
+  "sortOrder": 99967,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10043,
+  "nameTextKey": 2147483647,
+  "assetId": 43,
+  "sortOrder": 99966,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10050,
+  "nameTextKey": 2147483647,
+  "assetId": 50,
+  "sortOrder": 99959,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10051,
+  "nameTextKey": 2147483647,
+  "assetId": 51,
+  "sortOrder": 99958,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10052,
+  "nameTextKey": 2147483647,
+  "assetId": 52,
+  "sortOrder": 99957,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10060,
+  "nameTextKey": 2147483647,
+  "assetId": 60,
+  "sortOrder": 99949,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10061,
+  "nameTextKey": 2147483647,
+  "assetId": 61,
+  "sortOrder": 99948,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10062,
+  "nameTextKey": 2147483647,
+  "assetId": 62,
+  "sortOrder": 99947,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10070,
+  "nameTextKey": 2147483647,
+  "assetId": 70,
+  "sortOrder": 99939,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10071,
+  "nameTextKey": 2147483647,
+  "assetId": 71,
+  "sortOrder": 99938,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10072,
+  "nameTextKey": 2147483647,
+  "assetId": 72,
+  "sortOrder": 99937,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10080,
+  "nameTextKey": 2147483647,
+  "assetId": 80,
+  "sortOrder": 99929,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10081,
+  "nameTextKey": 2147483647,
+  "assetId": 81,
+  "sortOrder": 99928,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10082,
+  "nameTextKey": 2147483647,
+  "assetId": 82,
+  "sortOrder": 99927,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10090,
+  "nameTextKey": 2147483647,
+  "assetId": 90,
+  "sortOrder": 99919,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10091,
+  "nameTextKey": 2147483647,
+  "assetId": 91,
+  "sortOrder": 99918,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10092,
+  "nameTextKey": 2147483647,
+  "assetId": 92,
+  "sortOrder": 99917,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10100,
+  "nameTextKey": 2147483647,
+  "assetId": 100,
+  "sortOrder": 99909,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10101,
+  "nameTextKey": 2147483647,
+  "assetId": 101,
+  "sortOrder": 99908,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10102,
+  "nameTextKey": 2147483647,
+  "assetId": 102,
+  "sortOrder": 99907,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10110,
+  "nameTextKey": 2147483647,
+  "assetId": 110,
+  "sortOrder": 99899,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10111,
+  "nameTextKey": 2147483647,
+  "assetId": 111,
+  "sortOrder": 99898,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10112,
+  "nameTextKey": 2147483647,
+  "assetId": 112,
+  "sortOrder": 99897,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10120,
+  "nameTextKey": 2147483647,
+  "assetId": 120,
+  "sortOrder": 99889,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10121,
+  "nameTextKey": 2147483647,
+  "assetId": 121,
+  "sortOrder": 99888,
+  "startAtJst": 638527968000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10122,
+  "nameTextKey": 2147483647,
+  "assetId": 122,
+  "sortOrder": 99887,
+  "startAtJst": 638527968000000000
+ }
+]

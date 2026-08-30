@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package gatewayprotocol.v1;
+
+import "gatewayprotocol/v1/initialization_request.proto";
+import "gatewayprotocol/v1/universal_request.proto";
+
+option swift_prefix = "Gateway";
+
+message InitializationData {
+  optional InitializationRequest initialization_request = 1;
+  optional UniversalRequest.SharedData shared_data = 2;
+}

@@ -1,0 +1,163 @@
+[
+ {
+  "version": "250612.1.0",
+  "id": 1,
+  "statusType": "Attack",
+  "assetId": 1,
+  "nameTextKey": 983381112
+ },
+ {
+  "version": "250612.1.0",
+  "id": 2,
+  "statusType": "AttackSpeed",
+  "assetId": 2,
+  "nameTextKey": -2131795812
+ },
+ {
+  "version": "250612.1.0",
+  "id": 3,
+  "statusType": "Health",
+  "assetId": 3,
+  "nameTextKey": -1282983344
+ },
+ {
+  "version": "250612.1.0",
+  "id": 4,
+  "statusType": "HealthRecover",
+  "assetId": 4,
+  "nameTextKey": -656203595
+ },
+ {
+  "version": "250612.1.0",
+  "id": 5,
+  "statusType": "CriticalRate",
+  "assetId": 5,
+  "nameTextKey": -530127865
+ },
+ {
+  "version": "250612.1.0",
+  "id": 6,
+  "statusType": "CriticalDamage",
+  "assetId": 6,
+  "nameTextKey": -2133464776
+ },
+ {
+  "version": "250610.1.0",
+  "id": 8,
+  "statusType": "AdvancedAttack",
+  "assetId": 8,
+  "nameTextKey": 1087758365
+ },
+ {
+  "version": "250612.1.0",
+  "id": 10,
+  "statusType": "NormalAttackDamageRate",
+  "assetId": 10,
+  "nameTextKey": -317641576
+ },
+ {
+  "version": "250612.1.0",
+  "id": 11,
+  "statusType": "BossDamageRate",
+  "assetId": 11,
+  "nameTextKey": 2069603080
+ },
+ {
+  "version": "250610.1.0",
+  "id": 12,
+  "statusType": "MobDamageRate",
+  "assetId": 12,
+  "nameTextKey": -1484767492
+ },
+ {
+  "version": "250725.1.0",
+  "id": 13,
+  "statusType": "AttackDebuff",
+  "assetId": 1,
+  "nameTextKey": -662951944
+ },
+ {
+  "version": "250725.1.0",
+  "id": 14,
+  "statusType": "DefenceDebuff",
+  "assetId": 1,
+  "nameTextKey": 1891252664
+ },
+ {
+  "version": "250612.1.0",
+  "id": 20,
+  "statusType": "SkillDamageRate",
+  "assetId": 20,
+  "nameTextKey": 1895494437
+ },
+ {
+  "version": "250612.1.0",
+  "id": 21,
+  "statusType": "UniqueSkillCoolTime",
+  "assetId": 1,
+  "nameTextKey": 1083557970
+ },
+ {
+  "version": "250612.1.0",
+  "id": 22,
+  "statusType": "AssistSkillCoolTime",
+  "assetId": 22,
+  "nameTextKey": 1699565187
+ },
+ {
+  "version": "250610.1.0",
+  "id": 24,
+  "statusType": "UniqueSkillDamageRate",
+  "assetId": 24,
+  "nameTextKey": 464264379
+ },
+ {
+  "version": "250612.1.0",
+  "id": 50,
+  "statusType": "GoldAcquire",
+  "assetId": 50,
+  "nameTextKey": -1346293188
+ },
+ {
+  "version": "250612.1.0",
+  "id": 51,
+  "statusType": "BattleTimeLimit",
+  "assetId": 51,
+  "nameTextKey": 143219292
+ },
+ {
+  "version": "250612.1.0",
+  "id": 52,
+  "statusType": "CostumeExperience",
+  "assetId": 52,
+  "nameTextKey": 2109835795
+ },
+ {
+  "version": "250612.1.0",
+  "id": 100,
+  "statusType": "WeedingActionMaxStamina",
+  "assetId": 100,
+  "nameTextKey": -1142634312
+ },
+ {
+  "version": "250612.1.0",
+  "id": 101,
+  "statusType": "WeedingActionStaminaRecoverSpeed",
+  "assetId": 101,
+  "nameTextKey": 679707451
+ },
+ {
+  "version": "250612.1.0",
+  "id": 150,
+  "statusType": "StudyResourceAcquire",
+  "assetId": 150,
+  "nameTextKey": 2132634486
+ },
+ {
+  "version": "250612.1.0",
+  "id": 151,
+  "statusType": "StudySpeed",
+  "assetId": 151,
+  "nameTextKey": -515227244
+ }
+]

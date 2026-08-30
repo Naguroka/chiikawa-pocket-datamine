@@ -1,0 +1,706 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 11,
+  "setId": 1,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 12,
+  "setId": 1,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 13,
+  "setId": 1,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 14,
+  "setId": 1,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 21,
+  "setId": 2,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 22,
+  "setId": 2,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 23,
+  "setId": 2,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#f6e3c1ff"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 24,
+  "setId": 2,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#e4f4fdff"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 31,
+  "setId": 3,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 32,
+  "setId": 3,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 33,
+  "setId": 3,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#f6e3c1ff"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 34,
+  "setId": 3,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#e4f4fdff"
+ },
+ {
+  "version": "250350.1.0",
+  "id": 10011,
+  "setId": 1001,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250350.1.0",
+  "id": 10012,
+  "setId": 1001,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250350.1.0",
+  "id": 10013,
+  "setId": 1001,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#f6e3c1ff"
+ },
+ {
+  "version": "250350.1.0",
+  "id": 10014,
+  "setId": 1001,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#e4f4fdff"
+ },
+ {
+  "version": "250440.1.0",
+  "id": 10021,
+  "setId": 1002,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250440.1.0",
+  "id": 10022,
+  "setId": 1002,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250440.1.0",
+  "id": 10023,
+  "setId": 1002,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#f6e3c1ff"
+ },
+ {
+  "version": "250440.1.0",
+  "id": 10024,
+  "setId": 1002,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#e4f4fdff"
+ },
+ {
+  "version": "250530.1.0",
+  "id": 10031,
+  "setId": 1003,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250530.1.0",
+  "id": 10032,
+  "setId": 1003,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250530.1.0",
+  "id": 10033,
+  "setId": 1003,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#f6e3c1ff"
+ },
+ {
+  "version": "250530.1.0",
+  "id": 10034,
+  "setId": 1003,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#e4f4fdff"
+ },
+ {
+  "version": "250610.1.0",
+  "id": 10041,
+  "setId": 1004,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250610.1.0",
+  "id": 10042,
+  "setId": 1004,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250610.1.0",
+  "id": 10043,
+  "setId": 1004,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#f6e3c1ff"
+ },
+ {
+  "version": "250610.1.0",
+  "id": 10044,
+  "setId": 1004,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#e4f4fdff"
+ },
+ {
+  "version": "250710.1.0",
+  "id": 10051,
+  "setId": 1005,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250710.1.0",
+  "id": 10052,
+  "setId": 1005,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250910.1.0",
+  "id": 10053,
+  "setId": 1005,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250910.1.0",
+  "id": 10054,
+  "setId": 1005,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250810.1.0",
+  "id": 10061,
+  "setId": 1006,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250810.1.0",
+  "id": 10062,
+  "setId": 1006,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250810.1.0",
+  "id": 10063,
+  "setId": 1006,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#f6e3c1ff"
+ },
+ {
+  "version": "250810.1.0",
+  "id": 10064,
+  "setId": 1006,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#e4f4fdff"
+ },
+ {
+  "version": "250910.1.0",
+  "id": 10071,
+  "setId": 1007,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250910.1.0",
+  "id": 10072,
+  "setId": 1007,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250910.1.0",
+  "id": 10073,
+  "setId": 1007,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#f6e3c1ff"
+ },
+ {
+  "version": "250910.1.0",
+  "id": 10074,
+  "setId": 1007,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#e4f4fdff"
+ },
+ {
+  "version": "251010.1.0",
+  "id": 10081,
+  "setId": 1008,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "251010.1.0",
+  "id": 10082,
+  "setId": 1008,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "251010.1.0",
+  "id": 10083,
+  "setId": 1008,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#f6e3c1ff"
+ },
+ {
+  "version": "251010.1.0",
+  "id": 10084,
+  "setId": 1008,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#e4f4fdff"
+ },
+ {
+  "version": "251030.1.0",
+  "id": 10085,
+  "setId": 1009,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250910.1.0",
+  "id": 10086,
+  "setId": 1009,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "250910.1.0",
+  "id": 10087,
+  "setId": 1009,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#f6e3c1ff"
+ },
+ {
+  "version": "250910.1.0",
+  "id": 10089,
+  "setId": 1009,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#e4f4fdff"
+ },
+ {
+  "version": "251210.1.0",
+  "id": 10090,
+  "setId": 1010,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "251210.1.0",
+  "id": 10091,
+  "setId": 1010,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "251210.1.0",
+  "id": 10092,
+  "setId": 1010,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#f6e3c1ff"
+ },
+ {
+  "version": "251210.1.0",
+  "id": 10093,
+  "setId": 1010,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#e4f4fdff"
+ },
+ {
+  "version": "260110.1.0",
+  "id": 10094,
+  "setId": 1011,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260110.1.0",
+  "id": 10095,
+  "setId": 1011,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260110.1.0",
+  "id": 10096,
+  "setId": 1011,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#f6e3c1ff"
+ },
+ {
+  "version": "260110.1.0",
+  "id": 10097,
+  "setId": 1011,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#e4f4fdff"
+ },
+ {
+  "version": "260210.1.0",
+  "id": 10098,
+  "setId": 1012,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260210.1.0",
+  "id": 10099,
+  "setId": 1012,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260210.1.0",
+  "id": 10100,
+  "setId": 1012,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#f6e3c1ff"
+ },
+ {
+  "version": "260210.1.0",
+  "id": 10101,
+  "setId": 1012,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#e4f4fdff"
+ },
+ {
+  "version": "260310.1.0",
+  "id": 10102,
+  "setId": 1013,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260310.1.0",
+  "id": 10103,
+  "setId": 1013,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260310.1.0",
+  "id": 10104,
+  "setId": 1013,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#f6e3c1ff"
+ },
+ {
+  "version": "260310.1.0",
+  "id": 10105,
+  "setId": 1013,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#e4f4fdff"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 10141,
+  "setId": 1014,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 10142,
+  "setId": 1014,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 10143,
+  "setId": 1014,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#f6e3c1ff"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 10144,
+  "setId": 1014,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#e4f4fdff"
+ },
+ {
+  "version": "260510.1.0",
+  "id": 10151,
+  "setId": 1015,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260510.1.0",
+  "id": 10152,
+  "setId": 1015,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260510.1.0",
+  "id": 10153,
+  "setId": 1015,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260510.1.0",
+  "id": 10154,
+  "setId": 1015,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260610.1.0",
+  "id": 10161,
+  "setId": 1016,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260610.1.0",
+  "id": 10162,
+  "setId": 1016,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260610.1.0",
+  "id": 10163,
+  "setId": 1016,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#f6e3c1ff"
+ },
+ {
+  "version": "260610.1.0",
+  "id": 10164,
+  "setId": 1016,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#e4f4fdff"
+ },
+ {
+  "version": "260710.1.0",
+  "id": 10171,
+  "setId": 1017,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260710.1.0",
+  "id": 10172,
+  "setId": 1017,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260710.1.0",
+  "id": 10173,
+  "setId": 1017,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#f6e3c1ff"
+ },
+ {
+  "version": "260710.1.0",
+  "id": 10174,
+  "setId": 1017,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#e4f4fdff"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10181,
+  "setId": 1018,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10182,
+  "setId": 1018,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10183,
+  "setId": 1018,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#f6e3c1ff"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10184,
+  "setId": 1018,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#e4f4fdff"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 10191,
+  "setId": 1019,
+  "assetId": 1,
+  "timeZone": "Morning",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 10192,
+  "setId": 1019,
+  "assetId": 1,
+  "timeZone": "Noon",
+  "colorCode": "#ffffffff"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 10193,
+  "setId": 1019,
+  "assetId": 4,
+  "timeZone": "Evening",
+  "colorCode": "#f6e3c1ff"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 10194,
+  "setId": 1019,
+  "assetId": 5,
+  "timeZone": "Night",
+  "colorCode": "#e4f4fdff"
+ }
+]

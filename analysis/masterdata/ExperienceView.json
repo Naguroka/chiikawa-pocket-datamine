@@ -1,0 +1,338 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "nameTextKey": -1249333832,
+  "descriptionTextKey": 2142772129,
+  "iconName": "experienceview_icon_seasonpass_medal_01"
+ },
+ {
+  "version": "250350.1.0",
+  "id": 1001,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_01"
+ },
+ {
+  "version": "250410.1.0",
+  "id": 1002,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_02"
+ },
+ {
+  "version": "250440.1.0",
+  "id": 6003,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_03"
+ },
+ {
+  "version": "250450.1.0",
+  "id": 6004,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_04"
+ },
+ {
+  "version": "250530.1.0",
+  "id": 6005,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_03"
+ },
+ {
+  "version": "250550.1.0",
+  "id": 6006,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_04"
+ },
+ {
+  "version": "250610.1.0",
+  "id": 6007,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_01"
+ },
+ {
+  "version": "250630.1.0",
+  "id": 6008,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_02"
+ },
+ {
+  "version": "250510.1.0",
+  "id": 2,
+  "nameTextKey": -1249333832,
+  "descriptionTextKey": 2142772129,
+  "iconName": "experienceview_icon_seasonpass_medal_02"
+ },
+ {
+  "version": "250610.1.0",
+  "id": 3,
+  "nameTextKey": -1249333832,
+  "descriptionTextKey": 2142772129,
+  "iconName": "experienceview_icon_seasonpass_medal_03"
+ },
+ {
+  "version": "250710.1.0",
+  "id": 6009,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_03"
+ },
+ {
+  "version": "250730.1.0",
+  "id": 6010,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_04"
+ },
+ {
+  "version": "250710.1.0",
+  "id": 4,
+  "nameTextKey": -1249333832,
+  "descriptionTextKey": 2142772129,
+  "iconName": "experienceview_icon_seasonpass_medal_01"
+ },
+ {
+  "version": "250810.1.0",
+  "id": 5,
+  "nameTextKey": -1249333832,
+  "descriptionTextKey": 2142772129,
+  "iconName": "experienceview_icon_seasonpass_medal_02"
+ },
+ {
+  "version": "250810.1.0",
+  "id": 6011,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_01"
+ },
+ {
+  "version": "250820.1.0",
+  "id": 6012,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_02"
+ },
+ {
+  "version": "250910.1.0",
+  "id": 6,
+  "nameTextKey": -1249333832,
+  "descriptionTextKey": 2142772129,
+  "iconName": "experienceview_icon_seasonpass_medal_03"
+ },
+ {
+  "version": "250910.1.0",
+  "id": 6013,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_03"
+ },
+ {
+  "version": "250930.1.0",
+  "id": 6014,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_04"
+ },
+ {
+  "version": "251010.1.0",
+  "id": 7,
+  "nameTextKey": -1773842215,
+  "descriptionTextKey": 1484225165,
+  "iconName": "experienceview_icon_seasonpass_medal_01"
+ },
+ {
+  "version": "251010.1.0",
+  "id": 6015,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_01"
+ },
+ {
+  "version": "251030.1.0",
+  "id": 6017,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_03"
+ },
+ {
+  "version": "251110.1.0",
+  "id": 6018,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_04"
+ },
+ {
+  "version": "251110.1.0",
+  "id": 8,
+  "nameTextKey": -1249333832,
+  "descriptionTextKey": 2142772129,
+  "iconName": "experienceview_icon_seasonpass_medal_02"
+ },
+ {
+  "version": "251210.1.0",
+  "id": 9,
+  "nameTextKey": -1249333832,
+  "descriptionTextKey": 2142772129,
+  "iconName": "experienceview_icon_seasonpass_medal_03"
+ },
+ {
+  "version": "251210.1.0",
+  "id": 6019,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_01"
+ },
+ {
+  "version": "251230.1.0",
+  "id": 6020,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_02"
+ },
+ {
+  "version": "260110.1.0",
+  "id": 10,
+  "nameTextKey": -1249333832,
+  "descriptionTextKey": 2142772129,
+  "iconName": "experienceview_icon_seasonpass_medal_01"
+ },
+ {
+  "version": "260110.1.0",
+  "id": 6021,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_03"
+ },
+ {
+  "version": "260210.1.0",
+  "id": 6022,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_01"
+ },
+ {
+  "version": "260230.1.0",
+  "id": 6023,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_02"
+ },
+ {
+  "version": "260210.1.0",
+  "id": 11,
+  "nameTextKey": -1249333832,
+  "descriptionTextKey": 2142772129,
+  "iconName": "experienceview_icon_seasonpass_medal_02"
+ },
+ {
+  "version": "260310.1.0",
+  "id": 12,
+  "nameTextKey": -1249333832,
+  "descriptionTextKey": 2142772129,
+  "iconName": "experienceview_icon_seasonpass_medal_03"
+ },
+ {
+  "version": "260310.1.0",
+  "id": 6024,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_03"
+ },
+ {
+  "version": "260330.1.0",
+  "id": 6025,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_04"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 13,
+  "nameTextKey": -1773842215,
+  "descriptionTextKey": 1484225165,
+  "iconName": "experienceview_icon_seasonpass_medal_01"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 6026,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_01"
+ },
+ {
+  "version": "260510.1.0",
+  "id": 14,
+  "nameTextKey": -1249333832,
+  "descriptionTextKey": 2142772129,
+  "iconName": "experienceview_icon_seasonpass_medal_02"
+ },
+ {
+  "version": "260510.1.0",
+  "id": 6027,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_03"
+ },
+ {
+  "version": "260610.1.0",
+  "id": 15,
+  "nameTextKey": -1249333832,
+  "descriptionTextKey": 2142772129,
+  "iconName": "experienceview_icon_seasonpass_medal_03"
+ },
+ {
+  "version": "260610.1.0",
+  "id": 6028,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_01"
+ },
+ {
+  "version": "260710.1.0",
+  "id": 16,
+  "nameTextKey": -1249333832,
+  "descriptionTextKey": 2142772129,
+  "iconName": "experienceview_icon_seasonpass_medal_01"
+ },
+ {
+  "version": "260710.1.0",
+  "id": 6029,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_03"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 17,
+  "nameTextKey": -1249333832,
+  "descriptionTextKey": 2142772129,
+  "iconName": "experienceview_icon_seasonpass_medal_02"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 6030,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_01"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 18,
+  "nameTextKey": -1249333832,
+  "descriptionTextKey": 2142772129,
+  "iconName": "experienceview_icon_seasonpass_medal_03"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 6031,
+  "nameTextKey": -1400356832,
+  "descriptionTextKey": 609498035,
+  "iconName": "experienceview_icon_event_medal_03"
+ }
+]

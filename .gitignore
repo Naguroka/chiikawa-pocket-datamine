@@ -1,0 +1,21 @@
+# Local-only content — NOT uploaded (see README "What's not here and why")
+
+# copyrighted game APKs
+apk/
+# copyrighted game binary + metadata
+il2cpp/
+# downloaded toolchains (ghidra, jadx, Il2CppDumper, .NET, venv)
+tools/
+# ghidra project work dirs
+work/
+# oversized / intermediate dumps
+dumps/il2cppdumper/il2cpp.h
+dumps/il2cppdumper/script.json
+dumps/hit_*.bin
+dumps/region1.bin
+dumps/maps.txt
+dumps/namemap.pkl
+dumps/MasterDataTgz/
+dumps/catalog.bin
+dumps/client-*.log
+logs-jadx.txt

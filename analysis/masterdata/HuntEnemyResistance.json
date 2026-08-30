@@ -1,0 +1,20 @@
+[
+ {
+  "version": "250725.1.0",
+  "id": 1,
+  "huntEnemyId": 401000100,
+  "skillEffectType": "StatusAttackDown"
+ },
+ {
+  "version": "250725.1.0",
+  "id": 2,
+  "huntEnemyId": 401000120,
+  "skillEffectType": "Unknown"
+ },
+ {
+  "version": "250725.1.0",
+  "id": 3,
+  "huntEnemyId": 401000140,
+  "skillEffectType": "StatusAttackDown"
+ }
+]

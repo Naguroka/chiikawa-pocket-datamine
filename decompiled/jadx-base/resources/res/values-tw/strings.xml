@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tt_ad_close_text">廣告關閉</string>
+    <string name="tt_ad_is_closed">廣告已關閉</string>
+    <string name="tt_ad_logo_txt">AD</string>
+    <string name="tt_choose_language">tw</string>
+    <string name="tt_comment_num">%1$s個評分</string>
+    <string name="tt_count_down_view">跳過</string>
+    <string name="tt_dislike_header_tv_back">返回</string>
+    <string name="tt_dislike_header_tv_title">選擇</string>
+    <string name="tt_display_error">顯示錯誤</string>
+    <string name="tt_feedback_experience_text">我們將為您帶來更優質的廣告體驗！</string>
+    <string name="tt_feedback_submit_text">您已成功提交迴響，請勿反復提交</string>
+    <string name="tt_feedback_thank_text">感謝您的迴響！</string>
+    <string name="tt_logo_en">广告</string>
+    <string name="tt_msgPlayable">試玩後才可領取獎勵</string>
+    <string name="tt_multiple_ad_indicator">第 %1$d 則廣告，共 %2$d 則</string>
+    <string name="tt_negtiveBtnBtnText">放弃獎勵</string>
+    <string name="tt_negtive_txt">取消</string>
+    <string name="tt_no_network">無網絡，請稍後再試</string>
+    <string name="tt_postiveBtnText">繼續觀看</string>
+    <string name="tt_postiveBtnTextPlayable">繼續試玩</string>
+    <string name="tt_postive_txt">确定</string>
+    <string name="tt_privacy_title">隱私政策</string>
+    <string name="tt_reward_feedback">迴響</string>
+    <string name="tt_reward_msg">觀看完整視頻才能獲得獎勵</string>
+    <string name="tt_reward_screen_skip_tx">跳過</string>
+    <string name="tt_skip_ad_time_text">%ds後可跳過</string>
+    <string name="tt_suggestion_commit">提交</string>
+    <string name="tt_suggestion_description">輸入所顯示錯誤的描述，然後按下「提交」按鈕。系統也會將廣告創意傳送回Pangle以協助解決問題。</string>
+    <string name="tt_try_now">立即體驗</string>
+    <string name="tt_video_bytesize">流量</string>
+    <string name="tt_video_dial_phone">立即撥打</string>
+    <string name="tt_video_download_apk">立即下載</string>
+    <string name="tt_video_mobile_go_detail">查看詳情</string>
+    <string name="tt_video_retry_des_txt">加載失敗，請重試</string>
+    <string name="tt_video_without_wifi_tips">播放將消耗%.2fMB流量</string>
+    <string name="tt_web_title_default">廣告</string>
+</resources>

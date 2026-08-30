@@ -1,0 +1,23 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "idleRewardGroupId": 1,
+  "rewardId": 100000,
+  "awaitMinutesForUnitReward": 1
+ },
+ {
+  "version": "260110.1.0",
+  "id": 2,
+  "idleRewardGroupId": 1,
+  "rewardId": 400002,
+  "awaitMinutesForUnitReward": 360
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "idleRewardGroupId": 1,
+  "rewardId": 400001,
+  "awaitMinutesForUnitReward": 360
+ }
+]

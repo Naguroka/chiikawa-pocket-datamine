@@ -1,0 +1,3234 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 101,
+  "setId": 1,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 102,
+  "setId": 1,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 201,
+  "setId": 2,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 202,
+  "setId": 2,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 301,
+  "setId": 3,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 401,
+  "setId": 4,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 402,
+  "setId": 4,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 403,
+  "setId": 4,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 405,
+  "setId": 4,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 501,
+  "setId": 5,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 502,
+  "setId": 5,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 503,
+  "setId": 5,
+  "reachLevel": 2,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 601,
+  "setId": 6,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 602,
+  "setId": 6,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 701,
+  "setId": 7,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 702,
+  "setId": 7,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 801,
+  "setId": 8,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 802,
+  "setId": 8,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 901,
+  "setId": 9,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 902,
+  "setId": 9,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 903,
+  "setId": 9,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 904,
+  "setId": 9,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 905,
+  "setId": 9,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1001,
+  "setId": 10,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1101,
+  "setId": 11,
+  "reachLevel": 1,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1201,
+  "setId": 12,
+  "reachLevel": 1,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1202,
+  "setId": 12,
+  "reachLevel": 1,
+  "homeCharacterId": 3011,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1203,
+  "setId": 12,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1204,
+  "setId": 12,
+  "reachLevel": 2,
+  "homeCharacterId": 3011,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1301,
+  "setId": 13,
+  "reachLevel": 1,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1302,
+  "setId": 13,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1303,
+  "setId": 13,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1304,
+  "setId": 13,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1305,
+  "setId": 13,
+  "reachLevel": 3,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1306,
+  "setId": 13,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1307,
+  "setId": 13,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1401,
+  "setId": 14,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1402,
+  "setId": 14,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1403,
+  "setId": 14,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1404,
+  "setId": 14,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1501,
+  "setId": 15,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1502,
+  "setId": 15,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1503,
+  "setId": 15,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1504,
+  "setId": 15,
+  "reachLevel": 1,
+  "homeCharacterId": 3006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1505,
+  "setId": 15,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1506,
+  "setId": 15,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1507,
+  "setId": 15,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1508,
+  "setId": 15,
+  "reachLevel": 2,
+  "homeCharacterId": 3006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1601,
+  "setId": 16,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1602,
+  "setId": 16,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1603,
+  "setId": 16,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1604,
+  "setId": 16,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1605,
+  "setId": 16,
+  "reachLevel": 3,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1606,
+  "setId": 16,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1607,
+  "setId": 16,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1701,
+  "setId": 17,
+  "reachLevel": 1,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1801,
+  "setId": 18,
+  "reachLevel": 1,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1901,
+  "setId": 19,
+  "reachLevel": 1,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2001,
+  "setId": 20,
+  "reachLevel": 1,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2002,
+  "setId": 20,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2101,
+  "setId": 21,
+  "reachLevel": 1,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2102,
+  "setId": 21,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2201,
+  "setId": 22,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2202,
+  "setId": 22,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2203,
+  "setId": 22,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2301,
+  "setId": 23,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2302,
+  "setId": 23,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2303,
+  "setId": 23,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2304,
+  "setId": 23,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2305,
+  "setId": 23,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2306,
+  "setId": 23,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2501,
+  "setId": 25,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2502,
+  "setId": 25,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2503,
+  "setId": 25,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2504,
+  "setId": 25,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2505,
+  "setId": 25,
+  "reachLevel": 3,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2601,
+  "setId": 26,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2602,
+  "setId": 26,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2603,
+  "setId": 26,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2604,
+  "setId": 26,
+  "reachLevel": 3,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2701,
+  "setId": 27,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2702,
+  "setId": 27,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2703,
+  "setId": 27,
+  "reachLevel": 3,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2704,
+  "setId": 27,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250410.1.0",
+  "id": 2801,
+  "setId": 28,
+  "reachLevel": 1,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250410.1.0",
+  "id": 2802,
+  "setId": 28,
+  "reachLevel": 2,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250410.1.0",
+  "id": 2803,
+  "setId": 28,
+  "reachLevel": 3,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250410.1.0",
+  "id": 2804,
+  "setId": 28,
+  "reachLevel": 3,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250350.1.0",
+  "id": 2901,
+  "setId": 29,
+  "reachLevel": 1,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250350.1.0",
+  "id": 2902,
+  "setId": 29,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250350.1.0",
+  "id": 2903,
+  "setId": 29,
+  "reachLevel": 3,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250350.1.0",
+  "id": 2904,
+  "setId": 29,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250350.1.0",
+  "id": 3001,
+  "setId": 30,
+  "reachLevel": 1,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250350.1.0",
+  "id": 3002,
+  "setId": 30,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250350.1.0",
+  "id": 3003,
+  "setId": 30,
+  "reachLevel": 3,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250350.1.0",
+  "id": 3004,
+  "setId": 30,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250350.1.0",
+  "id": 3005,
+  "setId": 30,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250410.1.0",
+  "id": 3101,
+  "setId": 31,
+  "reachLevel": 1,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250410.1.0",
+  "id": 3102,
+  "setId": 31,
+  "reachLevel": 2,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250410.1.0",
+  "id": 3103,
+  "setId": 31,
+  "reachLevel": 3,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250410.1.0",
+  "id": 3104,
+  "setId": 31,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3201,
+  "setId": 32,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3202,
+  "setId": 32,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3203,
+  "setId": 32,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3204,
+  "setId": 32,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3205,
+  "setId": 32,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3206,
+  "setId": 32,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3207,
+  "setId": 32,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3208,
+  "setId": 32,
+  "reachLevel": 3,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250612.1.0",
+  "id": 3301,
+  "setId": 33,
+  "reachLevel": 1,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250610.1.0",
+  "id": 3401,
+  "setId": 34,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250610.1.0",
+  "id": 3402,
+  "setId": 34,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250610.1.0",
+  "id": 3403,
+  "setId": 34,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250610.1.0",
+  "id": 3404,
+  "setId": 34,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250610.1.0",
+  "id": 3405,
+  "setId": 34,
+  "reachLevel": 3,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250612.1.0",
+  "id": 3501,
+  "setId": 35,
+  "reachLevel": 1,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250612.1.0",
+  "id": 3701,
+  "setId": 37,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250612.1.0",
+  "id": 3702,
+  "setId": 37,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250612.1.0",
+  "id": 3703,
+  "setId": 37,
+  "reachLevel": 2,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250612.1.0",
+  "id": 3704,
+  "setId": 37,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250612.1.0",
+  "id": 3705,
+  "setId": 37,
+  "reachLevel": 3,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250810.1.0",
+  "id": 3801,
+  "setId": 38,
+  "reachLevel": 1,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250810.1.0",
+  "id": 3802,
+  "setId": 38,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250810.1.0",
+  "id": 3803,
+  "setId": 38,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250810.1.0",
+  "id": 3804,
+  "setId": 38,
+  "reachLevel": 3,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250810.1.0",
+  "id": 3805,
+  "setId": 38,
+  "reachLevel": 3,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250710.1.0",
+  "id": 3901,
+  "setId": 39,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250710.1.0",
+  "id": 3902,
+  "setId": 39,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250710.1.0",
+  "id": 3903,
+  "setId": 39,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250510.1.0",
+  "id": 4101,
+  "setId": 41,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250510.1.0",
+  "id": 4102,
+  "setId": 41,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250510.1.0",
+  "id": 4103,
+  "setId": 41,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250510.1.0",
+  "id": 4104,
+  "setId": 41,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250510.1.0",
+  "id": 4105,
+  "setId": 41,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250510.1.0",
+  "id": 4106,
+  "setId": 41,
+  "reachLevel": 3,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250350.1.0",
+  "id": 4201,
+  "setId": 42,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250350.1.0",
+  "id": 4202,
+  "setId": 42,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250410.1.0",
+  "id": 4301,
+  "setId": 43,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250410.1.0",
+  "id": 4302,
+  "setId": 43,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250440.1.0",
+  "id": 4401,
+  "setId": 44,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250440.1.0",
+  "id": 4402,
+  "setId": 44,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250440.1.0",
+  "id": 4403,
+  "setId": 44,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250440.1.0",
+  "id": 4501,
+  "setId": 45,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250440.1.0",
+  "id": 4502,
+  "setId": 45,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250440.1.0",
+  "id": 4503,
+  "setId": 45,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250450.1.0",
+  "id": 4601,
+  "setId": 46,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250450.1.0",
+  "id": 4602,
+  "setId": 46,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250450.1.0",
+  "id": 4603,
+  "setId": 46,
+  "reachLevel": 3,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250440.1.0",
+  "id": 4701,
+  "setId": 47,
+  "reachLevel": 1,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250440.1.0",
+  "id": 4702,
+  "setId": 47,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250450.1.0",
+  "id": 4801,
+  "setId": 48,
+  "reachLevel": 1,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250450.1.0",
+  "id": 4802,
+  "setId": 48,
+  "reachLevel": 2,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250550.1.0",
+  "id": 4901,
+  "setId": 49,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250550.1.0",
+  "id": 4902,
+  "setId": 49,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250550.1.0",
+  "id": 4903,
+  "setId": 49,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250550.1.0",
+  "id": 5001,
+  "setId": 50,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250550.1.0",
+  "id": 5002,
+  "setId": 50,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250550.1.0",
+  "id": 5003,
+  "setId": 50,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250550.1.0",
+  "id": 5101,
+  "setId": 51,
+  "reachLevel": 1,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250550.1.0",
+  "id": 5102,
+  "setId": 51,
+  "reachLevel": 2,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250550.1.0",
+  "id": 5103,
+  "setId": 51,
+  "reachLevel": 3,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250550.1.0",
+  "id": 5201,
+  "setId": 52,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250550.1.0",
+  "id": 5202,
+  "setId": 52,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250530.1.0",
+  "id": 5301,
+  "setId": 53,
+  "reachLevel": 1,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250530.1.0",
+  "id": 5302,
+  "setId": 53,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250630.1.0",
+  "id": 5401,
+  "setId": 54,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250630.1.0",
+  "id": 5402,
+  "setId": 54,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250610.1.0",
+  "id": 5501,
+  "setId": 55,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250610.1.0",
+  "id": 5502,
+  "setId": 55,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250610.1.0",
+  "id": 5503,
+  "setId": 55,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250630.1.0",
+  "id": 5601,
+  "setId": 56,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250630.1.0",
+  "id": 5602,
+  "setId": 56,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250630.1.0",
+  "id": 5603,
+  "setId": 56,
+  "reachLevel": 3,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250610.1.0",
+  "id": 5701,
+  "setId": 57,
+  "reachLevel": 1,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250610.1.0",
+  "id": 5702,
+  "setId": 57,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250610.1.0",
+  "id": 5703,
+  "setId": 57,
+  "reachLevel": 3,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250610.1.0",
+  "id": 5801,
+  "setId": 58,
+  "reachLevel": 1,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250610.1.0",
+  "id": 5802,
+  "setId": 58,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250710.1.0",
+  "id": 5901,
+  "setId": 59,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250710.1.0",
+  "id": 5902,
+  "setId": 59,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250710.1.0",
+  "id": 5903,
+  "setId": 59,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250710.1.0",
+  "id": 6001,
+  "setId": 60,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250710.1.0",
+  "id": 6002,
+  "setId": 60,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250710.1.0",
+  "id": 6003,
+  "setId": 60,
+  "reachLevel": 3,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250730.1.0",
+  "id": 6101,
+  "setId": 61,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250730.1.0",
+  "id": 6102,
+  "setId": 61,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250730.1.0",
+  "id": 6103,
+  "setId": 61,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250710.1.0",
+  "id": 6201,
+  "setId": 62,
+  "reachLevel": 1,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250710.1.0",
+  "id": 6202,
+  "setId": 62,
+  "reachLevel": 2,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250730.1.0",
+  "id": 6301,
+  "setId": 63,
+  "reachLevel": 1,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250730.1.0",
+  "id": 6302,
+  "setId": 63,
+  "reachLevel": 2,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250810.1.0",
+  "id": 6401,
+  "setId": 64,
+  "reachLevel": 1,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250810.1.0",
+  "id": 6402,
+  "setId": 64,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250810.1.0",
+  "id": 6403,
+  "setId": 64,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250820.1.0",
+  "id": 6501,
+  "setId": 65,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250820.1.0",
+  "id": 6502,
+  "setId": 65,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250820.1.0",
+  "id": 6503,
+  "setId": 65,
+  "reachLevel": 2,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250820.1.0",
+  "id": 6601,
+  "setId": 66,
+  "reachLevel": 1,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250820.1.0",
+  "id": 6602,
+  "setId": 66,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250820.1.0",
+  "id": 6603,
+  "setId": 66,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250820.1.0",
+  "id": 6604,
+  "setId": 66,
+  "reachLevel": 3,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250820.1.0",
+  "id": 6605,
+  "setId": 66,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250820.1.0",
+  "id": 6606,
+  "setId": 66,
+  "reachLevel": 3,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250930.1.0",
+  "id": 6701,
+  "setId": 67,
+  "reachLevel": 1,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250930.1.0",
+  "id": 6702,
+  "setId": 67,
+  "reachLevel": 2,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250930.1.0",
+  "id": 6703,
+  "setId": 67,
+  "reachLevel": 2,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250930.1.0",
+  "id": 6704,
+  "setId": 67,
+  "reachLevel": 3,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250930.1.0",
+  "id": 6705,
+  "setId": 67,
+  "reachLevel": 3,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250930.1.0",
+  "id": 6706,
+  "setId": 67,
+  "reachLevel": 3,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250930.1.0",
+  "id": 6801,
+  "setId": 68,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250930.1.0",
+  "id": 6802,
+  "setId": 68,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250930.1.0",
+  "id": 6803,
+  "setId": 68,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250910.1.0",
+  "id": 6901,
+  "setId": 69,
+  "reachLevel": 1,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250910.1.0",
+  "id": 6902,
+  "setId": 69,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250910.1.0",
+  "id": 6903,
+  "setId": 69,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250910.1.0",
+  "id": 7001,
+  "setId": 70,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250910.1.0",
+  "id": 7002,
+  "setId": 70,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250910.1.0",
+  "id": 7003,
+  "setId": 70,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250910.1.0",
+  "id": 7004,
+  "setId": 70,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250910.1.0",
+  "id": 7005,
+  "setId": 70,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "250910.1.0",
+  "id": 7006,
+  "setId": 70,
+  "reachLevel": 3,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251010.1.0",
+  "id": 7101,
+  "setId": 71,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251010.1.0",
+  "id": 7102,
+  "setId": 71,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251010.1.0",
+  "id": 7103,
+  "setId": 71,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251010.1.0",
+  "id": 7104,
+  "setId": 71,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251010.1.0",
+  "id": 7105,
+  "setId": 71,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251010.1.0",
+  "id": 7106,
+  "setId": 71,
+  "reachLevel": 3,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251010.1.0",
+  "id": 7107,
+  "setId": 71,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251020.1.0",
+  "id": 7201,
+  "setId": 72,
+  "reachLevel": 1,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251020.1.0",
+  "id": 7202,
+  "setId": 72,
+  "reachLevel": 1,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251020.1.0",
+  "id": 7203,
+  "setId": 72,
+  "reachLevel": 2,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251020.1.0",
+  "id": 7204,
+  "setId": 72,
+  "reachLevel": 2,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251020.1.0",
+  "id": 7205,
+  "setId": 72,
+  "reachLevel": 3,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251020.1.0",
+  "id": 7206,
+  "setId": 72,
+  "reachLevel": 3,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251020.1.0",
+  "id": 7207,
+  "setId": 72,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251010.1.0",
+  "id": 7301,
+  "setId": 73,
+  "reachLevel": 1,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251010.1.0",
+  "id": 7302,
+  "setId": 73,
+  "reachLevel": 1,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251010.1.0",
+  "id": 7303,
+  "setId": 73,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251010.1.0",
+  "id": 7304,
+  "setId": 73,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251010.1.0",
+  "id": 7305,
+  "setId": 73,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251010.1.0",
+  "id": 7401,
+  "setId": 74,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251010.1.0",
+  "id": 7402,
+  "setId": 74,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251010.1.0",
+  "id": 7403,
+  "setId": 74,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251110.1.0",
+  "id": 7501,
+  "setId": 75,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251110.1.0",
+  "id": 7502,
+  "setId": 75,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251110.1.0",
+  "id": 7503,
+  "setId": 75,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251110.1.0",
+  "id": 7504,
+  "setId": 75,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251110.1.0",
+  "id": 7505,
+  "setId": 75,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251110.1.0",
+  "id": 7506,
+  "setId": 75,
+  "reachLevel": 3,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251030.1.0",
+  "id": 7601,
+  "setId": 76,
+  "reachLevel": 1,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251030.1.0",
+  "id": 7602,
+  "setId": 76,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251030.1.0",
+  "id": 7603,
+  "setId": 76,
+  "reachLevel": 2,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251110.1.0",
+  "id": 7701,
+  "setId": 77,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251110.1.0",
+  "id": 7702,
+  "setId": 77,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251110.1.0",
+  "id": 7801,
+  "setId": 78,
+  "reachLevel": 1,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251110.1.0",
+  "id": 7802,
+  "setId": 78,
+  "reachLevel": 1,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251110.1.0",
+  "id": 7803,
+  "setId": 78,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251110.1.0",
+  "id": 7804,
+  "setId": 78,
+  "reachLevel": 2,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251110.1.0",
+  "id": 7805,
+  "setId": 78,
+  "reachLevel": 3,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251110.1.0",
+  "id": 7806,
+  "setId": 78,
+  "reachLevel": 3,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251230.1.0",
+  "id": 7901,
+  "setId": 79,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251230.1.0",
+  "id": 7902,
+  "setId": 79,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251230.1.0",
+  "id": 7903,
+  "setId": 79,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251230.1.0",
+  "id": 7904,
+  "setId": 79,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251230.1.0",
+  "id": 7905,
+  "setId": 79,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251230.1.0",
+  "id": 7906,
+  "setId": 79,
+  "reachLevel": 3,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251230.1.0",
+  "id": 8001,
+  "setId": 80,
+  "reachLevel": 1,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251230.1.0",
+  "id": 8002,
+  "setId": 80,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251230.1.0",
+  "id": 8003,
+  "setId": 80,
+  "reachLevel": 2,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251210.1.0",
+  "id": 8101,
+  "setId": 81,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251210.1.0",
+  "id": 8102,
+  "setId": 81,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251210.1.0",
+  "id": 8103,
+  "setId": 81,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251210.1.0",
+  "id": 8201,
+  "setId": 82,
+  "reachLevel": 1,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251210.1.0",
+  "id": 8202,
+  "setId": 82,
+  "reachLevel": 2,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251210.1.0",
+  "id": 8203,
+  "setId": 82,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251210.1.0",
+  "id": 8204,
+  "setId": 82,
+  "reachLevel": 3,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "251210.1.0",
+  "id": 8205,
+  "setId": 82,
+  "reachLevel": 3,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260130.1.0",
+  "id": 8301,
+  "setId": 83,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260130.1.0",
+  "id": 8302,
+  "setId": 83,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260130.1.0",
+  "id": 8303,
+  "setId": 83,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260130.1.0",
+  "id": 8304,
+  "setId": 83,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260130.1.0",
+  "id": 8305,
+  "setId": 83,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260130.1.0",
+  "id": 8306,
+  "setId": 83,
+  "reachLevel": 3,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260110.1.0",
+  "id": 8401,
+  "setId": 84,
+  "reachLevel": 1,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260110.1.0",
+  "id": 8402,
+  "setId": 84,
+  "reachLevel": 2,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260110.1.0",
+  "id": 8403,
+  "setId": 84,
+  "reachLevel": 2,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260130.1.0",
+  "id": 8501,
+  "setId": 85,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260130.1.0",
+  "id": 8502,
+  "setId": 85,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260130.1.0",
+  "id": 8503,
+  "setId": 85,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260110.1.0",
+  "id": 8601,
+  "setId": 86,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260110.1.0",
+  "id": 8602,
+  "setId": 86,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260110.1.0",
+  "id": 8603,
+  "setId": 86,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260110.1.0",
+  "id": 8604,
+  "setId": 86,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260110.1.0",
+  "id": 8605,
+  "setId": 86,
+  "reachLevel": 3,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260110.1.0",
+  "id": 8606,
+  "setId": 86,
+  "reachLevel": 3,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260130.1.0",
+  "id": 8701,
+  "setId": 87,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260230.1.0",
+  "id": 8801,
+  "setId": 88,
+  "reachLevel": 1,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260230.1.0",
+  "id": 8802,
+  "setId": 88,
+  "reachLevel": 2,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260230.1.0",
+  "id": 8803,
+  "setId": 88,
+  "reachLevel": 2,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260230.1.0",
+  "id": 8804,
+  "setId": 88,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260210.1.0",
+  "id": 8901,
+  "setId": 89,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260210.1.0",
+  "id": 8902,
+  "setId": 89,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260210.1.0",
+  "id": 8903,
+  "setId": 89,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260230.1.0",
+  "id": 9001,
+  "setId": 90,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260230.1.0",
+  "id": 9002,
+  "setId": 90,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260230.1.0",
+  "id": 9003,
+  "setId": 90,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260210.1.0",
+  "id": 9101,
+  "setId": 91,
+  "reachLevel": 1,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260210.1.0",
+  "id": 9102,
+  "setId": 91,
+  "reachLevel": 2,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260210.1.0",
+  "id": 9103,
+  "setId": 91,
+  "reachLevel": 2,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260330.1.0",
+  "id": 9201,
+  "setId": 92,
+  "reachLevel": 1,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260330.1.0",
+  "id": 9202,
+  "setId": 92,
+  "reachLevel": 2,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260330.1.0",
+  "id": 9203,
+  "setId": 92,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260330.1.0",
+  "id": 9204,
+  "setId": 92,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260310.1.0",
+  "id": 9301,
+  "setId": 93,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260310.1.0",
+  "id": 9302,
+  "setId": 93,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260310.1.0",
+  "id": 9303,
+  "setId": 93,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260330.1.0",
+  "id": 9401,
+  "setId": 94,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260330.1.0",
+  "id": 9402,
+  "setId": 94,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260330.1.0",
+  "id": 9403,
+  "setId": 94,
+  "reachLevel": 2,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260310.1.0",
+  "id": 9501,
+  "setId": 95,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260310.1.0",
+  "id": 9502,
+  "setId": 95,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260310.1.0",
+  "id": 9503,
+  "setId": 95,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260310.1.0",
+  "id": 9504,
+  "setId": 95,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260310.1.0",
+  "id": 9505,
+  "setId": 95,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260410.1.0",
+  "id": 9601,
+  "setId": 96,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260410.1.0",
+  "id": 9602,
+  "setId": 96,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260410.1.0",
+  "id": 9603,
+  "setId": 96,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260410.1.0",
+  "id": 9604,
+  "setId": 96,
+  "reachLevel": 3,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260410.1.0",
+  "id": 9605,
+  "setId": 96,
+  "reachLevel": 3,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260420.1.0",
+  "id": 9701,
+  "setId": 97,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260420.1.0",
+  "id": 9702,
+  "setId": 97,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260420.1.0",
+  "id": 9703,
+  "setId": 97,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260420.1.0",
+  "id": 9704,
+  "setId": 97,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260420.1.0",
+  "id": 9705,
+  "setId": 97,
+  "reachLevel": 2,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260420.1.0",
+  "id": 9801,
+  "setId": 98,
+  "reachLevel": 1,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260420.1.0",
+  "id": 9802,
+  "setId": 98,
+  "reachLevel": 1,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260420.1.0",
+  "id": 9803,
+  "setId": 98,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260420.1.0",
+  "id": 9804,
+  "setId": 98,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260420.1.0",
+  "id": 9805,
+  "setId": 98,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260410.1.0",
+  "id": 9901,
+  "setId": 99,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260410.1.0",
+  "id": 9902,
+  "setId": 99,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260410.1.0",
+  "id": 9903,
+  "setId": 99,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260410.1.0",
+  "id": 9904,
+  "setId": 99,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260410.1.0",
+  "id": 9905,
+  "setId": 99,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260410.1.0",
+  "id": 10001,
+  "setId": 100,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260510.1.0",
+  "id": 10101,
+  "setId": 101,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260510.1.0",
+  "id": 10102,
+  "setId": 101,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260510.1.0",
+  "id": 10103,
+  "setId": 101,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260510.1.0",
+  "id": 10104,
+  "setId": 101,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260510.1.0",
+  "id": 10105,
+  "setId": 101,
+  "reachLevel": 2,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260530.1.0",
+  "id": 10201,
+  "setId": 102,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260530.1.0",
+  "id": 10202,
+  "setId": 102,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260530.1.0",
+  "id": 10203,
+  "setId": 102,
+  "reachLevel": 2,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260530.1.0",
+  "id": 10301,
+  "setId": 103,
+  "reachLevel": 1,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260530.1.0",
+  "id": 10302,
+  "setId": 103,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260530.1.0",
+  "id": 10303,
+  "setId": 103,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260510.1.0",
+  "id": 10401,
+  "setId": 104,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260510.1.0",
+  "id": 10402,
+  "setId": 104,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260510.1.0",
+  "id": 10403,
+  "setId": 104,
+  "reachLevel": 2,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260630.1.0",
+  "id": 10501,
+  "setId": 105,
+  "reachLevel": 1,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260630.1.0",
+  "id": 10502,
+  "setId": 105,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260630.1.0",
+  "id": 10503,
+  "setId": 105,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260630.1.0",
+  "id": 10504,
+  "setId": 105,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260610.1.0",
+  "id": 10601,
+  "setId": 106,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260610.1.0",
+  "id": 10602,
+  "setId": 106,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260610.1.0",
+  "id": 10603,
+  "setId": 106,
+  "reachLevel": 2,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260630.1.0",
+  "id": 10701,
+  "setId": 107,
+  "reachLevel": 1,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260630.1.0",
+  "id": 10702,
+  "setId": 107,
+  "reachLevel": 2,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260630.1.0",
+  "id": 10703,
+  "setId": 107,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260610.1.0",
+  "id": 10801,
+  "setId": 108,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260610.1.0",
+  "id": 10802,
+  "setId": 108,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260610.1.0",
+  "id": 10803,
+  "setId": 108,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260730.1.0",
+  "id": 10901,
+  "setId": 109,
+  "reachLevel": 1,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260730.1.0",
+  "id": 10902,
+  "setId": 109,
+  "reachLevel": 1,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260730.1.0",
+  "id": 10903,
+  "setId": 109,
+  "reachLevel": 2,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260730.1.0",
+  "id": 10904,
+  "setId": 109,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260730.1.0",
+  "id": 10905,
+  "setId": 109,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260710.1.0",
+  "id": 11001,
+  "setId": 110,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260710.1.0",
+  "id": 11002,
+  "setId": 110,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260710.1.0",
+  "id": 11003,
+  "setId": 110,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260730.1.0",
+  "id": 11101,
+  "setId": 111,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260730.1.0",
+  "id": 11102,
+  "setId": 111,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260730.1.0",
+  "id": 11103,
+  "setId": 111,
+  "reachLevel": 2,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260710.1.0",
+  "id": 11201,
+  "setId": 112,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260710.1.0",
+  "id": 11202,
+  "setId": 112,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260710.1.0",
+  "id": 11203,
+  "setId": 112,
+  "reachLevel": 2,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260810.1.0",
+  "id": 11301,
+  "setId": 113,
+  "reachLevel": 1,
+  "homeCharacterId": 3024,
+  "lotteryPoint": 0
+ },
+ {
+  "version": "260810.1.0",
+  "id": 11302,
+  "setId": 113,
+  "reachLevel": 1,
+  "homeCharacterId": 3025,
+  "lotteryPoint": 0
+ },
+ {
+  "version": "260810.1.0",
+  "id": 11303,
+  "setId": 113,
+  "reachLevel": 2,
+  "homeCharacterId": 3024,
+  "lotteryPoint": 0
+ },
+ {
+  "version": "260810.1.0",
+  "id": 11304,
+  "setId": 113,
+  "reachLevel": 2,
+  "homeCharacterId": 3025,
+  "lotteryPoint": 0
+ },
+ {
+  "version": "260810.1.0",
+  "id": 11401,
+  "setId": 114,
+  "reachLevel": 1,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260810.1.0",
+  "id": 11402,
+  "setId": 114,
+  "reachLevel": 1,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260810.1.0",
+  "id": 11403,
+  "setId": 114,
+  "reachLevel": 2,
+  "homeCharacterId": 1001,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260810.1.0",
+  "id": 11404,
+  "setId": 114,
+  "reachLevel": 2,
+  "homeCharacterId": 1002,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260810.1.0",
+  "id": 11405,
+  "setId": 114,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260830.1.0",
+  "id": 11501,
+  "setId": 115,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260910.1.0",
+  "id": 11601,
+  "setId": 116,
+  "reachLevel": 1,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260910.1.0",
+  "id": 11602,
+  "setId": 116,
+  "reachLevel": 1,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260910.1.0",
+  "id": 11603,
+  "setId": 116,
+  "reachLevel": 2,
+  "homeCharacterId": 1003,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260910.1.0",
+  "id": 11604,
+  "setId": 116,
+  "reachLevel": 2,
+  "homeCharacterId": 1007,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260910.1.0",
+  "id": 11605,
+  "setId": 116,
+  "reachLevel": 2,
+  "homeCharacterId": 1005,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260910.1.0",
+  "id": 11701,
+  "setId": 117,
+  "reachLevel": 1,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260910.1.0",
+  "id": 11702,
+  "setId": 117,
+  "reachLevel": 2,
+  "homeCharacterId": 1004,
+  "lotteryPoint": 10
+ },
+ {
+  "version": "260910.1.0",
+  "id": 11703,
+  "setId": 117,
+  "reachLevel": 2,
+  "homeCharacterId": 1006,
+  "lotteryPoint": 10
+ }
+]

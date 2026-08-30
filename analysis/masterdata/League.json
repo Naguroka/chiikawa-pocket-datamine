@@ -1,0 +1,14 @@
+[
+ {
+  "version": "260615.1.0",
+  "id": 1,
+  "leagueTermId": 3,
+  "leagueHuntAdmissionFeeId": 1,
+  "leagueTierGroupId": 1,
+  "leagueHuntStageGroupId": 1,
+  "leagueSeasonShopGroupId": 21,
+  "leagueDailyShopGroupId": 22,
+  "nameTextKey": -888987144,
+  "gatheringCapacity": 10
+ }
+]

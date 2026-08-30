@@ -1,0 +1,22 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "consumeGroupId": 7,
+  "skipMinutesPerAction": 30,
+  "skipType": "FixedTime",
+  "limitCountPerDay": 4,
+  "resetHoursUtc": 6,
+  "adRewardId": 16
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "consumeGroupId": 17,
+  "skipMinutesPerAction": 1,
+  "skipType": "AllTime",
+  "limitCountPerDay": 0,
+  "resetHoursUtc": 6,
+  "adRewardId": 0
+ }
+]

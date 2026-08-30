@@ -1,0 +1,16 @@
+package com.google.android.gms.internal.ads;
+
+/* JADX INFO: compiled from: com.google.android.gms:play-services-ads-lite@@23.6.0 */
+/* JADX INFO: loaded from: classes4.dex */
+public final class zzbkm extends com.google.android.gms.internal.ads.zzaya implements com.google.android.gms.internal.ads.zzbko {
+    zzbkm(android.os.IBinder iBinder) {
+        super(iBinder, "com.google.android.gms.ads.internal.h5.client.IH5AdsEventListener");
+    }
+
+    @Override // com.google.android.gms.internal.ads.zzbko
+    public final void zzb(java.lang.String str) throws android.os.RemoteException {
+        android.os.Parcel parcelZza = zza();
+        parcelZza.writeString(str);
+        zzda(1, parcelZza);
+    }
+}

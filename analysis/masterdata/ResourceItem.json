@@ -1,0 +1,641 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "nameTextKey": 1027689535,
+  "descriptionTextKey": -288869177,
+  "iconName": "resourceitem_icon_gold",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "nameTextKey": -1538777723,
+  "descriptionTextKey": 2009163133,
+  "iconName": "resourceitem_icon_gem",
+  "rarity": "SuperRare",
+  "inventoryType": "None"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "nameTextKey": -749785837,
+  "descriptionTextKey": 12998123,
+  "iconName": "resourceitem_icon_gem",
+  "rarity": "SuperRare",
+  "inventoryType": "None"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 4,
+  "nameTextKey": 1294710960,
+  "descriptionTextKey": -288869177,
+  "iconName": "resourceitem_icon_gold",
+  "rarity": "Normal",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 5,
+  "nameTextKey": 975996966,
+  "descriptionTextKey": -375000866,
+  "iconName": "resourceitem_icon_idle_gold",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 6,
+  "nameTextKey": -1557800548,
+  "descriptionTextKey": 1890361700,
+  "iconName": "resourceitem_icon_myroom_exchange_01",
+  "rarity": "SuperRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 11,
+  "nameTextKey": 609910142,
+  "descriptionTextKey": -137165434,
+  "iconName": "resourceitem_icon_costume_enhance",
+  "rarity": "Rare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 12,
+  "nameTextKey": -1118622524,
+  "descriptionTextKey": 1859802172,
+  "iconName": "resourceitem_icon_costume_promotion",
+  "rarity": "UltraRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 13,
+  "nameTextKey": -900457390,
+  "descriptionTextKey": 433939626,
+  "iconName": "resourceitem_icon_mastery_sp",
+  "rarity": "SuperRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 14,
+  "nameTextKey": 1412467185,
+  "descriptionTextKey": -2017857271,
+  "iconName": "resourceitem_icon_mastery_pp",
+  "rarity": "HyperRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "260110.1.0",
+  "id": 15,
+  "nameTextKey": 590854503,
+  "descriptionTextKey": -255934049,
+  "iconName": "resourceitem_icon_costume_promotion_cooking",
+  "rarity": "UltraRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "260110.1.0",
+  "id": 16,
+  "nameTextKey": -1170282275,
+  "descriptionTextKey": 1773637669,
+  "iconName": "resourceitem_icon_costume_promotion_treasure",
+  "rarity": "UltraRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 30,
+  "nameTextKey": 1634414442,
+  "descriptionTextKey": -1293789294,
+  "iconName": "resourceitem_icon_sub_hunt_gold_tag",
+  "rarity": "SuperRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 31,
+  "nameTextKey": 376184828,
+  "descriptionTextKey": -974821628,
+  "iconName": "resourceitem_icon_sub_hunt_gem_tag",
+  "rarity": "SuperRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250720.1.0",
+  "id": 32,
+  "nameTextKey": -1889186234,
+  "descriptionTextKey": 1558984382,
+  "iconName": "resourceitem_icon_sub_hunt_button_tag",
+  "rarity": "SuperRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 33,
+  "nameTextKey": -127762736,
+  "descriptionTextKey": 736822824,
+  "iconName": "resourceitem_icon_sub_hunt_slot_beads_tag",
+  "rarity": "SuperRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250612.1.0",
+  "id": 41,
+  "nameTextKey": 1496156475,
+  "descriptionTextKey": -1968901693,
+  "iconName": "resourceitem_icon_shop_exchange_01",
+  "rarity": "UltraRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250612.1.0",
+  "id": 42,
+  "nameTextKey": -1071327103,
+  "descriptionTextKey": 330145913,
+  "iconName": "resourceitem_icon_shop_exchange_02",
+  "rarity": "UltraRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250612.1.0",
+  "id": 43,
+  "nameTextKey": -1222383593,
+  "descriptionTextKey": 1688899823,
+  "iconName": "resourceitem_icon_shop_exchange_03",
+  "rarity": "UltraRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250612.1.0",
+  "id": 44,
+  "nameTextKey": 692551092,
+  "descriptionTextKey": -87161524,
+  "iconName": "resourceitem_icon_shop_exchange_04",
+  "rarity": "UltraRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "260110.1.0",
+  "id": 45,
+  "nameTextKey": 1581272354,
+  "descriptionTextKey": -1916193318,
+  "iconName": "resourceitem_icon_shop_exchange_outfit",
+  "rarity": "UltraRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "260110.1.0",
+  "id": 46,
+  "nameTextKey": -951509864,
+  "descriptionTextKey": 348152928,
+  "iconName": "resourceitem_icon_shop_exchange_home_item",
+  "rarity": "UltraRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 101,
+  "nameTextKey": 1015227912,
+  "descriptionTextKey": -284533008,
+  "iconName": "resourceitem_icon_study_research",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 201,
+  "nameTextKey": 1053136977,
+  "descriptionTextKey": -313728855,
+  "iconName": "resourceitem_icon_cooking_resource",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 202,
+  "nameTextKey": -1479751189,
+  "descriptionTextKey": 1950724371,
+  "iconName": "resourceitem_icon_cooking_booth_enhance",
+  "rarity": "Rare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250720.1.0",
+  "id": 203,
+  "nameTextKey": -791938691,
+  "descriptionTextKey": 54690181,
+  "iconName": "resourceitem_icon_button",
+  "rarity": "Rare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 301,
+  "nameTextKey": 1057485414,
+  "descriptionTextKey": -326202722,
+  "iconName": "resourceitem_icon_weeding_heart",
+  "rarity": "Rare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 302,
+  "nameTextKey": -1508989988,
+  "descriptionTextKey": 1971837732,
+  "iconName": "resourceitem_icon_weeding_straight",
+  "rarity": "SuperRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 303,
+  "nameTextKey": -787901622,
+  "descriptionTextKey": 42003378,
+  "iconName": "resourceitem_icon_weeding_range",
+  "rarity": "SuperRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 401,
+  "nameTextKey": 977855715,
+  "descriptionTextKey": -373187557,
+  "iconName": "resourceitem_icon_homeitem_enhance",
+  "rarity": "UltraRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 501,
+  "nameTextKey": 998936276,
+  "descriptionTextKey": -402393556,
+  "iconName": "gacha_ticket_rare04",
+  "rarity": "SuperRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 502,
+  "nameTextKey": -1568415890,
+  "descriptionTextKey": 1896523670,
+  "iconName": "gacha_ticket_rare05",
+  "rarity": "HyperRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1000,
+  "nameTextKey": -218489908,
+  "descriptionTextKey": 561210164,
+  "iconName": "resourceitem_icon_league_hunt_tag",
+  "rarity": "Rare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1001,
+  "nameTextKey": -2047005862,
+  "descriptionTextKey": 1450464162,
+  "iconName": "resourceitem_icon_league_ticket",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "250350.1.0",
+  "id": 2000,
+  "nameTextKey": -531647454,
+  "descriptionTextKey": 868666586,
+  "iconName": "resourceitem_icon_event_hunt_01",
+  "rarity": "Rare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250350.1.0",
+  "id": 2001,
+  "nameTextKey": -1756855116,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_01",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "250410.1.0",
+  "id": 2002,
+  "nameTextKey": 239195406,
+  "descriptionTextKey": -574050826,
+  "iconName": "resourceitem_icon_event_hunt_02",
+  "rarity": "Rare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250410.1.0",
+  "id": 2003,
+  "nameTextKey": 2034689432,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_02",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "250440.1.0",
+  "id": 2004,
+  "nameTextKey": -1876606803,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_03",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "250450.1.0",
+  "id": 2005,
+  "nameTextKey": 2116755841,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_04",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "250530.1.0",
+  "id": 2006,
+  "nameTextKey": -1718416250,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_03",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "250550.1.0",
+  "id": 2007,
+  "nameTextKey": -1907116555,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_04",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "250610.1.0",
+  "id": 2008,
+  "nameTextKey": 1616762073,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_01",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "250630.1.0",
+  "id": 2009,
+  "nameTextKey": -1992396308,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_02",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "250710.1.0",
+  "id": 2010,
+  "nameTextKey": 1731203264,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_03",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "250730.1.0",
+  "id": 2011,
+  "nameTextKey": -2138554937,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_04",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "250810.1.0",
+  "id": 3000,
+  "nameTextKey": 1492374343,
+  "descriptionTextKey": -1954894913,
+  "iconName": "resourceitem_icon_collabo_01_exchange_01",
+  "rarity": "Rare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 3001,
+  "nameTextKey": 804578257,
+  "descriptionTextKey": -58877143,
+  "iconName": "resourceitem_icon_collabo_02_exchange_01",
+  "rarity": "UltraRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 3002,
+  "nameTextKey": -1224887701,
+  "descriptionTextKey": 1702152851,
+  "iconName": "resourceitem_icon_collabo_02_exchange_02",
+  "rarity": "Rare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "250810.1.0",
+  "id": 10011,
+  "nameTextKey": 719892313,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_01",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "250820.1.0",
+  "id": 10012,
+  "nameTextKey": -1277034781,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_02",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "250910.1.0",
+  "id": 10013,
+  "nameTextKey": -991506827,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_03",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "250930.1.0",
+  "id": 10014,
+  "nameTextKey": 1518492630,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_04",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "251010.1.0",
+  "id": 10015,
+  "nameTextKey": 763718464,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_01",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "251020.1.0",
+  "id": 10016,
+  "nameTextKey": -1265878278,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_02",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "251030.1.0",
+  "id": 10017,
+  "nameTextKey": -1014298004,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_03",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "251110.1.0",
+  "id": 10018,
+  "nameTextKey": 1395922941,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_04",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "251210.1.0",
+  "id": 10019,
+  "nameTextKey": 607332203,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_01",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "251230.1.0",
+  "id": 10020,
+  "nameTextKey": 1992477708,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_02",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "260110.1.0",
+  "id": 10021,
+  "nameTextKey": 29752474,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_03",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "260210.1.0",
+  "id": 10022,
+  "nameTextKey": -1731416800,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_01",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "260230.1.0",
+  "id": 10023,
+  "nameTextKey": -271868490,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_02",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "260310.1.0",
+  "id": 10024,
+  "nameTextKey": 1907296277,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_03",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "260330.1.0",
+  "id": 10025,
+  "nameTextKey": 111687811,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_04",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 34,
+  "nameTextKey": 1711729523,
+  "descriptionTextKey": -1248881781,
+  "iconName": "resourceitem_icon_keyholder_enhance",
+  "rarity": "SuperRare",
+  "inventoryType": "Simple"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 10026,
+  "nameTextKey": -1616811719,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_01",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "260510.1.0",
+  "id": 10027,
+  "nameTextKey": -391751249,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_03",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "260610.1.0",
+  "id": 10028,
+  "nameTextKey": 2014921790,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_01",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "260710.1.0",
+  "id": 10029,
+  "nameTextKey": 253654184,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_03",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10030,
+  "nameTextKey": 1876557133,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_01",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 10031,
+  "nameTextKey": 417254875,
+  "descriptionTextKey": 1153563724,
+  "iconName": "resourceitem_icon_event_ticket_03",
+  "rarity": "Rare",
+  "inventoryType": "Big"
+ }
+]

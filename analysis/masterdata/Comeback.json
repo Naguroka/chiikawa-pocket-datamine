@@ -1,0 +1,26 @@
+[
+ {
+  "version": "260410.1.0",
+  "id": 1,
+  "daysOff": 30,
+  "triggerType": "HighestPriority",
+  "priority": 10,
+  "startAtJst": 639102204000000000,
+  "endAtJst": 662211611990000000,
+  "startDayCount": 0,
+  "endDayCount": 30,
+  "triggerGroup": "LoginBonus"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 2,
+  "daysOff": 30,
+  "triggerType": "HighestPriority",
+  "priority": 10,
+  "startAtJst": 639102204000000000,
+  "endAtJst": 662211611990000000,
+  "startDayCount": 0,
+  "endDayCount": 3,
+  "triggerGroup": "Pack"
+ }
+]

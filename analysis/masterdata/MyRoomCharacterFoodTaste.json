@@ -1,0 +1,100 @@
+[
+ {
+  "version": "260810.1.0",
+  "id": 1001,
+  "characterId": 1,
+  "foodId": 1,
+  "tasteType": "Normal"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 1002,
+  "characterId": 1,
+  "foodId": 2,
+  "tasteType": "Dislike"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 1003,
+  "characterId": 1,
+  "foodId": 3,
+  "tasteType": "Normal"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 1004,
+  "characterId": 1,
+  "foodId": 4,
+  "tasteType": "Normal"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 1005,
+  "characterId": 1,
+  "foodId": 5,
+  "tasteType": "Normal"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 1006,
+  "characterId": 1,
+  "foodId": 6,
+  "tasteType": "Normal"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 1007,
+  "characterId": 1,
+  "foodId": 7,
+  "tasteType": "Like"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 1008,
+  "characterId": 1,
+  "foodId": 8,
+  "tasteType": "Normal"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 1009,
+  "characterId": 1,
+  "foodId": 9,
+  "tasteType": "Like"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 1010,
+  "characterId": 1,
+  "foodId": 10,
+  "tasteType": "Normal"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 1011,
+  "characterId": 1,
+  "foodId": 11,
+  "tasteType": "Dislike"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 1012,
+  "characterId": 1,
+  "foodId": 12,
+  "tasteType": "Like"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 1013,
+  "characterId": 1,
+  "foodId": 13,
+  "tasteType": "Normal"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 1014,
+  "characterId": 1,
+  "foodId": 14,
+  "tasteType": "Normal"
+ }
+]

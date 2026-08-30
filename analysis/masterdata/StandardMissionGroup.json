@@ -1,0 +1,20 @@
+[
+ {
+  "version": "250850.1.0",
+  "id": 1,
+  "missionGroupId": 6001,
+  "tabTextKey": -184213382,
+  "viewConditionId": 0,
+  "priority": 5,
+  "isShowProgress": true
+ },
+ {
+  "version": "260110.1.0",
+  "id": 2,
+  "missionGroupId": 6010,
+  "tabTextKey": -1524009491,
+  "viewConditionId": 0,
+  "priority": 4,
+  "isShowProgress": false
+ }
+]

@@ -1,0 +1,572 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "timeUnitType": "Day",
+  "timeUnitCount": 28
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "timeUnitType": "Day",
+  "timeUnitCount": 28
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "timeUnitType": "Day",
+  "timeUnitCount": 28
+ },
+ {
+  "version": "250632.1.0",
+  "id": 4,
+  "timeUnitType": "Day",
+  "timeUnitCount": 2
+ },
+ {
+  "version": "260110.1.0",
+  "id": 5,
+  "timeUnitType": "Day",
+  "timeUnitCount": 2
+ },
+ {
+  "version": "260330.1.0",
+  "id": 6,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260330.1.0",
+  "id": 7,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260330.1.0",
+  "id": 8,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260330.1.0",
+  "id": 9,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260330.1.0",
+  "id": 10,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260330.1.0",
+  "id": 11,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260330.1.0",
+  "id": 12,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260330.1.0",
+  "id": 13,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 14,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 15,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 16,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 17,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 18,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 19,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 20,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 21,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 22,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 23,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 24,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 25,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 26,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 27,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 28,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 29,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 30,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 31,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 32,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 33,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 34,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 35,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 36,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 37,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 38,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 39,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 40,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 41,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 42,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 43,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 44,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 45,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 46,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 47,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 48,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260610.1.0",
+  "id": 49,
+  "timeUnitType": "Day",
+  "timeUnitCount": 3
+ },
+ {
+  "version": "260630.1.0",
+  "id": 50,
+  "timeUnitType": "Day",
+  "timeUnitCount": 3
+ },
+ {
+  "version": "260710.1.0",
+  "id": 51,
+  "timeUnitType": "Day",
+  "timeUnitCount": 3
+ },
+ {
+  "version": "260730.1.0",
+  "id": 52,
+  "timeUnitType": "Day",
+  "timeUnitCount": 3
+ },
+ {
+  "version": "260730.1.0",
+  "id": 53,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260730.1.0",
+  "id": 54,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260730.1.0",
+  "id": 55,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260730.1.0",
+  "id": 56,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260730.1.0",
+  "id": 57,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260730.1.0",
+  "id": 58,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260730.1.0",
+  "id": 59,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 60,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 61,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 62,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 63,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 64,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 65,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 66,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 67,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 68,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 69,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 70,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 71,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 72,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 73,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 74,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 75,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 76,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 77,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 78,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 79,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 80,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 81,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 82,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 83,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 84,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 85,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 86,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 87,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 88,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 89,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 90,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 91,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 92,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 93,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 94,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 95,
+  "timeUnitType": "Day",
+  "timeUnitCount": 1
+ }
+]

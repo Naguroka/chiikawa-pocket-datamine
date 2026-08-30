@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:textSize="18sp"
+            android:id="@+id/email_report_tv"
+            android:paddingBottom="80dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:maxLength="3000"/>
+    </ScrollView>
+    <Button
+        android:layout_gravity="bottom|center_horizontal"
+        android:id="@+id/report_ad_button"
+        android:paddingLeft="48dp"
+        android:paddingRight="48dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="Report Ad"
+        style="@style/com.applovin.creative.debugger.ui.DisplayedAdActivity.ReportAdButton"/>
+</FrameLayout>

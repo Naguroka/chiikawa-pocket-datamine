@@ -1,0 +1,98 @@
+package androidx.webkit.internal;
+
+/* JADX INFO: loaded from: classes3.dex */
+public class WebSettingsAdapter {
+    private final org.chromium.support_lib_boundary.WebSettingsBoundaryInterface mBoundaryInterface;
+
+    public WebSettingsAdapter(org.chromium.support_lib_boundary.WebSettingsBoundaryInterface webSettingsBoundaryInterface) {
+        this.mBoundaryInterface = webSettingsBoundaryInterface;
+    }
+
+    public void setOffscreenPreRaster(boolean z) {
+        this.mBoundaryInterface.setOffscreenPreRaster(z);
+    }
+
+    public boolean getOffscreenPreRaster() {
+        return this.mBoundaryInterface.getOffscreenPreRaster();
+    }
+
+    public void setSafeBrowsingEnabled(boolean z) {
+        this.mBoundaryInterface.setSafeBrowsingEnabled(z);
+    }
+
+    public boolean getSafeBrowsingEnabled() {
+        return this.mBoundaryInterface.getSafeBrowsingEnabled();
+    }
+
+    public void setDisabledActionModeMenuItems(int i) {
+        this.mBoundaryInterface.setDisabledActionModeMenuItems(i);
+    }
+
+    public int getDisabledActionModeMenuItems() {
+        return this.mBoundaryInterface.getDisabledActionModeMenuItems();
+    }
+
+    public void setForceDark(int i) {
+        this.mBoundaryInterface.setForceDark(i);
+    }
+
+    public int getForceDark() {
+        return this.mBoundaryInterface.getForceDark();
+    }
+
+    public void setForceDarkStrategy(int i) {
+        this.mBoundaryInterface.setForceDarkBehavior(i);
+    }
+
+    public int getForceDarkStrategy() {
+        return this.mBoundaryInterface.getForceDarkBehavior();
+    }
+
+    public void setAlgorithmicDarkeningAllowed(boolean z) {
+        this.mBoundaryInterface.setAlgorithmicDarkeningAllowed(z);
+    }
+
+    public boolean isAlgorithmicDarkeningAllowed() {
+        return this.mBoundaryInterface.isAlgorithmicDarkeningAllowed();
+    }
+
+    public void setEnterpriseAuthenticationAppLinkPolicyEnabled(boolean z) {
+        this.mBoundaryInterface.setEnterpriseAuthenticationAppLinkPolicyEnabled(z);
+    }
+
+    public boolean getEnterpriseAuthenticationAppLinkPolicyEnabled() {
+        return this.mBoundaryInterface.getEnterpriseAuthenticationAppLinkPolicyEnabled();
+    }
+
+    public java.util.Set<java.lang.String> getRequestedWithHeaderOriginAllowList() {
+        return this.mBoundaryInterface.getRequestedWithHeaderOriginAllowList();
+    }
+
+    public void setRequestedWithHeaderOriginAllowList(java.util.Set<java.lang.String> set) {
+        this.mBoundaryInterface.setRequestedWithHeaderOriginAllowList(set);
+    }
+
+    public androidx.webkit.UserAgentMetadata getUserAgentMetadata() {
+        return androidx.webkit.internal.UserAgentMetadataInternal.getUserAgentMetadataFromMap(this.mBoundaryInterface.getUserAgentMetadataMap());
+    }
+
+    public void setUserAgentMetadata(androidx.webkit.UserAgentMetadata userAgentMetadata) {
+        this.mBoundaryInterface.setUserAgentMetadataFromMap(androidx.webkit.internal.UserAgentMetadataInternal.convertUserAgentMetadataToMap(userAgentMetadata));
+    }
+
+    public int getAttributionRegistrationBehavior() {
+        return this.mBoundaryInterface.getAttributionBehavior();
+    }
+
+    public void setAttributionRegistrationBehavior(int i) {
+        this.mBoundaryInterface.setAttributionBehavior(i);
+    }
+
+    public void setWebViewMediaIntegrityApiStatus(androidx.webkit.WebViewMediaIntegrityApiStatusConfig webViewMediaIntegrityApiStatusConfig) {
+        this.mBoundaryInterface.setWebViewMediaIntegrityApiStatus(webViewMediaIntegrityApiStatusConfig.getDefaultStatus(), webViewMediaIntegrityApiStatusConfig.getOverrideRules());
+    }
+
+    public androidx.webkit.WebViewMediaIntegrityApiStatusConfig getWebViewMediaIntegrityApiStatus() {
+        return new androidx.webkit.WebViewMediaIntegrityApiStatusConfig.Builder(this.mBoundaryInterface.getWebViewMediaIntegrityApiDefaultStatus()).setOverrideRules(this.mBoundaryInterface.getWebViewMediaIntegrityApiOverrideRules()).build();
+    }
+}

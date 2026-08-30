@@ -1,0 +1,13 @@
+package com.google.android.gms.internal.ads;
+
+/* JADX INFO: compiled from: com.google.android.gms:play-services-ads@@23.6.0 */
+/* JADX INFO: loaded from: classes4.dex */
+public final class zzfby {
+    public final java.lang.String zza;
+    public final org.json.JSONObject zzb;
+
+    zzfby(java.lang.String str, org.json.JSONObject jSONObject) {
+        this.zza = str;
+        this.zzb = jSONObject;
+    }
+}

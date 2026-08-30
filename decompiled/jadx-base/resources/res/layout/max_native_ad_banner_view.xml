@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@android:color/white"
+    android:layout_width="match_parent"
+    android:layout_height="50dp">
+    <include
+        android:id="@+id/applovin_native_icon_and_text_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toLeftOf="@+id/applovin_native_cta_button"
+        android:layout_toStartOf="@+id/applovin_native_cta_button"
+        layout="@layout/max_native_ad_banner_icon_and_text_layout"/>
+    <Button
+        android:textSize="15sp"
+        android:id="@+id/applovin_native_cta_button"
+        android:layout_width="74dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_alignParentEnd="true"
+        style="@style/com.applovin.mediation.nativeAds.MaxNativeAdView.CTAButton"/>
+</RelativeLayout>

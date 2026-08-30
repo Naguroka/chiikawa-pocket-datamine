@@ -1,0 +1,27 @@
+package com.google.android.play.core.assetpacks;
+
+/* JADX INFO: compiled from: com.google.android.play:asset-delivery@@2.1.0 */
+/* JADX INFO: loaded from: classes5.dex */
+public final class el implements com.google.android.play.core.assetpacks.internal.as {
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    private final com.google.android.play.core.assetpacks.internal.as f2226a;
+    private final com.google.android.play.core.assetpacks.internal.as b;
+    private final com.google.android.play.core.assetpacks.internal.as c;
+    private final com.google.android.play.core.assetpacks.internal.as d;
+    private final com.google.android.play.core.assetpacks.internal.as e;
+
+    public el(com.google.android.play.core.assetpacks.internal.as asVar, com.google.android.play.core.assetpacks.internal.as asVar2, com.google.android.play.core.assetpacks.internal.as asVar3, com.google.android.play.core.assetpacks.internal.as asVar4, com.google.android.play.core.assetpacks.internal.as asVar5) {
+        this.f2226a = asVar;
+        this.b = asVar2;
+        this.c = asVar3;
+        this.d = asVar4;
+        this.e = asVar5;
+    }
+
+    @Override // com.google.android.play.core.assetpacks.internal.as
+    public final /* bridge */ /* synthetic */ java.lang.Object a() {
+        java.lang.Object objA = this.f2226a.a();
+        return new com.google.android.play.core.assetpacks.ek((com.google.android.play.core.assetpacks.bh) objA, com.google.android.play.core.assetpacks.internal.aq.c(this.b), (com.google.android.play.core.assetpacks.de) this.c.a(), com.google.android.play.core.assetpacks.internal.aq.c(this.d), (com.google.android.play.core.assetpacks.co) this.e.a());
+    }
+}

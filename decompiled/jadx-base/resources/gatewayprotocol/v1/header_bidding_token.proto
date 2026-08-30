@@ -1,0 +1,53 @@
+syntax = "proto3";
+
+package gatewayprotocol.v1;
+
+import "gatewayprotocol/v1/campaign_state.proto";
+import "gatewayprotocol/v1/client_info.proto";
+import "gatewayprotocol/v1/dynamic_device_info.proto";
+import "gatewayprotocol/v1/pii.proto";
+import "gatewayprotocol/v1/session_counters.proto";
+import "gatewayprotocol/v1/static_device_info.proto";
+import "gatewayprotocol/v1/timestamps.proto";
+import "gatewayprotocol/v1/universal_request.proto";
+import "gatewayprotocol/v1/initialization_data.proto";
+import "gatewayprotocol/v1/test_data.proto";
+import "gatewayprotocol/v1/initialization_response.proto";
+
+option swift_prefix = "Gateway";
+
+message TokenCounters {
+  // Seuence number of the token
+  int32 seq = 1;
+  // Number of AdMarkup loads
+  int32 wins = 2;
+  // Number of impressions
+  int32 starts = 3;
+}
+
+message HeaderBiddingToken {
+  bytes token_id = 1;
+  int32 token_number = 2;
+  bytes session_token = 3;
+  ClientInfo client_info = 4;
+  Timestamps timestamps = 5;
+  SessionCounters session_counters = 6;
+  StaticDeviceInfo static_device_info = 7;
+  DynamicDeviceInfo dynamic_device_info = 8;
+  optional Pii pii = 9;
+  CampaignState campaign_state = 10;
+  optional bytes tcf = 11;
+  optional bool scar_signals_collected = 12;
+  // Should be set if request is made without session token
+  optional LimitedSessionToken limited_session_token = 13;
+  // Should be set if request is made without session token and the SDK is initializing
+  optional InitializationData initialization_data = 14;
+  // Should be set if request is made with new public api
+  optional AdFormat ad_format = 15;
+  // The data which can be used for testing purposes
+  // For example it can force country, campaign ID and etc.bool
+  // Works only when connected via VPN
+  optional TestData test_data = 16;
+  // Token counters which are reset after each impression and succesfully reset valuation on backend
+  optional TokenCounters token_counters = 17;
+}

@@ -1,0 +1,43 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "possessionEffectIds": [
+   4001
+  ],
+  "experienceGroupId": 50,
+  "nameTextKey": -1940248675,
+  "adRewardId": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "possessionEffectIds": [
+   4002
+  ],
+  "experienceGroupId": 50,
+  "nameTextKey": 1355729994,
+  "adRewardId": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "possessionEffectIds": [
+   4003
+  ],
+  "experienceGroupId": 50,
+  "nameTextKey": -1128032357,
+  "adRewardId": 10
+ },
+ {
+  "version": "250330.1.0",
+  "id": 4,
+  "possessionEffectIds": [
+   4004,
+   4005
+  ],
+  "experienceGroupId": 51,
+  "nameTextKey": 0,
+  "adRewardId": 0
+ }
+]

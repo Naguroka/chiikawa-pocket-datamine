@@ -1,0 +1,32 @@
+[
+ {
+  "version": "251010.1.0",
+  "id": 101507,
+  "entryId": 101507,
+  "rankId": 101507,
+  "viewId": 101507,
+  "firstReachRewardGroupId": 101507,
+  "challengeHuntStageId": 101507,
+  "dailyRewardGroupId": 101507
+ },
+ {
+  "version": "260410.1.0",
+  "id": 102607,
+  "entryId": 102607,
+  "rankId": 102607,
+  "viewId": 102607,
+  "firstReachRewardGroupId": 102607,
+  "challengeHuntStageId": 102607,
+  "dailyRewardGroupId": 102607
+ },
+ {
+  "version": "260810.1.0",
+  "id": 103007,
+  "entryId": 103007,
+  "rankId": 103007,
+  "viewId": 103007,
+  "firstReachRewardGroupId": 103007,
+  "challengeHuntStageId": 103007,
+  "dailyRewardGroupId": 103007
+ }
+]

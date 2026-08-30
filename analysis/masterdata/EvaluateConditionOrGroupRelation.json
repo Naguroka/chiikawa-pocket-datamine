@@ -1,0 +1,26 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "evaluateConditionOrGroupId": 1,
+  "evaluateConditionId": 12100030
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "evaluateConditionOrGroupId": 2,
+  "evaluateConditionId": 2020101
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "evaluateConditionOrGroupId": 3,
+  "evaluateConditionId": 14100010
+ },
+ {
+  "version": "250330.1.0",
+  "id": 4,
+  "evaluateConditionOrGroupId": 4,
+  "evaluateConditionId": 14100030
+ }
+]

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package com.unity3d.ads.datastore;
+
+message UniversalRequestStore {
+    map<string, bytes> universal_request_map = 1;
+}

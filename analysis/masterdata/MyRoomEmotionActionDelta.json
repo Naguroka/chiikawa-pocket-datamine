@@ -1,0 +1,66 @@
+[
+ {
+  "version": "260810.1.0",
+  "id": 10,
+  "emotionAction": "HeadTap",
+  "hitCountMin": 1,
+  "hitCountMax": 99999,
+  "deltaValue": -100
+ },
+ {
+  "version": "260810.1.0",
+  "id": 20,
+  "emotionAction": "HeadSwipe",
+  "hitCountMin": 1,
+  "hitCountMax": 4,
+  "deltaValue": 75
+ },
+ {
+  "version": "260810.1.0",
+  "id": 21,
+  "emotionAction": "HeadSwipe",
+  "hitCountMin": 5,
+  "hitCountMax": 99999,
+  "deltaValue": -200
+ },
+ {
+  "version": "260810.1.0",
+  "id": 30,
+  "emotionAction": "CheekTap",
+  "hitCountMin": 1,
+  "hitCountMax": 99999,
+  "deltaValue": -5
+ },
+ {
+  "version": "260810.1.0",
+  "id": 40,
+  "emotionAction": "CheekSwipe",
+  "hitCountMin": 1,
+  "hitCountMax": 6,
+  "deltaValue": 50
+ },
+ {
+  "version": "260810.1.0",
+  "id": 41,
+  "emotionAction": "CheekSwipe",
+  "hitCountMin": 7,
+  "hitCountMax": 99999,
+  "deltaValue": -200
+ },
+ {
+  "version": "260810.1.0",
+  "id": 50,
+  "emotionAction": "BodySwipe",
+  "hitCountMin": 1,
+  "hitCountMax": 4,
+  "deltaValue": 75
+ },
+ {
+  "version": "260810.1.0",
+  "id": 51,
+  "emotionAction": "BodySwipe",
+  "hitCountMin": 5,
+  "hitCountMax": 99999,
+  "deltaValue": -200
+ }
+]

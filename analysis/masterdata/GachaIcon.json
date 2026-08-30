@@ -1,0 +1,22 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "categoryIcon": "Weapon"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "categoryIcon": "Armor"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "categoryIcon": "AssistSkill"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 4,
+  "categoryIcon": "KeyHolder"
+ }
+]

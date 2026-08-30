@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package gatewayprotocol.v1;
+
+option swift_prefix = "Gateway";
+
+// Provided by the Android API NetworkCapabilities https://developer.android.com/reference/android/net/NetworkCapabilities
+message NetworkCapabilityTransports {
+  optional bool bluetooth = 1;
+  optional bool cellular = 2;
+  optional bool ethernet = 3;
+  optional bool lowpan = 4;
+  optional bool satellite = 5;
+  optional bool thread = 6;
+  optional bool usb = 7;
+  optional bool vpn = 8;
+  optional bool wifi = 9;
+  optional bool wifi_aware = 10;
+}

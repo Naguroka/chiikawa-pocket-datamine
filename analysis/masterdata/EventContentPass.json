@@ -1,0 +1,152 @@
+[
+ {
+  "version": "250350.1.0",
+  "id": 1,
+  "seasonPassId": 1001
+ },
+ {
+  "version": "250410.1.0",
+  "id": 2,
+  "seasonPassId": 1002
+ },
+ {
+  "version": "250440.1.0",
+  "id": 3,
+  "seasonPassId": 1003
+ },
+ {
+  "version": "250450.1.0",
+  "id": 4,
+  "seasonPassId": 1004
+ },
+ {
+  "version": "250530.1.0",
+  "id": 5,
+  "seasonPassId": 1005
+ },
+ {
+  "version": "250550.1.0",
+  "id": 6,
+  "seasonPassId": 1006
+ },
+ {
+  "version": "250610.1.0",
+  "id": 7,
+  "seasonPassId": 1007
+ },
+ {
+  "version": "250630.1.0",
+  "id": 8,
+  "seasonPassId": 1008
+ },
+ {
+  "version": "250710.1.0",
+  "id": 9,
+  "seasonPassId": 1009
+ },
+ {
+  "version": "250730.1.0",
+  "id": 10,
+  "seasonPassId": 1010
+ },
+ {
+  "version": "250810.1.0",
+  "id": 101103,
+  "seasonPassId": 1011
+ },
+ {
+  "version": "250820.1.0",
+  "id": 101203,
+  "seasonPassId": 1012
+ },
+ {
+  "version": "250910.1.0",
+  "id": 101303,
+  "seasonPassId": 1013
+ },
+ {
+  "version": "250930.1.0",
+  "id": 101403,
+  "seasonPassId": 1014
+ },
+ {
+  "version": "251010.1.0",
+  "id": 101503,
+  "seasonPassId": 1015
+ },
+ {
+  "version": "251030.1.0",
+  "id": 101703,
+  "seasonPassId": 1017
+ },
+ {
+  "version": "251110.1.0",
+  "id": 101803,
+  "seasonPassId": 1018
+ },
+ {
+  "version": "251210.1.0",
+  "id": 101903,
+  "seasonPassId": 1019
+ },
+ {
+  "version": "251230.1.0",
+  "id": 102003,
+  "seasonPassId": 1020
+ },
+ {
+  "version": "260110.1.0",
+  "id": 102103,
+  "seasonPassId": 1021
+ },
+ {
+  "version": "260210.1.0",
+  "id": 102203,
+  "seasonPassId": 1022
+ },
+ {
+  "version": "260230.1.0",
+  "id": 102303,
+  "seasonPassId": 1023
+ },
+ {
+  "version": "260310.1.0",
+  "id": 102403,
+  "seasonPassId": 1024
+ },
+ {
+  "version": "260330.1.0",
+  "id": 102503,
+  "seasonPassId": 1025
+ },
+ {
+  "version": "260410.1.0",
+  "id": 102603,
+  "seasonPassId": 1026
+ },
+ {
+  "version": "260510.1.0",
+  "id": 102703,
+  "seasonPassId": 1027
+ },
+ {
+  "version": "260610.1.0",
+  "id": 102803,
+  "seasonPassId": 1028
+ },
+ {
+  "version": "260710.1.0",
+  "id": 102903,
+  "seasonPassId": 1029
+ },
+ {
+  "version": "260810.1.0",
+  "id": 103003,
+  "seasonPassId": 1030
+ },
+ {
+  "version": "260910.1.0",
+  "id": 103103,
+  "seasonPassId": 1031
+ }
+]

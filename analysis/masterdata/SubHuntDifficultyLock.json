@@ -1,0 +1,240 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "groupId": 2,
+  "difficulty": 1,
+  "unlockAtJst": 638631792000000000
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "groupId": 1,
+  "difficulty": 1,
+  "unlockAtJst": 638631792000000000
+ },
+ {
+  "version": "250350.1.0",
+  "id": 3,
+  "groupId": 3,
+  "difficulty": 1,
+  "unlockAtJst": 638791164000000000
+ },
+ {
+  "version": "250410.1.0",
+  "id": 4,
+  "groupId": 4,
+  "difficulty": 1,
+  "unlockAtJst": 638797212000000000
+ },
+ {
+  "version": "250440.1.0",
+  "id": 5,
+  "groupId": 5,
+  "difficulty": 1,
+  "unlockAtJst": 638803260000000000
+ },
+ {
+  "version": "250450.1.0",
+  "id": 6,
+  "groupId": 6,
+  "difficulty": 1,
+  "unlockAtJst": 638811900000000000
+ },
+ {
+  "version": "250530.1.0",
+  "id": 7,
+  "groupId": 7,
+  "difficulty": 1,
+  "unlockAtJst": 638823132000000000
+ },
+ {
+  "version": "250550.1.0",
+  "id": 8,
+  "groupId": 8,
+  "difficulty": 1,
+  "unlockAtJst": 638833500000000000
+ },
+ {
+  "version": "250610.1.0",
+  "id": 9,
+  "groupId": 9,
+  "difficulty": 1,
+  "unlockAtJst": 638845596000000000
+ },
+ {
+  "version": "250630.1.0",
+  "id": 10,
+  "groupId": 10,
+  "difficulty": 1,
+  "unlockAtJst": 638857692000000000
+ },
+ {
+  "version": "250710.1.0",
+  "id": 11,
+  "groupId": 11,
+  "difficulty": 1,
+  "unlockAtJst": 638869788000000000
+ },
+ {
+  "version": "250730.1.0",
+  "id": 12,
+  "groupId": 12,
+  "difficulty": 1,
+  "unlockAtJst": 638881884000000000
+ },
+ {
+  "version": "250725.1.0",
+  "id": 13,
+  "groupId": 13,
+  "difficulty": 1,
+  "unlockAtJst": 638631792000000000
+ },
+ {
+  "version": "250810.1.0",
+  "id": 1011,
+  "groupId": 1011,
+  "difficulty": 1,
+  "unlockAtJst": 638893980000000000
+ },
+ {
+  "version": "250820.1.0",
+  "id": 1012,
+  "groupId": 1012,
+  "difficulty": 1,
+  "unlockAtJst": 638906076000000000
+ },
+ {
+  "version": "250910.1.0",
+  "id": 1013,
+  "groupId": 1013,
+  "difficulty": 1,
+  "unlockAtJst": 638918172000000000
+ },
+ {
+  "version": "250930.1.0",
+  "id": 1014,
+  "groupId": 1014,
+  "difficulty": 1,
+  "unlockAtJst": 638930268000000000
+ },
+ {
+  "version": "251010.1.0",
+  "id": 1015,
+  "groupId": 1015,
+  "difficulty": 1,
+  "unlockAtJst": 638944956000000000
+ },
+ {
+  "version": "251030.1.0",
+  "id": 1017,
+  "groupId": 1017,
+  "difficulty": 1,
+  "unlockAtJst": 638963100000000000
+ },
+ {
+  "version": "251110.1.0",
+  "id": 1018,
+  "groupId": 1018,
+  "difficulty": 1,
+  "unlockAtJst": 638975196000000000
+ },
+ {
+  "version": "251210.1.0",
+  "id": 1019,
+  "groupId": 1019,
+  "difficulty": 1,
+  "unlockAtJst": 638998524000000000
+ },
+ {
+  "version": "251230.1.0",
+  "id": 1020,
+  "groupId": 1020,
+  "difficulty": 1,
+  "unlockAtJst": 639011484000000000
+ },
+ {
+  "version": "260110.1.0",
+  "id": 1021,
+  "groupId": 1021,
+  "difficulty": 1,
+  "unlockAtJst": 639028224000000000
+ },
+ {
+  "version": "260210.1.0",
+  "id": 1022,
+  "groupId": 1022,
+  "difficulty": 1,
+  "unlockAtJst": 639051228000000000
+ },
+ {
+  "version": "260230.1.0",
+  "id": 1023,
+  "groupId": 1023,
+  "difficulty": 1,
+  "unlockAtJst": 639063324000000000
+ },
+ {
+  "version": "260310.1.0",
+  "id": 1024,
+  "groupId": 1024,
+  "difficulty": 1,
+  "unlockAtJst": 639075420000000000
+ },
+ {
+  "version": "260330.1.0",
+  "id": 1025,
+  "groupId": 1025,
+  "difficulty": 1,
+  "unlockAtJst": 639087516000000000
+ },
+ {
+  "version": "260410.1.0",
+  "id": 14,
+  "groupId": 14,
+  "difficulty": 1,
+  "unlockAtJst": 639028368000000000
+ },
+ {
+  "version": "260410.1.0",
+  "id": 1026,
+  "groupId": 1026,
+  "difficulty": 1,
+  "unlockAtJst": 639102204000000000
+ },
+ {
+  "version": "260510.1.0",
+  "id": 1027,
+  "groupId": 1027,
+  "difficulty": 1,
+  "unlockAtJst": 639129852000000000
+ },
+ {
+  "version": "260610.1.0",
+  "id": 1028,
+  "groupId": 1028,
+  "difficulty": 1,
+  "unlockAtJst": 639156636000000000
+ },
+ {
+  "version": "260710.1.0",
+  "id": 1029,
+  "groupId": 1029,
+  "difficulty": 1,
+  "unlockAtJst": 639180828000000000
+ },
+ {
+  "version": "260810.1.0",
+  "id": 1030,
+  "groupId": 1030,
+  "difficulty": 1,
+  "unlockAtJst": 639204480000000000
+ },
+ {
+  "version": "260910.1.0",
+  "id": 1031,
+  "groupId": 1031,
+  "difficulty": 1,
+  "unlockAtJst": 639235260000000000
+ }
+]

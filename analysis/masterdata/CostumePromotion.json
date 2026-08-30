@@ -1,0 +1,47 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "groupId": 1,
+  "startLevel": 100,
+  "endLevel": 120,
+  "consumeId": 21,
+  "promotionCount": 1
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "groupId": 1,
+  "startLevel": 120,
+  "endLevel": 140,
+  "consumeId": 22,
+  "promotionCount": 2
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "groupId": 1,
+  "startLevel": 140,
+  "endLevel": 160,
+  "consumeId": 23,
+  "promotionCount": 3
+ },
+ {
+  "version": "250330.1.0",
+  "id": 4,
+  "groupId": 1,
+  "startLevel": 160,
+  "endLevel": 180,
+  "consumeId": 24,
+  "promotionCount": 4
+ },
+ {
+  "version": "250330.1.0",
+  "id": 5,
+  "groupId": 1,
+  "startLevel": 180,
+  "endLevel": 200,
+  "consumeId": 25,
+  "promotionCount": 5
+ }
+]

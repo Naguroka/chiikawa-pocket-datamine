@@ -1,0 +1,1202 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "cookingCafeId": 1,
+  "level": 1,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "cookingCafeId": 1,
+  "level": 2,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14002000
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "cookingCafeId": 1,
+  "level": 3,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 902
+ },
+ {
+  "version": "250330.1.0",
+  "id": 4,
+  "cookingCafeId": 1,
+  "level": 4,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14002500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 5,
+  "cookingCafeId": 1,
+  "level": 5,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 903
+ },
+ {
+  "version": "250330.1.0",
+  "id": 6,
+  "cookingCafeId": 1,
+  "level": 6,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14002500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 7,
+  "cookingCafeId": 1,
+  "level": 7,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7002
+ },
+ {
+  "version": "250330.1.0",
+  "id": 8,
+  "cookingCafeId": 1,
+  "level": 8,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 905
+ },
+ {
+  "version": "250330.1.0",
+  "id": 9,
+  "cookingCafeId": 1,
+  "level": 9,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14002500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 10,
+  "cookingCafeId": 1,
+  "level": 10,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7004
+ },
+ {
+  "version": "250330.1.0",
+  "id": 11,
+  "cookingCafeId": 1,
+  "level": 11,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 904
+ },
+ {
+  "version": "250330.1.0",
+  "id": 12,
+  "cookingCafeId": 1,
+  "level": 12,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14002500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 13,
+  "cookingCafeId": 1,
+  "level": 13,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7005
+ },
+ {
+  "version": "250330.1.0",
+  "id": 14,
+  "cookingCafeId": 1,
+  "level": 14,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 906
+ },
+ {
+  "version": "250330.1.0",
+  "id": 15,
+  "cookingCafeId": 1,
+  "level": 15,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14002500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 16,
+  "cookingCafeId": 1,
+  "level": 16,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7011
+ },
+ {
+  "version": "250330.1.0",
+  "id": 17,
+  "cookingCafeId": 1,
+  "level": 17,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 907
+ },
+ {
+  "version": "250330.1.0",
+  "id": 18,
+  "cookingCafeId": 1,
+  "level": 18,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14002500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 19,
+  "cookingCafeId": 1,
+  "level": 19,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7012
+ },
+ {
+  "version": "250330.1.0",
+  "id": 20,
+  "cookingCafeId": 1,
+  "level": 20,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14007500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 21,
+  "cookingCafeId": 1,
+  "level": 21,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7014
+ },
+ {
+  "version": "250330.1.0",
+  "id": 22,
+  "cookingCafeId": 1,
+  "level": 22,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14007500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 23,
+  "cookingCafeId": 1,
+  "level": 23,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7015
+ },
+ {
+  "version": "250330.1.0",
+  "id": 24,
+  "cookingCafeId": 1,
+  "level": 24,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14007500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 25,
+  "cookingCafeId": 1,
+  "level": 25,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 1
+ },
+ {
+  "version": "250330.1.0",
+  "id": 26,
+  "cookingCafeId": 1,
+  "level": 26,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7022
+ },
+ {
+  "version": "250330.1.0",
+  "id": 27,
+  "cookingCafeId": 1,
+  "level": 27,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14007500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 28,
+  "cookingCafeId": 1,
+  "level": 28,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7023
+ },
+ {
+  "version": "250330.1.0",
+  "id": 29,
+  "cookingCafeId": 1,
+  "level": 29,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14007500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 30,
+  "cookingCafeId": 1,
+  "level": 30,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7024
+ },
+ {
+  "version": "250330.1.0",
+  "id": 31,
+  "cookingCafeId": 1,
+  "level": 31,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14007500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 32,
+  "cookingCafeId": 1,
+  "level": 32,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7025
+ },
+ {
+  "version": "250330.1.0",
+  "id": 33,
+  "cookingCafeId": 1,
+  "level": 33,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7031
+ },
+ {
+  "version": "250330.1.0",
+  "id": 34,
+  "cookingCafeId": 1,
+  "level": 34,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14007500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 35,
+  "cookingCafeId": 1,
+  "level": 35,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7032
+ },
+ {
+  "version": "250330.1.0",
+  "id": 36,
+  "cookingCafeId": 1,
+  "level": 36,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7033
+ },
+ {
+  "version": "250330.1.0",
+  "id": 37,
+  "cookingCafeId": 1,
+  "level": 37,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 38,
+  "cookingCafeId": 1,
+  "level": 38,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7034
+ },
+ {
+  "version": "250330.1.0",
+  "id": 39,
+  "cookingCafeId": 1,
+  "level": 39,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7041
+ },
+ {
+  "version": "250330.1.0",
+  "id": 40,
+  "cookingCafeId": 1,
+  "level": 40,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 41,
+  "cookingCafeId": 1,
+  "level": 41,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7042
+ },
+ {
+  "version": "250330.1.0",
+  "id": 42,
+  "cookingCafeId": 1,
+  "level": 42,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7043
+ },
+ {
+  "version": "250330.1.0",
+  "id": 43,
+  "cookingCafeId": 1,
+  "level": 43,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7045
+ },
+ {
+  "version": "250330.1.0",
+  "id": 44,
+  "cookingCafeId": 1,
+  "level": 44,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 45,
+  "cookingCafeId": 1,
+  "level": 45,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7051
+ },
+ {
+  "version": "250330.1.0",
+  "id": 46,
+  "cookingCafeId": 1,
+  "level": 46,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7052
+ },
+ {
+  "version": "250330.1.0",
+  "id": 47,
+  "cookingCafeId": 1,
+  "level": 47,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 48,
+  "cookingCafeId": 1,
+  "level": 48,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7054
+ },
+ {
+  "version": "250330.1.0",
+  "id": 49,
+  "cookingCafeId": 1,
+  "level": 49,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7055
+ },
+ {
+  "version": "250330.1.0",
+  "id": 50,
+  "cookingCafeId": 1,
+  "level": 50,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 1
+ },
+ {
+  "version": "250330.1.0",
+  "id": 51,
+  "cookingCafeId": 1,
+  "level": 51,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7006
+ },
+ {
+  "version": "250330.1.0",
+  "id": 52,
+  "cookingCafeId": 1,
+  "level": 52,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 53,
+  "cookingCafeId": 1,
+  "level": 53,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13001000
+ },
+ {
+  "version": "250330.1.0",
+  "id": 54,
+  "cookingCafeId": 1,
+  "level": 54,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 55,
+  "cookingCafeId": 1,
+  "level": 55,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13005000
+ },
+ {
+  "version": "250330.1.0",
+  "id": 56,
+  "cookingCafeId": 1,
+  "level": 56,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13001000
+ },
+ {
+  "version": "250330.1.0",
+  "id": 57,
+  "cookingCafeId": 1,
+  "level": 57,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 58,
+  "cookingCafeId": 1,
+  "level": 58,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7027
+ },
+ {
+  "version": "250330.1.0",
+  "id": 59,
+  "cookingCafeId": 1,
+  "level": 59,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 60,
+  "cookingCafeId": 1,
+  "level": 60,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13005000
+ },
+ {
+  "version": "250330.1.0",
+  "id": 61,
+  "cookingCafeId": 1,
+  "level": 61,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 62,
+  "cookingCafeId": 1,
+  "level": 62,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7036
+ },
+ {
+  "version": "250330.1.0",
+  "id": 63,
+  "cookingCafeId": 1,
+  "level": 63,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 64,
+  "cookingCafeId": 1,
+  "level": 64,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7038
+ },
+ {
+  "version": "250330.1.0",
+  "id": 65,
+  "cookingCafeId": 1,
+  "level": 65,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7046
+ },
+ {
+  "version": "250330.1.0",
+  "id": 66,
+  "cookingCafeId": 1,
+  "level": 66,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 67,
+  "cookingCafeId": 1,
+  "level": 67,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7047
+ },
+ {
+  "version": "250330.1.0",
+  "id": 68,
+  "cookingCafeId": 1,
+  "level": 68,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7057
+ },
+ {
+  "version": "250330.1.0",
+  "id": 69,
+  "cookingCafeId": 1,
+  "level": 69,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 70,
+  "cookingCafeId": 1,
+  "level": 70,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7058
+ },
+ {
+  "version": "250330.1.0",
+  "id": 71,
+  "cookingCafeId": 1,
+  "level": 71,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 72,
+  "cookingCafeId": 1,
+  "level": 72,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7009
+ },
+ {
+  "version": "250330.1.0",
+  "id": 73,
+  "cookingCafeId": 1,
+  "level": 73,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 74,
+  "cookingCafeId": 1,
+  "level": 74,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7010
+ },
+ {
+  "version": "250330.1.0",
+  "id": 75,
+  "cookingCafeId": 1,
+  "level": 75,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 1
+ },
+ {
+  "version": "250330.1.0",
+  "id": 76,
+  "cookingCafeId": 1,
+  "level": 76,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7019
+ },
+ {
+  "version": "250330.1.0",
+  "id": 77,
+  "cookingCafeId": 1,
+  "level": 77,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 78,
+  "cookingCafeId": 1,
+  "level": 78,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7020
+ },
+ {
+  "version": "250330.1.0",
+  "id": 79,
+  "cookingCafeId": 1,
+  "level": 79,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 80,
+  "cookingCafeId": 1,
+  "level": 80,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13010000
+ },
+ {
+  "version": "250330.1.0",
+  "id": 81,
+  "cookingCafeId": 1,
+  "level": 81,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 82,
+  "cookingCafeId": 1,
+  "level": 82,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13005000
+ },
+ {
+  "version": "250330.1.0",
+  "id": 83,
+  "cookingCafeId": 1,
+  "level": 83,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 84,
+  "cookingCafeId": 1,
+  "level": 84,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13005000
+ },
+ {
+  "version": "250330.1.0",
+  "id": 85,
+  "cookingCafeId": 1,
+  "level": 85,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 86,
+  "cookingCafeId": 1,
+  "level": 86,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13005000
+ },
+ {
+  "version": "250330.1.0",
+  "id": 87,
+  "cookingCafeId": 1,
+  "level": 87,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 88,
+  "cookingCafeId": 1,
+  "level": 88,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7049
+ },
+ {
+  "version": "250330.1.0",
+  "id": 89,
+  "cookingCafeId": 1,
+  "level": 89,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "250330.1.0",
+  "id": 90,
+  "cookingCafeId": 1,
+  "level": 90,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13010000
+ },
+ {
+  "version": "250330.1.0",
+  "id": 91,
+  "cookingCafeId": 1,
+  "level": 91,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13010000
+ },
+ {
+  "version": "250330.1.0",
+  "id": 92,
+  "cookingCafeId": 1,
+  "level": 92,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13010000
+ },
+ {
+  "version": "250330.1.0",
+  "id": 93,
+  "cookingCafeId": 1,
+  "level": 93,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7059
+ },
+ {
+  "version": "250330.1.0",
+  "id": 94,
+  "cookingCafeId": 1,
+  "level": 94,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13010000
+ },
+ {
+  "version": "250330.1.0",
+  "id": 95,
+  "cookingCafeId": 1,
+  "level": 95,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7060
+ },
+ {
+  "version": "250330.1.0",
+  "id": 96,
+  "cookingCafeId": 1,
+  "level": 96,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13020000
+ },
+ {
+  "version": "250330.1.0",
+  "id": 97,
+  "cookingCafeId": 1,
+  "level": 97,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13020000
+ },
+ {
+  "version": "250330.1.0",
+  "id": 98,
+  "cookingCafeId": 1,
+  "level": 98,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13020000
+ },
+ {
+  "version": "250330.1.0",
+  "id": 99,
+  "cookingCafeId": 1,
+  "level": 99,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13020000
+ },
+ {
+  "version": "250330.1.0",
+  "id": 100,
+  "cookingCafeId": 1,
+  "level": 100,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 1
+ },
+ {
+  "version": "260530.1.0",
+  "id": 101,
+  "cookingCafeId": 1,
+  "level": 101,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "260530.1.0",
+  "id": 102,
+  "cookingCafeId": 1,
+  "level": 102,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13050000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 103,
+  "cookingCafeId": 1,
+  "level": 103,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13050000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 104,
+  "cookingCafeId": 1,
+  "level": 104,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "260530.1.0",
+  "id": 105,
+  "cookingCafeId": 1,
+  "level": 105,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13050000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 106,
+  "cookingCafeId": 1,
+  "level": 106,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13050000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 107,
+  "cookingCafeId": 1,
+  "level": 107,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "260530.1.0",
+  "id": 108,
+  "cookingCafeId": 1,
+  "level": 108,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13050000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 109,
+  "cookingCafeId": 1,
+  "level": 109,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13050000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 110,
+  "cookingCafeId": 1,
+  "level": 110,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "260530.1.0",
+  "id": 111,
+  "cookingCafeId": 1,
+  "level": 111,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13050000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 112,
+  "cookingCafeId": 1,
+  "level": 112,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13050000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 113,
+  "cookingCafeId": 1,
+  "level": 113,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "260530.1.0",
+  "id": 114,
+  "cookingCafeId": 1,
+  "level": 114,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13050000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 115,
+  "cookingCafeId": 1,
+  "level": 115,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13050000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 116,
+  "cookingCafeId": 1,
+  "level": 116,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "260530.1.0",
+  "id": 117,
+  "cookingCafeId": 1,
+  "level": 117,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13050000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 118,
+  "cookingCafeId": 1,
+  "level": 118,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13050000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 119,
+  "cookingCafeId": 1,
+  "level": 119,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "260530.1.0",
+  "id": 120,
+  "cookingCafeId": 1,
+  "level": 120,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7008
+ },
+ {
+  "version": "260530.1.0",
+  "id": 121,
+  "cookingCafeId": 1,
+  "level": 121,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13100000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 122,
+  "cookingCafeId": 1,
+  "level": 122,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13100000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 123,
+  "cookingCafeId": 1,
+  "level": 123,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13100000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 124,
+  "cookingCafeId": 1,
+  "level": 124,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13100000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 125,
+  "cookingCafeId": 1,
+  "level": 125,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "260530.1.0",
+  "id": 126,
+  "cookingCafeId": 1,
+  "level": 126,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13100000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 127,
+  "cookingCafeId": 1,
+  "level": 127,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13100000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 128,
+  "cookingCafeId": 1,
+  "level": 128,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "260530.1.0",
+  "id": 129,
+  "cookingCafeId": 1,
+  "level": 129,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13100000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 130,
+  "cookingCafeId": 1,
+  "level": 130,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13100000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 131,
+  "cookingCafeId": 1,
+  "level": 131,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "260530.1.0",
+  "id": 132,
+  "cookingCafeId": 1,
+  "level": 132,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13100000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 133,
+  "cookingCafeId": 1,
+  "level": 133,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13100000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 134,
+  "cookingCafeId": 1,
+  "level": 134,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "260530.1.0",
+  "id": 135,
+  "cookingCafeId": 1,
+  "level": 135,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13100000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 136,
+  "cookingCafeId": 1,
+  "level": 136,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13100000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 137,
+  "cookingCafeId": 1,
+  "level": 137,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "260530.1.0",
+  "id": 138,
+  "cookingCafeId": 1,
+  "level": 138,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13100000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 139,
+  "cookingCafeId": 1,
+  "level": 139,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13100000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 140,
+  "cookingCafeId": 1,
+  "level": 140,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "260530.1.0",
+  "id": 141,
+  "cookingCafeId": 1,
+  "level": 141,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13100000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 142,
+  "cookingCafeId": 1,
+  "level": 142,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13100000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 143,
+  "cookingCafeId": 1,
+  "level": 143,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 14012500
+ },
+ {
+  "version": "260530.1.0",
+  "id": 144,
+  "cookingCafeId": 1,
+  "level": 144,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13200000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 145,
+  "cookingCafeId": 1,
+  "level": 145,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13200000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 146,
+  "cookingCafeId": 1,
+  "level": 146,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 7037
+ },
+ {
+  "version": "260530.1.0",
+  "id": 147,
+  "cookingCafeId": 1,
+  "level": 147,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13200000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 148,
+  "cookingCafeId": 1,
+  "level": 148,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13200000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 149,
+  "cookingCafeId": 1,
+  "level": 149,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13200000
+ },
+ {
+  "version": "260530.1.0",
+  "id": 150,
+  "cookingCafeId": 1,
+  "level": 150,
+  "rewardRelationType": "Reward",
+  "rewardRelationId": 13200000
+ }
+]

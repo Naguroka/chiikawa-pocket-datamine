@@ -1,0 +1,5258 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 110011,
+  "possessionEffectId": 110011,
+  "evaluateConditionId": 110011
+ },
+ {
+  "version": "250330.1.0",
+  "id": 110012,
+  "possessionEffectId": 110012,
+  "evaluateConditionId": 110012
+ },
+ {
+  "version": "250330.1.0",
+  "id": 110013,
+  "possessionEffectId": 110013,
+  "evaluateConditionId": 110013
+ },
+ {
+  "version": "250330.1.0",
+  "id": 110014,
+  "possessionEffectId": 110014,
+  "evaluateConditionId": 110014
+ },
+ {
+  "version": "250330.1.0",
+  "id": 110015,
+  "possessionEffectId": 110015,
+  "evaluateConditionId": 110015
+ },
+ {
+  "version": "250330.1.0",
+  "id": 110016,
+  "possessionEffectId": 110016,
+  "evaluateConditionId": 110016
+ },
+ {
+  "version": "250330.1.0",
+  "id": 120011,
+  "possessionEffectId": 120011,
+  "evaluateConditionId": 120011
+ },
+ {
+  "version": "250330.1.0",
+  "id": 120012,
+  "possessionEffectId": 120012,
+  "evaluateConditionId": 120012
+ },
+ {
+  "version": "250330.1.0",
+  "id": 120013,
+  "possessionEffectId": 120013,
+  "evaluateConditionId": 120013
+ },
+ {
+  "version": "250330.1.0",
+  "id": 120014,
+  "possessionEffectId": 120014,
+  "evaluateConditionId": 120014
+ },
+ {
+  "version": "250330.1.0",
+  "id": 120015,
+  "possessionEffectId": 120015,
+  "evaluateConditionId": 120015
+ },
+ {
+  "version": "250330.1.0",
+  "id": 120016,
+  "possessionEffectId": 120016,
+  "evaluateConditionId": 120016
+ },
+ {
+  "version": "250330.1.0",
+  "id": 130011,
+  "possessionEffectId": 130011,
+  "evaluateConditionId": 130011
+ },
+ {
+  "version": "250330.1.0",
+  "id": 130012,
+  "possessionEffectId": 130012,
+  "evaluateConditionId": 130012
+ },
+ {
+  "version": "250330.1.0",
+  "id": 130013,
+  "possessionEffectId": 130013,
+  "evaluateConditionId": 130013
+ },
+ {
+  "version": "250330.1.0",
+  "id": 130014,
+  "possessionEffectId": 130014,
+  "evaluateConditionId": 130014
+ },
+ {
+  "version": "250330.1.0",
+  "id": 130015,
+  "possessionEffectId": 130015,
+  "evaluateConditionId": 130015
+ },
+ {
+  "version": "250330.1.0",
+  "id": 130016,
+  "possessionEffectId": 130016,
+  "evaluateConditionId": 130016
+ },
+ {
+  "version": "250330.1.0",
+  "id": 140011,
+  "possessionEffectId": 140011,
+  "evaluateConditionId": 140011
+ },
+ {
+  "version": "250330.1.0",
+  "id": 140012,
+  "possessionEffectId": 140012,
+  "evaluateConditionId": 140012
+ },
+ {
+  "version": "250330.1.0",
+  "id": 140013,
+  "possessionEffectId": 140013,
+  "evaluateConditionId": 140013
+ },
+ {
+  "version": "250330.1.0",
+  "id": 140014,
+  "possessionEffectId": 140014,
+  "evaluateConditionId": 140014
+ },
+ {
+  "version": "250330.1.0",
+  "id": 140015,
+  "possessionEffectId": 140015,
+  "evaluateConditionId": 140015
+ },
+ {
+  "version": "250330.1.0",
+  "id": 140016,
+  "possessionEffectId": 140016,
+  "evaluateConditionId": 140016
+ },
+ {
+  "version": "250330.1.0",
+  "id": 150011,
+  "possessionEffectId": 150011,
+  "evaluateConditionId": 150011
+ },
+ {
+  "version": "250330.1.0",
+  "id": 150012,
+  "possessionEffectId": 150012,
+  "evaluateConditionId": 150012
+ },
+ {
+  "version": "250330.1.0",
+  "id": 150013,
+  "possessionEffectId": 150013,
+  "evaluateConditionId": 150013
+ },
+ {
+  "version": "250330.1.0",
+  "id": 150014,
+  "possessionEffectId": 150014,
+  "evaluateConditionId": 150014
+ },
+ {
+  "version": "250330.1.0",
+  "id": 150015,
+  "possessionEffectId": 150015,
+  "evaluateConditionId": 150015
+ },
+ {
+  "version": "250330.1.0",
+  "id": 150016,
+  "possessionEffectId": 150016,
+  "evaluateConditionId": 150016
+ },
+ {
+  "version": "250330.1.0",
+  "id": 160011,
+  "possessionEffectId": 160011,
+  "evaluateConditionId": 160011
+ },
+ {
+  "version": "250330.1.0",
+  "id": 160012,
+  "possessionEffectId": 160012,
+  "evaluateConditionId": 160012
+ },
+ {
+  "version": "250330.1.0",
+  "id": 160013,
+  "possessionEffectId": 160013,
+  "evaluateConditionId": 160013
+ },
+ {
+  "version": "250330.1.0",
+  "id": 160014,
+  "possessionEffectId": 160014,
+  "evaluateConditionId": 160014
+ },
+ {
+  "version": "250330.1.0",
+  "id": 160015,
+  "possessionEffectId": 160015,
+  "evaluateConditionId": 160015
+ },
+ {
+  "version": "250330.1.0",
+  "id": 160016,
+  "possessionEffectId": 160016,
+  "evaluateConditionId": 160016
+ },
+ {
+  "version": "250330.1.0",
+  "id": 170011,
+  "possessionEffectId": 170011,
+  "evaluateConditionId": 170011
+ },
+ {
+  "version": "250330.1.0",
+  "id": 170012,
+  "possessionEffectId": 170012,
+  "evaluateConditionId": 170012
+ },
+ {
+  "version": "250330.1.0",
+  "id": 170013,
+  "possessionEffectId": 170013,
+  "evaluateConditionId": 170013
+ },
+ {
+  "version": "250330.1.0",
+  "id": 170014,
+  "possessionEffectId": 170014,
+  "evaluateConditionId": 170014
+ },
+ {
+  "version": "250330.1.0",
+  "id": 170015,
+  "possessionEffectId": 170015,
+  "evaluateConditionId": 170015
+ },
+ {
+  "version": "250330.1.0",
+  "id": 170016,
+  "possessionEffectId": 170016,
+  "evaluateConditionId": 170016
+ },
+ {
+  "version": "250330.1.0",
+  "id": 210011,
+  "possessionEffectId": 210011,
+  "evaluateConditionId": 210011
+ },
+ {
+  "version": "250330.1.0",
+  "id": 210012,
+  "possessionEffectId": 210012,
+  "evaluateConditionId": 210012
+ },
+ {
+  "version": "250330.1.0",
+  "id": 210013,
+  "possessionEffectId": 210013,
+  "evaluateConditionId": 210013
+ },
+ {
+  "version": "250330.1.0",
+  "id": 210014,
+  "possessionEffectId": 210014,
+  "evaluateConditionId": 210014
+ },
+ {
+  "version": "250330.1.0",
+  "id": 210015,
+  "possessionEffectId": 210015,
+  "evaluateConditionId": 210015
+ },
+ {
+  "version": "250330.1.0",
+  "id": 210016,
+  "possessionEffectId": 210016,
+  "evaluateConditionId": 210016
+ },
+ {
+  "version": "250330.1.0",
+  "id": 220011,
+  "possessionEffectId": 220011,
+  "evaluateConditionId": 220011
+ },
+ {
+  "version": "250330.1.0",
+  "id": 220012,
+  "possessionEffectId": 220012,
+  "evaluateConditionId": 220012
+ },
+ {
+  "version": "250330.1.0",
+  "id": 220013,
+  "possessionEffectId": 220013,
+  "evaluateConditionId": 220013
+ },
+ {
+  "version": "250330.1.0",
+  "id": 220014,
+  "possessionEffectId": 220014,
+  "evaluateConditionId": 220014
+ },
+ {
+  "version": "250330.1.0",
+  "id": 220015,
+  "possessionEffectId": 220015,
+  "evaluateConditionId": 220015
+ },
+ {
+  "version": "250330.1.0",
+  "id": 220016,
+  "possessionEffectId": 220016,
+  "evaluateConditionId": 220016
+ },
+ {
+  "version": "250330.1.0",
+  "id": 230011,
+  "possessionEffectId": 230011,
+  "evaluateConditionId": 230011
+ },
+ {
+  "version": "250330.1.0",
+  "id": 230012,
+  "possessionEffectId": 230012,
+  "evaluateConditionId": 230012
+ },
+ {
+  "version": "250330.1.0",
+  "id": 230013,
+  "possessionEffectId": 230013,
+  "evaluateConditionId": 230013
+ },
+ {
+  "version": "250330.1.0",
+  "id": 230014,
+  "possessionEffectId": 230014,
+  "evaluateConditionId": 230014
+ },
+ {
+  "version": "250330.1.0",
+  "id": 230015,
+  "possessionEffectId": 230015,
+  "evaluateConditionId": 230015
+ },
+ {
+  "version": "250330.1.0",
+  "id": 230016,
+  "possessionEffectId": 230016,
+  "evaluateConditionId": 230016
+ },
+ {
+  "version": "250330.1.0",
+  "id": 310011,
+  "possessionEffectId": 310011,
+  "evaluateConditionId": 310011
+ },
+ {
+  "version": "250330.1.0",
+  "id": 310012,
+  "possessionEffectId": 310012,
+  "evaluateConditionId": 310012
+ },
+ {
+  "version": "250330.1.0",
+  "id": 310013,
+  "possessionEffectId": 310013,
+  "evaluateConditionId": 310013
+ },
+ {
+  "version": "250330.1.0",
+  "id": 310014,
+  "possessionEffectId": 310014,
+  "evaluateConditionId": 310014
+ },
+ {
+  "version": "250330.1.0",
+  "id": 310015,
+  "possessionEffectId": 310015,
+  "evaluateConditionId": 310015
+ },
+ {
+  "version": "250330.1.0",
+  "id": 310016,
+  "possessionEffectId": 310016,
+  "evaluateConditionId": 310016
+ },
+ {
+  "version": "250330.1.0",
+  "id": 320011,
+  "possessionEffectId": 320011,
+  "evaluateConditionId": 320011
+ },
+ {
+  "version": "250330.1.0",
+  "id": 320012,
+  "possessionEffectId": 320012,
+  "evaluateConditionId": 320012
+ },
+ {
+  "version": "250330.1.0",
+  "id": 320013,
+  "possessionEffectId": 320013,
+  "evaluateConditionId": 320013
+ },
+ {
+  "version": "250330.1.0",
+  "id": 320014,
+  "possessionEffectId": 320014,
+  "evaluateConditionId": 320014
+ },
+ {
+  "version": "250330.1.0",
+  "id": 320015,
+  "possessionEffectId": 320015,
+  "evaluateConditionId": 320015
+ },
+ {
+  "version": "250330.1.0",
+  "id": 320016,
+  "possessionEffectId": 320016,
+  "evaluateConditionId": 320016
+ },
+ {
+  "version": "250330.1.0",
+  "id": 330011,
+  "possessionEffectId": 330011,
+  "evaluateConditionId": 330011
+ },
+ {
+  "version": "250330.1.0",
+  "id": 330012,
+  "possessionEffectId": 330012,
+  "evaluateConditionId": 330012
+ },
+ {
+  "version": "250330.1.0",
+  "id": 330013,
+  "possessionEffectId": 330013,
+  "evaluateConditionId": 330013
+ },
+ {
+  "version": "250330.1.0",
+  "id": 330014,
+  "possessionEffectId": 330014,
+  "evaluateConditionId": 330014
+ },
+ {
+  "version": "250330.1.0",
+  "id": 330015,
+  "possessionEffectId": 330015,
+  "evaluateConditionId": 330015
+ },
+ {
+  "version": "250330.1.0",
+  "id": 330016,
+  "possessionEffectId": 330016,
+  "evaluateConditionId": 330016
+ },
+ {
+  "version": "250410.1.0",
+  "id": 340011,
+  "possessionEffectId": 340011,
+  "evaluateConditionId": 340011
+ },
+ {
+  "version": "250410.1.0",
+  "id": 340012,
+  "possessionEffectId": 340012,
+  "evaluateConditionId": 340012
+ },
+ {
+  "version": "250410.1.0",
+  "id": 340013,
+  "possessionEffectId": 340013,
+  "evaluateConditionId": 340013
+ },
+ {
+  "version": "250410.1.0",
+  "id": 340014,
+  "possessionEffectId": 340014,
+  "evaluateConditionId": 340014
+ },
+ {
+  "version": "250410.1.0",
+  "id": 340015,
+  "possessionEffectId": 340015,
+  "evaluateConditionId": 340015
+ },
+ {
+  "version": "250410.1.0",
+  "id": 340016,
+  "possessionEffectId": 340016,
+  "evaluateConditionId": 340016
+ },
+ {
+  "version": "250350.1.0",
+  "id": 350011,
+  "possessionEffectId": 350011,
+  "evaluateConditionId": 350011
+ },
+ {
+  "version": "250350.1.0",
+  "id": 350012,
+  "possessionEffectId": 350012,
+  "evaluateConditionId": 350012
+ },
+ {
+  "version": "250350.1.0",
+  "id": 350013,
+  "possessionEffectId": 350013,
+  "evaluateConditionId": 350013
+ },
+ {
+  "version": "250350.1.0",
+  "id": 350014,
+  "possessionEffectId": 350014,
+  "evaluateConditionId": 350014
+ },
+ {
+  "version": "250350.1.0",
+  "id": 350015,
+  "possessionEffectId": 350015,
+  "evaluateConditionId": 350015
+ },
+ {
+  "version": "250350.1.0",
+  "id": 350016,
+  "possessionEffectId": 350016,
+  "evaluateConditionId": 350016
+ },
+ {
+  "version": "250350.1.0",
+  "id": 360011,
+  "possessionEffectId": 360011,
+  "evaluateConditionId": 360011
+ },
+ {
+  "version": "250350.1.0",
+  "id": 360012,
+  "possessionEffectId": 360012,
+  "evaluateConditionId": 360012
+ },
+ {
+  "version": "250350.1.0",
+  "id": 360013,
+  "possessionEffectId": 360013,
+  "evaluateConditionId": 360013
+ },
+ {
+  "version": "250350.1.0",
+  "id": 360014,
+  "possessionEffectId": 360014,
+  "evaluateConditionId": 360014
+ },
+ {
+  "version": "250350.1.0",
+  "id": 360015,
+  "possessionEffectId": 360015,
+  "evaluateConditionId": 360015
+ },
+ {
+  "version": "250350.1.0",
+  "id": 360016,
+  "possessionEffectId": 360016,
+  "evaluateConditionId": 360016
+ },
+ {
+  "version": "250410.1.0",
+  "id": 370011,
+  "possessionEffectId": 370011,
+  "evaluateConditionId": 370011
+ },
+ {
+  "version": "250410.1.0",
+  "id": 370012,
+  "possessionEffectId": 370012,
+  "evaluateConditionId": 370012
+ },
+ {
+  "version": "250410.1.0",
+  "id": 370013,
+  "possessionEffectId": 370013,
+  "evaluateConditionId": 370013
+ },
+ {
+  "version": "250410.1.0",
+  "id": 370014,
+  "possessionEffectId": 370014,
+  "evaluateConditionId": 370014
+ },
+ {
+  "version": "250410.1.0",
+  "id": 370015,
+  "possessionEffectId": 370015,
+  "evaluateConditionId": 370015
+ },
+ {
+  "version": "250410.1.0",
+  "id": 370016,
+  "possessionEffectId": 370016,
+  "evaluateConditionId": 370016
+ },
+ {
+  "version": "250440.1.0",
+  "id": 310021,
+  "possessionEffectId": 310021,
+  "evaluateConditionId": 310021
+ },
+ {
+  "version": "250440.1.0",
+  "id": 310022,
+  "possessionEffectId": 310022,
+  "evaluateConditionId": 310022
+ },
+ {
+  "version": "250440.1.0",
+  "id": 310023,
+  "possessionEffectId": 310023,
+  "evaluateConditionId": 310023
+ },
+ {
+  "version": "250440.1.0",
+  "id": 310024,
+  "possessionEffectId": 310024,
+  "evaluateConditionId": 310024
+ },
+ {
+  "version": "250440.1.0",
+  "id": 310025,
+  "possessionEffectId": 310025,
+  "evaluateConditionId": 310025
+ },
+ {
+  "version": "250440.1.0",
+  "id": 310026,
+  "possessionEffectId": 310016,
+  "evaluateConditionId": 310026
+ },
+ {
+  "version": "250440.1.0",
+  "id": 320021,
+  "possessionEffectId": 320021,
+  "evaluateConditionId": 320021
+ },
+ {
+  "version": "250440.1.0",
+  "id": 320022,
+  "possessionEffectId": 320022,
+  "evaluateConditionId": 320022
+ },
+ {
+  "version": "250440.1.0",
+  "id": 320023,
+  "possessionEffectId": 320023,
+  "evaluateConditionId": 320023
+ },
+ {
+  "version": "250440.1.0",
+  "id": 320024,
+  "possessionEffectId": 320024,
+  "evaluateConditionId": 320024
+ },
+ {
+  "version": "250440.1.0",
+  "id": 320025,
+  "possessionEffectId": 320025,
+  "evaluateConditionId": 320025
+ },
+ {
+  "version": "250440.1.0",
+  "id": 320026,
+  "possessionEffectId": 320016,
+  "evaluateConditionId": 320026
+ },
+ {
+  "version": "250450.1.0",
+  "id": 330021,
+  "possessionEffectId": 330021,
+  "evaluateConditionId": 330021
+ },
+ {
+  "version": "250450.1.0",
+  "id": 330022,
+  "possessionEffectId": 330022,
+  "evaluateConditionId": 330022
+ },
+ {
+  "version": "250450.1.0",
+  "id": 330023,
+  "possessionEffectId": 330023,
+  "evaluateConditionId": 330023
+ },
+ {
+  "version": "250450.1.0",
+  "id": 330024,
+  "possessionEffectId": 330024,
+  "evaluateConditionId": 330024
+ },
+ {
+  "version": "250450.1.0",
+  "id": 330025,
+  "possessionEffectId": 330025,
+  "evaluateConditionId": 330025
+ },
+ {
+  "version": "250450.1.0",
+  "id": 330026,
+  "possessionEffectId": 330016,
+  "evaluateConditionId": 330026
+ },
+ {
+  "version": "250440.1.0",
+  "id": 340021,
+  "possessionEffectId": 340021,
+  "evaluateConditionId": 340021
+ },
+ {
+  "version": "250440.1.0",
+  "id": 340022,
+  "possessionEffectId": 340022,
+  "evaluateConditionId": 340022
+ },
+ {
+  "version": "250440.1.0",
+  "id": 340023,
+  "possessionEffectId": 340023,
+  "evaluateConditionId": 340023
+ },
+ {
+  "version": "250440.1.0",
+  "id": 340024,
+  "possessionEffectId": 340024,
+  "evaluateConditionId": 340024
+ },
+ {
+  "version": "250440.1.0",
+  "id": 340025,
+  "possessionEffectId": 340025,
+  "evaluateConditionId": 340025
+ },
+ {
+  "version": "250440.1.0",
+  "id": 340026,
+  "possessionEffectId": 340016,
+  "evaluateConditionId": 340026
+ },
+ {
+  "version": "250450.1.0",
+  "id": 350021,
+  "possessionEffectId": 350021,
+  "evaluateConditionId": 350021
+ },
+ {
+  "version": "250450.1.0",
+  "id": 350022,
+  "possessionEffectId": 350022,
+  "evaluateConditionId": 350022
+ },
+ {
+  "version": "250450.1.0",
+  "id": 350023,
+  "possessionEffectId": 350023,
+  "evaluateConditionId": 350023
+ },
+ {
+  "version": "250450.1.0",
+  "id": 350024,
+  "possessionEffectId": 350024,
+  "evaluateConditionId": 350024
+ },
+ {
+  "version": "250450.1.0",
+  "id": 350025,
+  "possessionEffectId": 350025,
+  "evaluateConditionId": 350025
+ },
+ {
+  "version": "250450.1.0",
+  "id": 350026,
+  "possessionEffectId": 350016,
+  "evaluateConditionId": 350026
+ },
+ {
+  "version": "250450.1.0",
+  "id": 360021,
+  "possessionEffectId": 360021,
+  "evaluateConditionId": 360021
+ },
+ {
+  "version": "250450.1.0",
+  "id": 360022,
+  "possessionEffectId": 360022,
+  "evaluateConditionId": 360022
+ },
+ {
+  "version": "250450.1.0",
+  "id": 360023,
+  "possessionEffectId": 360023,
+  "evaluateConditionId": 360023
+ },
+ {
+  "version": "250450.1.0",
+  "id": 360024,
+  "possessionEffectId": 360024,
+  "evaluateConditionId": 360024
+ },
+ {
+  "version": "250450.1.0",
+  "id": 360025,
+  "possessionEffectId": 360025,
+  "evaluateConditionId": 360025
+ },
+ {
+  "version": "250450.1.0",
+  "id": 360026,
+  "possessionEffectId": 360016,
+  "evaluateConditionId": 360026
+ },
+ {
+  "version": "250440.1.0",
+  "id": 370021,
+  "possessionEffectId": 370021,
+  "evaluateConditionId": 370021
+ },
+ {
+  "version": "250440.1.0",
+  "id": 370022,
+  "possessionEffectId": 370022,
+  "evaluateConditionId": 370022
+ },
+ {
+  "version": "250440.1.0",
+  "id": 370023,
+  "possessionEffectId": 370023,
+  "evaluateConditionId": 370023
+ },
+ {
+  "version": "250440.1.0",
+  "id": 370024,
+  "possessionEffectId": 370024,
+  "evaluateConditionId": 370024
+ },
+ {
+  "version": "250440.1.0",
+  "id": 370025,
+  "possessionEffectId": 370025,
+  "evaluateConditionId": 370025
+ },
+ {
+  "version": "250440.1.0",
+  "id": 370026,
+  "possessionEffectId": 370016,
+  "evaluateConditionId": 370026
+ },
+ {
+  "version": "250530.1.0",
+  "id": 310031,
+  "possessionEffectId": 310031,
+  "evaluateConditionId": 310031
+ },
+ {
+  "version": "250530.1.0",
+  "id": 310032,
+  "possessionEffectId": 310032,
+  "evaluateConditionId": 310032
+ },
+ {
+  "version": "250530.1.0",
+  "id": 310033,
+  "possessionEffectId": 310033,
+  "evaluateConditionId": 310033
+ },
+ {
+  "version": "250530.1.0",
+  "id": 310034,
+  "possessionEffectId": 310034,
+  "evaluateConditionId": 310034
+ },
+ {
+  "version": "250530.1.0",
+  "id": 310035,
+  "possessionEffectId": 310035,
+  "evaluateConditionId": 310035
+ },
+ {
+  "version": "250530.1.0",
+  "id": 310036,
+  "possessionEffectId": 310016,
+  "evaluateConditionId": 310036
+ },
+ {
+  "version": "250550.1.0",
+  "id": 320031,
+  "possessionEffectId": 320031,
+  "evaluateConditionId": 320031
+ },
+ {
+  "version": "250550.1.0",
+  "id": 320032,
+  "possessionEffectId": 320032,
+  "evaluateConditionId": 320032
+ },
+ {
+  "version": "250550.1.0",
+  "id": 320033,
+  "possessionEffectId": 320033,
+  "evaluateConditionId": 320033
+ },
+ {
+  "version": "250550.1.0",
+  "id": 320034,
+  "possessionEffectId": 320034,
+  "evaluateConditionId": 320034
+ },
+ {
+  "version": "250550.1.0",
+  "id": 320035,
+  "possessionEffectId": 320035,
+  "evaluateConditionId": 320035
+ },
+ {
+  "version": "250550.1.0",
+  "id": 320036,
+  "possessionEffectId": 320016,
+  "evaluateConditionId": 320036
+ },
+ {
+  "version": "250530.1.0",
+  "id": 330031,
+  "possessionEffectId": 330031,
+  "evaluateConditionId": 330031
+ },
+ {
+  "version": "250530.1.0",
+  "id": 330032,
+  "possessionEffectId": 330032,
+  "evaluateConditionId": 330032
+ },
+ {
+  "version": "250530.1.0",
+  "id": 330033,
+  "possessionEffectId": 330033,
+  "evaluateConditionId": 330033
+ },
+ {
+  "version": "250530.1.0",
+  "id": 330034,
+  "possessionEffectId": 330034,
+  "evaluateConditionId": 330034
+ },
+ {
+  "version": "250530.1.0",
+  "id": 330035,
+  "possessionEffectId": 330035,
+  "evaluateConditionId": 330035
+ },
+ {
+  "version": "250530.1.0",
+  "id": 330036,
+  "possessionEffectId": 330016,
+  "evaluateConditionId": 330036
+ },
+ {
+  "version": "250550.1.0",
+  "id": 340031,
+  "possessionEffectId": 340031,
+  "evaluateConditionId": 340031
+ },
+ {
+  "version": "250550.1.0",
+  "id": 340032,
+  "possessionEffectId": 340032,
+  "evaluateConditionId": 340032
+ },
+ {
+  "version": "250550.1.0",
+  "id": 340033,
+  "possessionEffectId": 340033,
+  "evaluateConditionId": 340033
+ },
+ {
+  "version": "250550.1.0",
+  "id": 340034,
+  "possessionEffectId": 340034,
+  "evaluateConditionId": 340034
+ },
+ {
+  "version": "250550.1.0",
+  "id": 340035,
+  "possessionEffectId": 340035,
+  "evaluateConditionId": 340035
+ },
+ {
+  "version": "250550.1.0",
+  "id": 340036,
+  "possessionEffectId": 340016,
+  "evaluateConditionId": 340036
+ },
+ {
+  "version": "250550.1.0",
+  "id": 350031,
+  "possessionEffectId": 350031,
+  "evaluateConditionId": 350031
+ },
+ {
+  "version": "250550.1.0",
+  "id": 350032,
+  "possessionEffectId": 350032,
+  "evaluateConditionId": 350032
+ },
+ {
+  "version": "250550.1.0",
+  "id": 350033,
+  "possessionEffectId": 350033,
+  "evaluateConditionId": 350033
+ },
+ {
+  "version": "250550.1.0",
+  "id": 350034,
+  "possessionEffectId": 350034,
+  "evaluateConditionId": 350034
+ },
+ {
+  "version": "250550.1.0",
+  "id": 350035,
+  "possessionEffectId": 350035,
+  "evaluateConditionId": 350035
+ },
+ {
+  "version": "250550.1.0",
+  "id": 350036,
+  "possessionEffectId": 350016,
+  "evaluateConditionId": 350036
+ },
+ {
+  "version": "250530.1.0",
+  "id": 360031,
+  "possessionEffectId": 360031,
+  "evaluateConditionId": 360031
+ },
+ {
+  "version": "250530.1.0",
+  "id": 360032,
+  "possessionEffectId": 360032,
+  "evaluateConditionId": 360032
+ },
+ {
+  "version": "250530.1.0",
+  "id": 360033,
+  "possessionEffectId": 360033,
+  "evaluateConditionId": 360033
+ },
+ {
+  "version": "250530.1.0",
+  "id": 360034,
+  "possessionEffectId": 360034,
+  "evaluateConditionId": 360034
+ },
+ {
+  "version": "250530.1.0",
+  "id": 360035,
+  "possessionEffectId": 360035,
+  "evaluateConditionId": 360035
+ },
+ {
+  "version": "250530.1.0",
+  "id": 360036,
+  "possessionEffectId": 360016,
+  "evaluateConditionId": 360036
+ },
+ {
+  "version": "250530.1.0",
+  "id": 370031,
+  "possessionEffectId": 370031,
+  "evaluateConditionId": 370031
+ },
+ {
+  "version": "250530.1.0",
+  "id": 370032,
+  "possessionEffectId": 370032,
+  "evaluateConditionId": 370032
+ },
+ {
+  "version": "250530.1.0",
+  "id": 370033,
+  "possessionEffectId": 370033,
+  "evaluateConditionId": 370033
+ },
+ {
+  "version": "250530.1.0",
+  "id": 370034,
+  "possessionEffectId": 370034,
+  "evaluateConditionId": 370034
+ },
+ {
+  "version": "250530.1.0",
+  "id": 370035,
+  "possessionEffectId": 370035,
+  "evaluateConditionId": 370035
+ },
+ {
+  "version": "250530.1.0",
+  "id": 370036,
+  "possessionEffectId": 370016,
+  "evaluateConditionId": 370036
+ },
+ {
+  "version": "250610.1.0",
+  "id": 310041,
+  "possessionEffectId": 310041,
+  "evaluateConditionId": 310041
+ },
+ {
+  "version": "250610.1.0",
+  "id": 310042,
+  "possessionEffectId": 310042,
+  "evaluateConditionId": 310042
+ },
+ {
+  "version": "250610.1.0",
+  "id": 310043,
+  "possessionEffectId": 310043,
+  "evaluateConditionId": 310043
+ },
+ {
+  "version": "250610.1.0",
+  "id": 310044,
+  "possessionEffectId": 310044,
+  "evaluateConditionId": 310044
+ },
+ {
+  "version": "250610.1.0",
+  "id": 310045,
+  "possessionEffectId": 310045,
+  "evaluateConditionId": 310045
+ },
+ {
+  "version": "250610.1.0",
+  "id": 310046,
+  "possessionEffectId": 310016,
+  "evaluateConditionId": 310046
+ },
+ {
+  "version": "250610.1.0",
+  "id": 320041,
+  "possessionEffectId": 320041,
+  "evaluateConditionId": 320041
+ },
+ {
+  "version": "250610.1.0",
+  "id": 320042,
+  "possessionEffectId": 320042,
+  "evaluateConditionId": 320042
+ },
+ {
+  "version": "250610.1.0",
+  "id": 320043,
+  "possessionEffectId": 320043,
+  "evaluateConditionId": 320043
+ },
+ {
+  "version": "250610.1.0",
+  "id": 320044,
+  "possessionEffectId": 320044,
+  "evaluateConditionId": 320044
+ },
+ {
+  "version": "250610.1.0",
+  "id": 320045,
+  "possessionEffectId": 320045,
+  "evaluateConditionId": 320045
+ },
+ {
+  "version": "250610.1.0",
+  "id": 320046,
+  "possessionEffectId": 320016,
+  "evaluateConditionId": 320046
+ },
+ {
+  "version": "250630.1.0",
+  "id": 330041,
+  "possessionEffectId": 330041,
+  "evaluateConditionId": 330041
+ },
+ {
+  "version": "250630.1.0",
+  "id": 330042,
+  "possessionEffectId": 330042,
+  "evaluateConditionId": 330042
+ },
+ {
+  "version": "250630.1.0",
+  "id": 330043,
+  "possessionEffectId": 330043,
+  "evaluateConditionId": 330043
+ },
+ {
+  "version": "250630.1.0",
+  "id": 330044,
+  "possessionEffectId": 330044,
+  "evaluateConditionId": 330044
+ },
+ {
+  "version": "250630.1.0",
+  "id": 330045,
+  "possessionEffectId": 330045,
+  "evaluateConditionId": 330045
+ },
+ {
+  "version": "250630.1.0",
+  "id": 330046,
+  "possessionEffectId": 330016,
+  "evaluateConditionId": 330046
+ },
+ {
+  "version": "250610.1.0",
+  "id": 340041,
+  "possessionEffectId": 340041,
+  "evaluateConditionId": 340041
+ },
+ {
+  "version": "250610.1.0",
+  "id": 340042,
+  "possessionEffectId": 340042,
+  "evaluateConditionId": 340042
+ },
+ {
+  "version": "250610.1.0",
+  "id": 340043,
+  "possessionEffectId": 340043,
+  "evaluateConditionId": 340043
+ },
+ {
+  "version": "250610.1.0",
+  "id": 340044,
+  "possessionEffectId": 340044,
+  "evaluateConditionId": 340044
+ },
+ {
+  "version": "250610.1.0",
+  "id": 340045,
+  "possessionEffectId": 340045,
+  "evaluateConditionId": 340045
+ },
+ {
+  "version": "250610.1.0",
+  "id": 340046,
+  "possessionEffectId": 340016,
+  "evaluateConditionId": 340046
+ },
+ {
+  "version": "250630.1.0",
+  "id": 350041,
+  "possessionEffectId": 350041,
+  "evaluateConditionId": 350041
+ },
+ {
+  "version": "250630.1.0",
+  "id": 350042,
+  "possessionEffectId": 350042,
+  "evaluateConditionId": 350042
+ },
+ {
+  "version": "250630.1.0",
+  "id": 350043,
+  "possessionEffectId": 350043,
+  "evaluateConditionId": 350043
+ },
+ {
+  "version": "250630.1.0",
+  "id": 350044,
+  "possessionEffectId": 350044,
+  "evaluateConditionId": 350044
+ },
+ {
+  "version": "250630.1.0",
+  "id": 350045,
+  "possessionEffectId": 350045,
+  "evaluateConditionId": 350045
+ },
+ {
+  "version": "250630.1.0",
+  "id": 350046,
+  "possessionEffectId": 350016,
+  "evaluateConditionId": 350046
+ },
+ {
+  "version": "250610.1.0",
+  "id": 360041,
+  "possessionEffectId": 360041,
+  "evaluateConditionId": 360041
+ },
+ {
+  "version": "250610.1.0",
+  "id": 360042,
+  "possessionEffectId": 360042,
+  "evaluateConditionId": 360042
+ },
+ {
+  "version": "250610.1.0",
+  "id": 360043,
+  "possessionEffectId": 360043,
+  "evaluateConditionId": 360043
+ },
+ {
+  "version": "250610.1.0",
+  "id": 360044,
+  "possessionEffectId": 360044,
+  "evaluateConditionId": 360044
+ },
+ {
+  "version": "250610.1.0",
+  "id": 360045,
+  "possessionEffectId": 360045,
+  "evaluateConditionId": 360045
+ },
+ {
+  "version": "250610.1.0",
+  "id": 360046,
+  "possessionEffectId": 360016,
+  "evaluateConditionId": 360046
+ },
+ {
+  "version": "250630.1.0",
+  "id": 370041,
+  "possessionEffectId": 370041,
+  "evaluateConditionId": 370041
+ },
+ {
+  "version": "250630.1.0",
+  "id": 370042,
+  "possessionEffectId": 370042,
+  "evaluateConditionId": 370042
+ },
+ {
+  "version": "250630.1.0",
+  "id": 370043,
+  "possessionEffectId": 370043,
+  "evaluateConditionId": 370043
+ },
+ {
+  "version": "250630.1.0",
+  "id": 370044,
+  "possessionEffectId": 370044,
+  "evaluateConditionId": 370044
+ },
+ {
+  "version": "250630.1.0",
+  "id": 370045,
+  "possessionEffectId": 370045,
+  "evaluateConditionId": 370045
+ },
+ {
+  "version": "250630.1.0",
+  "id": 370046,
+  "possessionEffectId": 370016,
+  "evaluateConditionId": 370046
+ },
+ {
+  "version": "250710.1.0",
+  "id": 310051,
+  "possessionEffectId": 310051,
+  "evaluateConditionId": 310051
+ },
+ {
+  "version": "250710.1.0",
+  "id": 310052,
+  "possessionEffectId": 310052,
+  "evaluateConditionId": 310052
+ },
+ {
+  "version": "250710.1.0",
+  "id": 310053,
+  "possessionEffectId": 310053,
+  "evaluateConditionId": 310053
+ },
+ {
+  "version": "250710.1.0",
+  "id": 310054,
+  "possessionEffectId": 310054,
+  "evaluateConditionId": 310054
+ },
+ {
+  "version": "250710.1.0",
+  "id": 310055,
+  "possessionEffectId": 310055,
+  "evaluateConditionId": 310055
+ },
+ {
+  "version": "250710.1.0",
+  "id": 310056,
+  "possessionEffectId": 310016,
+  "evaluateConditionId": 310056
+ },
+ {
+  "version": "250730.1.0",
+  "id": 320051,
+  "possessionEffectId": 320051,
+  "evaluateConditionId": 320051
+ },
+ {
+  "version": "250730.1.0",
+  "id": 320052,
+  "possessionEffectId": 320052,
+  "evaluateConditionId": 320052
+ },
+ {
+  "version": "250730.1.0",
+  "id": 320053,
+  "possessionEffectId": 320053,
+  "evaluateConditionId": 320053
+ },
+ {
+  "version": "250730.1.0",
+  "id": 320054,
+  "possessionEffectId": 320054,
+  "evaluateConditionId": 320054
+ },
+ {
+  "version": "250730.1.0",
+  "id": 320055,
+  "possessionEffectId": 320055,
+  "evaluateConditionId": 320055
+ },
+ {
+  "version": "250730.1.0",
+  "id": 320056,
+  "possessionEffectId": 320016,
+  "evaluateConditionId": 320056
+ },
+ {
+  "version": "250710.1.0",
+  "id": 330051,
+  "possessionEffectId": 330051,
+  "evaluateConditionId": 330051
+ },
+ {
+  "version": "250710.1.0",
+  "id": 330052,
+  "possessionEffectId": 330052,
+  "evaluateConditionId": 330052
+ },
+ {
+  "version": "250710.1.0",
+  "id": 330053,
+  "possessionEffectId": 330053,
+  "evaluateConditionId": 330053
+ },
+ {
+  "version": "250710.1.0",
+  "id": 330054,
+  "possessionEffectId": 330054,
+  "evaluateConditionId": 330054
+ },
+ {
+  "version": "250710.1.0",
+  "id": 330055,
+  "possessionEffectId": 330055,
+  "evaluateConditionId": 330055
+ },
+ {
+  "version": "250710.1.0",
+  "id": 330056,
+  "possessionEffectId": 330016,
+  "evaluateConditionId": 330056
+ },
+ {
+  "version": "250730.1.0",
+  "id": 340051,
+  "possessionEffectId": 340051,
+  "evaluateConditionId": 340051
+ },
+ {
+  "version": "250730.1.0",
+  "id": 340052,
+  "possessionEffectId": 340052,
+  "evaluateConditionId": 340052
+ },
+ {
+  "version": "250730.1.0",
+  "id": 340053,
+  "possessionEffectId": 340053,
+  "evaluateConditionId": 340053
+ },
+ {
+  "version": "250730.1.0",
+  "id": 340054,
+  "possessionEffectId": 340054,
+  "evaluateConditionId": 340054
+ },
+ {
+  "version": "250730.1.0",
+  "id": 340055,
+  "possessionEffectId": 340055,
+  "evaluateConditionId": 340055
+ },
+ {
+  "version": "250730.1.0",
+  "id": 340056,
+  "possessionEffectId": 340016,
+  "evaluateConditionId": 340056
+ },
+ {
+  "version": "250710.1.0",
+  "id": 350051,
+  "possessionEffectId": 350051,
+  "evaluateConditionId": 350051
+ },
+ {
+  "version": "250710.1.0",
+  "id": 350052,
+  "possessionEffectId": 350052,
+  "evaluateConditionId": 350052
+ },
+ {
+  "version": "250710.1.0",
+  "id": 350053,
+  "possessionEffectId": 350053,
+  "evaluateConditionId": 350053
+ },
+ {
+  "version": "250710.1.0",
+  "id": 350054,
+  "possessionEffectId": 350054,
+  "evaluateConditionId": 350054
+ },
+ {
+  "version": "250710.1.0",
+  "id": 350055,
+  "possessionEffectId": 350055,
+  "evaluateConditionId": 350055
+ },
+ {
+  "version": "250710.1.0",
+  "id": 350056,
+  "possessionEffectId": 350016,
+  "evaluateConditionId": 350056
+ },
+ {
+  "version": "250730.1.0",
+  "id": 360051,
+  "possessionEffectId": 360051,
+  "evaluateConditionId": 360051
+ },
+ {
+  "version": "250730.1.0",
+  "id": 360052,
+  "possessionEffectId": 360052,
+  "evaluateConditionId": 360052
+ },
+ {
+  "version": "250730.1.0",
+  "id": 360053,
+  "possessionEffectId": 360053,
+  "evaluateConditionId": 360053
+ },
+ {
+  "version": "250730.1.0",
+  "id": 360054,
+  "possessionEffectId": 360054,
+  "evaluateConditionId": 360054
+ },
+ {
+  "version": "250730.1.0",
+  "id": 360055,
+  "possessionEffectId": 360055,
+  "evaluateConditionId": 360055
+ },
+ {
+  "version": "250730.1.0",
+  "id": 360056,
+  "possessionEffectId": 360016,
+  "evaluateConditionId": 360056
+ },
+ {
+  "version": "250710.1.0",
+  "id": 370051,
+  "possessionEffectId": 370051,
+  "evaluateConditionId": 370051
+ },
+ {
+  "version": "250710.1.0",
+  "id": 370052,
+  "possessionEffectId": 370052,
+  "evaluateConditionId": 370052
+ },
+ {
+  "version": "250710.1.0",
+  "id": 370053,
+  "possessionEffectId": 370053,
+  "evaluateConditionId": 370053
+ },
+ {
+  "version": "250710.1.0",
+  "id": 370054,
+  "possessionEffectId": 370054,
+  "evaluateConditionId": 370054
+ },
+ {
+  "version": "250710.1.0",
+  "id": 370055,
+  "possessionEffectId": 370055,
+  "evaluateConditionId": 370055
+ },
+ {
+  "version": "250710.1.0",
+  "id": 370056,
+  "possessionEffectId": 370016,
+  "evaluateConditionId": 370056
+ },
+ {
+  "version": "250810.1.0",
+  "id": 310061,
+  "possessionEffectId": 310061,
+  "evaluateConditionId": 310061
+ },
+ {
+  "version": "250810.1.0",
+  "id": 310062,
+  "possessionEffectId": 310062,
+  "evaluateConditionId": 310062
+ },
+ {
+  "version": "250810.1.0",
+  "id": 310063,
+  "possessionEffectId": 310063,
+  "evaluateConditionId": 310063
+ },
+ {
+  "version": "250810.1.0",
+  "id": 310064,
+  "possessionEffectId": 310064,
+  "evaluateConditionId": 310064
+ },
+ {
+  "version": "250810.1.0",
+  "id": 310065,
+  "possessionEffectId": 310065,
+  "evaluateConditionId": 310065
+ },
+ {
+  "version": "250810.1.0",
+  "id": 310066,
+  "possessionEffectId": 310016,
+  "evaluateConditionId": 310066
+ },
+ {
+  "version": "250810.1.0",
+  "id": 320061,
+  "possessionEffectId": 320061,
+  "evaluateConditionId": 320061
+ },
+ {
+  "version": "250810.1.0",
+  "id": 320062,
+  "possessionEffectId": 320062,
+  "evaluateConditionId": 320062
+ },
+ {
+  "version": "250810.1.0",
+  "id": 320063,
+  "possessionEffectId": 320063,
+  "evaluateConditionId": 320063
+ },
+ {
+  "version": "250810.1.0",
+  "id": 320064,
+  "possessionEffectId": 320064,
+  "evaluateConditionId": 320064
+ },
+ {
+  "version": "250810.1.0",
+  "id": 320065,
+  "possessionEffectId": 320065,
+  "evaluateConditionId": 320065
+ },
+ {
+  "version": "250810.1.0",
+  "id": 320066,
+  "possessionEffectId": 320016,
+  "evaluateConditionId": 320066
+ },
+ {
+  "version": "250820.1.0",
+  "id": 330061,
+  "possessionEffectId": 330061,
+  "evaluateConditionId": 330061
+ },
+ {
+  "version": "250820.1.0",
+  "id": 330062,
+  "possessionEffectId": 330062,
+  "evaluateConditionId": 330062
+ },
+ {
+  "version": "250820.1.0",
+  "id": 330063,
+  "possessionEffectId": 330063,
+  "evaluateConditionId": 330063
+ },
+ {
+  "version": "250820.1.0",
+  "id": 330064,
+  "possessionEffectId": 330064,
+  "evaluateConditionId": 330064
+ },
+ {
+  "version": "250820.1.0",
+  "id": 330065,
+  "possessionEffectId": 330065,
+  "evaluateConditionId": 330065
+ },
+ {
+  "version": "250820.1.0",
+  "id": 330066,
+  "possessionEffectId": 330016,
+  "evaluateConditionId": 330066
+ },
+ {
+  "version": "250820.1.0",
+  "id": 340061,
+  "possessionEffectId": 340061,
+  "evaluateConditionId": 340061
+ },
+ {
+  "version": "250820.1.0",
+  "id": 340062,
+  "possessionEffectId": 340062,
+  "evaluateConditionId": 340062
+ },
+ {
+  "version": "250820.1.0",
+  "id": 340063,
+  "possessionEffectId": 340063,
+  "evaluateConditionId": 340063
+ },
+ {
+  "version": "250820.1.0",
+  "id": 340064,
+  "possessionEffectId": 340064,
+  "evaluateConditionId": 340064
+ },
+ {
+  "version": "250820.1.0",
+  "id": 340065,
+  "possessionEffectId": 340065,
+  "evaluateConditionId": 340065
+ },
+ {
+  "version": "250820.1.0",
+  "id": 340066,
+  "possessionEffectId": 340016,
+  "evaluateConditionId": 340066
+ },
+ {
+  "version": "250820.1.0",
+  "id": 350061,
+  "possessionEffectId": 350061,
+  "evaluateConditionId": 350061
+ },
+ {
+  "version": "250820.1.0",
+  "id": 350062,
+  "possessionEffectId": 350062,
+  "evaluateConditionId": 350062
+ },
+ {
+  "version": "250820.1.0",
+  "id": 350063,
+  "possessionEffectId": 350063,
+  "evaluateConditionId": 350063
+ },
+ {
+  "version": "250820.1.0",
+  "id": 350064,
+  "possessionEffectId": 350064,
+  "evaluateConditionId": 350064
+ },
+ {
+  "version": "250820.1.0",
+  "id": 350065,
+  "possessionEffectId": 350065,
+  "evaluateConditionId": 350065
+ },
+ {
+  "version": "250820.1.0",
+  "id": 350066,
+  "possessionEffectId": 350016,
+  "evaluateConditionId": 350066
+ },
+ {
+  "version": "250810.1.0",
+  "id": 360061,
+  "possessionEffectId": 360061,
+  "evaluateConditionId": 360061
+ },
+ {
+  "version": "250810.1.0",
+  "id": 360062,
+  "possessionEffectId": 360062,
+  "evaluateConditionId": 360062
+ },
+ {
+  "version": "250810.1.0",
+  "id": 360063,
+  "possessionEffectId": 360063,
+  "evaluateConditionId": 360063
+ },
+ {
+  "version": "250810.1.0",
+  "id": 360064,
+  "possessionEffectId": 360064,
+  "evaluateConditionId": 360064
+ },
+ {
+  "version": "250810.1.0",
+  "id": 360065,
+  "possessionEffectId": 360065,
+  "evaluateConditionId": 360065
+ },
+ {
+  "version": "250810.1.0",
+  "id": 360066,
+  "possessionEffectId": 360016,
+  "evaluateConditionId": 360066
+ },
+ {
+  "version": "250810.1.0",
+  "id": 370061,
+  "possessionEffectId": 370061,
+  "evaluateConditionId": 370061
+ },
+ {
+  "version": "250810.1.0",
+  "id": 370062,
+  "possessionEffectId": 370062,
+  "evaluateConditionId": 370062
+ },
+ {
+  "version": "250810.1.0",
+  "id": 370063,
+  "possessionEffectId": 370063,
+  "evaluateConditionId": 370063
+ },
+ {
+  "version": "250810.1.0",
+  "id": 370064,
+  "possessionEffectId": 370064,
+  "evaluateConditionId": 370064
+ },
+ {
+  "version": "250810.1.0",
+  "id": 370065,
+  "possessionEffectId": 370065,
+  "evaluateConditionId": 370065
+ },
+ {
+  "version": "250810.1.0",
+  "id": 370066,
+  "possessionEffectId": 370016,
+  "evaluateConditionId": 370066
+ },
+ {
+  "version": "250910.1.0",
+  "id": 310071,
+  "possessionEffectId": 310071,
+  "evaluateConditionId": 310071
+ },
+ {
+  "version": "250910.1.0",
+  "id": 310072,
+  "possessionEffectId": 310072,
+  "evaluateConditionId": 310072
+ },
+ {
+  "version": "250910.1.0",
+  "id": 310073,
+  "possessionEffectId": 310073,
+  "evaluateConditionId": 310073
+ },
+ {
+  "version": "250910.1.0",
+  "id": 310074,
+  "possessionEffectId": 310074,
+  "evaluateConditionId": 310074
+ },
+ {
+  "version": "250910.1.0",
+  "id": 310075,
+  "possessionEffectId": 310075,
+  "evaluateConditionId": 310075
+ },
+ {
+  "version": "250910.1.0",
+  "id": 310076,
+  "possessionEffectId": 310016,
+  "evaluateConditionId": 310076
+ },
+ {
+  "version": "250930.1.0",
+  "id": 320071,
+  "possessionEffectId": 320071,
+  "evaluateConditionId": 320071
+ },
+ {
+  "version": "250930.1.0",
+  "id": 320072,
+  "possessionEffectId": 320072,
+  "evaluateConditionId": 320072
+ },
+ {
+  "version": "250930.1.0",
+  "id": 320073,
+  "possessionEffectId": 320073,
+  "evaluateConditionId": 320073
+ },
+ {
+  "version": "250930.1.0",
+  "id": 320074,
+  "possessionEffectId": 320074,
+  "evaluateConditionId": 320074
+ },
+ {
+  "version": "250930.1.0",
+  "id": 320075,
+  "possessionEffectId": 320075,
+  "evaluateConditionId": 320075
+ },
+ {
+  "version": "250930.1.0",
+  "id": 320076,
+  "possessionEffectId": 320016,
+  "evaluateConditionId": 320076
+ },
+ {
+  "version": "250910.1.0",
+  "id": 330071,
+  "possessionEffectId": 330071,
+  "evaluateConditionId": 330071
+ },
+ {
+  "version": "250910.1.0",
+  "id": 330072,
+  "possessionEffectId": 330072,
+  "evaluateConditionId": 330072
+ },
+ {
+  "version": "250910.1.0",
+  "id": 330073,
+  "possessionEffectId": 330073,
+  "evaluateConditionId": 330073
+ },
+ {
+  "version": "250910.1.0",
+  "id": 330074,
+  "possessionEffectId": 330074,
+  "evaluateConditionId": 330074
+ },
+ {
+  "version": "250910.1.0",
+  "id": 330075,
+  "possessionEffectId": 330075,
+  "evaluateConditionId": 330075
+ },
+ {
+  "version": "250910.1.0",
+  "id": 330076,
+  "possessionEffectId": 330016,
+  "evaluateConditionId": 330076
+ },
+ {
+  "version": "250910.1.0",
+  "id": 340071,
+  "possessionEffectId": 340071,
+  "evaluateConditionId": 340071
+ },
+ {
+  "version": "250910.1.0",
+  "id": 340072,
+  "possessionEffectId": 340072,
+  "evaluateConditionId": 340072
+ },
+ {
+  "version": "250910.1.0",
+  "id": 340073,
+  "possessionEffectId": 340073,
+  "evaluateConditionId": 340073
+ },
+ {
+  "version": "250910.1.0",
+  "id": 340074,
+  "possessionEffectId": 340074,
+  "evaluateConditionId": 340074
+ },
+ {
+  "version": "250910.1.0",
+  "id": 340075,
+  "possessionEffectId": 340075,
+  "evaluateConditionId": 340075
+ },
+ {
+  "version": "250910.1.0",
+  "id": 340076,
+  "possessionEffectId": 340016,
+  "evaluateConditionId": 340076
+ },
+ {
+  "version": "250930.1.0",
+  "id": 350071,
+  "possessionEffectId": 350071,
+  "evaluateConditionId": 350071
+ },
+ {
+  "version": "250930.1.0",
+  "id": 350072,
+  "possessionEffectId": 350072,
+  "evaluateConditionId": 350072
+ },
+ {
+  "version": "250930.1.0",
+  "id": 350073,
+  "possessionEffectId": 350073,
+  "evaluateConditionId": 350073
+ },
+ {
+  "version": "250930.1.0",
+  "id": 350074,
+  "possessionEffectId": 350074,
+  "evaluateConditionId": 350074
+ },
+ {
+  "version": "250930.1.0",
+  "id": 350075,
+  "possessionEffectId": 350075,
+  "evaluateConditionId": 350075
+ },
+ {
+  "version": "250930.1.0",
+  "id": 350076,
+  "possessionEffectId": 350016,
+  "evaluateConditionId": 350076
+ },
+ {
+  "version": "250930.1.0",
+  "id": 360071,
+  "possessionEffectId": 360071,
+  "evaluateConditionId": 360071
+ },
+ {
+  "version": "250930.1.0",
+  "id": 360072,
+  "possessionEffectId": 360072,
+  "evaluateConditionId": 360072
+ },
+ {
+  "version": "250930.1.0",
+  "id": 360073,
+  "possessionEffectId": 360073,
+  "evaluateConditionId": 360073
+ },
+ {
+  "version": "250930.1.0",
+  "id": 360074,
+  "possessionEffectId": 360074,
+  "evaluateConditionId": 360074
+ },
+ {
+  "version": "250930.1.0",
+  "id": 360075,
+  "possessionEffectId": 360075,
+  "evaluateConditionId": 360075
+ },
+ {
+  "version": "250930.1.0",
+  "id": 360076,
+  "possessionEffectId": 360016,
+  "evaluateConditionId": 360076
+ },
+ {
+  "version": "250910.1.0",
+  "id": 370071,
+  "possessionEffectId": 370071,
+  "evaluateConditionId": 370071
+ },
+ {
+  "version": "250910.1.0",
+  "id": 370072,
+  "possessionEffectId": 370072,
+  "evaluateConditionId": 370072
+ },
+ {
+  "version": "250910.1.0",
+  "id": 370073,
+  "possessionEffectId": 370073,
+  "evaluateConditionId": 370073
+ },
+ {
+  "version": "250910.1.0",
+  "id": 370074,
+  "possessionEffectId": 370074,
+  "evaluateConditionId": 370074
+ },
+ {
+  "version": "250910.1.0",
+  "id": 370075,
+  "possessionEffectId": 370075,
+  "evaluateConditionId": 370075
+ },
+ {
+  "version": "250910.1.0",
+  "id": 370076,
+  "possessionEffectId": 370016,
+  "evaluateConditionId": 370076
+ },
+ {
+  "version": "251010.1.0",
+  "id": 310081,
+  "possessionEffectId": 310081,
+  "evaluateConditionId": 310081
+ },
+ {
+  "version": "251010.1.0",
+  "id": 310082,
+  "possessionEffectId": 310082,
+  "evaluateConditionId": 310082
+ },
+ {
+  "version": "251010.1.0",
+  "id": 310083,
+  "possessionEffectId": 310083,
+  "evaluateConditionId": 310083
+ },
+ {
+  "version": "251010.1.0",
+  "id": 310084,
+  "possessionEffectId": 310084,
+  "evaluateConditionId": 310084
+ },
+ {
+  "version": "251010.1.0",
+  "id": 310085,
+  "possessionEffectId": 310085,
+  "evaluateConditionId": 310085
+ },
+ {
+  "version": "251010.1.0",
+  "id": 310086,
+  "possessionEffectId": 310016,
+  "evaluateConditionId": 310086
+ },
+ {
+  "version": "251010.1.0",
+  "id": 320081,
+  "possessionEffectId": 320081,
+  "evaluateConditionId": 320081
+ },
+ {
+  "version": "251010.1.0",
+  "id": 320082,
+  "possessionEffectId": 320082,
+  "evaluateConditionId": 320082
+ },
+ {
+  "version": "251010.1.0",
+  "id": 320083,
+  "possessionEffectId": 320083,
+  "evaluateConditionId": 320083
+ },
+ {
+  "version": "251010.1.0",
+  "id": 320084,
+  "possessionEffectId": 320084,
+  "evaluateConditionId": 320084
+ },
+ {
+  "version": "251010.1.0",
+  "id": 320085,
+  "possessionEffectId": 320085,
+  "evaluateConditionId": 320085
+ },
+ {
+  "version": "251010.1.0",
+  "id": 320086,
+  "possessionEffectId": 320016,
+  "evaluateConditionId": 320086
+ },
+ {
+  "version": "251020.1.0",
+  "id": 330081,
+  "possessionEffectId": 330081,
+  "evaluateConditionId": 330081
+ },
+ {
+  "version": "251020.1.0",
+  "id": 330082,
+  "possessionEffectId": 330082,
+  "evaluateConditionId": 330082
+ },
+ {
+  "version": "251020.1.0",
+  "id": 330083,
+  "possessionEffectId": 330083,
+  "evaluateConditionId": 330083
+ },
+ {
+  "version": "251020.1.0",
+  "id": 330084,
+  "possessionEffectId": 330084,
+  "evaluateConditionId": 330084
+ },
+ {
+  "version": "251020.1.0",
+  "id": 330085,
+  "possessionEffectId": 330085,
+  "evaluateConditionId": 330085
+ },
+ {
+  "version": "251020.1.0",
+  "id": 330086,
+  "possessionEffectId": 330016,
+  "evaluateConditionId": 330086
+ },
+ {
+  "version": "251020.1.0",
+  "id": 340081,
+  "possessionEffectId": 340081,
+  "evaluateConditionId": 340081
+ },
+ {
+  "version": "251020.1.0",
+  "id": 340082,
+  "possessionEffectId": 340082,
+  "evaluateConditionId": 340082
+ },
+ {
+  "version": "251020.1.0",
+  "id": 340083,
+  "possessionEffectId": 340083,
+  "evaluateConditionId": 340083
+ },
+ {
+  "version": "251020.1.0",
+  "id": 340084,
+  "possessionEffectId": 340084,
+  "evaluateConditionId": 340084
+ },
+ {
+  "version": "251020.1.0",
+  "id": 340085,
+  "possessionEffectId": 340085,
+  "evaluateConditionId": 340085
+ },
+ {
+  "version": "251020.1.0",
+  "id": 340086,
+  "possessionEffectId": 340016,
+  "evaluateConditionId": 340086
+ },
+ {
+  "version": "251020.1.0",
+  "id": 350081,
+  "possessionEffectId": 350081,
+  "evaluateConditionId": 350081
+ },
+ {
+  "version": "251020.1.0",
+  "id": 350082,
+  "possessionEffectId": 350082,
+  "evaluateConditionId": 350082
+ },
+ {
+  "version": "251020.1.0",
+  "id": 350083,
+  "possessionEffectId": 350083,
+  "evaluateConditionId": 350083
+ },
+ {
+  "version": "251020.1.0",
+  "id": 350084,
+  "possessionEffectId": 350084,
+  "evaluateConditionId": 350084
+ },
+ {
+  "version": "251020.1.0",
+  "id": 350085,
+  "possessionEffectId": 350085,
+  "evaluateConditionId": 350085
+ },
+ {
+  "version": "251020.1.0",
+  "id": 350086,
+  "possessionEffectId": 350016,
+  "evaluateConditionId": 350086
+ },
+ {
+  "version": "251010.1.0",
+  "id": 360081,
+  "possessionEffectId": 360081,
+  "evaluateConditionId": 360081
+ },
+ {
+  "version": "251010.1.0",
+  "id": 360082,
+  "possessionEffectId": 360082,
+  "evaluateConditionId": 360082
+ },
+ {
+  "version": "251010.1.0",
+  "id": 360083,
+  "possessionEffectId": 360083,
+  "evaluateConditionId": 360083
+ },
+ {
+  "version": "251010.1.0",
+  "id": 360084,
+  "possessionEffectId": 360084,
+  "evaluateConditionId": 360084
+ },
+ {
+  "version": "251010.1.0",
+  "id": 360085,
+  "possessionEffectId": 360085,
+  "evaluateConditionId": 360085
+ },
+ {
+  "version": "251010.1.0",
+  "id": 360086,
+  "possessionEffectId": 360016,
+  "evaluateConditionId": 360086
+ },
+ {
+  "version": "251010.1.0",
+  "id": 370081,
+  "possessionEffectId": 370081,
+  "evaluateConditionId": 370081
+ },
+ {
+  "version": "251010.1.0",
+  "id": 370082,
+  "possessionEffectId": 370082,
+  "evaluateConditionId": 370082
+ },
+ {
+  "version": "251010.1.0",
+  "id": 370083,
+  "possessionEffectId": 370083,
+  "evaluateConditionId": 370083
+ },
+ {
+  "version": "251010.1.0",
+  "id": 370084,
+  "possessionEffectId": 370084,
+  "evaluateConditionId": 370084
+ },
+ {
+  "version": "251010.1.0",
+  "id": 370085,
+  "possessionEffectId": 370085,
+  "evaluateConditionId": 370085
+ },
+ {
+  "version": "251010.1.0",
+  "id": 370086,
+  "possessionEffectId": 370016,
+  "evaluateConditionId": 370086
+ },
+ {
+  "version": "251010.1.0",
+  "id": 210021,
+  "possessionEffectId": 210021,
+  "evaluateConditionId": 210021
+ },
+ {
+  "version": "251010.1.0",
+  "id": 210022,
+  "possessionEffectId": 210022,
+  "evaluateConditionId": 210022
+ },
+ {
+  "version": "251010.1.0",
+  "id": 210023,
+  "possessionEffectId": 210023,
+  "evaluateConditionId": 210023
+ },
+ {
+  "version": "251010.1.0",
+  "id": 210024,
+  "possessionEffectId": 210024,
+  "evaluateConditionId": 210024
+ },
+ {
+  "version": "251010.1.0",
+  "id": 210025,
+  "possessionEffectId": 210025,
+  "evaluateConditionId": 210025
+ },
+ {
+  "version": "251010.1.0",
+  "id": 210026,
+  "possessionEffectId": 210016,
+  "evaluateConditionId": 210026
+ },
+ {
+  "version": "251010.1.0",
+  "id": 220021,
+  "possessionEffectId": 220021,
+  "evaluateConditionId": 220021
+ },
+ {
+  "version": "251010.1.0",
+  "id": 220022,
+  "possessionEffectId": 220022,
+  "evaluateConditionId": 220022
+ },
+ {
+  "version": "251010.1.0",
+  "id": 220023,
+  "possessionEffectId": 220023,
+  "evaluateConditionId": 220023
+ },
+ {
+  "version": "251010.1.0",
+  "id": 220024,
+  "possessionEffectId": 220024,
+  "evaluateConditionId": 220024
+ },
+ {
+  "version": "251010.1.0",
+  "id": 220025,
+  "possessionEffectId": 220025,
+  "evaluateConditionId": 220025
+ },
+ {
+  "version": "251010.1.0",
+  "id": 220026,
+  "possessionEffectId": 210016,
+  "evaluateConditionId": 220026
+ },
+ {
+  "version": "251010.1.0",
+  "id": 230021,
+  "possessionEffectId": 230021,
+  "evaluateConditionId": 230021
+ },
+ {
+  "version": "251010.1.0",
+  "id": 230022,
+  "possessionEffectId": 230022,
+  "evaluateConditionId": 230022
+ },
+ {
+  "version": "251010.1.0",
+  "id": 230023,
+  "possessionEffectId": 230023,
+  "evaluateConditionId": 230023
+ },
+ {
+  "version": "251010.1.0",
+  "id": 230024,
+  "possessionEffectId": 230024,
+  "evaluateConditionId": 230024
+ },
+ {
+  "version": "251010.1.0",
+  "id": 230025,
+  "possessionEffectId": 230025,
+  "evaluateConditionId": 230025
+ },
+ {
+  "version": "251010.1.0",
+  "id": 230026,
+  "possessionEffectId": 210016,
+  "evaluateConditionId": 230026
+ },
+ {
+  "version": "251030.1.0",
+  "id": 310091,
+  "possessionEffectId": 310091,
+  "evaluateConditionId": 310091
+ },
+ {
+  "version": "251030.1.0",
+  "id": 310092,
+  "possessionEffectId": 310092,
+  "evaluateConditionId": 310092
+ },
+ {
+  "version": "251030.1.0",
+  "id": 310093,
+  "possessionEffectId": 310093,
+  "evaluateConditionId": 310093
+ },
+ {
+  "version": "251030.1.0",
+  "id": 310094,
+  "possessionEffectId": 310094,
+  "evaluateConditionId": 310094
+ },
+ {
+  "version": "251030.1.0",
+  "id": 310095,
+  "possessionEffectId": 310095,
+  "evaluateConditionId": 310095
+ },
+ {
+  "version": "251030.1.0",
+  "id": 310096,
+  "possessionEffectId": 310016,
+  "evaluateConditionId": 310096
+ },
+ {
+  "version": "251110.1.0",
+  "id": 320091,
+  "possessionEffectId": 320091,
+  "evaluateConditionId": 320091
+ },
+ {
+  "version": "251110.1.0",
+  "id": 320092,
+  "possessionEffectId": 320092,
+  "evaluateConditionId": 320092
+ },
+ {
+  "version": "251110.1.0",
+  "id": 320093,
+  "possessionEffectId": 320093,
+  "evaluateConditionId": 320093
+ },
+ {
+  "version": "251110.1.0",
+  "id": 320094,
+  "possessionEffectId": 320094,
+  "evaluateConditionId": 320094
+ },
+ {
+  "version": "251110.1.0",
+  "id": 320095,
+  "possessionEffectId": 320095,
+  "evaluateConditionId": 320095
+ },
+ {
+  "version": "251110.1.0",
+  "id": 320096,
+  "possessionEffectId": 320016,
+  "evaluateConditionId": 320096
+ },
+ {
+  "version": "251030.1.0",
+  "id": 330091,
+  "possessionEffectId": 330091,
+  "evaluateConditionId": 330091
+ },
+ {
+  "version": "251030.1.0",
+  "id": 330092,
+  "possessionEffectId": 330092,
+  "evaluateConditionId": 330092
+ },
+ {
+  "version": "251030.1.0",
+  "id": 330093,
+  "possessionEffectId": 330093,
+  "evaluateConditionId": 330093
+ },
+ {
+  "version": "251030.1.0",
+  "id": 330094,
+  "possessionEffectId": 330094,
+  "evaluateConditionId": 330094
+ },
+ {
+  "version": "251030.1.0",
+  "id": 330095,
+  "possessionEffectId": 330095,
+  "evaluateConditionId": 330095
+ },
+ {
+  "version": "251030.1.0",
+  "id": 330096,
+  "possessionEffectId": 330016,
+  "evaluateConditionId": 330096
+ },
+ {
+  "version": "251110.1.0",
+  "id": 340091,
+  "possessionEffectId": 340091,
+  "evaluateConditionId": 340091
+ },
+ {
+  "version": "251110.1.0",
+  "id": 340092,
+  "possessionEffectId": 340092,
+  "evaluateConditionId": 340092
+ },
+ {
+  "version": "251110.1.0",
+  "id": 340093,
+  "possessionEffectId": 340093,
+  "evaluateConditionId": 340093
+ },
+ {
+  "version": "251110.1.0",
+  "id": 340094,
+  "possessionEffectId": 340094,
+  "evaluateConditionId": 340094
+ },
+ {
+  "version": "251110.1.0",
+  "id": 340095,
+  "possessionEffectId": 340095,
+  "evaluateConditionId": 340095
+ },
+ {
+  "version": "251110.1.0",
+  "id": 340096,
+  "possessionEffectId": 340016,
+  "evaluateConditionId": 340096
+ },
+ {
+  "version": "251110.1.0",
+  "id": 350091,
+  "possessionEffectId": 350091,
+  "evaluateConditionId": 350091
+ },
+ {
+  "version": "251110.1.0",
+  "id": 350092,
+  "possessionEffectId": 350092,
+  "evaluateConditionId": 350092
+ },
+ {
+  "version": "251110.1.0",
+  "id": 350093,
+  "possessionEffectId": 350093,
+  "evaluateConditionId": 350093
+ },
+ {
+  "version": "251110.1.0",
+  "id": 350094,
+  "possessionEffectId": 350094,
+  "evaluateConditionId": 350094
+ },
+ {
+  "version": "251110.1.0",
+  "id": 350095,
+  "possessionEffectId": 350095,
+  "evaluateConditionId": 350095
+ },
+ {
+  "version": "251110.1.0",
+  "id": 350096,
+  "possessionEffectId": 350016,
+  "evaluateConditionId": 350096
+ },
+ {
+  "version": "251030.1.0",
+  "id": 360091,
+  "possessionEffectId": 360091,
+  "evaluateConditionId": 360091
+ },
+ {
+  "version": "251030.1.0",
+  "id": 360092,
+  "possessionEffectId": 360092,
+  "evaluateConditionId": 360092
+ },
+ {
+  "version": "251030.1.0",
+  "id": 360093,
+  "possessionEffectId": 360093,
+  "evaluateConditionId": 360093
+ },
+ {
+  "version": "251030.1.0",
+  "id": 360094,
+  "possessionEffectId": 360094,
+  "evaluateConditionId": 360094
+ },
+ {
+  "version": "251030.1.0",
+  "id": 360095,
+  "possessionEffectId": 360095,
+  "evaluateConditionId": 360095
+ },
+ {
+  "version": "251030.1.0",
+  "id": 360096,
+  "possessionEffectId": 360016,
+  "evaluateConditionId": 360096
+ },
+ {
+  "version": "251030.1.0",
+  "id": 370091,
+  "possessionEffectId": 370091,
+  "evaluateConditionId": 370091
+ },
+ {
+  "version": "251030.1.0",
+  "id": 370092,
+  "possessionEffectId": 370092,
+  "evaluateConditionId": 370092
+ },
+ {
+  "version": "251030.1.0",
+  "id": 370093,
+  "possessionEffectId": 370093,
+  "evaluateConditionId": 370093
+ },
+ {
+  "version": "251030.1.0",
+  "id": 370094,
+  "possessionEffectId": 370094,
+  "evaluateConditionId": 370094
+ },
+ {
+  "version": "251030.1.0",
+  "id": 370095,
+  "possessionEffectId": 370095,
+  "evaluateConditionId": 370095
+ },
+ {
+  "version": "251030.1.0",
+  "id": 370096,
+  "possessionEffectId": 370016,
+  "evaluateConditionId": 370096
+ },
+ {
+  "version": "251210.1.0",
+  "id": 310101,
+  "possessionEffectId": 310101,
+  "evaluateConditionId": 310101
+ },
+ {
+  "version": "251210.1.0",
+  "id": 310102,
+  "possessionEffectId": 310102,
+  "evaluateConditionId": 310102
+ },
+ {
+  "version": "251210.1.0",
+  "id": 310103,
+  "possessionEffectId": 310103,
+  "evaluateConditionId": 310103
+ },
+ {
+  "version": "251210.1.0",
+  "id": 310104,
+  "possessionEffectId": 310104,
+  "evaluateConditionId": 310104
+ },
+ {
+  "version": "251210.1.0",
+  "id": 310105,
+  "possessionEffectId": 310105,
+  "evaluateConditionId": 310105
+ },
+ {
+  "version": "251210.1.0",
+  "id": 310106,
+  "possessionEffectId": 310016,
+  "evaluateConditionId": 310106
+ },
+ {
+  "version": "251210.1.0",
+  "id": 320101,
+  "possessionEffectId": 320101,
+  "evaluateConditionId": 320101
+ },
+ {
+  "version": "251210.1.0",
+  "id": 320102,
+  "possessionEffectId": 320102,
+  "evaluateConditionId": 320102
+ },
+ {
+  "version": "251210.1.0",
+  "id": 320103,
+  "possessionEffectId": 320103,
+  "evaluateConditionId": 320103
+ },
+ {
+  "version": "251210.1.0",
+  "id": 320104,
+  "possessionEffectId": 320104,
+  "evaluateConditionId": 320104
+ },
+ {
+  "version": "251210.1.0",
+  "id": 320105,
+  "possessionEffectId": 320105,
+  "evaluateConditionId": 320105
+ },
+ {
+  "version": "251210.1.0",
+  "id": 320106,
+  "possessionEffectId": 320016,
+  "evaluateConditionId": 320106
+ },
+ {
+  "version": "251230.1.0",
+  "id": 330101,
+  "possessionEffectId": 330101,
+  "evaluateConditionId": 330101
+ },
+ {
+  "version": "251230.1.0",
+  "id": 330102,
+  "possessionEffectId": 330102,
+  "evaluateConditionId": 330102
+ },
+ {
+  "version": "251230.1.0",
+  "id": 330103,
+  "possessionEffectId": 330103,
+  "evaluateConditionId": 330103
+ },
+ {
+  "version": "251230.1.0",
+  "id": 330104,
+  "possessionEffectId": 330104,
+  "evaluateConditionId": 330104
+ },
+ {
+  "version": "251230.1.0",
+  "id": 330105,
+  "possessionEffectId": 330105,
+  "evaluateConditionId": 330105
+ },
+ {
+  "version": "251230.1.0",
+  "id": 330106,
+  "possessionEffectId": 330016,
+  "evaluateConditionId": 330106
+ },
+ {
+  "version": "251230.1.0",
+  "id": 340101,
+  "possessionEffectId": 340101,
+  "evaluateConditionId": 340101
+ },
+ {
+  "version": "251230.1.0",
+  "id": 340102,
+  "possessionEffectId": 340102,
+  "evaluateConditionId": 340102
+ },
+ {
+  "version": "251230.1.0",
+  "id": 340103,
+  "possessionEffectId": 340103,
+  "evaluateConditionId": 340103
+ },
+ {
+  "version": "251230.1.0",
+  "id": 340104,
+  "possessionEffectId": 340104,
+  "evaluateConditionId": 340104
+ },
+ {
+  "version": "251230.1.0",
+  "id": 340105,
+  "possessionEffectId": 340105,
+  "evaluateConditionId": 340105
+ },
+ {
+  "version": "251230.1.0",
+  "id": 340106,
+  "possessionEffectId": 340016,
+  "evaluateConditionId": 340106
+ },
+ {
+  "version": "251210.1.0",
+  "id": 350101,
+  "possessionEffectId": 350101,
+  "evaluateConditionId": 350101
+ },
+ {
+  "version": "251210.1.0",
+  "id": 350102,
+  "possessionEffectId": 350102,
+  "evaluateConditionId": 350102
+ },
+ {
+  "version": "251210.1.0",
+  "id": 350103,
+  "possessionEffectId": 350103,
+  "evaluateConditionId": 350103
+ },
+ {
+  "version": "251210.1.0",
+  "id": 350104,
+  "possessionEffectId": 350104,
+  "evaluateConditionId": 350104
+ },
+ {
+  "version": "251210.1.0",
+  "id": 350105,
+  "possessionEffectId": 350105,
+  "evaluateConditionId": 350105
+ },
+ {
+  "version": "251210.1.0",
+  "id": 350106,
+  "possessionEffectId": 350016,
+  "evaluateConditionId": 350106
+ },
+ {
+  "version": "251210.1.0",
+  "id": 360101,
+  "possessionEffectId": 360101,
+  "evaluateConditionId": 360101
+ },
+ {
+  "version": "251210.1.0",
+  "id": 360102,
+  "possessionEffectId": 360102,
+  "evaluateConditionId": 360102
+ },
+ {
+  "version": "251210.1.0",
+  "id": 360103,
+  "possessionEffectId": 360103,
+  "evaluateConditionId": 360103
+ },
+ {
+  "version": "251210.1.0",
+  "id": 360104,
+  "possessionEffectId": 360104,
+  "evaluateConditionId": 360104
+ },
+ {
+  "version": "251210.1.0",
+  "id": 360105,
+  "possessionEffectId": 360105,
+  "evaluateConditionId": 360105
+ },
+ {
+  "version": "251210.1.0",
+  "id": 360106,
+  "possessionEffectId": 360016,
+  "evaluateConditionId": 360106
+ },
+ {
+  "version": "251230.1.0",
+  "id": 370101,
+  "possessionEffectId": 370101,
+  "evaluateConditionId": 370101
+ },
+ {
+  "version": "251230.1.0",
+  "id": 370102,
+  "possessionEffectId": 370102,
+  "evaluateConditionId": 370102
+ },
+ {
+  "version": "251230.1.0",
+  "id": 370103,
+  "possessionEffectId": 370103,
+  "evaluateConditionId": 370103
+ },
+ {
+  "version": "251230.1.0",
+  "id": 370104,
+  "possessionEffectId": 370104,
+  "evaluateConditionId": 370104
+ },
+ {
+  "version": "251230.1.0",
+  "id": 370105,
+  "possessionEffectId": 370105,
+  "evaluateConditionId": 370105
+ },
+ {
+  "version": "251230.1.0",
+  "id": 370106,
+  "possessionEffectId": 370016,
+  "evaluateConditionId": 370106
+ },
+ {
+  "version": "260110.1.0",
+  "id": 310111,
+  "possessionEffectId": 310111,
+  "evaluateConditionId": 310111
+ },
+ {
+  "version": "260110.1.0",
+  "id": 310112,
+  "possessionEffectId": 310112,
+  "evaluateConditionId": 310112
+ },
+ {
+  "version": "260110.1.0",
+  "id": 310113,
+  "possessionEffectId": 310113,
+  "evaluateConditionId": 310113
+ },
+ {
+  "version": "260110.1.0",
+  "id": 310114,
+  "possessionEffectId": 310114,
+  "evaluateConditionId": 310114
+ },
+ {
+  "version": "260110.1.0",
+  "id": 310115,
+  "possessionEffectId": 310115,
+  "evaluateConditionId": 310115
+ },
+ {
+  "version": "260110.1.0",
+  "id": 310116,
+  "possessionEffectId": 310016,
+  "evaluateConditionId": 310116
+ },
+ {
+  "version": "260110.1.0",
+  "id": 320111,
+  "possessionEffectId": 320111,
+  "evaluateConditionId": 320111
+ },
+ {
+  "version": "260110.1.0",
+  "id": 320112,
+  "possessionEffectId": 320112,
+  "evaluateConditionId": 320112
+ },
+ {
+  "version": "260110.1.0",
+  "id": 320113,
+  "possessionEffectId": 320113,
+  "evaluateConditionId": 320113
+ },
+ {
+  "version": "260110.1.0",
+  "id": 320114,
+  "possessionEffectId": 320114,
+  "evaluateConditionId": 320114
+ },
+ {
+  "version": "260110.1.0",
+  "id": 320115,
+  "possessionEffectId": 320115,
+  "evaluateConditionId": 320115
+ },
+ {
+  "version": "260110.1.0",
+  "id": 320116,
+  "possessionEffectId": 320016,
+  "evaluateConditionId": 320116
+ },
+ {
+  "version": "260110.1.0",
+  "id": 330111,
+  "possessionEffectId": 330111,
+  "evaluateConditionId": 330111
+ },
+ {
+  "version": "260110.1.0",
+  "id": 330112,
+  "possessionEffectId": 330112,
+  "evaluateConditionId": 330112
+ },
+ {
+  "version": "260110.1.0",
+  "id": 330113,
+  "possessionEffectId": 330113,
+  "evaluateConditionId": 330113
+ },
+ {
+  "version": "260110.1.0",
+  "id": 330114,
+  "possessionEffectId": 330114,
+  "evaluateConditionId": 330114
+ },
+ {
+  "version": "260110.1.0",
+  "id": 330115,
+  "possessionEffectId": 330115,
+  "evaluateConditionId": 330115
+ },
+ {
+  "version": "260110.1.0",
+  "id": 330116,
+  "possessionEffectId": 330016,
+  "evaluateConditionId": 330116
+ },
+ {
+  "version": "260110.1.0",
+  "id": 340111,
+  "possessionEffectId": 340111,
+  "evaluateConditionId": 340111
+ },
+ {
+  "version": "260110.1.0",
+  "id": 340112,
+  "possessionEffectId": 340112,
+  "evaluateConditionId": 340112
+ },
+ {
+  "version": "260110.1.0",
+  "id": 340113,
+  "possessionEffectId": 340113,
+  "evaluateConditionId": 340113
+ },
+ {
+  "version": "260110.1.0",
+  "id": 340114,
+  "possessionEffectId": 340114,
+  "evaluateConditionId": 340114
+ },
+ {
+  "version": "260110.1.0",
+  "id": 340115,
+  "possessionEffectId": 340115,
+  "evaluateConditionId": 340115
+ },
+ {
+  "version": "260110.1.0",
+  "id": 340116,
+  "possessionEffectId": 340016,
+  "evaluateConditionId": 340116
+ },
+ {
+  "version": "260110.1.0",
+  "id": 350111,
+  "possessionEffectId": 350111,
+  "evaluateConditionId": 350111
+ },
+ {
+  "version": "260110.1.0",
+  "id": 350112,
+  "possessionEffectId": 350112,
+  "evaluateConditionId": 350112
+ },
+ {
+  "version": "260110.1.0",
+  "id": 350113,
+  "possessionEffectId": 350113,
+  "evaluateConditionId": 350113
+ },
+ {
+  "version": "260110.1.0",
+  "id": 350114,
+  "possessionEffectId": 350114,
+  "evaluateConditionId": 350114
+ },
+ {
+  "version": "260110.1.0",
+  "id": 350115,
+  "possessionEffectId": 350115,
+  "evaluateConditionId": 350115
+ },
+ {
+  "version": "260110.1.0",
+  "id": 350116,
+  "possessionEffectId": 350016,
+  "evaluateConditionId": 350116
+ },
+ {
+  "version": "260110.1.0",
+  "id": 360111,
+  "possessionEffectId": 360111,
+  "evaluateConditionId": 360111
+ },
+ {
+  "version": "260110.1.0",
+  "id": 360112,
+  "possessionEffectId": 360112,
+  "evaluateConditionId": 360112
+ },
+ {
+  "version": "260110.1.0",
+  "id": 360113,
+  "possessionEffectId": 360113,
+  "evaluateConditionId": 360113
+ },
+ {
+  "version": "260110.1.0",
+  "id": 360114,
+  "possessionEffectId": 360114,
+  "evaluateConditionId": 360114
+ },
+ {
+  "version": "260110.1.0",
+  "id": 360115,
+  "possessionEffectId": 360115,
+  "evaluateConditionId": 360115
+ },
+ {
+  "version": "260110.1.0",
+  "id": 360116,
+  "possessionEffectId": 360016,
+  "evaluateConditionId": 360116
+ },
+ {
+  "version": "260110.1.0",
+  "id": 370111,
+  "possessionEffectId": 370111,
+  "evaluateConditionId": 370111
+ },
+ {
+  "version": "260110.1.0",
+  "id": 370112,
+  "possessionEffectId": 370112,
+  "evaluateConditionId": 370112
+ },
+ {
+  "version": "260110.1.0",
+  "id": 370113,
+  "possessionEffectId": 370113,
+  "evaluateConditionId": 370113
+ },
+ {
+  "version": "260110.1.0",
+  "id": 370114,
+  "possessionEffectId": 370114,
+  "evaluateConditionId": 370114
+ },
+ {
+  "version": "260110.1.0",
+  "id": 370115,
+  "possessionEffectId": 370115,
+  "evaluateConditionId": 370115
+ },
+ {
+  "version": "260110.1.0",
+  "id": 370116,
+  "possessionEffectId": 370016,
+  "evaluateConditionId": 370116
+ },
+ {
+  "version": "260210.1.0",
+  "id": 310121,
+  "possessionEffectId": 310121,
+  "evaluateConditionId": 310121
+ },
+ {
+  "version": "260210.1.0",
+  "id": 310122,
+  "possessionEffectId": 310122,
+  "evaluateConditionId": 310122
+ },
+ {
+  "version": "260210.1.0",
+  "id": 310123,
+  "possessionEffectId": 310123,
+  "evaluateConditionId": 310123
+ },
+ {
+  "version": "260210.1.0",
+  "id": 310124,
+  "possessionEffectId": 310124,
+  "evaluateConditionId": 310124
+ },
+ {
+  "version": "260210.1.0",
+  "id": 310125,
+  "possessionEffectId": 310125,
+  "evaluateConditionId": 310125
+ },
+ {
+  "version": "260210.1.0",
+  "id": 310126,
+  "possessionEffectId": 310016,
+  "evaluateConditionId": 310126
+ },
+ {
+  "version": "260210.1.0",
+  "id": 320121,
+  "possessionEffectId": 320121,
+  "evaluateConditionId": 320121
+ },
+ {
+  "version": "260210.1.0",
+  "id": 320122,
+  "possessionEffectId": 320122,
+  "evaluateConditionId": 320122
+ },
+ {
+  "version": "260210.1.0",
+  "id": 320123,
+  "possessionEffectId": 320123,
+  "evaluateConditionId": 320123
+ },
+ {
+  "version": "260210.1.0",
+  "id": 320124,
+  "possessionEffectId": 320124,
+  "evaluateConditionId": 320124
+ },
+ {
+  "version": "260210.1.0",
+  "id": 320125,
+  "possessionEffectId": 320125,
+  "evaluateConditionId": 320125
+ },
+ {
+  "version": "260210.1.0",
+  "id": 320126,
+  "possessionEffectId": 320016,
+  "evaluateConditionId": 320126
+ },
+ {
+  "version": "260230.1.0",
+  "id": 330121,
+  "possessionEffectId": 330121,
+  "evaluateConditionId": 330121
+ },
+ {
+  "version": "260230.1.0",
+  "id": 330122,
+  "possessionEffectId": 330122,
+  "evaluateConditionId": 330122
+ },
+ {
+  "version": "260230.1.0",
+  "id": 330123,
+  "possessionEffectId": 330123,
+  "evaluateConditionId": 330123
+ },
+ {
+  "version": "260230.1.0",
+  "id": 330124,
+  "possessionEffectId": 330124,
+  "evaluateConditionId": 330124
+ },
+ {
+  "version": "260230.1.0",
+  "id": 330125,
+  "possessionEffectId": 330125,
+  "evaluateConditionId": 330125
+ },
+ {
+  "version": "260230.1.0",
+  "id": 330126,
+  "possessionEffectId": 330016,
+  "evaluateConditionId": 330126
+ },
+ {
+  "version": "260230.1.0",
+  "id": 340121,
+  "possessionEffectId": 340121,
+  "evaluateConditionId": 340121
+ },
+ {
+  "version": "260230.1.0",
+  "id": 340122,
+  "possessionEffectId": 340122,
+  "evaluateConditionId": 340122
+ },
+ {
+  "version": "260230.1.0",
+  "id": 340123,
+  "possessionEffectId": 340123,
+  "evaluateConditionId": 340123
+ },
+ {
+  "version": "260230.1.0",
+  "id": 340124,
+  "possessionEffectId": 340124,
+  "evaluateConditionId": 340124
+ },
+ {
+  "version": "260230.1.0",
+  "id": 340125,
+  "possessionEffectId": 340125,
+  "evaluateConditionId": 340125
+ },
+ {
+  "version": "260230.1.0",
+  "id": 340126,
+  "possessionEffectId": 340016,
+  "evaluateConditionId": 340126
+ },
+ {
+  "version": "260230.1.0",
+  "id": 350121,
+  "possessionEffectId": 350121,
+  "evaluateConditionId": 350121
+ },
+ {
+  "version": "260230.1.0",
+  "id": 350122,
+  "possessionEffectId": 350122,
+  "evaluateConditionId": 350122
+ },
+ {
+  "version": "260230.1.0",
+  "id": 350123,
+  "possessionEffectId": 350123,
+  "evaluateConditionId": 350123
+ },
+ {
+  "version": "260230.1.0",
+  "id": 350124,
+  "possessionEffectId": 350124,
+  "evaluateConditionId": 350124
+ },
+ {
+  "version": "260230.1.0",
+  "id": 350125,
+  "possessionEffectId": 350125,
+  "evaluateConditionId": 350125
+ },
+ {
+  "version": "260230.1.0",
+  "id": 350126,
+  "possessionEffectId": 350016,
+  "evaluateConditionId": 350126
+ },
+ {
+  "version": "260210.1.0",
+  "id": 360121,
+  "possessionEffectId": 360121,
+  "evaluateConditionId": 360121
+ },
+ {
+  "version": "260210.1.0",
+  "id": 360122,
+  "possessionEffectId": 360122,
+  "evaluateConditionId": 360122
+ },
+ {
+  "version": "260210.1.0",
+  "id": 360123,
+  "possessionEffectId": 360123,
+  "evaluateConditionId": 360123
+ },
+ {
+  "version": "260210.1.0",
+  "id": 360124,
+  "possessionEffectId": 360124,
+  "evaluateConditionId": 360124
+ },
+ {
+  "version": "260210.1.0",
+  "id": 360125,
+  "possessionEffectId": 360125,
+  "evaluateConditionId": 360125
+ },
+ {
+  "version": "260210.1.0",
+  "id": 360126,
+  "possessionEffectId": 360016,
+  "evaluateConditionId": 360126
+ },
+ {
+  "version": "260210.1.0",
+  "id": 370121,
+  "possessionEffectId": 370121,
+  "evaluateConditionId": 370121
+ },
+ {
+  "version": "260210.1.0",
+  "id": 370122,
+  "possessionEffectId": 370122,
+  "evaluateConditionId": 370122
+ },
+ {
+  "version": "260210.1.0",
+  "id": 370123,
+  "possessionEffectId": 370123,
+  "evaluateConditionId": 370123
+ },
+ {
+  "version": "260210.1.0",
+  "id": 370124,
+  "possessionEffectId": 370124,
+  "evaluateConditionId": 370124
+ },
+ {
+  "version": "260210.1.0",
+  "id": 370125,
+  "possessionEffectId": 370125,
+  "evaluateConditionId": 370125
+ },
+ {
+  "version": "260210.1.0",
+  "id": 370126,
+  "possessionEffectId": 370016,
+  "evaluateConditionId": 370126
+ },
+ {
+  "version": "260310.1.0",
+  "id": 310131,
+  "possessionEffectId": 310131,
+  "evaluateConditionId": 310131
+ },
+ {
+  "version": "260310.1.0",
+  "id": 310132,
+  "possessionEffectId": 310132,
+  "evaluateConditionId": 310132
+ },
+ {
+  "version": "260310.1.0",
+  "id": 310133,
+  "possessionEffectId": 310133,
+  "evaluateConditionId": 310133
+ },
+ {
+  "version": "260310.1.0",
+  "id": 310134,
+  "possessionEffectId": 310134,
+  "evaluateConditionId": 310134
+ },
+ {
+  "version": "260310.1.0",
+  "id": 310135,
+  "possessionEffectId": 310135,
+  "evaluateConditionId": 310135
+ },
+ {
+  "version": "260310.1.0",
+  "id": 310136,
+  "possessionEffectId": 310016,
+  "evaluateConditionId": 310136
+ },
+ {
+  "version": "260310.1.0",
+  "id": 320131,
+  "possessionEffectId": 320131,
+  "evaluateConditionId": 320131
+ },
+ {
+  "version": "260310.1.0",
+  "id": 320132,
+  "possessionEffectId": 320132,
+  "evaluateConditionId": 320132
+ },
+ {
+  "version": "260310.1.0",
+  "id": 320133,
+  "possessionEffectId": 320133,
+  "evaluateConditionId": 320133
+ },
+ {
+  "version": "260310.1.0",
+  "id": 320134,
+  "possessionEffectId": 320134,
+  "evaluateConditionId": 320134
+ },
+ {
+  "version": "260310.1.0",
+  "id": 320135,
+  "possessionEffectId": 320135,
+  "evaluateConditionId": 320135
+ },
+ {
+  "version": "260310.1.0",
+  "id": 320136,
+  "possessionEffectId": 320016,
+  "evaluateConditionId": 320136
+ },
+ {
+  "version": "260330.1.0",
+  "id": 330131,
+  "possessionEffectId": 330131,
+  "evaluateConditionId": 330131
+ },
+ {
+  "version": "260330.1.0",
+  "id": 330132,
+  "possessionEffectId": 330132,
+  "evaluateConditionId": 330132
+ },
+ {
+  "version": "260330.1.0",
+  "id": 330133,
+  "possessionEffectId": 330133,
+  "evaluateConditionId": 330133
+ },
+ {
+  "version": "260330.1.0",
+  "id": 330134,
+  "possessionEffectId": 330134,
+  "evaluateConditionId": 330134
+ },
+ {
+  "version": "260330.1.0",
+  "id": 330135,
+  "possessionEffectId": 330135,
+  "evaluateConditionId": 330135
+ },
+ {
+  "version": "260330.1.0",
+  "id": 330136,
+  "possessionEffectId": 330016,
+  "evaluateConditionId": 330136
+ },
+ {
+  "version": "260310.1.0",
+  "id": 340131,
+  "possessionEffectId": 340131,
+  "evaluateConditionId": 340131
+ },
+ {
+  "version": "260310.1.0",
+  "id": 340132,
+  "possessionEffectId": 340132,
+  "evaluateConditionId": 340132
+ },
+ {
+  "version": "260310.1.0",
+  "id": 340133,
+  "possessionEffectId": 340133,
+  "evaluateConditionId": 340133
+ },
+ {
+  "version": "260310.1.0",
+  "id": 340134,
+  "possessionEffectId": 340134,
+  "evaluateConditionId": 340134
+ },
+ {
+  "version": "260310.1.0",
+  "id": 340135,
+  "possessionEffectId": 340135,
+  "evaluateConditionId": 340135
+ },
+ {
+  "version": "260310.1.0",
+  "id": 340136,
+  "possessionEffectId": 340016,
+  "evaluateConditionId": 340136
+ },
+ {
+  "version": "260330.1.0",
+  "id": 350131,
+  "possessionEffectId": 350131,
+  "evaluateConditionId": 350131
+ },
+ {
+  "version": "260330.1.0",
+  "id": 350132,
+  "possessionEffectId": 350132,
+  "evaluateConditionId": 350132
+ },
+ {
+  "version": "260330.1.0",
+  "id": 350133,
+  "possessionEffectId": 350133,
+  "evaluateConditionId": 350133
+ },
+ {
+  "version": "260330.1.0",
+  "id": 350134,
+  "possessionEffectId": 350134,
+  "evaluateConditionId": 350134
+ },
+ {
+  "version": "260330.1.0",
+  "id": 350135,
+  "possessionEffectId": 350135,
+  "evaluateConditionId": 350135
+ },
+ {
+  "version": "260330.1.0",
+  "id": 350136,
+  "possessionEffectId": 350016,
+  "evaluateConditionId": 350136
+ },
+ {
+  "version": "260330.1.0",
+  "id": 360131,
+  "possessionEffectId": 360131,
+  "evaluateConditionId": 360131
+ },
+ {
+  "version": "260330.1.0",
+  "id": 360132,
+  "possessionEffectId": 360132,
+  "evaluateConditionId": 360132
+ },
+ {
+  "version": "260330.1.0",
+  "id": 360133,
+  "possessionEffectId": 360133,
+  "evaluateConditionId": 360133
+ },
+ {
+  "version": "260330.1.0",
+  "id": 360134,
+  "possessionEffectId": 360134,
+  "evaluateConditionId": 360134
+ },
+ {
+  "version": "260330.1.0",
+  "id": 360135,
+  "possessionEffectId": 360135,
+  "evaluateConditionId": 360135
+ },
+ {
+  "version": "260330.1.0",
+  "id": 360136,
+  "possessionEffectId": 360016,
+  "evaluateConditionId": 360136
+ },
+ {
+  "version": "260310.1.0",
+  "id": 370131,
+  "possessionEffectId": 370131,
+  "evaluateConditionId": 370131
+ },
+ {
+  "version": "260310.1.0",
+  "id": 370132,
+  "possessionEffectId": 370132,
+  "evaluateConditionId": 370132
+ },
+ {
+  "version": "260310.1.0",
+  "id": 370133,
+  "possessionEffectId": 370133,
+  "evaluateConditionId": 370133
+ },
+ {
+  "version": "260310.1.0",
+  "id": 370134,
+  "possessionEffectId": 370134,
+  "evaluateConditionId": 370134
+ },
+ {
+  "version": "260310.1.0",
+  "id": 370135,
+  "possessionEffectId": 370135,
+  "evaluateConditionId": 370135
+ },
+ {
+  "version": "260310.1.0",
+  "id": 370136,
+  "possessionEffectId": 370016,
+  "evaluateConditionId": 370136
+ },
+ {
+  "version": "260410.1.0",
+  "id": 310141,
+  "possessionEffectId": 310141,
+  "evaluateConditionId": 310141
+ },
+ {
+  "version": "260410.1.0",
+  "id": 310142,
+  "possessionEffectId": 310142,
+  "evaluateConditionId": 310142
+ },
+ {
+  "version": "260410.1.0",
+  "id": 310143,
+  "possessionEffectId": 310143,
+  "evaluateConditionId": 310143
+ },
+ {
+  "version": "260410.1.0",
+  "id": 310144,
+  "possessionEffectId": 310144,
+  "evaluateConditionId": 310144
+ },
+ {
+  "version": "260410.1.0",
+  "id": 310145,
+  "possessionEffectId": 310145,
+  "evaluateConditionId": 310145
+ },
+ {
+  "version": "260410.1.0",
+  "id": 310146,
+  "possessionEffectId": 310016,
+  "evaluateConditionId": 310146
+ },
+ {
+  "version": "260420.1.0",
+  "id": 320141,
+  "possessionEffectId": 320141,
+  "evaluateConditionId": 320141
+ },
+ {
+  "version": "260420.1.0",
+  "id": 320142,
+  "possessionEffectId": 320142,
+  "evaluateConditionId": 320142
+ },
+ {
+  "version": "260420.1.0",
+  "id": 320143,
+  "possessionEffectId": 320143,
+  "evaluateConditionId": 320143
+ },
+ {
+  "version": "260420.1.0",
+  "id": 320144,
+  "possessionEffectId": 320144,
+  "evaluateConditionId": 320144
+ },
+ {
+  "version": "260420.1.0",
+  "id": 320145,
+  "possessionEffectId": 320145,
+  "evaluateConditionId": 320145
+ },
+ {
+  "version": "260420.1.0",
+  "id": 320146,
+  "possessionEffectId": 320016,
+  "evaluateConditionId": 320146
+ },
+ {
+  "version": "260410.1.0",
+  "id": 330141,
+  "possessionEffectId": 330141,
+  "evaluateConditionId": 330141
+ },
+ {
+  "version": "260410.1.0",
+  "id": 330142,
+  "possessionEffectId": 330142,
+  "evaluateConditionId": 330142
+ },
+ {
+  "version": "260410.1.0",
+  "id": 330143,
+  "possessionEffectId": 330143,
+  "evaluateConditionId": 330143
+ },
+ {
+  "version": "260410.1.0",
+  "id": 330144,
+  "possessionEffectId": 330144,
+  "evaluateConditionId": 330144
+ },
+ {
+  "version": "260410.1.0",
+  "id": 330145,
+  "possessionEffectId": 330145,
+  "evaluateConditionId": 330145
+ },
+ {
+  "version": "260410.1.0",
+  "id": 330146,
+  "possessionEffectId": 330016,
+  "evaluateConditionId": 330146
+ },
+ {
+  "version": "260420.1.0",
+  "id": 340141,
+  "possessionEffectId": 340141,
+  "evaluateConditionId": 340141
+ },
+ {
+  "version": "260420.1.0",
+  "id": 340142,
+  "possessionEffectId": 340142,
+  "evaluateConditionId": 340142
+ },
+ {
+  "version": "260420.1.0",
+  "id": 340143,
+  "possessionEffectId": 340143,
+  "evaluateConditionId": 340143
+ },
+ {
+  "version": "260420.1.0",
+  "id": 340144,
+  "possessionEffectId": 340144,
+  "evaluateConditionId": 340144
+ },
+ {
+  "version": "260420.1.0",
+  "id": 340145,
+  "possessionEffectId": 340145,
+  "evaluateConditionId": 340145
+ },
+ {
+  "version": "260420.1.0",
+  "id": 340146,
+  "possessionEffectId": 340016,
+  "evaluateConditionId": 340146
+ },
+ {
+  "version": "260410.1.0",
+  "id": 350141,
+  "possessionEffectId": 350141,
+  "evaluateConditionId": 350141
+ },
+ {
+  "version": "260410.1.0",
+  "id": 350142,
+  "possessionEffectId": 350142,
+  "evaluateConditionId": 350142
+ },
+ {
+  "version": "260410.1.0",
+  "id": 350143,
+  "possessionEffectId": 350143,
+  "evaluateConditionId": 350143
+ },
+ {
+  "version": "260410.1.0",
+  "id": 350144,
+  "possessionEffectId": 350144,
+  "evaluateConditionId": 350144
+ },
+ {
+  "version": "260410.1.0",
+  "id": 350145,
+  "possessionEffectId": 350145,
+  "evaluateConditionId": 350145
+ },
+ {
+  "version": "260410.1.0",
+  "id": 350146,
+  "possessionEffectId": 350016,
+  "evaluateConditionId": 350146
+ },
+ {
+  "version": "260420.1.0",
+  "id": 360141,
+  "possessionEffectId": 360141,
+  "evaluateConditionId": 360141
+ },
+ {
+  "version": "260420.1.0",
+  "id": 360142,
+  "possessionEffectId": 360142,
+  "evaluateConditionId": 360142
+ },
+ {
+  "version": "260420.1.0",
+  "id": 360143,
+  "possessionEffectId": 360143,
+  "evaluateConditionId": 360143
+ },
+ {
+  "version": "260420.1.0",
+  "id": 360144,
+  "possessionEffectId": 360144,
+  "evaluateConditionId": 360144
+ },
+ {
+  "version": "260420.1.0",
+  "id": 360145,
+  "possessionEffectId": 360145,
+  "evaluateConditionId": 360145
+ },
+ {
+  "version": "260420.1.0",
+  "id": 360146,
+  "possessionEffectId": 360016,
+  "evaluateConditionId": 360146
+ },
+ {
+  "version": "260410.1.0",
+  "id": 370141,
+  "possessionEffectId": 370141,
+  "evaluateConditionId": 370141
+ },
+ {
+  "version": "260410.1.0",
+  "id": 370142,
+  "possessionEffectId": 370142,
+  "evaluateConditionId": 370142
+ },
+ {
+  "version": "260410.1.0",
+  "id": 370143,
+  "possessionEffectId": 370143,
+  "evaluateConditionId": 370143
+ },
+ {
+  "version": "260410.1.0",
+  "id": 370144,
+  "possessionEffectId": 370144,
+  "evaluateConditionId": 370144
+ },
+ {
+  "version": "260410.1.0",
+  "id": 370145,
+  "possessionEffectId": 370145,
+  "evaluateConditionId": 370145
+ },
+ {
+  "version": "260410.1.0",
+  "id": 370146,
+  "possessionEffectId": 370016,
+  "evaluateConditionId": 370146
+ },
+ {
+  "version": "260510.1.0",
+  "id": 310151,
+  "possessionEffectId": 310151,
+  "evaluateConditionId": 310151
+ },
+ {
+  "version": "260510.1.0",
+  "id": 310152,
+  "possessionEffectId": 310152,
+  "evaluateConditionId": 310152
+ },
+ {
+  "version": "260510.1.0",
+  "id": 310153,
+  "possessionEffectId": 310153,
+  "evaluateConditionId": 310153
+ },
+ {
+  "version": "260510.1.0",
+  "id": 310154,
+  "possessionEffectId": 310154,
+  "evaluateConditionId": 310154
+ },
+ {
+  "version": "260510.1.0",
+  "id": 310155,
+  "possessionEffectId": 310155,
+  "evaluateConditionId": 310155
+ },
+ {
+  "version": "260510.1.0",
+  "id": 310156,
+  "possessionEffectId": 310016,
+  "evaluateConditionId": 310156
+ },
+ {
+  "version": "260510.1.0",
+  "id": 320151,
+  "possessionEffectId": 320151,
+  "evaluateConditionId": 320151
+ },
+ {
+  "version": "260510.1.0",
+  "id": 320152,
+  "possessionEffectId": 320152,
+  "evaluateConditionId": 320152
+ },
+ {
+  "version": "260510.1.0",
+  "id": 320153,
+  "possessionEffectId": 320153,
+  "evaluateConditionId": 320153
+ },
+ {
+  "version": "260510.1.0",
+  "id": 320154,
+  "possessionEffectId": 320154,
+  "evaluateConditionId": 320154
+ },
+ {
+  "version": "260510.1.0",
+  "id": 320155,
+  "possessionEffectId": 320155,
+  "evaluateConditionId": 320155
+ },
+ {
+  "version": "260510.1.0",
+  "id": 320156,
+  "possessionEffectId": 320016,
+  "evaluateConditionId": 320156
+ },
+ {
+  "version": "260530.1.0",
+  "id": 330151,
+  "possessionEffectId": 330151,
+  "evaluateConditionId": 330151
+ },
+ {
+  "version": "260530.1.0",
+  "id": 330152,
+  "possessionEffectId": 330152,
+  "evaluateConditionId": 330152
+ },
+ {
+  "version": "260530.1.0",
+  "id": 330153,
+  "possessionEffectId": 330153,
+  "evaluateConditionId": 330153
+ },
+ {
+  "version": "260530.1.0",
+  "id": 330154,
+  "possessionEffectId": 330154,
+  "evaluateConditionId": 330154
+ },
+ {
+  "version": "260530.1.0",
+  "id": 330155,
+  "possessionEffectId": 330155,
+  "evaluateConditionId": 330155
+ },
+ {
+  "version": "260530.1.0",
+  "id": 330156,
+  "possessionEffectId": 330016,
+  "evaluateConditionId": 330156
+ },
+ {
+  "version": "260510.1.0",
+  "id": 340151,
+  "possessionEffectId": 340151,
+  "evaluateConditionId": 340151
+ },
+ {
+  "version": "260510.1.0",
+  "id": 340152,
+  "possessionEffectId": 340152,
+  "evaluateConditionId": 340152
+ },
+ {
+  "version": "260510.1.0",
+  "id": 340153,
+  "possessionEffectId": 340153,
+  "evaluateConditionId": 340153
+ },
+ {
+  "version": "260510.1.0",
+  "id": 340154,
+  "possessionEffectId": 340154,
+  "evaluateConditionId": 340154
+ },
+ {
+  "version": "260510.1.0",
+  "id": 340155,
+  "possessionEffectId": 340155,
+  "evaluateConditionId": 340155
+ },
+ {
+  "version": "260510.1.0",
+  "id": 340156,
+  "possessionEffectId": 340016,
+  "evaluateConditionId": 340156
+ },
+ {
+  "version": "260530.1.0",
+  "id": 350151,
+  "possessionEffectId": 350151,
+  "evaluateConditionId": 350151
+ },
+ {
+  "version": "260530.1.0",
+  "id": 350152,
+  "possessionEffectId": 350152,
+  "evaluateConditionId": 350152
+ },
+ {
+  "version": "260530.1.0",
+  "id": 350153,
+  "possessionEffectId": 350153,
+  "evaluateConditionId": 350153
+ },
+ {
+  "version": "260530.1.0",
+  "id": 350154,
+  "possessionEffectId": 350154,
+  "evaluateConditionId": 350154
+ },
+ {
+  "version": "260530.1.0",
+  "id": 350155,
+  "possessionEffectId": 350155,
+  "evaluateConditionId": 350155
+ },
+ {
+  "version": "260530.1.0",
+  "id": 350156,
+  "possessionEffectId": 350016,
+  "evaluateConditionId": 350156
+ },
+ {
+  "version": "260510.1.0",
+  "id": 360151,
+  "possessionEffectId": 360151,
+  "evaluateConditionId": 360151
+ },
+ {
+  "version": "260510.1.0",
+  "id": 360152,
+  "possessionEffectId": 360152,
+  "evaluateConditionId": 360152
+ },
+ {
+  "version": "260510.1.0",
+  "id": 360153,
+  "possessionEffectId": 360153,
+  "evaluateConditionId": 360153
+ },
+ {
+  "version": "260510.1.0",
+  "id": 360154,
+  "possessionEffectId": 360154,
+  "evaluateConditionId": 360154
+ },
+ {
+  "version": "260510.1.0",
+  "id": 360155,
+  "possessionEffectId": 360155,
+  "evaluateConditionId": 360155
+ },
+ {
+  "version": "260510.1.0",
+  "id": 360156,
+  "possessionEffectId": 360016,
+  "evaluateConditionId": 360156
+ },
+ {
+  "version": "260530.1.0",
+  "id": 370151,
+  "possessionEffectId": 370151,
+  "evaluateConditionId": 370151
+ },
+ {
+  "version": "260530.1.0",
+  "id": 370152,
+  "possessionEffectId": 370152,
+  "evaluateConditionId": 370152
+ },
+ {
+  "version": "260530.1.0",
+  "id": 370153,
+  "possessionEffectId": 370153,
+  "evaluateConditionId": 370153
+ },
+ {
+  "version": "260530.1.0",
+  "id": 370154,
+  "possessionEffectId": 370154,
+  "evaluateConditionId": 370154
+ },
+ {
+  "version": "260530.1.0",
+  "id": 370155,
+  "possessionEffectId": 370155,
+  "evaluateConditionId": 370155
+ },
+ {
+  "version": "260530.1.0",
+  "id": 370156,
+  "possessionEffectId": 370016,
+  "evaluateConditionId": 370156
+ },
+ {
+  "version": "260610.1.0",
+  "id": 310161,
+  "possessionEffectId": 310161,
+  "evaluateConditionId": 310161
+ },
+ {
+  "version": "260610.1.0",
+  "id": 310162,
+  "possessionEffectId": 310162,
+  "evaluateConditionId": 310162
+ },
+ {
+  "version": "260610.1.0",
+  "id": 310163,
+  "possessionEffectId": 310163,
+  "evaluateConditionId": 310163
+ },
+ {
+  "version": "260610.1.0",
+  "id": 310164,
+  "possessionEffectId": 310164,
+  "evaluateConditionId": 310164
+ },
+ {
+  "version": "260610.1.0",
+  "id": 310165,
+  "possessionEffectId": 310165,
+  "evaluateConditionId": 310165
+ },
+ {
+  "version": "260610.1.0",
+  "id": 310166,
+  "possessionEffectId": 310016,
+  "evaluateConditionId": 310166
+ },
+ {
+  "version": "260630.1.0",
+  "id": 320161,
+  "possessionEffectId": 320161,
+  "evaluateConditionId": 320161
+ },
+ {
+  "version": "260630.1.0",
+  "id": 320162,
+  "possessionEffectId": 320162,
+  "evaluateConditionId": 320162
+ },
+ {
+  "version": "260630.1.0",
+  "id": 320163,
+  "possessionEffectId": 320163,
+  "evaluateConditionId": 320163
+ },
+ {
+  "version": "260630.1.0",
+  "id": 320164,
+  "possessionEffectId": 320164,
+  "evaluateConditionId": 320164
+ },
+ {
+  "version": "260630.1.0",
+  "id": 320165,
+  "possessionEffectId": 320165,
+  "evaluateConditionId": 320165
+ },
+ {
+  "version": "260630.1.0",
+  "id": 320166,
+  "possessionEffectId": 320016,
+  "evaluateConditionId": 320166
+ },
+ {
+  "version": "260610.1.0",
+  "id": 330161,
+  "possessionEffectId": 330161,
+  "evaluateConditionId": 330161
+ },
+ {
+  "version": "260610.1.0",
+  "id": 330162,
+  "possessionEffectId": 330162,
+  "evaluateConditionId": 330162
+ },
+ {
+  "version": "260610.1.0",
+  "id": 330163,
+  "possessionEffectId": 330163,
+  "evaluateConditionId": 330163
+ },
+ {
+  "version": "260610.1.0",
+  "id": 330164,
+  "possessionEffectId": 330164,
+  "evaluateConditionId": 330164
+ },
+ {
+  "version": "260610.1.0",
+  "id": 330165,
+  "possessionEffectId": 330165,
+  "evaluateConditionId": 330165
+ },
+ {
+  "version": "260610.1.0",
+  "id": 330166,
+  "possessionEffectId": 330016,
+  "evaluateConditionId": 330166
+ },
+ {
+  "version": "260630.1.0",
+  "id": 340161,
+  "possessionEffectId": 340161,
+  "evaluateConditionId": 340161
+ },
+ {
+  "version": "260630.1.0",
+  "id": 340162,
+  "possessionEffectId": 340162,
+  "evaluateConditionId": 340162
+ },
+ {
+  "version": "260630.1.0",
+  "id": 340163,
+  "possessionEffectId": 340163,
+  "evaluateConditionId": 340163
+ },
+ {
+  "version": "260630.1.0",
+  "id": 340164,
+  "possessionEffectId": 340164,
+  "evaluateConditionId": 340164
+ },
+ {
+  "version": "260630.1.0",
+  "id": 340165,
+  "possessionEffectId": 340165,
+  "evaluateConditionId": 340165
+ },
+ {
+  "version": "260630.1.0",
+  "id": 340166,
+  "possessionEffectId": 340016,
+  "evaluateConditionId": 340166
+ },
+ {
+  "version": "260630.1.0",
+  "id": 350161,
+  "possessionEffectId": 350161,
+  "evaluateConditionId": 350161
+ },
+ {
+  "version": "260630.1.0",
+  "id": 350162,
+  "possessionEffectId": 350162,
+  "evaluateConditionId": 350162
+ },
+ {
+  "version": "260630.1.0",
+  "id": 350163,
+  "possessionEffectId": 350163,
+  "evaluateConditionId": 350163
+ },
+ {
+  "version": "260630.1.0",
+  "id": 350164,
+  "possessionEffectId": 350164,
+  "evaluateConditionId": 350164
+ },
+ {
+  "version": "260630.1.0",
+  "id": 350165,
+  "possessionEffectId": 350165,
+  "evaluateConditionId": 350165
+ },
+ {
+  "version": "260630.1.0",
+  "id": 350166,
+  "possessionEffectId": 350016,
+  "evaluateConditionId": 350166
+ },
+ {
+  "version": "260610.1.0",
+  "id": 360161,
+  "possessionEffectId": 360161,
+  "evaluateConditionId": 360161
+ },
+ {
+  "version": "260610.1.0",
+  "id": 360162,
+  "possessionEffectId": 360162,
+  "evaluateConditionId": 360162
+ },
+ {
+  "version": "260610.1.0",
+  "id": 360163,
+  "possessionEffectId": 360163,
+  "evaluateConditionId": 360163
+ },
+ {
+  "version": "260610.1.0",
+  "id": 360164,
+  "possessionEffectId": 360164,
+  "evaluateConditionId": 360164
+ },
+ {
+  "version": "260610.1.0",
+  "id": 360165,
+  "possessionEffectId": 360165,
+  "evaluateConditionId": 360165
+ },
+ {
+  "version": "260610.1.0",
+  "id": 360166,
+  "possessionEffectId": 360016,
+  "evaluateConditionId": 360166
+ },
+ {
+  "version": "260610.1.0",
+  "id": 370161,
+  "possessionEffectId": 370161,
+  "evaluateConditionId": 370161
+ },
+ {
+  "version": "260610.1.0",
+  "id": 370162,
+  "possessionEffectId": 370162,
+  "evaluateConditionId": 370162
+ },
+ {
+  "version": "260610.1.0",
+  "id": 370163,
+  "possessionEffectId": 370163,
+  "evaluateConditionId": 370163
+ },
+ {
+  "version": "260610.1.0",
+  "id": 370164,
+  "possessionEffectId": 370164,
+  "evaluateConditionId": 370164
+ },
+ {
+  "version": "260610.1.0",
+  "id": 370165,
+  "possessionEffectId": 370165,
+  "evaluateConditionId": 370165
+ },
+ {
+  "version": "260610.1.0",
+  "id": 370166,
+  "possessionEffectId": 370016,
+  "evaluateConditionId": 370166
+ },
+ {
+  "version": "260710.1.0",
+  "id": 310171,
+  "possessionEffectId": 310171,
+  "evaluateConditionId": 310171
+ },
+ {
+  "version": "260710.1.0",
+  "id": 310172,
+  "possessionEffectId": 310172,
+  "evaluateConditionId": 310172
+ },
+ {
+  "version": "260710.1.0",
+  "id": 310173,
+  "possessionEffectId": 310173,
+  "evaluateConditionId": 310173
+ },
+ {
+  "version": "260710.1.0",
+  "id": 310174,
+  "possessionEffectId": 310174,
+  "evaluateConditionId": 310174
+ },
+ {
+  "version": "260710.1.0",
+  "id": 310175,
+  "possessionEffectId": 310175,
+  "evaluateConditionId": 310175
+ },
+ {
+  "version": "260710.1.0",
+  "id": 310176,
+  "possessionEffectId": 310016,
+  "evaluateConditionId": 310176
+ },
+ {
+  "version": "260710.1.0",
+  "id": 320171,
+  "possessionEffectId": 320171,
+  "evaluateConditionId": 320171
+ },
+ {
+  "version": "260710.1.0",
+  "id": 320172,
+  "possessionEffectId": 320172,
+  "evaluateConditionId": 320172
+ },
+ {
+  "version": "260710.1.0",
+  "id": 320173,
+  "possessionEffectId": 320173,
+  "evaluateConditionId": 320173
+ },
+ {
+  "version": "260710.1.0",
+  "id": 320174,
+  "possessionEffectId": 320174,
+  "evaluateConditionId": 320174
+ },
+ {
+  "version": "260710.1.0",
+  "id": 320175,
+  "possessionEffectId": 320175,
+  "evaluateConditionId": 320175
+ },
+ {
+  "version": "260710.1.0",
+  "id": 320176,
+  "possessionEffectId": 320016,
+  "evaluateConditionId": 320176
+ },
+ {
+  "version": "260710.1.0",
+  "id": 330171,
+  "possessionEffectId": 330171,
+  "evaluateConditionId": 330171
+ },
+ {
+  "version": "260710.1.0",
+  "id": 330172,
+  "possessionEffectId": 330172,
+  "evaluateConditionId": 330172
+ },
+ {
+  "version": "260710.1.0",
+  "id": 330173,
+  "possessionEffectId": 330173,
+  "evaluateConditionId": 330173
+ },
+ {
+  "version": "260710.1.0",
+  "id": 330174,
+  "possessionEffectId": 330174,
+  "evaluateConditionId": 330174
+ },
+ {
+  "version": "260710.1.0",
+  "id": 330175,
+  "possessionEffectId": 330175,
+  "evaluateConditionId": 330175
+ },
+ {
+  "version": "260710.1.0",
+  "id": 330176,
+  "possessionEffectId": 330016,
+  "evaluateConditionId": 330176
+ },
+ {
+  "version": "260710.1.0",
+  "id": 340171,
+  "possessionEffectId": 340171,
+  "evaluateConditionId": 340171
+ },
+ {
+  "version": "260710.1.0",
+  "id": 340172,
+  "possessionEffectId": 340172,
+  "evaluateConditionId": 340172
+ },
+ {
+  "version": "260710.1.0",
+  "id": 340173,
+  "possessionEffectId": 340173,
+  "evaluateConditionId": 340173
+ },
+ {
+  "version": "260710.1.0",
+  "id": 340174,
+  "possessionEffectId": 340174,
+  "evaluateConditionId": 340174
+ },
+ {
+  "version": "260710.1.0",
+  "id": 340175,
+  "possessionEffectId": 340175,
+  "evaluateConditionId": 340175
+ },
+ {
+  "version": "260710.1.0",
+  "id": 340176,
+  "possessionEffectId": 340016,
+  "evaluateConditionId": 340176
+ },
+ {
+  "version": "260710.1.0",
+  "id": 350171,
+  "possessionEffectId": 350171,
+  "evaluateConditionId": 350171
+ },
+ {
+  "version": "260710.1.0",
+  "id": 350172,
+  "possessionEffectId": 350172,
+  "evaluateConditionId": 350172
+ },
+ {
+  "version": "260710.1.0",
+  "id": 350173,
+  "possessionEffectId": 350173,
+  "evaluateConditionId": 350173
+ },
+ {
+  "version": "260710.1.0",
+  "id": 350174,
+  "possessionEffectId": 350174,
+  "evaluateConditionId": 350174
+ },
+ {
+  "version": "260710.1.0",
+  "id": 350175,
+  "possessionEffectId": 350175,
+  "evaluateConditionId": 350175
+ },
+ {
+  "version": "260710.1.0",
+  "id": 350176,
+  "possessionEffectId": 350016,
+  "evaluateConditionId": 350176
+ },
+ {
+  "version": "260710.1.0",
+  "id": 360171,
+  "possessionEffectId": 360171,
+  "evaluateConditionId": 360171
+ },
+ {
+  "version": "260710.1.0",
+  "id": 360172,
+  "possessionEffectId": 360172,
+  "evaluateConditionId": 360172
+ },
+ {
+  "version": "260710.1.0",
+  "id": 360173,
+  "possessionEffectId": 360173,
+  "evaluateConditionId": 360173
+ },
+ {
+  "version": "260710.1.0",
+  "id": 360174,
+  "possessionEffectId": 360174,
+  "evaluateConditionId": 360174
+ },
+ {
+  "version": "260710.1.0",
+  "id": 360175,
+  "possessionEffectId": 360175,
+  "evaluateConditionId": 360175
+ },
+ {
+  "version": "260710.1.0",
+  "id": 360176,
+  "possessionEffectId": 360016,
+  "evaluateConditionId": 360176
+ },
+ {
+  "version": "260710.1.0",
+  "id": 370171,
+  "possessionEffectId": 370171,
+  "evaluateConditionId": 370171
+ },
+ {
+  "version": "260710.1.0",
+  "id": 370172,
+  "possessionEffectId": 370172,
+  "evaluateConditionId": 370172
+ },
+ {
+  "version": "260710.1.0",
+  "id": 370173,
+  "possessionEffectId": 370173,
+  "evaluateConditionId": 370173
+ },
+ {
+  "version": "260710.1.0",
+  "id": 370174,
+  "possessionEffectId": 370174,
+  "evaluateConditionId": 370174
+ },
+ {
+  "version": "260710.1.0",
+  "id": 370175,
+  "possessionEffectId": 370175,
+  "evaluateConditionId": 370175
+ },
+ {
+  "version": "260710.1.0",
+  "id": 370176,
+  "possessionEffectId": 370016,
+  "evaluateConditionId": 370176
+ },
+ {
+  "version": "260810.1.0",
+  "id": 310181,
+  "possessionEffectId": 310181,
+  "evaluateConditionId": 310181
+ },
+ {
+  "version": "260810.1.0",
+  "id": 310182,
+  "possessionEffectId": 310182,
+  "evaluateConditionId": 310182
+ },
+ {
+  "version": "260810.1.0",
+  "id": 310183,
+  "possessionEffectId": 310183,
+  "evaluateConditionId": 310183
+ },
+ {
+  "version": "260810.1.0",
+  "id": 310184,
+  "possessionEffectId": 310184,
+  "evaluateConditionId": 310184
+ },
+ {
+  "version": "260810.1.0",
+  "id": 310185,
+  "possessionEffectId": 310185,
+  "evaluateConditionId": 310185
+ },
+ {
+  "version": "260810.1.0",
+  "id": 310186,
+  "possessionEffectId": 310016,
+  "evaluateConditionId": 310186
+ },
+ {
+  "version": "260810.1.0",
+  "id": 320181,
+  "possessionEffectId": 320181,
+  "evaluateConditionId": 320181
+ },
+ {
+  "version": "260810.1.0",
+  "id": 320182,
+  "possessionEffectId": 320182,
+  "evaluateConditionId": 320182
+ },
+ {
+  "version": "260810.1.0",
+  "id": 320183,
+  "possessionEffectId": 320183,
+  "evaluateConditionId": 320183
+ },
+ {
+  "version": "260810.1.0",
+  "id": 320184,
+  "possessionEffectId": 320184,
+  "evaluateConditionId": 320184
+ },
+ {
+  "version": "260810.1.0",
+  "id": 320185,
+  "possessionEffectId": 320185,
+  "evaluateConditionId": 320185
+ },
+ {
+  "version": "260810.1.0",
+  "id": 320186,
+  "possessionEffectId": 320016,
+  "evaluateConditionId": 320186
+ },
+ {
+  "version": "260810.1.0",
+  "id": 330181,
+  "possessionEffectId": 330181,
+  "evaluateConditionId": 330181
+ },
+ {
+  "version": "260810.1.0",
+  "id": 330182,
+  "possessionEffectId": 330182,
+  "evaluateConditionId": 330182
+ },
+ {
+  "version": "260810.1.0",
+  "id": 330183,
+  "possessionEffectId": 330183,
+  "evaluateConditionId": 330183
+ },
+ {
+  "version": "260810.1.0",
+  "id": 330184,
+  "possessionEffectId": 330184,
+  "evaluateConditionId": 330184
+ },
+ {
+  "version": "260810.1.0",
+  "id": 330185,
+  "possessionEffectId": 330185,
+  "evaluateConditionId": 330185
+ },
+ {
+  "version": "260810.1.0",
+  "id": 330186,
+  "possessionEffectId": 330016,
+  "evaluateConditionId": 330186
+ },
+ {
+  "version": "260810.1.0",
+  "id": 340181,
+  "possessionEffectId": 340181,
+  "evaluateConditionId": 340181
+ },
+ {
+  "version": "260810.1.0",
+  "id": 340182,
+  "possessionEffectId": 340182,
+  "evaluateConditionId": 340182
+ },
+ {
+  "version": "260810.1.0",
+  "id": 340183,
+  "possessionEffectId": 340183,
+  "evaluateConditionId": 340183
+ },
+ {
+  "version": "260810.1.0",
+  "id": 340184,
+  "possessionEffectId": 340184,
+  "evaluateConditionId": 340184
+ },
+ {
+  "version": "260810.1.0",
+  "id": 340185,
+  "possessionEffectId": 340185,
+  "evaluateConditionId": 340185
+ },
+ {
+  "version": "260810.1.0",
+  "id": 340186,
+  "possessionEffectId": 340016,
+  "evaluateConditionId": 340186
+ },
+ {
+  "version": "260810.1.0",
+  "id": 350181,
+  "possessionEffectId": 350181,
+  "evaluateConditionId": 350181
+ },
+ {
+  "version": "260810.1.0",
+  "id": 350182,
+  "possessionEffectId": 350182,
+  "evaluateConditionId": 350182
+ },
+ {
+  "version": "260810.1.0",
+  "id": 350183,
+  "possessionEffectId": 350183,
+  "evaluateConditionId": 350183
+ },
+ {
+  "version": "260810.1.0",
+  "id": 350184,
+  "possessionEffectId": 350184,
+  "evaluateConditionId": 350184
+ },
+ {
+  "version": "260810.1.0",
+  "id": 350185,
+  "possessionEffectId": 350185,
+  "evaluateConditionId": 350185
+ },
+ {
+  "version": "260810.1.0",
+  "id": 350186,
+  "possessionEffectId": 350016,
+  "evaluateConditionId": 350186
+ },
+ {
+  "version": "260810.1.0",
+  "id": 360181,
+  "possessionEffectId": 360181,
+  "evaluateConditionId": 360181
+ },
+ {
+  "version": "260810.1.0",
+  "id": 360182,
+  "possessionEffectId": 360182,
+  "evaluateConditionId": 360182
+ },
+ {
+  "version": "260810.1.0",
+  "id": 360183,
+  "possessionEffectId": 360183,
+  "evaluateConditionId": 360183
+ },
+ {
+  "version": "260810.1.0",
+  "id": 360184,
+  "possessionEffectId": 360184,
+  "evaluateConditionId": 360184
+ },
+ {
+  "version": "260810.1.0",
+  "id": 360185,
+  "possessionEffectId": 360185,
+  "evaluateConditionId": 360185
+ },
+ {
+  "version": "260810.1.0",
+  "id": 360186,
+  "possessionEffectId": 360016,
+  "evaluateConditionId": 360186
+ },
+ {
+  "version": "260810.1.0",
+  "id": 370181,
+  "possessionEffectId": 370181,
+  "evaluateConditionId": 370181
+ },
+ {
+  "version": "260810.1.0",
+  "id": 370182,
+  "possessionEffectId": 370182,
+  "evaluateConditionId": 370182
+ },
+ {
+  "version": "260810.1.0",
+  "id": 370183,
+  "possessionEffectId": 370183,
+  "evaluateConditionId": 370183
+ },
+ {
+  "version": "260810.1.0",
+  "id": 370184,
+  "possessionEffectId": 370184,
+  "evaluateConditionId": 370184
+ },
+ {
+  "version": "260810.1.0",
+  "id": 370185,
+  "possessionEffectId": 370185,
+  "evaluateConditionId": 370185
+ },
+ {
+  "version": "260810.1.0",
+  "id": 370186,
+  "possessionEffectId": 370016,
+  "evaluateConditionId": 370186
+ },
+ {
+  "version": "260910.1.0",
+  "id": 310191,
+  "possessionEffectId": 310191,
+  "evaluateConditionId": 310191
+ },
+ {
+  "version": "260910.1.0",
+  "id": 310192,
+  "possessionEffectId": 310192,
+  "evaluateConditionId": 310192
+ },
+ {
+  "version": "260910.1.0",
+  "id": 310193,
+  "possessionEffectId": 310193,
+  "evaluateConditionId": 310193
+ },
+ {
+  "version": "260910.1.0",
+  "id": 310194,
+  "possessionEffectId": 310194,
+  "evaluateConditionId": 310194
+ },
+ {
+  "version": "260910.1.0",
+  "id": 310195,
+  "possessionEffectId": 310195,
+  "evaluateConditionId": 310195
+ },
+ {
+  "version": "260910.1.0",
+  "id": 310196,
+  "possessionEffectId": 310016,
+  "evaluateConditionId": 310196
+ },
+ {
+  "version": "260910.1.0",
+  "id": 320191,
+  "possessionEffectId": 320191,
+  "evaluateConditionId": 320191
+ },
+ {
+  "version": "260910.1.0",
+  "id": 320192,
+  "possessionEffectId": 320192,
+  "evaluateConditionId": 320192
+ },
+ {
+  "version": "260910.1.0",
+  "id": 320193,
+  "possessionEffectId": 320193,
+  "evaluateConditionId": 320193
+ },
+ {
+  "version": "260910.1.0",
+  "id": 320194,
+  "possessionEffectId": 320194,
+  "evaluateConditionId": 320194
+ },
+ {
+  "version": "260910.1.0",
+  "id": 320195,
+  "possessionEffectId": 320195,
+  "evaluateConditionId": 320195
+ },
+ {
+  "version": "260910.1.0",
+  "id": 320196,
+  "possessionEffectId": 320016,
+  "evaluateConditionId": 320196
+ },
+ {
+  "version": "260910.1.0",
+  "id": 330191,
+  "possessionEffectId": 330191,
+  "evaluateConditionId": 330191
+ },
+ {
+  "version": "260910.1.0",
+  "id": 330192,
+  "possessionEffectId": 330192,
+  "evaluateConditionId": 330192
+ },
+ {
+  "version": "260910.1.0",
+  "id": 330193,
+  "possessionEffectId": 330193,
+  "evaluateConditionId": 330193
+ },
+ {
+  "version": "260910.1.0",
+  "id": 330194,
+  "possessionEffectId": 330194,
+  "evaluateConditionId": 330194
+ },
+ {
+  "version": "260910.1.0",
+  "id": 330195,
+  "possessionEffectId": 330195,
+  "evaluateConditionId": 330195
+ },
+ {
+  "version": "260910.1.0",
+  "id": 330196,
+  "possessionEffectId": 330016,
+  "evaluateConditionId": 330196
+ },
+ {
+  "version": "260910.1.0",
+  "id": 340191,
+  "possessionEffectId": 340191,
+  "evaluateConditionId": 340191
+ },
+ {
+  "version": "260910.1.0",
+  "id": 340192,
+  "possessionEffectId": 340192,
+  "evaluateConditionId": 340192
+ },
+ {
+  "version": "260910.1.0",
+  "id": 340193,
+  "possessionEffectId": 340193,
+  "evaluateConditionId": 340193
+ },
+ {
+  "version": "260910.1.0",
+  "id": 340194,
+  "possessionEffectId": 340194,
+  "evaluateConditionId": 340194
+ },
+ {
+  "version": "260910.1.0",
+  "id": 340195,
+  "possessionEffectId": 340195,
+  "evaluateConditionId": 340195
+ },
+ {
+  "version": "260910.1.0",
+  "id": 340196,
+  "possessionEffectId": 340016,
+  "evaluateConditionId": 340196
+ },
+ {
+  "version": "260910.1.0",
+  "id": 350191,
+  "possessionEffectId": 350191,
+  "evaluateConditionId": 350191
+ },
+ {
+  "version": "260910.1.0",
+  "id": 350192,
+  "possessionEffectId": 350192,
+  "evaluateConditionId": 350192
+ },
+ {
+  "version": "260910.1.0",
+  "id": 350193,
+  "possessionEffectId": 350193,
+  "evaluateConditionId": 350193
+ },
+ {
+  "version": "260910.1.0",
+  "id": 350194,
+  "possessionEffectId": 350194,
+  "evaluateConditionId": 350194
+ },
+ {
+  "version": "260910.1.0",
+  "id": 350195,
+  "possessionEffectId": 350195,
+  "evaluateConditionId": 350195
+ },
+ {
+  "version": "260910.1.0",
+  "id": 350196,
+  "possessionEffectId": 350016,
+  "evaluateConditionId": 350196
+ },
+ {
+  "version": "260910.1.0",
+  "id": 360191,
+  "possessionEffectId": 360191,
+  "evaluateConditionId": 360191
+ },
+ {
+  "version": "260910.1.0",
+  "id": 360192,
+  "possessionEffectId": 360192,
+  "evaluateConditionId": 360192
+ },
+ {
+  "version": "260910.1.0",
+  "id": 360193,
+  "possessionEffectId": 360193,
+  "evaluateConditionId": 360193
+ },
+ {
+  "version": "260910.1.0",
+  "id": 360194,
+  "possessionEffectId": 360194,
+  "evaluateConditionId": 360194
+ },
+ {
+  "version": "260910.1.0",
+  "id": 360195,
+  "possessionEffectId": 360195,
+  "evaluateConditionId": 360195
+ },
+ {
+  "version": "260910.1.0",
+  "id": 360196,
+  "possessionEffectId": 360016,
+  "evaluateConditionId": 360196
+ },
+ {
+  "version": "260910.1.0",
+  "id": 370191,
+  "possessionEffectId": 370191,
+  "evaluateConditionId": 370191
+ },
+ {
+  "version": "260910.1.0",
+  "id": 370192,
+  "possessionEffectId": 370192,
+  "evaluateConditionId": 370192
+ },
+ {
+  "version": "260910.1.0",
+  "id": 370193,
+  "possessionEffectId": 370193,
+  "evaluateConditionId": 370193
+ },
+ {
+  "version": "260910.1.0",
+  "id": 370194,
+  "possessionEffectId": 370194,
+  "evaluateConditionId": 370194
+ },
+ {
+  "version": "260910.1.0",
+  "id": 370195,
+  "possessionEffectId": 370195,
+  "evaluateConditionId": 370195
+ },
+ {
+  "version": "260910.1.0",
+  "id": 370196,
+  "possessionEffectId": 370016,
+  "evaluateConditionId": 370196
+ }
+]

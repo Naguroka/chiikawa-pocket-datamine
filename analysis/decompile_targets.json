@@ -1,0 +1,7866 @@
+[
+ {
+  "class": "StudyTimeCalculator",
+  "ns": "Game.Application.Study",
+  "method": "CalcRequiredSeconds",
+  "args": "int requiredSeconds, BigDecimal calculateValue",
+  "rva": 73909932,
+  "offset": 73893548
+ },
+ {
+  "class": "StudyTimeCalculator",
+  "ns": "Game.Application.Study",
+  "method": "CalcRemainingMinutes",
+  "args": "long startAt, long endAt",
+  "rva": 73910136,
+  "offset": 73893752
+ },
+ {
+  "class": "StudyTimeCalculator",
+  "ns": "Game.Application.Study",
+  "method": "CalcRemainingMinutesToFloat",
+  "args": "long startAt, long endAt",
+  "rva": 73909788,
+  "offset": 73893404
+ },
+ {
+  "class": "StudyTimeCalculator",
+  "ns": "Game.Application.Study",
+  "method": "CalcRemainingSeconds",
+  "args": "long startAt, long endAt",
+  "rva": 73910504,
+  "offset": 73894120
+ },
+ {
+  "class": "StudyTimeCalculator",
+  "ns": "Game.Application.Study",
+  "method": "CalcRemainingSecondsToFloat",
+  "args": "long startAt, long endAt",
+  "rva": 73910616,
+  "offset": 73894232
+ },
+ {
+  "class": "StudyTimeCalculator",
+  "ns": "Game.Application.Study",
+  "method": "CalcRemainingTimeSpan",
+  "args": "long startAt, long endAt",
+  "rva": 73910248,
+  "offset": 73893864
+ },
+ {
+  "class": "IdleRewardSideBarIcon",
+  "ns": "Game.Application.SideBar",
+  "method": "SetMaximumIdleSeconds",
+  "args": "int maximumSeconds",
+  "rva": 77390468,
+  "offset": 77374084
+ },
+ {
+  "class": "IdleRewardSideBarIcon",
+  "ns": "Game.Application.SideBar",
+  "method": "CountDownStart",
+  "args": "long endUnixTimeSeconds, long nowUnixTimeSeconds",
+  "rva": 77390476,
+  "offset": 77374092
+ },
+ {
+  "class": "IdleRewardSideBarIcon",
+  "ns": "Game.Application.SideBar",
+  "method": "OnUpdateTimer",
+  "args": "int remainingSeconds",
+  "rva": 77390768,
+  "offset": 77374384
+ },
+ {
+  "class": "IdleRewardSideBarIcon",
+  "ns": "Game.Application.SideBar",
+  "method": "OnFinishedTimer",
+  "args": "",
+  "rva": 77390936,
+  "offset": 77374552
+ },
+ {
+  "class": "IdleRewardSideBarIcon",
+  "ns": "Game.Application.SideBar",
+  "method": "UpdateIdleRewardAmountRate",
+  "args": "int rate",
+  "rva": 77390496,
+  "offset": 77374112
+ },
+ {
+  "class": "IdleRewardSideBarIcon",
+  "ns": "Game.Application.SideBar",
+  "method": "get_OnClickSubHuntButtonObservable",
+  "args": "",
+  "rva": 77391160,
+  "offset": 77374776
+ },
+ {
+  "class": "HuntCalculator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "Increase",
+  "args": "ref float increaseTarget, float increaseValue",
+  "rva": 74229260,
+  "offset": 74212876
+ },
+ {
+  "class": "HuntCalculator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "Decrease",
+  "args": "ref float decreaseTarget, float decreaseValue",
+  "rva": 74229276,
+  "offset": 74212892
+ },
+ {
+  "class": "HuntCalculator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "CalculateNormalAttackDamage",
+  "args": "bool isTargetBoss, bool isDisplayMaxDamage, BigDecimal normalAttackDamageRate, BigDecimal attack, float criticalRate, Bi",
+  "rva": 74229292,
+  "offset": 74212908
+ },
+ {
+  "class": "HuntCalculator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "CalculateSkillDamage",
+  "args": "bool isTargetBoss, bool isDisplayMaxDamage, SkillType skillType, BigDecimal skillDamageRate, BigDecimal uniqueSkillDamag",
+  "rva": 74229996,
+  "offset": 74213612
+ },
+ {
+  "class": "HuntCalculator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "CalculateRecastRate",
+  "args": "float recastTime, float maxRecastTime",
+  "rva": 74230748,
+  "offset": 74214364
+ },
+ {
+  "class": "HuntCalculator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "Reset",
+  "args": "ref float resetTarget, float resetValue",
+  "rva": 74230916,
+  "offset": 74214532
+ },
+ {
+  "class": "HuntCalculator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "DropGoldPerUnit",
+  "args": "BigDecimal totalDropGold, int unitCount",
+  "rva": 74230924,
+  "offset": 74214540
+ },
+ {
+  "class": "HuntCalculator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "GetAttackBuffStatus",
+  "args": "BigDecimal baseStatus, float buffRate",
+  "rva": 74231056,
+  "offset": 74214672
+ },
+ {
+  "class": "HuntCalculator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "GetBuffStatus",
+  "args": "BigDecimal baseStatus, float buffRate",
+  "rva": 74231216,
+  "offset": 74214832
+ },
+ {
+  "class": "HuntCalculator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "GetBuffStatus",
+  "args": "int baseStatus, float buffRate",
+  "rva": 74231352,
+  "offset": 74214968
+ },
+ {
+  "class": "HuntCalculator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "GetBuffStatus",
+  "args": "float baseStatus, float buffRate",
+  "rva": 74231388,
+  "offset": 74215004
+ },
+ {
+  "class": "HuntCalculator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "GetMoveDistance",
+  "args": "PartyType partyType, float moveDistance",
+  "rva": 74231396,
+  "offset": 74215012
+ },
+ {
+  "class": "HuntCalculator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "IsDead",
+  "args": "HpValue hpValue",
+  "rva": 74231412,
+  "offset": 74215028
+ },
+ {
+  "class": "HuntCalculator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "IsDebuffSkill",
+  "args": "SkillEffectType skillEffectType",
+  "rva": 74231556,
+  "offset": 74215172
+ },
+ {
+  "class": "HuntCalculator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "TryGetDebuffEffectType",
+  "args": "SkillEffectType skillEffectType, out Constant.DebuffEffectType debuffEffectType",
+  "rva": 74231684,
+  "offset": 74215300
+ },
+ {
+  "class": "HuntCalculator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "CalculateHpRecover",
+  "args": "BigDecimal healthRecoverValue",
+  "rva": 74231828,
+  "offset": 74215444
+ },
+ {
+  "class": "HuntCalculator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "GetGameSpeed",
+  "args": "bool isSpeedUp",
+  "rva": 74231832,
+  "offset": 74215448
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_FriendParty",
+  "args": "",
+  "rva": 74232104,
+  "offset": 74215720
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_StageEnemyParties",
+  "args": "",
+  "rva": 74232168,
+  "offset": 74215784
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_StageBossUnit",
+  "args": "",
+  "rva": 74232232,
+  "offset": 74215848
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_StageBackgroundId",
+  "args": "",
+  "rva": 74232296,
+  "offset": 74215912
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_StageBgmId",
+  "args": "",
+  "rva": 74232364,
+  "offset": 74215980
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_Result",
+  "args": "",
+  "rva": 74232432,
+  "offset": 74216048
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "Initialize",
+  "args": "int requestStageId, InGameHuntParameter inGameHuntParameter, IReadOnlyHuntConfigData configData",
+  "rva": 74232496,
+  "offset": 74216112
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateState",
+  "args": "int requestStageId, bool isResetHuntProgress, InGameHuntParameter inGameHuntParameter, IReadOnlyHuntConfigData configDat",
+  "rva": 74233244,
+  "offset": 74216860
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "StartSimulate",
+  "args": "",
+  "rva": 74233320,
+  "offset": 74216936
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateFlow",
+  "args": "float deltaTime, float realElapseSeconds",
+  "rva": 74233376,
+  "offset": 74216992
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "Terminate",
+  "args": "",
+  "rva": 74233628,
+  "offset": 74217244
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "StartBackProcess",
+  "args": "",
+  "rva": 74234176,
+  "offset": 74217792
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "EndBackProcess",
+  "args": "",
+  "rva": 74234248,
+  "offset": 74217864
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "ApplyCurrentProgress",
+  "args": "",
+  "rva": 74234312,
+  "offset": 74217928
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "CreateSnapshotData",
+  "args": "",
+  "rva": 74234368,
+  "offset": 74217984
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "SubscribeBattleLogEvents",
+  "args": "",
+  "rva": 74232952,
+  "offset": 74216568
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UnsubscribeBattleLogEvents",
+  "args": "",
+  "rva": 74233860,
+  "offset": 74217476
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "OnEncountInitialize",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74234432,
+  "offset": 74218048
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_CurrentEncountType",
+  "args": "",
+  "rva": 74234696,
+  "offset": 74218312
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_CurrentEncountModel",
+  "args": "",
+  "rva": 74234884,
+  "offset": 74218500
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "set_CurrentEncountModel",
+  "args": "EncountModel value",
+  "rva": 74234892,
+  "offset": 74218508
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_HasBossStock",
+  "args": "",
+  "rva": 74234900,
+  "offset": 74218516
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "set_HasBossStock",
+  "args": "bool value",
+  "rva": 74234908,
+  "offset": 74218524
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_HasNextEncountData",
+  "args": "",
+  "rva": 74234920,
+  "offset": 74218536
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "set_HasNextEncountData",
+  "args": "bool value",
+  "rva": 74234928,
+  "offset": 74218544
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_NextEncountRequestType",
+  "args": "",
+  "rva": 74234940,
+  "offset": 74218556
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "set_NextEncountRequestType",
+  "args": "EncountRequestType value",
+  "rva": 74234948,
+  "offset": 74218564
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_StageEncountCount",
+  "args": "",
+  "rva": 74234956,
+  "offset": 74218572
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_WinCount",
+  "args": "",
+  "rva": 74234984,
+  "offset": 74218600
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "set_WinCount",
+  "args": "int value",
+  "rva": 74234992,
+  "offset": 74218608
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_IsStageChange",
+  "args": "",
+  "rva": 74235000,
+  "offset": 74218616
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "set_IsStageChange",
+  "args": "bool value",
+  "rva": 74235008,
+  "offset": 74218624
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_StageBackgroundId",
+  "args": "",
+  "rva": 74235020,
+  "offset": 74218636
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_StageBgmId",
+  "args": "",
+  "rva": 74235048,
+  "offset": 74218664
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_CurrentStageId",
+  "args": "",
+  "rva": 74235076,
+  "offset": 74218692
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_EncountLoopCount",
+  "args": "",
+  "rva": 74235104,
+  "offset": 74218720
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "set_EncountLoopCount",
+  "args": "int value",
+  "rva": 74235112,
+  "offset": 74218728
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_IsLastBoss",
+  "args": "",
+  "rva": 74235120,
+  "offset": 74218736
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_CurrentProgressInfo",
+  "args": "",
+  "rva": 74235156,
+  "offset": 74218772
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "set_CurrentProgressInfo",
+  "args": "string value",
+  "rva": 74235164,
+  "offset": 74218780
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_IsLastLoop",
+  "args": "",
+  "rva": 74235172,
+  "offset": 74218788
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "set_IsLastLoop",
+  "args": "bool value",
+  "rva": 74235180,
+  "offset": 74218796
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "ForceStockEncountRequest",
+  "args": "",
+  "rva": 74239712,
+  "offset": 74223328
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateStockEncountId",
+  "args": "int encountId",
+  "rva": 74237668,
+  "offset": 74221284
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "ResetStockEncountId",
+  "args": "",
+  "rva": 74237684,
+  "offset": 74221300
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateNextEncountRequestType",
+  "args": "EncountRequestType encountRequestType",
+  "rva": 74240208,
+  "offset": 74223824
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "ResetEncountRequestType",
+  "args": "",
+  "rva": 74240216,
+  "offset": 74223832
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "InitializeEncountData",
+  "args": "bool isCountUpLoopCount = False",
+  "rva": 74240224,
+  "offset": 74223840
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdatePrevEncountData",
+  "args": "InGameHuntParameter inGameHuntParameter",
+  "rva": 74240296,
+  "offset": 74223912
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateNextEncountData",
+  "args": "InGameHuntParameter inGameHuntParameter",
+  "rva": 74242344,
+  "offset": 74225960
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateBeforeBossEncountData",
+  "args": "",
+  "rva": 74243080,
+  "offset": 74226696
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateBossEncountData",
+  "args": "",
+  "rva": 74243168,
+  "offset": 74226784
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateProgress",
+  "args": "",
+  "rva": 74239788,
+  "offset": 74223404
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "GetNextEncountData",
+  "args": "",
+  "rva": 74243856,
+  "offset": 74227472
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "GenerateCurrentStageEnemyParties",
+  "args": "",
+  "rva": 74243884,
+  "offset": 74227500
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "GetCurrentStageBossUnit",
+  "args": "",
+  "rva": 74244192,
+  "offset": 74227808
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "ResetEncountLoopCount",
+  "args": "",
+  "rva": 74244500,
+  "offset": 74228116
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "IsLastEncount",
+  "args": "",
+  "rva": 74244508,
+  "offset": 74228124
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateEncount",
+  "args": "EncountRequestType nextEncountRequestType, InGameHuntParameter inGameHuntParameter",
+  "rva": 74244576,
+  "offset": 74228192
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateCurrentProgressInfo",
+  "args": "",
+  "rva": 74244712,
+  "offset": 74228328
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "Bind",
+  "args": "",
+  "rva": 74236344,
+  "offset": 74219960
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UnBind",
+  "args": "",
+  "rva": 74235196,
+  "offset": 74218812
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "GetNextDifficultyData",
+  "args": "int difficultyId",
+  "rva": 74242732,
+  "offset": 74226348
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "GetPrevDifficultyData",
+  "args": "int difficultyId",
+  "rva": 74241996,
+  "offset": 74225612
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateHasNextEncountData",
+  "args": "",
+  "rva": 74243256,
+  "offset": 74226872
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "ResetWinCount",
+  "args": "",
+  "rva": 74245232,
+  "offset": 74228848
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "AddWinCount",
+  "args": "",
+  "rva": 74245240,
+  "offset": 74228856
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "GetIsClearedLastDifficulty",
+  "args": "",
+  "rva": 74243364,
+  "offset": 74226980
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "IsNextEncounterCurrentDifficultyLastBoss",
+  "args": "",
+  "rva": 74243600,
+  "offset": 74227216
+ },
+ {
+  "class": "HuntProcessor",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateHuntStageProgressDataStore",
+  "args": "object owner, GameEventArguments events",
+  "rva": 74245256,
+  "offset": 74228872
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnEnter",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine",
+  "rva": 74254220,
+  "offset": 74237836
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnLeave",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine, bool isShutdown",
+  "rva": 74263020,
+  "offset": 74246636
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnUpdateInternal",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine, float elapseSeconds, float realElapseSeconds",
+  "rva": 74264608,
+  "offset": 74248224
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnEncountInitialize",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74264748,
+  "offset": 74248364
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "ShowEncountEnemies",
+  "args": "EnemyParty enemyParty",
+  "rva": 74261524,
+  "offset": 74245140
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnBossEncountProductionEnd",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74264760,
+  "offset": 74248376
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnEnter",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine",
+  "rva": 74264948,
+  "offset": 74248564
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnLeave",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine, bool isShutdown",
+  "rva": 74266672,
+  "offset": 74250288
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnUpdateInternal",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine, float elapseSeconds, float realElapseSeconds",
+  "rva": 74266996,
+  "offset": 74250612
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnEnemyWalkStart",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74267096,
+  "offset": 74250712
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_From",
+  "args": "",
+  "rva": 74281744,
+  "offset": 74265360
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_Skill",
+  "args": "",
+  "rva": 74281752,
+  "offset": 74265368
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_SkillType",
+  "args": "",
+  "rva": 74281760,
+  "offset": 74265376
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnEnter",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine",
+  "rva": 74267112,
+  "offset": 74250728
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnLeave",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine, bool isShutdown",
+  "rva": 74269700,
+  "offset": 74253316
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnUpdateInternal",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine, float elapseSeconds, float realElapseSeconds",
+  "rva": 74271620,
+  "offset": 74255236
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "SkillEnqueue",
+  "args": "IReadOnlyUnit from, Skill skill, SkillType skillType",
+  "rva": 74274208,
+  "offset": 74257824
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "AttackPhase",
+  "args": "FriendParty friendParty, EnemyParty enemyParty, bool isTargetBoss, float deltaTime",
+  "rva": 74273844,
+  "offset": 74257460
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "SkillPhase",
+  "args": "SkillQueue uniqueSkillQueue, SkillQueue assistSkillQueue, FriendParty friendParty, EnemyParty enemyParty, bool isTargetB",
+  "rva": 74273980,
+  "offset": 74257596
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "UpdateSkill",
+  "args": "FriendParty friendParty, EnemyParty enemyParty, bool isTargetBoss, float deltaTime",
+  "rva": 74274640,
+  "offset": 74258256
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "UpdateSkillQueue",
+  "args": "FriendParty friendParty, IBattleEventHelper helper",
+  "rva": 74276076,
+  "offset": 74259692
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "UpdateSkillFire",
+  "args": "SkillQueue uniqueSkillQueue, SkillQueue assistSkillQueue, FriendParty friendParty, EnemyParty enemyParty, bool isTargetB",
+  "rva": 74278008,
+  "offset": 74261624
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "RequestSkillFire",
+  "args": "",
+  "rva": 74274348,
+  "offset": 74257964
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "UpdateBossCountTimer",
+  "args": "float deltaTime, bool isLastBoss",
+  "rva": 74274164,
+  "offset": 74257780
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnMoveUnit",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74278996,
+  "offset": 74262612
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnSkillEnqueue",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74279100,
+  "offset": 74262716
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnSkillFire",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74279204,
+  "offset": 74262820
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnDamage",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74280092,
+  "offset": 74263708
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnHpRecover",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74280876,
+  "offset": 74264492
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnSkillFireRequest",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74281064,
+  "offset": 74264680
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnStatusEffectAdd",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74281376,
+  "offset": 74264992
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnStatusEffectRemove",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74281488,
+  "offset": 74265104
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnEndBossEncountProduction",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74281596,
+  "offset": 74265212
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnEnter",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine",
+  "rva": 74281768,
+  "offset": 74265384
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnLeave",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine, bool isShutdown",
+  "rva": 74282092,
+  "offset": 74265708
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnUpdateInternal",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine, float elapseSeconds, float realElapseSeconds",
+  "rva": 74282420,
+  "offset": 74266036
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnStart",
+  "args": "",
+  "rva": 74284264,
+  "offset": 74267880
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnHuntStart",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74284280,
+  "offset": 74267896
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnEnter",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine",
+  "rva": 74284296,
+  "offset": 74267912
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnUpdateInternal",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine, float elapseSeconds, float realElapseSeconds",
+  "rva": 74285148,
+  "offset": 74268764
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnLeave",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine, bool isShutdown",
+  "rva": 74286768,
+  "offset": 74270384
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "HideEncountEnemies",
+  "args": "EnemyParty enemyParty",
+  "rva": 74285836,
+  "offset": 74269452
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_FriendParty",
+  "args": "",
+  "rva": 74286780,
+  "offset": 74270396
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "set_FriendParty",
+  "args": "FriendParty value",
+  "rva": 74286788,
+  "offset": 74270404
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_EnemyParty",
+  "args": "",
+  "rva": 74286796,
+  "offset": 74270412
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "set_EnemyParty",
+  "args": "EnemyParty value",
+  "rva": 74286804,
+  "offset": 74270420
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_StageEnemyParties",
+  "args": "",
+  "rva": 74286812,
+  "offset": 74270428
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "set_StageEnemyParties",
+  "args": "IReadOnlyList<IReadOnlyEnemyParty> value",
+  "rva": 74286820,
+  "offset": 74270436
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_StageBossUnit",
+  "args": "",
+  "rva": 74286828,
+  "offset": 74270444
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "set_StageBossUnit",
+  "args": "IReadOnlyUnit value",
+  "rva": 74286836,
+  "offset": 74270452
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_Helper",
+  "args": "",
+  "rva": 74286844,
+  "offset": 74270460
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "set_Helper",
+  "args": "IBattleEventHelper value",
+  "rva": 74286852,
+  "offset": 74270468
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_Encount",
+  "args": "",
+  "rva": 74286860,
+  "offset": 74270476
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "set_Encount",
+  "args": "EncountModel value",
+  "rva": 74286868,
+  "offset": 74270484
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_HuntConfigData",
+  "args": "",
+  "rva": 74286876,
+  "offset": 74270492
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "set_HuntConfigData",
+  "args": "IReadOnlyHuntConfigData value",
+  "rva": 74286884,
+  "offset": 74270500
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_UniqueSkillQueue",
+  "args": "",
+  "rva": 74286892,
+  "offset": 74270508
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "set_UniqueSkillQueue",
+  "args": "SkillQueue value",
+  "rva": 74286900,
+  "offset": 74270516
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_AssistSkillQueue",
+  "args": "",
+  "rva": 74286908,
+  "offset": 74270524
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "set_AssistSkillQueue",
+  "args": "SkillQueue value",
+  "rva": 74286916,
+  "offset": 74270532
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_HuntProgressController",
+  "args": "",
+  "rva": 74286924,
+  "offset": 74270540
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "set_HuntProgressController",
+  "args": "HuntProgressController value",
+  "rva": 74286932,
+  "offset": 74270548
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_StatusEffectController",
+  "args": "",
+  "rva": 74286940,
+  "offset": 74270556
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_BossCountTimer",
+  "args": "",
+  "rva": 74286948,
+  "offset": 74270564
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_HuntStageCountTimer",
+  "args": "",
+  "rva": 74286956,
+  "offset": 74270572
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_Result",
+  "args": "",
+  "rva": 74286964,
+  "offset": 74270580
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "set_Result",
+  "args": "InGameHuntResult value",
+  "rva": 74286972,
+  "offset": 74270588
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_IsBackProcess",
+  "args": "",
+  "rva": 74286980,
+  "offset": 74270596
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "set_IsBackProcess",
+  "args": "bool value",
+  "rva": 74286988,
+  "offset": 74270604
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_IsCustomHunt",
+  "args": "",
+  "rva": 74287000,
+  "offset": 74270616
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "set_IsCustomHunt",
+  "args": "bool value",
+  "rva": 74287008,
+  "offset": 74270624
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_IsEnableHuntStageTimer",
+  "args": "",
+  "rva": 74287020,
+  "offset": 74270636
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "set_IsEnableHuntStageTimer",
+  "args": "bool value",
+  "rva": 74287028,
+  "offset": 74270644
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "get_IsStopHuntStageTimer",
+  "args": "",
+  "rva": 74287040,
+  "offset": 74270656
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "set_IsStopHuntStageTimer",
+  "args": "bool value",
+  "rva": 74287048,
+  "offset": 74270664
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "UpdateHuntState",
+  "args": "int requestStageId, bool isResetHuntProgress, InGameHuntParameter inGameHuntParameter, IBattleEventHelper helper, IReadO",
+  "rva": 74251440,
+  "offset": 74235056
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "InitializeEncount",
+  "args": "EncountModel encount",
+  "rva": 74260228,
+  "offset": 74243844
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "StartSimulate",
+  "args": "",
+  "rva": 74252440,
+  "offset": 74236056
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "Initialize",
+  "args": "",
+  "rva": 74250792,
+  "offset": 74234408
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "Shutdown",
+  "args": "",
+  "rva": 74253384,
+  "offset": 74237000
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "StartBackProcess",
+  "args": "",
+  "rva": 74253364,
+  "offset": 74236980
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "EndBackProcess",
+  "args": "",
+  "rva": 74253376,
+  "offset": 74236992
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "StopHuntStageTimer",
+  "args": "",
+  "rva": 74269688,
+  "offset": 74253304
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "ResumeHuntStageTimer",
+  "args": "",
+  "rva": 74273044,
+  "offset": 74256660
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "ApplyCurrentProgress",
+  "args": "",
+  "rva": 74254196,
+  "offset": 74237812
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "ResetSkillState",
+  "args": "SkillQueue uniqueSkillQueue, SkillQueue assistSkillQueue, FriendParty friendParty, EncountType encountType",
+  "rva": 74288748,
+  "offset": 74272364
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnHuntFormationDataStoreUpdateSuccess",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74289236,
+  "offset": 74272852
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnAssistSkillDataStoreUpdateSuccess",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74289656,
+  "offset": 74273272
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "UpdateFriendParty",
+  "args": "",
+  "rva": 74287080,
+  "offset": 74270696
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "HasUpdateEffectRateCurrentFormationAssistSkill",
+  "args": "IReadOnlyList<int> updatedAssistSkillIds",
+  "rva": 74289772,
+  "offset": 74273388
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnEnter",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine",
+  "rva": 74294236,
+  "offset": 74277852
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnLeave",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine, bool isShutdown",
+  "rva": 74294984,
+  "offset": 74278600
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnUpdateInternal",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine, float elapseSeconds, float realElapseSeconds",
+  "rva": 74295308,
+  "offset": 74278924
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "UpdateSkill",
+  "args": "FriendParty friendParty, EnemyParty enemyParty, bool isTargetBoss, float deltaTime",
+  "rva": 74296368,
+  "offset": 74279984
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "",
+  "method": "OnMoveUnit",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74297804,
+  "offset": 74281420
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_FriendParty",
+  "args": "",
+  "rva": 74232140,
+  "offset": 74215756
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_StageEnemyParties",
+  "args": "",
+  "rva": 74232204,
+  "offset": 74215820
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_StageBossUnit",
+  "args": "",
+  "rva": 74232268,
+  "offset": 74215884
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_StageBackgroundId",
+  "args": "",
+  "rva": 74232320,
+  "offset": 74215936
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_StageBgmId",
+  "args": "",
+  "rva": 74232388,
+  "offset": 74216004
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_Result",
+  "args": "",
+  "rva": 74232468,
+  "offset": 74216084
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "Initialize",
+  "args": "int requestStageId, InGameHuntParameter inGameHuntParameter, IBattleEventHelper helper, IReadOnlyHuntConfigData configDa",
+  "rva": 74232796,
+  "offset": 74216412
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateState",
+  "args": "int requestStageId, bool isResetHuntProgress, InGameHuntParameter inGameHuntParameter, IBattleEventHelper helper, IReadO",
+  "rva": 74233292,
+  "offset": 74216908
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "StartSimulate",
+  "args": "",
+  "rva": 74233352,
+  "offset": 74216968
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "StartBackProcess",
+  "args": "",
+  "rva": 74234216,
+  "offset": 74217832
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "EndBackProcess",
+  "args": "",
+  "rva": 74234284,
+  "offset": 74217900
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "Dispose",
+  "args": "",
+  "rva": 74234152,
+  "offset": 74217768
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "ApplyCurrentProgress",
+  "args": "",
+  "rva": 74234336,
+  "offset": 74217952
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "CreateSnapshotData",
+  "args": "",
+  "rva": 74234392,
+  "offset": 74218008
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_IsCustomHunt",
+  "args": "",
+  "rva": 74297908,
+  "offset": 74281524
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "Start",
+  "args": "",
+  "rva": 74297916,
+  "offset": 74281532
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "End",
+  "args": "",
+  "rva": 74297932,
+  "offset": 74281548
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "Pause",
+  "args": "",
+  "rva": 74297948,
+  "offset": 74281564
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "Resume",
+  "args": "",
+  "rva": 74297964,
+  "offset": 74281580
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "OnEnter",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine",
+  "rva": 74258368,
+  "offset": 74241984
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "OnLeave",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine, bool isShutdown",
+  "rva": 74263532,
+  "offset": 74247148
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "OnUpdate",
+  "args": "IFiniteStateMachine<HuntSimulator.HuntState> finiteStateMachine, float elapseSeconds, float realElapseSeconds",
+  "rva": 74297980,
+  "offset": 74281596
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "OnStart",
+  "args": "",
+  "rva": 74284276,
+  "offset": 74267892
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "OnEnd",
+  "args": "",
+  "rva": 74298400,
+  "offset": 74282016
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "OnPause",
+  "args": "",
+  "rva": 74298404,
+  "offset": 74282020
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "OnResume",
+  "args": "",
+  "rva": 74298408,
+  "offset": 74282024
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "CheckResultPhase",
+  "args": "FriendParty friendParty, EnemyParty enemyParty, IBattleEventHelper helper, int encountId, bool isLastEncount, bool isNex",
+  "rva": 74272556,
+  "offset": 74256172
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "OnRestartHuntProcessRequest",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74299924,
+  "offset": 74283540
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "OnHuntFormationUpdate",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74299964,
+  "offset": 74283580
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "OnRequestBossStock",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74300004,
+  "offset": 74283620
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateHuntStageCountTimer",
+  "args": "CountTimer huntStageCountTimer, float deltaTime, bool isEnableHuntStageTimer, bool isStopHuntStageTimer",
+  "rva": 74298368,
+  "offset": 74281984
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "Result",
+  "args": "HuntResult huntResult, IBattleEventHelper helper, int encountId, float enemyRemainingHpRate, BigDecimal totalDamage",
+  "rva": 74299584,
+  "offset": 74283200
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "OnResult",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74300076,
+  "offset": 74283692
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "OnRequestRetire",
+  "args": "object sender, GameEventArguments e",
+  "rva": 74300544,
+  "offset": 74284160
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "NormalResultProcess",
+  "args": "bool isWin, bool isLastEncount",
+  "rva": 74300308,
+  "offset": 74283924
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "SingleStageResultProcess",
+  "args": "bool isWin, bool isLastEncount",
+  "rva": 74300248,
+  "offset": 74283864
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateNextEncountRequestWaitNext",
+  "args": "",
+  "rva": 74300640,
+  "offset": 74284256
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateNextEncountRequestNext",
+  "args": "",
+  "rva": 74300896,
+  "offset": 74284512
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateNextEncountRequestStay",
+  "args": "",
+  "rva": 74300864,
+  "offset": 74284480
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateNextEncountRequestPrevAndReset",
+  "args": "",
+  "rva": 74300832,
+  "offset": 74284448
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateNextEncountRequestBeforeBoss",
+  "args": "",
+  "rva": 74300672,
+  "offset": 74284288
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "UpdateNextEncountRequestBoss",
+  "args": "",
+  "rva": 74300800,
+  "offset": 74284416
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "ResetSkillState",
+  "args": "SkillQueue uniqueSkillQueue, SkillQueue assistSkillQueue, FriendParty friendParty",
+  "rva": 74300704,
+  "offset": 74284320
+ },
+ {
+  "class": "HuntSimulator",
+  "ns": "Game.Application.InGameHunt",
+  "method": "Start",
+  "args": "",
+  "rva": 74264776,
+  "offset": 74248392
+ },
+ {
+  "class": "DamageValue",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_Value",
+  "args": "",
+  "rva": 74307108,
+  "offset": 74290724
+ },
+ {
+  "class": "DamageValue",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_IsCritical",
+  "args": "",
+  "rva": 74307120,
+  "offset": 74290736
+ },
+ {
+  "class": "DamageValue",
+  "ns": "Game.Application.InGameHunt",
+  "method": "get_IsDisplayMaxDamage",
+  "args": "",
+  "rva": 74307128,
+  "offset": 74290744
+ },
+ {
+  "class": "DamageValue",
+  "ns": "Game.Application.InGameHunt",
+  "method": "ToString",
+  "args": "",
+  "rva": 74307136,
+  "offset": 74290752
+ },
+ {
+  "class": "IdleRewardController",
+  "ns": "Game.Application.IdleReward",
+  "method": "Dispose",
+  "args": "",
+  "rva": 74849900,
+  "offset": 74833516
+ },
+ {
+  "class": "IdleRewardController",
+  "ns": "Game.Application.IdleReward",
+  "method": "ReceiveIdleReward",
+  "args": "",
+  "rva": 74855636,
+  "offset": 74839252
+ },
+ {
+  "class": "IdleRewardController",
+  "ns": "Game.Application.IdleReward",
+  "method": "OpenReceiveBonusIdleRewardPopup",
+  "args": "",
+  "rva": 74855880,
+  "offset": 74839496
+ },
+ {
+  "class": "IdleRewardController",
+  "ns": "Game.Application.IdleReward",
+  "method": "OnClickDisableBonusIdleRewardButton",
+  "args": "",
+  "rva": 74856116,
+  "offset": 74839732
+ },
+ {
+  "class": "IdleRewardController",
+  "ns": "Game.Application.IdleReward",
+  "method": "ReceiveBonusReward",
+  "args": "",
+  "rva": 74856352,
+  "offset": 74839968
+ },
+ {
+  "class": "IdleRewardController",
+  "ns": "Game.Application.IdleReward",
+  "method": "ReceiveAdsBonusReward",
+  "args": "",
+  "rva": 74856588,
+  "offset": 74840204
+ },
+ {
+  "class": "IdleRewardController",
+  "ns": "Game.Application.IdleReward",
+  "method": "OnClickHintButton",
+  "args": "",
+  "rva": 74856824,
+  "offset": 74840440
+ },
+ {
+  "class": "IdleRewardController",
+  "ns": "Game.Application.IdleReward",
+  "method": "OnOpenIdleRewardPopupRequest",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74857060,
+  "offset": 74840676
+ },
+ {
+  "class": "IdleRewardController",
+  "ns": "Game.Application.IdleReward",
+  "method": "OnFinishedIdleRewardIntervalTimer",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74857292,
+  "offset": 74840908
+ },
+ {
+  "class": "IdleRewardController",
+  "ns": "Game.Application.IdleReward",
+  "method": "OnClickRewardThumbnail",
+  "args": "IRewardData rewardData",
+  "rva": 74857528,
+  "offset": 74841144
+ },
+ {
+  "class": "IdleRewardController",
+  "ns": "Game.Application.IdleReward",
+  "method": "OnUiCompletedOut",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74857780,
+  "offset": 74841396
+ },
+ {
+  "class": "IdleRewardOnFinishedIntervalTimerEventArguments",
+  "ns": "Game.Application.IdleReward",
+  "method": "get_Id",
+  "args": "",
+  "rva": 74858128,
+  "offset": 74841744
+ },
+ {
+  "class": "IdleRewardOnFinishedIntervalTimerEventArguments",
+  "ns": "Game.Application.IdleReward",
+  "method": "Create",
+  "args": "",
+  "rva": 74858216,
+  "offset": 74841832
+ },
+ {
+  "class": "IdleRewardOnFinishedIntervalTimerEventArguments",
+  "ns": "Game.Application.IdleReward",
+  "method": "Clear",
+  "args": "",
+  "rva": 74858316,
+  "offset": 74841932
+ },
+ {
+  "class": "IdleRewardPopupOpenRequestEventArguments",
+  "ns": "Game.Application.IdleReward",
+  "method": "get_Id",
+  "args": "",
+  "rva": 74858492,
+  "offset": 74842108
+ },
+ {
+  "class": "IdleRewardPopupOpenRequestEventArguments",
+  "ns": "Game.Application.IdleReward",
+  "method": "Create",
+  "args": "",
+  "rva": 74858580,
+  "offset": 74842196
+ },
+ {
+  "class": "IdleRewardPopupOpenRequestEventArguments",
+  "ns": "Game.Application.IdleReward",
+  "method": "Clear",
+  "args": "",
+  "rva": 74858680,
+  "offset": 74842296
+ },
+ {
+  "class": "IdleRewardUtility",
+  "ns": "Game.Application.IdleReward",
+  "method": "CalculateIdleGoldAmountPerMinute",
+  "args": "",
+  "rva": 74858856,
+  "offset": 74842472
+ },
+ {
+  "class": "IdleRewardPresenter",
+  "ns": "Game.Application.IdleReward",
+  "method": "SetIdleRewardDataInternal",
+  "args": "IReadOnlyList<IRewardData> idleRewardDataList, IReadOnlyList<IRewardData> idleBonusRewardDataList, IdleRewardData idleRe",
+  "rva": 74863952,
+  "offset": 74847568
+ },
+ {
+  "class": "IdleRewardPresenter",
+  "ns": "Game.Application.IdleReward",
+  "method": "SetPredictBonusIdleRewardDataInternal",
+  "args": "IdleBonusRewardData idleBonusRewardData, int receivedCountLimitPerDay, IReadOnlyList<IRewardData> rewardDataList, bool i",
+  "rva": 74867088,
+  "offset": 74850704
+ },
+ {
+  "class": "IdleRewardPresenter",
+  "ns": "Game.Application.IdleReward",
+  "method": "SetIdleRewardTitleViewInternal",
+  "args": "IReadOnlyList<IRewardData> rewards, IdleRewardData idleRewardData, BigDecimal idleGoldAmountPerMinute, int calculatedIdl",
+  "rva": 74865292,
+  "offset": 74848908
+ },
+ {
+  "class": "IdleRewardPresenter",
+  "ns": "Game.Application.IdleReward",
+  "method": "SetIdleRewardDataListInternal",
+  "args": "IReadOnlyList<IRewardData> idleRewardDataList",
+  "rva": 74865612,
+  "offset": 74849228
+ },
+ {
+  "class": "IdleRewardPresenter",
+  "ns": "Game.Application.IdleReward",
+  "method": "GetGoldAmount",
+  "args": "IReadOnlyList<IRewardData> rewards",
+  "rva": 74868136,
+  "offset": 74851752
+ },
+ {
+  "class": "IdleRewardPresenter",
+  "ns": "Game.Application.IdleReward",
+  "method": "IsEnableReceiveIdleReward",
+  "args": "int idleRewardMinutes, long idleRewardReceivableTimeMilliseconds",
+  "rva": 74869876,
+  "offset": 74853492
+ },
+ {
+  "class": "IdleRewardPresenter",
+  "ns": "Game.Application.IdleReward",
+  "method": "ApplyIdleRewardDataInternal",
+  "args": "IdleRewardData idleRewardData, int calculatedIdleMinutes",
+  "rva": 74864172,
+  "offset": 74847788
+ },
+ {
+  "class": "IdleRewardPresenter",
+  "ns": "Game.Application.IdleReward",
+  "method": "ApplyIdleBonusRewardDataInternal",
+  "args": "IdleBonusRewardData bonusRewardData, bool isAdsSkip, int receivedCountLimitPerDay, int calculatedBonusIdleMinutes",
+  "rva": 74864568,
+  "offset": 74848184
+ },
+ {
+  "class": "IdleRewardPresenter",
+  "ns": "Game.Application.IdleReward",
+  "method": "UpdateEnableReceiveRewardView",
+  "args": "bool isEnableReceiveReward, int idleMinutes, BigDecimal rewardAmount",
+  "rva": 74870092,
+  "offset": 74853708
+ },
+ {
+  "class": "IdleRewardPresenter",
+  "ns": "Game.Application.IdleReward",
+  "method": "UpdateRewardReceiveButtonView",
+  "args": "int remainIntervalTimeSeconds",
+  "rva": 74871316,
+  "offset": 74854932
+ },
+ {
+  "class": "IdleRewardPresenter",
+  "ns": "Game.Application.IdleReward",
+  "method": "UpdateBonusRewardReceiveButtonView",
+  "args": "int remainIntervalTimeSeconds, bool hasRemainBonus",
+  "rva": 74871996,
+  "offset": 74855612
+ },
+ {
+  "class": "IdleRewardPresenter",
+  "ns": "Game.Application.IdleReward",
+  "method": "CreateIdleRewardCellsData",
+  "args": "IReadOnlyList<IRewardData> rewards",
+  "rva": 74869260,
+  "offset": 74852876
+ },
+ {
+  "class": "IdleRewardPresenter",
+  "ns": "Game.Application.IdleReward",
+  "method": "OnFinishIdleRewardIntervalCountDown",
+  "args": "",
+  "rva": 74872404,
+  "offset": 74856020
+ },
+ {
+  "class": "IdleRewardPresenter",
+  "ns": "Game.Application.IdleReward",
+  "method": "OnUpdateIdleRewardIntervalCountDown",
+  "args": "int remainSeconds",
+  "rva": 74872612,
+  "offset": 74856228
+ },
+ {
+  "class": "IdleRewardPresenter",
+  "ns": "Game.Application.IdleReward",
+  "method": "OnUpdateIdleBonusRewardIntervalCountDown",
+  "args": "int remainSeconds",
+  "rva": 74872616,
+  "offset": 74856232
+ },
+ {
+  "class": "IdleRewardPresenter",
+  "ns": "Game.Application.IdleReward",
+  "method": "OpenIdleRewardPopup",
+  "args": "",
+  "rva": 74871764,
+  "offset": 74855380
+ },
+ {
+  "class": "IdleRewardInteractor",
+  "ns": "Game.Application.IdleReward",
+  "method": "PredictIdleRewardInternal",
+  "args": "IdleRewardPredictRequestType type, bool showRequestResult",
+  "rva": 74881400,
+  "offset": 74865016
+ },
+ {
+  "class": "IdleRewardInteractor",
+  "ns": "Game.Application.IdleReward",
+  "method": "ReceiveIdleRewardInternal",
+  "args": "IdleRewardType type, bool showRequestResult",
+  "rva": 74881684,
+  "offset": 74865300
+ },
+ {
+  "class": "IdleRewardInteractor",
+  "ns": "Game.Application.IdleReward",
+  "method": "OpenIdleRewardPopupInternal",
+  "args": "",
+  "rva": 74879964,
+  "offset": 74863580
+ },
+ {
+  "class": "IdleRewardInteractor",
+  "ns": "Game.Application.IdleReward",
+  "method": "OnUpdatePredictIdleReward",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74882528,
+  "offset": 74866144
+ },
+ {
+  "class": "IdleRewardInteractor",
+  "ns": "Game.Application.IdleReward",
+  "method": "OnUpdateReceiveIdleReward",
+  "args": "object sender, GameEventArguments eventArguments",
+  "rva": 74883932,
+  "offset": 74867548
+ },
+ {
+  "class": "IdleRewardInteractor",
+  "ns": "Game.Application.IdleReward",
+  "method": "OnPredictIdleReward",
+  "args": "IdleRewardRequestUiType requestUiType, IdleRewardData idleRewardData, IdleBonusRewardData bonusRewardData, IReadOnlyList",
+  "rva": 74882784,
+  "offset": 74866400
+ },
+ {
+  "class": "IdleRewardInteractor",
+  "ns": "Game.Application.IdleReward",
+  "method": "SetIdleReward",
+  "args": "IdleRewardData idleRewardData, IdleBonusRewardData bonusRewardData, IReadOnlyList<IRewardData> idleRewardDataList, IRead",
+  "rva": 74885256,
+  "offset": 74868872
+ },
+ {
+  "class": "IdleRewardInteractor",
+  "ns": "Game.Application.IdleReward",
+  "method": "CanSkipAdvertisement",
+  "args": "",
+  "rva": 74882276,
+  "offset": 74865892
+ },
+ {
+  "class": "IdleRewardInteractor",
+  "ns": "Game.Application.IdleReward",
+  "method": "OnPredictBonusIdleReward",
+  "args": "IdleBonusRewardData idleBonusRewardData, IReadOnlyList<IRewardData> idleRewardDataList, int receivedCountLimitPerDay",
+  "rva": 74883704,
+  "offset": 74867320
+ },
+ {
+  "class": "IdleRewardInteractor",
+  "ns": "Game.Application.IdleReward",
+  "method": "SetPredictBonusIdleReward",
+  "args": "IdleBonusRewardData idleBonusRewardData, IReadOnlyList<IRewardData> idleRewardDataList, int receivedCountLimitPerDay",
+  "rva": 74885908,
+  "offset": 74869524
+ },
+ {
+  "class": "IdleRewardInteractor",
+  "ns": "Game.Application.IdleReward",
+  "method": "OnReceiveIdleReward",
+  "args": "IReadOnlyList<IRewardData> idleRewardDataList",
+  "rva": 74884720,
+  "offset": 74868336
+ },
+ {
+  "class": "IdleRewardInteractor",
+  "ns": "Game.Application.IdleReward",
+  "method": "OnReceiveBonusIdleReward",
+  "args": "IReadOnlyList<IRewardData> idleBonusRewardDataList",
+  "rva": 74884988,
+  "offset": 74868604
+ },
+ {
+  "class": "IdleRewardInteractor",
+  "ns": "Game.Application.IdleReward",
+  "method": "OpenIdleRewardPopup",
+  "args": "",
+  "rva": 74886212,
+  "offset": 74869828
+ },
+ {
+  "class": "IdleRewardDataGenReflection",
+  "ns": "WithNetwork.Transaction",
+  "method": "get_Descriptor",
+  "args": "",
+  "rva": 156538448,
+  "offset": 156522064
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "get_Parser",
+  "args": "",
+  "rva": 156540344,
+  "offset": 156523960
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "get_Descriptor",
+  "args": "",
+  "rva": 156540432,
+  "offset": 156524048
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "Clone",
+  "args": "",
+  "rva": 156540876,
+  "offset": 156524492
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "get_RecordId",
+  "args": "",
+  "rva": 156540964,
+  "offset": 156524580
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "set_RecordId",
+  "args": "int value",
+  "rva": 156540972,
+  "offset": 156524588
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "get_IdleMinutesTarget",
+  "args": "",
+  "rva": 156540980,
+  "offset": 156524596
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "set_IdleMinutesTarget",
+  "args": "bool value",
+  "rva": 156540988,
+  "offset": 156524604
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "get_MaxIdleReceivableDatetime",
+  "args": "",
+  "rva": 156541000,
+  "offset": 156524616
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "set_MaxIdleReceivableDatetime",
+  "args": "long value",
+  "rva": 156541008,
+  "offset": 156524624
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "get_NextReceivableDatetime",
+  "args": "",
+  "rva": 156541016,
+  "offset": 156524632
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "set_NextReceivableDatetime",
+  "args": "long value",
+  "rva": 156541024,
+  "offset": 156524640
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "get_CreatedDatetime",
+  "args": "",
+  "rva": 156541032,
+  "offset": 156524648
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "set_CreatedDatetime",
+  "args": "long value",
+  "rva": 156541040,
+  "offset": 156524656
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "get_LastReceivedDatetime",
+  "args": "",
+  "rva": 156541048,
+  "offset": 156524664
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "set_LastReceivedDatetime",
+  "args": "long value",
+  "rva": 156541056,
+  "offset": 156524672
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "Equals",
+  "args": "object other",
+  "rva": 156541064,
+  "offset": 156524680
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "Equals",
+  "args": "IdleRewardData other",
+  "rva": 156541164,
+  "offset": 156524780
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "GetHashCode",
+  "args": "",
+  "rva": 156541320,
+  "offset": 156524936
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "ToString",
+  "args": "",
+  "rva": 156541628,
+  "offset": 156525244
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "WriteTo",
+  "args": "CodedOutputStream output",
+  "rva": 156541716,
+  "offset": 156525332
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "CalculateSize",
+  "args": "",
+  "rva": 156542044,
+  "offset": 156525660
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "MergeFrom",
+  "args": "IdleRewardData other",
+  "rva": 156542380,
+  "offset": 156525996
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork.Transaction",
+  "method": "MergeFrom",
+  "args": "CodedInputStream input",
+  "rva": 156542508,
+  "offset": 156526124
+ },
+ {
+  "class": "IdleRewardGenReflection",
+  "ns": "WithNetwork.Master",
+  "method": "get_Descriptor",
+  "args": "",
+  "rva": 154740336,
+  "offset": 154723952
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "get_Parser",
+  "args": "",
+  "rva": 154742076,
+  "offset": 154725692
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "get_Descriptor",
+  "args": "",
+  "rva": 154742164,
+  "offset": 154725780
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "Clone",
+  "args": "",
+  "rva": 154742676,
+  "offset": 154726292
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "get_Version",
+  "args": "",
+  "rva": 154742764,
+  "offset": 154726380
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "set_Version",
+  "args": "string value",
+  "rva": 154742772,
+  "offset": 154726388
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "get_Id",
+  "args": "",
+  "rva": 154742896,
+  "offset": 154726512
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "set_Id",
+  "args": "int value",
+  "rva": 154742904,
+  "offset": 154726520
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "get_IdleRewardGroupId",
+  "args": "",
+  "rva": 154742912,
+  "offset": 154726528
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "set_IdleRewardGroupId",
+  "args": "int value",
+  "rva": 154742920,
+  "offset": 154726536
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "get_RewardId",
+  "args": "",
+  "rva": 154742928,
+  "offset": 154726544
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "set_RewardId",
+  "args": "int value",
+  "rva": 154742936,
+  "offset": 154726552
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "get_AwaitMinutesForUnitReward",
+  "args": "",
+  "rva": 154742944,
+  "offset": 154726560
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "set_AwaitMinutesForUnitReward",
+  "args": "int value",
+  "rva": 154742952,
+  "offset": 154726568
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "Equals",
+  "args": "object other",
+  "rva": 154742960,
+  "offset": 154726576
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "Equals",
+  "args": "IdleReward other",
+  "rva": 154743060,
+  "offset": 154726676
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "GetHashCode",
+  "args": "",
+  "rva": 154743220,
+  "offset": 154726836
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "ToString",
+  "args": "",
+  "rva": 154743432,
+  "offset": 154727048
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "WriteTo",
+  "args": "CodedOutputStream output",
+  "rva": 154743520,
+  "offset": 154727136
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "CalculateSize",
+  "args": "",
+  "rva": 154743820,
+  "offset": 154727436
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "MergeFrom",
+  "args": "IdleReward other",
+  "rva": 154744152,
+  "offset": 154727768
+ },
+ {
+  "class": "IdleReward",
+  "ns": "WithNetwork.Master",
+  "method": "MergeFrom",
+  "args": "CodedInputStream input",
+  "rva": 154744300,
+  "offset": 154727916
+ },
+ {
+  "class": "IdleRewardGroupGenReflection",
+  "ns": "WithNetwork.Master",
+  "method": "get_Descriptor",
+  "args": "",
+  "rva": 154745140,
+  "offset": 154728756
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "get_Parser",
+  "args": "",
+  "rva": 154746708,
+  "offset": 154730324
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "get_Descriptor",
+  "args": "",
+  "rva": 154746796,
+  "offset": 154730412
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "Clone",
+  "args": "",
+  "rva": 154747308,
+  "offset": 154730924
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "get_Version",
+  "args": "",
+  "rva": 154747396,
+  "offset": 154731012
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "set_Version",
+  "args": "string value",
+  "rva": 154747404,
+  "offset": 154731020
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "get_Id",
+  "args": "",
+  "rva": 154747528,
+  "offset": 154731144
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "set_Id",
+  "args": "int value",
+  "rva": 154747536,
+  "offset": 154731152
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "get_MaxIdleMinutes",
+  "args": "",
+  "rva": 154747544,
+  "offset": 154731160
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "set_MaxIdleMinutes",
+  "args": "int value",
+  "rva": 154747552,
+  "offset": 154731168
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "get_ReceiveDelayMinutes",
+  "args": "",
+  "rva": 154747560,
+  "offset": 154731176
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "set_ReceiveDelayMinutes",
+  "args": "int value",
+  "rva": 154747568,
+  "offset": 154731184
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "get_BonusReceiveDelayMinutes",
+  "args": "",
+  "rva": 154747576,
+  "offset": 154731192
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "set_BonusReceiveDelayMinutes",
+  "args": "int value",
+  "rva": 154747584,
+  "offset": 154731200
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "Equals",
+  "args": "object other",
+  "rva": 154747592,
+  "offset": 154731208
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "Equals",
+  "args": "IdleRewardGroup other",
+  "rva": 154747692,
+  "offset": 154731308
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "GetHashCode",
+  "args": "",
+  "rva": 154747852,
+  "offset": 154731468
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "ToString",
+  "args": "",
+  "rva": 154748064,
+  "offset": 154731680
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "WriteTo",
+  "args": "CodedOutputStream output",
+  "rva": 154748152,
+  "offset": 154731768
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "CalculateSize",
+  "args": "",
+  "rva": 154748452,
+  "offset": 154732068
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "MergeFrom",
+  "args": "IdleRewardGroup other",
+  "rva": 154748784,
+  "offset": 154732400
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork.Master",
+  "method": "MergeFrom",
+  "args": "CodedInputStream input",
+  "rva": 154748932,
+  "offset": 154732548
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "get_Parser",
+  "args": "",
+  "rva": 154825104,
+  "offset": 154808720
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "get_Descriptor",
+  "args": "",
+  "rva": 154825192,
+  "offset": 154808808
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "Clone",
+  "args": "",
+  "rva": 154825776,
+  "offset": 154809392
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "get_Version",
+  "args": "",
+  "rva": 154825864,
+  "offset": 154809480
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "set_Version",
+  "args": "string value",
+  "rva": 154825872,
+  "offset": 154809488
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "get_Id",
+  "args": "",
+  "rva": 154825996,
+  "offset": 154809612
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "set_Id",
+  "args": "int value",
+  "rva": 154826004,
+  "offset": 154809620
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "get_LevelRangeType",
+  "args": "",
+  "rva": 154826012,
+  "offset": 154809628
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "set_LevelRangeType",
+  "args": "LevelRangeType value",
+  "rva": 154826020,
+  "offset": 154809636
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "get_RangeStartLevel",
+  "args": "",
+  "rva": 154826028,
+  "offset": 154809644
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "set_RangeStartLevel",
+  "args": "int value",
+  "rva": 154826036,
+  "offset": 154809652
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "get_RangeEndLevel",
+  "args": "",
+  "rva": 154826044,
+  "offset": 154809660
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "set_RangeEndLevel",
+  "args": "int value",
+  "rva": 154826052,
+  "offset": 154809668
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "get_StartValue",
+  "args": "",
+  "rva": 154826060,
+  "offset": 154809676
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "set_StartValue",
+  "args": "string value",
+  "rva": 154826068,
+  "offset": 154809684
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "get_EndValue",
+  "args": "",
+  "rva": 154826192,
+  "offset": 154809808
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "set_EndValue",
+  "args": "string value",
+  "rva": 154826200,
+  "offset": 154809816
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "get_ValueType",
+  "args": "",
+  "rva": 154826324,
+  "offset": 154809940
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "set_ValueType",
+  "args": "LevelRangeValueType value",
+  "rva": 154826332,
+  "offset": 154809948
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "Equals",
+  "args": "object other",
+  "rva": 154826340,
+  "offset": 154809956
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "Equals",
+  "args": "LevelRangeValue other",
+  "rva": 154826440,
+  "offset": 154810056
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "GetHashCode",
+  "args": "",
+  "rva": 154826656,
+  "offset": 154810272
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "ToString",
+  "args": "",
+  "rva": 154826968,
+  "offset": 154810584
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "WriteTo",
+  "args": "CodedOutputStream output",
+  "rva": 154827056,
+  "offset": 154810672
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "CalculateSize",
+  "args": "",
+  "rva": 154827492,
+  "offset": 154811108
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "MergeFrom",
+  "args": "LevelRangeValue other",
+  "rva": 154827972,
+  "offset": 154811588
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork.Master",
+  "method": "MergeFrom",
+  "args": "CodedInputStream input",
+  "rva": 154828180,
+  "offset": 154811796
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork.Master",
+  "method": "get_Parser",
+  "args": "",
+  "rva": 154830776,
+  "offset": 154814392
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork.Master",
+  "method": "get_Descriptor",
+  "args": "",
+  "rva": 154830864,
+  "offset": 154814480
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork.Master",
+  "method": "Clone",
+  "args": "",
+  "rva": 154831540,
+  "offset": 154815156
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork.Master",
+  "method": "get_Version",
+  "args": "",
+  "rva": 154831628,
+  "offset": 154815244
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork.Master",
+  "method": "set_Version",
+  "args": "string value",
+  "rva": 154831636,
+  "offset": 154815252
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork.Master",
+  "method": "get_Id",
+  "args": "",
+  "rva": 154831760,
+  "offset": 154815376
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork.Master",
+  "method": "set_Id",
+  "args": "int value",
+  "rva": 154831768,
+  "offset": 154815384
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork.Master",
+  "method": "get_LevelRangeValueIds",
+  "args": "",
+  "rva": 154831776,
+  "offset": 154815392
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork.Master",
+  "method": "Equals",
+  "args": "object other",
+  "rva": 154831784,
+  "offset": 154815400
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork.Master",
+  "method": "Equals",
+  "args": "LevelRangeValueGroup other",
+  "rva": 154831884,
+  "offset": 154815500
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork.Master",
+  "method": "GetHashCode",
+  "args": "",
+  "rva": 154832064,
+  "offset": 154815680
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork.Master",
+  "method": "ToString",
+  "args": "",
+  "rva": 154832220,
+  "offset": 154815836
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork.Master",
+  "method": "WriteTo",
+  "args": "CodedOutputStream output",
+  "rva": 154832308,
+  "offset": 154815924
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork.Master",
+  "method": "CalculateSize",
+  "args": "",
+  "rva": 154832612,
+  "offset": 154816228
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork.Master",
+  "method": "MergeFrom",
+  "args": "LevelRangeValueGroup other",
+  "rva": 154832908,
+  "offset": 154816524
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork.Master",
+  "method": "MergeFrom",
+  "args": "CodedInputStream input",
+  "rva": 154833080,
+  "offset": 154816696
+ },
+ {
+  "class": "IdleRewardPredictRequestTypeGenReflection",
+  "ns": "WithNetwork.Enums",
+  "method": "get_Descriptor",
+  "args": "",
+  "rva": 155565656,
+  "offset": 155549272
+ },
+ {
+  "class": "IdleRewardRequestUiTypeGenReflection",
+  "ns": "WithNetwork.Enums",
+  "method": "get_Descriptor",
+  "args": "",
+  "rva": 155566600,
+  "offset": 155550216
+ },
+ {
+  "class": "IdleRewardTypeGenReflection",
+  "ns": "WithNetwork.Enums",
+  "method": "get_Descriptor",
+  "args": "",
+  "rva": 155567544,
+  "offset": 155551160
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "get_Parser",
+  "args": "",
+  "rva": 156217700,
+  "offset": 156201316
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "get_Descriptor",
+  "args": "",
+  "rva": 156217788,
+  "offset": 156201404
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "Clone",
+  "args": "",
+  "rva": 156218780,
+  "offset": 156202396
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "get_RewardResults",
+  "args": "",
+  "rva": 156218868,
+  "offset": 156202484
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "get_BonusRewardResults",
+  "args": "",
+  "rva": 156218876,
+  "offset": 156202492
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "get_IdleRewardStatus",
+  "args": "",
+  "rva": 156218884,
+  "offset": 156202500
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "get_IdleBonusRewardStatus",
+  "args": "",
+  "rva": 156218892,
+  "offset": 156202508
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "get_CommonResponse",
+  "args": "",
+  "rva": 156218900,
+  "offset": 156202516
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "set_CommonResponse",
+  "args": "Response value",
+  "rva": 156218908,
+  "offset": 156202524
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "Equals",
+  "args": "object other",
+  "rva": 156218916,
+  "offset": 156202532
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "Equals",
+  "args": "IdleRewardPredictIdleRewardResponse other",
+  "rva": 156219016,
+  "offset": 156202632
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "GetHashCode",
+  "args": "",
+  "rva": 156219292,
+  "offset": 156202908
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "ToString",
+  "args": "",
+  "rva": 156219504,
+  "offset": 156203120
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "WriteTo",
+  "args": "CodedOutputStream output",
+  "rva": 156219592,
+  "offset": 156203208
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "CalculateSize",
+  "args": "",
+  "rva": 156219992,
+  "offset": 156203608
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "MergeFrom",
+  "args": "IdleRewardPredictIdleRewardResponse other",
+  "rva": 156220380,
+  "offset": 156203996
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "MergeFrom",
+  "args": "CodedInputStream input",
+  "rva": 156220724,
+  "offset": 156204340
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "get_Parser",
+  "args": "",
+  "rva": 156222424,
+  "offset": 156206040
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "get_Descriptor",
+  "args": "",
+  "rva": 156222512,
+  "offset": 156206128
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "Clone",
+  "args": "",
+  "rva": 156223164,
+  "offset": 156206780
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "get_RewardResults",
+  "args": "",
+  "rva": 156223252,
+  "offset": 156206868
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "get_CommonResponse",
+  "args": "",
+  "rva": 156223260,
+  "offset": 156206876
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "set_CommonResponse",
+  "args": "Response value",
+  "rva": 156223268,
+  "offset": 156206884
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "Equals",
+  "args": "object other",
+  "rva": 156223276,
+  "offset": 156206892
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "Equals",
+  "args": "IdleRewardReceiveIdleRewardResponse other",
+  "rva": 156223376,
+  "offset": 156206992
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "GetHashCode",
+  "args": "",
+  "rva": 156223540,
+  "offset": 156207156
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "ToString",
+  "args": "",
+  "rva": 156223648,
+  "offset": 156207264
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "WriteTo",
+  "args": "CodedOutputStream output",
+  "rva": 156223736,
+  "offset": 156207352
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "CalculateSize",
+  "args": "",
+  "rva": 156224000,
+  "offset": 156207616
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "MergeFrom",
+  "args": "IdleRewardReceiveIdleRewardResponse other",
+  "rva": 156224228,
+  "offset": 156207844
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponse",
+  "ns": "WithNetwork.Api",
+  "method": "MergeFrom",
+  "args": "CodedInputStream input",
+  "rva": 156224472,
+  "offset": 156208088
+ },
+ {
+  "class": "IdleRewardGenReflection",
+  "ns": "WithNetwork.Api",
+  "method": "get_Descriptor",
+  "args": "",
+  "rva": 156755524,
+  "offset": 156739140
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "get_Parser",
+  "args": "",
+  "rva": 156761048,
+  "offset": 156744664
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "get_Descriptor",
+  "args": "",
+  "rva": 156761136,
+  "offset": 156744752
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "Clone",
+  "args": "",
+  "rva": 156761556,
+  "offset": 156745172
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "get_IdleRewardPredictRequestType",
+  "args": "",
+  "rva": 156761644,
+  "offset": 156745260
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "set_IdleRewardPredictRequestType",
+  "args": "IdleRewardPredictRequestType value",
+  "rva": 156761652,
+  "offset": 156745268
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "get_IdleRewardGroupId",
+  "args": "",
+  "rva": 156761660,
+  "offset": 156745276
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "set_IdleRewardGroupId",
+  "args": "int value",
+  "rva": 156761668,
+  "offset": 156745284
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "Equals",
+  "args": "object other",
+  "rva": 156761676,
+  "offset": 156745292
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "Equals",
+  "args": "IdleRewardPredictIdleRewardRequest other",
+  "rva": 156761776,
+  "offset": 156745392
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "GetHashCode",
+  "args": "",
+  "rva": 156761852,
+  "offset": 156745468
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "ToString",
+  "args": "",
+  "rva": 156761972,
+  "offset": 156745588
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "WriteTo",
+  "args": "CodedOutputStream output",
+  "rva": 156762060,
+  "offset": 156745676
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "CalculateSize",
+  "args": "",
+  "rva": 156762228,
+  "offset": 156745844
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "MergeFrom",
+  "args": "IdleRewardPredictIdleRewardRequest other",
+  "rva": 156762408,
+  "offset": 156746024
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "MergeFrom",
+  "args": "CodedInputStream input",
+  "rva": 156762484,
+  "offset": 156746100
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "get_RequestUiType",
+  "args": "",
+  "rva": 156762720,
+  "offset": 156746336
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "set_RequestUiType",
+  "args": "IdleRewardRequestUiType value",
+  "rva": 156762728,
+  "offset": 156746344
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "get_Parser",
+  "args": "",
+  "rva": 156763212,
+  "offset": 156746828
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "get_Descriptor",
+  "args": "",
+  "rva": 156763300,
+  "offset": 156746916
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "Clone",
+  "args": "",
+  "rva": 156763720,
+  "offset": 156747336
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "get_IdleRewardType",
+  "args": "",
+  "rva": 156763808,
+  "offset": 156747424
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "set_IdleRewardType",
+  "args": "IdleRewardType value",
+  "rva": 156763816,
+  "offset": 156747432
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "get_IdleRewardGroupId",
+  "args": "",
+  "rva": 156763824,
+  "offset": 156747440
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "set_IdleRewardGroupId",
+  "args": "int value",
+  "rva": 156763832,
+  "offset": 156747448
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "Equals",
+  "args": "object other",
+  "rva": 156763840,
+  "offset": 156747456
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "Equals",
+  "args": "IdleRewardReceiveIdleRewardRequest other",
+  "rva": 156763940,
+  "offset": 156747556
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "GetHashCode",
+  "args": "",
+  "rva": 156764016,
+  "offset": 156747632
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "ToString",
+  "args": "",
+  "rva": 156764136,
+  "offset": 156747752
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "WriteTo",
+  "args": "CodedOutputStream output",
+  "rva": 156764224,
+  "offset": 156747840
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "CalculateSize",
+  "args": "",
+  "rva": 156764392,
+  "offset": 156748008
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "MergeFrom",
+  "args": "IdleRewardReceiveIdleRewardRequest other",
+  "rva": 156764572,
+  "offset": 156748188
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardRequest",
+  "ns": "WithNetwork.Api",
+  "method": "MergeFrom",
+  "args": "CodedInputStream input",
+  "rva": 156764648,
+  "offset": 156748264
+ },
+ {
+  "class": "IdleRewardStatus",
+  "ns": "WithNetwork.Api",
+  "method": "get_Parser",
+  "args": "",
+  "rva": 156765360,
+  "offset": 156748976
+ },
+ {
+  "class": "IdleRewardStatus",
+  "ns": "WithNetwork.Api",
+  "method": "get_Descriptor",
+  "args": "",
+  "rva": 156765448,
+  "offset": 156749064
+ },
+ {
+  "class": "IdleRewardStatus",
+  "ns": "WithNetwork.Api",
+  "method": "Clone",
+  "args": "",
+  "rva": 156765876,
+  "offset": 156749492
+ },
+ {
+  "class": "IdleRewardStatus",
+  "ns": "WithNetwork.Api",
+  "method": "get_RecordId",
+  "args": "",
+  "rva": 156765964,
+  "offset": 156749580
+ },
+ {
+  "class": "IdleRewardStatus",
+  "ns": "WithNetwork.Api",
+  "method": "set_RecordId",
+  "args": "int value",
+  "rva": 156765972,
+  "offset": 156749588
+ },
+ {
+  "class": "IdleRewardStatus",
+  "ns": "WithNetwork.Api",
+  "method": "get_MaxIdleReceivableDatetime",
+  "args": "",
+  "rva": 156765980,
+  "offset": 156749596
+ },
+ {
+  "class": "IdleRewardStatus",
+  "ns": "WithNetwork.Api",
+  "method": "set_MaxIdleReceivableDatetime",
+  "args": "long value",
+  "rva": 156765988,
+  "offset": 156749604
+ },
+ {
+  "class": "IdleRewardStatus",
+  "ns": "WithNetwork.Api",
+  "method": "get_NextReceivableDatetime",
+  "args": "",
+  "rva": 156765996,
+  "offset": 156749612
+ },
+ {
+  "class": "IdleRewardStatus",
+  "ns": "WithNetwork.Api",
+  "method": "set_NextReceivableDatetime",
+  "args": "long value",
+  "rva": 156766004,
+  "offset": 156749620
+ },
+ {
+  "class": "IdleRewardStatus",
+  "ns": "WithNetwork.Api",
+  "method": "Equals",
+  "args": "object other",
+  "rva": 156766012,
+  "offset": 156749628
+ },
+ {
+  "class": "IdleRewardStatus",
+  "ns": "WithNetwork.Api",
+  "method": "Equals",
+  "args": "IdleRewardStatus other",
+  "rva": 156766112,
+  "offset": 156749728
+ },
+ {
+  "class": "IdleRewardStatus",
+  "ns": "WithNetwork.Api",
+  "method": "GetHashCode",
+  "args": "",
+  "rva": 156766204,
+  "offset": 156749820
+ },
+ {
+  "class": "IdleRewardStatus",
+  "ns": "WithNetwork.Api",
+  "method": "ToString",
+  "args": "",
+  "rva": 156766360,
+  "offset": 156749976
+ },
+ {
+  "class": "IdleRewardStatus",
+  "ns": "WithNetwork.Api",
+  "method": "WriteTo",
+  "args": "CodedOutputStream output",
+  "rva": 156766448,
+  "offset": 156750064
+ },
+ {
+  "class": "IdleRewardStatus",
+  "ns": "WithNetwork.Api",
+  "method": "CalculateSize",
+  "args": "",
+  "rva": 156766656,
+  "offset": 156750272
+ },
+ {
+  "class": "IdleRewardStatus",
+  "ns": "WithNetwork.Api",
+  "method": "MergeFrom",
+  "args": "IdleRewardStatus other",
+  "rva": 156766880,
+  "offset": 156750496
+ },
+ {
+  "class": "IdleRewardStatus",
+  "ns": "WithNetwork.Api",
+  "method": "MergeFrom",
+  "args": "CodedInputStream input",
+  "rva": 156766968,
+  "offset": 156750584
+ },
+ {
+  "class": "CookingResourceCalculator",
+  "ns": "WithNetwork",
+  "method": "FloatToBigDecimal",
+  "args": "float value",
+  "rva": 152135048,
+  "offset": 152118664
+ },
+ {
+  "class": "CookingResourceCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateGenerateValueCafe",
+  "args": "CookingResourceGenerateCoefficientData coefficientData, int targetGenerateResourceId, int cafeLevel, ICookingKitchenData",
+  "rva": 152135208,
+  "offset": 152118824
+ },
+ {
+  "class": "CookingResourceCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateGenerateValueKitchen",
+  "args": "CookingResourceGenerateCoefficientData coefficientData, int targetGenerateResourceId, ICookingKitchenData kitchenData, I",
+  "rva": 152136048,
+  "offset": 152119664
+ },
+ {
+  "class": "CookingResourceCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateGenerateValueFormationSlot",
+  "args": "CookingResourceGenerateCoefficientData coefficientData, ICookingKitchenData kitchenData, ICookingFormationCostumeData co",
+  "rva": 152137528,
+  "offset": 152121144
+ },
+ {
+  "class": "CookingResourceCalculator",
+  "ns": "WithNetwork",
+  "method": "ApplyCafeEffectCoefficient",
+  "args": "CookingResourceGenerateCoefficientData coefficientData, bool isActiveBoost, bool isActiveResourceAcquireBuff, ref BigDec",
+  "rva": 152126960,
+  "offset": 152110576
+ },
+ {
+  "class": "CookingResourceCalculator",
+  "ns": "WithNetwork",
+  "method": "ApplyKitchenLevelCoefficient",
+  "args": "CookingResourceGenerateCoefficientData coefficientData, int kitchenLevel, ref BigDecimal targetValue",
+  "rva": 152138216,
+  "offset": 152121832
+ },
+ {
+  "class": "CookingResourceCalculator",
+  "ns": "WithNetwork",
+  "method": "ApplyFormationSlotCoefficient",
+  "args": "CookingResourceGenerateCoefficientData coefficientData, bool isMainSlot, ref BigDecimal targetValue",
+  "rva": 152138376,
+  "offset": 152121992
+ },
+ {
+  "class": "CookingResourceCalculator",
+  "ns": "WithNetwork",
+  "method": "ApplyCharacterCoefficient",
+  "args": "CookingResourceGenerateCoefficientData coefficientData, bool isGenreMatch, Rarity targetRarity, ref BigDecimal targetVal",
+  "rva": 152138544,
+  "offset": 152122160
+ },
+ {
+  "class": "CookingResourceCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateCafeLevelCoefficient",
+  "args": "CookingResourceGenerateCoefficientData coefficientData, int cafeLevel, ref BigDecimal targetValue",
+  "rva": 152138056,
+  "offset": 152121672
+ },
+ {
+  "class": "CookingResourceCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBoostCoefficient",
+  "args": "CookingResourceGenerateCoefficientData coefficientData, bool isActiveBoost, ref BigDecimal targetValue",
+  "rva": 152138848,
+  "offset": 152122464
+ },
+ {
+  "class": "CookingResourceCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateResourceAcquireBuffCoefficient",
+  "args": "CookingResourceGenerateCoefficientData coefficientData, bool isPaymentPack, ref BigDecimal targetValue",
+  "rva": 152139036,
+  "offset": 152122652
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponseDataUpdateEvent",
+  "ns": "WithNetwork",
+  "method": "get_Id",
+  "args": "",
+  "rva": 152366616,
+  "offset": 152350232
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponseDataUpdateEvent",
+  "ns": "WithNetwork",
+  "method": "get_Data",
+  "args": "",
+  "rva": 152366704,
+  "offset": 152350320
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponseDataUpdateEvent",
+  "ns": "WithNetwork",
+  "method": "set_Data",
+  "args": "IdleRewardPredictIdleRewardResponseData value",
+  "rva": 152366716,
+  "offset": 152350332
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponseDataUpdateEvent",
+  "ns": "WithNetwork",
+  "method": "Create",
+  "args": "IdleRewardPredictIdleRewardResponseData data",
+  "rva": 152351536,
+  "offset": 152335152
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponseDataUpdateEvent",
+  "ns": "WithNetwork",
+  "method": "Clear",
+  "args": "",
+  "rva": 152366732,
+  "offset": 152350348
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponseDataUpdateEvent",
+  "ns": "WithNetwork",
+  "method": "get_Id",
+  "args": "",
+  "rva": 152366920,
+  "offset": 152350536
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponseDataUpdateEvent",
+  "ns": "WithNetwork",
+  "method": "get_Data",
+  "args": "",
+  "rva": 152367008,
+  "offset": 152350624
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponseDataUpdateEvent",
+  "ns": "WithNetwork",
+  "method": "set_Data",
+  "args": "IdleRewardReceiveIdleRewardResponseData value",
+  "rva": 152367020,
+  "offset": 152350636
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponseDataUpdateEvent",
+  "ns": "WithNetwork",
+  "method": "Create",
+  "args": "IdleRewardReceiveIdleRewardResponseData data",
+  "rva": 152351688,
+  "offset": 152335304
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponseDataUpdateEvent",
+  "ns": "WithNetwork",
+  "method": "Clear",
+  "args": "",
+  "rva": 152367036,
+  "offset": 152350652
+ },
+ {
+  "class": "BossDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "GetCalculateValue",
+  "args": "",
+  "rva": 152470656,
+  "offset": 152454272
+ },
+ {
+  "class": "BossDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "AddStatusUpRate",
+  "args": "BigDecimal rate",
+  "rva": 152470796,
+  "offset": 152454412
+ },
+ {
+  "class": "BossDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "AddStatusUpValue",
+  "args": "BigDecimal value",
+  "rva": 152470924,
+  "offset": 152454540
+ },
+ {
+  "class": "BossDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "ResetStatusUp",
+  "args": "",
+  "rva": 152471052,
+  "offset": 152454668
+ },
+ {
+  "class": "HpValue",
+  "ns": "WithNetwork",
+  "method": "get_IsDamaged",
+  "args": "",
+  "rva": 152476116,
+  "offset": 152459732
+ },
+ {
+  "class": "HpValue",
+  "ns": "WithNetwork",
+  "method": "AddDamage",
+  "args": "BigDecimal damage",
+  "rva": 152476316,
+  "offset": 152459932
+ },
+ {
+  "class": "HpValue",
+  "ns": "WithNetwork",
+  "method": "DecreaseDamage",
+  "args": "BigDecimal damage",
+  "rva": 152476444,
+  "offset": 152460060
+ },
+ {
+  "class": "HpValue",
+  "ns": "WithNetwork",
+  "method": "GetCalculateMaxValue",
+  "args": "",
+  "rva": 152476660,
+  "offset": 152460276
+ },
+ {
+  "class": "HpValue",
+  "ns": "WithNetwork",
+  "method": "GetCalculateValue",
+  "args": "",
+  "rva": 152476800,
+  "offset": 152460416
+ },
+ {
+  "class": "HpValue",
+  "ns": "WithNetwork",
+  "method": "AddStatusUpRate",
+  "args": "BigDecimal rate",
+  "rva": 152477028,
+  "offset": 152460644
+ },
+ {
+  "class": "HpValue",
+  "ns": "WithNetwork",
+  "method": "AddStatusUpValue",
+  "args": "BigDecimal value",
+  "rva": 152477156,
+  "offset": 152460772
+ },
+ {
+  "class": "HpValue",
+  "ns": "WithNetwork",
+  "method": "ResetAddOnStatus",
+  "args": "bool isBuffOnly",
+  "rva": 152477284,
+  "offset": 152460900
+ },
+ {
+  "class": "HpValue",
+  "ns": "WithNetwork",
+  "method": "ResetStatusUp",
+  "args": "",
+  "rva": 152477388,
+  "offset": 152461004
+ },
+ {
+  "class": "MobDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "GetCalculateValue",
+  "args": "",
+  "rva": 152477576,
+  "offset": 152461192
+ },
+ {
+  "class": "MobDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "AddStatusUpRate",
+  "args": "BigDecimal rate",
+  "rva": 152477716,
+  "offset": 152461332
+ },
+ {
+  "class": "MobDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "AddStatusUpValue",
+  "args": "BigDecimal value",
+  "rva": 152477844,
+  "offset": 152461460
+ },
+ {
+  "class": "MobDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "ResetStatusUp",
+  "args": "",
+  "rva": 152477972,
+  "offset": 152461588
+ },
+ {
+  "class": "NormalAttackDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "GetCalculateValue",
+  "args": "",
+  "rva": 152478160,
+  "offset": 152461776
+ },
+ {
+  "class": "NormalAttackDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "AddStatusUpRate",
+  "args": "BigDecimal rate",
+  "rva": 152478300,
+  "offset": 152461916
+ },
+ {
+  "class": "NormalAttackDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "AddStatusUpValue",
+  "args": "BigDecimal value",
+  "rva": 152478428,
+  "offset": 152462044
+ },
+ {
+  "class": "NormalAttackDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "ResetStatusUp",
+  "args": "",
+  "rva": 152478556,
+  "offset": 152462172
+ },
+ {
+  "class": "SkillDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "GetCalculateValue",
+  "args": "",
+  "rva": 152479328,
+  "offset": 152462944
+ },
+ {
+  "class": "SkillDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "AddStatusUpRate",
+  "args": "BigDecimal rate",
+  "rva": 152479468,
+  "offset": 152463084
+ },
+ {
+  "class": "SkillDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "AddStatusUpValue",
+  "args": "BigDecimal value",
+  "rva": 152479596,
+  "offset": 152463212
+ },
+ {
+  "class": "SkillDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "ResetStatusUp",
+  "args": "",
+  "rva": 152479724,
+  "offset": 152463340
+ },
+ {
+  "class": "UniqueSkillDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "GetCalculateValue",
+  "args": "",
+  "rva": 152481932,
+  "offset": 152465548
+ },
+ {
+  "class": "UniqueSkillDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "AddStatusUpRate",
+  "args": "BigDecimal rate",
+  "rva": 152482072,
+  "offset": 152465688
+ },
+ {
+  "class": "UniqueSkillDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "AddStatusUpValue",
+  "args": "BigDecimal value",
+  "rva": 152482200,
+  "offset": 152465816
+ },
+ {
+  "class": "UniqueSkillDamageRateValue",
+  "ns": "WithNetwork",
+  "method": "ResetStatusUp",
+  "args": "",
+  "rva": 152482328,
+  "offset": 152465944
+ },
+ {
+  "class": "IdleRewardDataStore",
+  "ns": "WithNetwork",
+  "method": "get_DatasRequiringUpdate",
+  "args": "",
+  "rva": 152532548,
+  "offset": 152516164
+ },
+ {
+  "class": "IdleRewardDataStore",
+  "ns": "WithNetwork",
+  "method": "OnInitialize",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 152532556,
+  "offset": 152516172
+ },
+ {
+  "class": "IdleRewardDataStore",
+  "ns": "WithNetwork",
+  "method": "OnDependencyDataTableUpdated",
+  "args": "Type dataType, UpdatedDataSet updatedDataSet, DataTableContainer dataTableContainer",
+  "rva": 152533204,
+  "offset": 152516820
+ },
+ {
+  "class": "IdleRewardDataStore",
+  "ns": "WithNetwork",
+  "method": "GetLimitPerDay",
+  "args": "int idleRewardGroupId",
+  "rva": 152534892,
+  "offset": 152518508
+ },
+ {
+  "class": "IdleRewardDataStore",
+  "ns": "WithNetwork",
+  "method": "GetMaximumIdleMinutes",
+  "args": "int idleRewardGroupId",
+  "rva": 152535808,
+  "offset": 152519424
+ },
+ {
+  "class": "IdleRewardDataStore",
+  "ns": "WithNetwork",
+  "method": "CalculateIdleMinutes",
+  "args": "DateTime lastReceivedDatetime",
+  "rva": 152535908,
+  "offset": 152519524
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_Id",
+  "args": "",
+  "rva": 152537172,
+  "offset": 152520788
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "set_Id",
+  "args": "int value",
+  "rva": 152537180,
+  "offset": 152520796
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_Type",
+  "args": "",
+  "rva": 152537188,
+  "offset": 152520804
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_MaximumIdleMinutes",
+  "args": "",
+  "rva": 152537196,
+  "offset": 152520812
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "set_MaximumIdleMinutes",
+  "args": "int value",
+  "rva": 152537204,
+  "offset": 152520820
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_IdleMinutes",
+  "args": "",
+  "rva": 152537212,
+  "offset": 152520828
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "set_IdleMinutes",
+  "args": "int value",
+  "rva": 152537220,
+  "offset": 152520836
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_IdleMilliseconds",
+  "args": "",
+  "rva": 152537228,
+  "offset": 152520844
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "set_IdleMilliseconds",
+  "args": "long value",
+  "rva": 152537236,
+  "offset": 152520852
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_MaxIdleReceivableAtUnixTimeMilliseconds",
+  "args": "",
+  "rva": 152537244,
+  "offset": 152520860
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "set_MaxIdleReceivableAtUnixTimeMilliseconds",
+  "args": "long value",
+  "rva": 152537252,
+  "offset": 152520868
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_DailyReceivedCount",
+  "args": "",
+  "rva": 152537260,
+  "offset": 152520876
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "set_DailyReceivedCount",
+  "args": "int value",
+  "rva": 152537268,
+  "offset": 152520884
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_ReceivedCountLimitPerDay",
+  "args": "",
+  "rva": 152537276,
+  "offset": 152520892
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "set_ReceivedCountLimitPerDay",
+  "args": "int value",
+  "rva": 152537284,
+  "offset": 152520900
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_NextResetAtUnixTimeMilliseconds",
+  "args": "",
+  "rva": 152537292,
+  "offset": 152520908
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "set_NextResetAtUnixTimeMilliseconds",
+  "args": "long value",
+  "rva": 152537300,
+  "offset": 152520916
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_NextReceivableAtUnixTimeMilliseconds",
+  "args": "",
+  "rva": 152537308,
+  "offset": 152520924
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "set_NextReceivableAtUnixTimeMilliseconds",
+  "args": "long value",
+  "rva": 152537316,
+  "offset": 152520932
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_UpdateAtUnixTimeMilliseconds",
+  "args": "",
+  "rva": 152537324,
+  "offset": 152520940
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "set_UpdateAtUnixTimeMilliseconds",
+  "args": "long value",
+  "rva": 152537332,
+  "offset": 152520948
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_CreatedAtUnixTimeMilliseconds",
+  "args": "",
+  "rva": 152537340,
+  "offset": 152520956
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "set_CreatedAtUnixTimeMilliseconds",
+  "args": "long value",
+  "rva": 152537348,
+  "offset": 152520964
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_InDelay",
+  "args": "",
+  "rva": 152537356,
+  "offset": 152520972
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "set_InDelay",
+  "args": "bool value",
+  "rva": 152537364,
+  "offset": 152520980
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_ReceiveDelayMinutes",
+  "args": "",
+  "rva": 152537376,
+  "offset": 152520992
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "set_ReceiveDelayMinutes",
+  "args": "int value",
+  "rva": 152537384,
+  "offset": 152521000
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_IdleRewardsDictionary",
+  "args": "",
+  "rva": 152537392,
+  "offset": 152521008
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "set_IdleRewardsDictionary",
+  "args": "Dictionary<int, IdleRewardData> value",
+  "rva": 152537400,
+  "offset": 152521016
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_IdleRewards",
+  "args": "",
+  "rva": 152537408,
+  "offset": 152521024
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_IdleBonusRewards",
+  "args": "",
+  "rva": 152537416,
+  "offset": 152521032
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_Record",
+  "args": "",
+  "rva": 152537472,
+  "offset": 152521088
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "set_Record",
+  "args": "IdleRewardGroupRecord value",
+  "rva": 152537480,
+  "offset": 152521096
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_PredictRewardsList",
+  "args": "",
+  "rva": 152537488,
+  "offset": 152521104
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "set_PredictRewardsList",
+  "args": "List<DistributionReward> value",
+  "rva": 152537496,
+  "offset": 152521112
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_ReceivedRewardsList",
+  "args": "",
+  "rva": 152537504,
+  "offset": 152521120
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "set_ReceivedRewardsList",
+  "args": "List<DistributionReward> value",
+  "rva": 152537512,
+  "offset": 152521128
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_PredictRewards",
+  "args": "",
+  "rva": 152537520,
+  "offset": 152521136
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "get_ReceivedRewards",
+  "args": "",
+  "rva": 152537528,
+  "offset": 152521144
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "GetGoldAmount",
+  "args": "bool isPredict",
+  "rva": 152537536,
+  "offset": 152521152
+ },
+ {
+  "class": "IdleRewardGroup",
+  "ns": "WithNetwork",
+  "method": "GetLimitPerDay",
+  "args": "int idleRewardGroupId",
+  "rva": 152538556,
+  "offset": 152522172
+ },
+ {
+  "class": "IdleRewardGroupTableDataStore",
+  "ns": "WithNetwork.Table",
+  "method": "GetRecord",
+  "args": "int id",
+  "rva": 153222076,
+  "offset": 153205692
+ },
+ {
+  "class": "IdleRewardGroupTableDataStore",
+  "ns": "WithNetwork.Table",
+  "method": "GetAllRecords",
+  "args": "",
+  "rva": 153222164,
+  "offset": 153205780
+ },
+ {
+  "class": "IdleRewardGroupTableDataStore",
+  "ns": "WithNetwork.Table",
+  "method": "GetAllRecord",
+  "args": "",
+  "rva": 153222172,
+  "offset": 153205788
+ },
+ {
+  "class": "IdleRewardGroupTableDataStore",
+  "ns": "WithNetwork.Table",
+  "method": "OnInitialize",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 153222180,
+  "offset": 153205796
+ },
+ {
+  "class": "IdleRewardGroupTableDataStore",
+  "ns": "WithNetwork.Table",
+  "method": "OnShutdown",
+  "args": "",
+  "rva": 153223368,
+  "offset": 153206984
+ },
+ {
+  "class": "IdleRewardTableDataStore",
+  "ns": "WithNetwork.Table",
+  "method": "GetRecord",
+  "args": "int id",
+  "rva": 153223492,
+  "offset": 153207108
+ },
+ {
+  "class": "IdleRewardTableDataStore",
+  "ns": "WithNetwork.Table",
+  "method": "GetAllRecords",
+  "args": "",
+  "rva": 153223580,
+  "offset": 153207196
+ },
+ {
+  "class": "IdleRewardTableDataStore",
+  "ns": "WithNetwork.Table",
+  "method": "GetAllRecord",
+  "args": "",
+  "rva": 153223588,
+  "offset": 153207204
+ },
+ {
+  "class": "IdleRewardTableDataStore",
+  "ns": "WithNetwork.Table",
+  "method": "OnInitialize",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 153223596,
+  "offset": 153207212
+ },
+ {
+  "class": "IdleRewardTableDataStore",
+  "ns": "WithNetwork.Table",
+  "method": "OnShutdown",
+  "args": "",
+  "rva": 153224784,
+  "offset": 153208400
+ },
+ {
+  "class": "IdleRewardGroupRecord",
+  "ns": "WithNetwork.Table",
+  "method": "get_Id",
+  "args": "",
+  "rva": 153507212,
+  "offset": 153490828
+ },
+ {
+  "class": "IdleRewardGroupRecord",
+  "ns": "WithNetwork.Table",
+  "method": "get_Version",
+  "args": "",
+  "rva": 153507220,
+  "offset": 153490836
+ },
+ {
+  "class": "IdleRewardGroupRecord",
+  "ns": "WithNetwork.Table",
+  "method": "set_Version",
+  "args": "string value",
+  "rva": 153507228,
+  "offset": 153490844
+ },
+ {
+  "class": "IdleRewardGroupRecord",
+  "ns": "WithNetwork.Table",
+  "method": "get_MaxIdleMinutes",
+  "args": "",
+  "rva": 153507236,
+  "offset": 153490852
+ },
+ {
+  "class": "IdleRewardGroupRecord",
+  "ns": "WithNetwork.Table",
+  "method": "set_MaxIdleMinutes",
+  "args": "int value",
+  "rva": 153507244,
+  "offset": 153490860
+ },
+ {
+  "class": "IdleRewardGroupRecord",
+  "ns": "WithNetwork.Table",
+  "method": "get_ReceiveDelayMinutes",
+  "args": "",
+  "rva": 153507252,
+  "offset": 153490868
+ },
+ {
+  "class": "IdleRewardGroupRecord",
+  "ns": "WithNetwork.Table",
+  "method": "set_ReceiveDelayMinutes",
+  "args": "int value",
+  "rva": 153507260,
+  "offset": 153490876
+ },
+ {
+  "class": "IdleRewardGroupRecord",
+  "ns": "WithNetwork.Table",
+  "method": "get_BonusReceiveDelayMinutes",
+  "args": "",
+  "rva": 153507268,
+  "offset": 153490884
+ },
+ {
+  "class": "IdleRewardGroupRecord",
+  "ns": "WithNetwork.Table",
+  "method": "set_BonusReceiveDelayMinutes",
+  "args": "int value",
+  "rva": 153507276,
+  "offset": 153490892
+ },
+ {
+  "class": "IdleRewardGroupRecord",
+  "ns": "WithNetwork.Table",
+  "method": "ParseData",
+  "args": "string dataRowString, object userData",
+  "rva": 153507284,
+  "offset": 153490900
+ },
+ {
+  "class": "IdleRewardGroupRecord",
+  "ns": "WithNetwork.Table",
+  "method": "ParseData",
+  "args": "byte[] dataRowBytes, int startIndex, int length, object userData",
+  "rva": 153507660,
+  "offset": 153491276
+ },
+ {
+  "class": "IdleRewardRecord",
+  "ns": "WithNetwork.Table",
+  "method": "get_Id",
+  "args": "",
+  "rva": 153507852,
+  "offset": 153491468
+ },
+ {
+  "class": "IdleRewardRecord",
+  "ns": "WithNetwork.Table",
+  "method": "get_Version",
+  "args": "",
+  "rva": 153507860,
+  "offset": 153491476
+ },
+ {
+  "class": "IdleRewardRecord",
+  "ns": "WithNetwork.Table",
+  "method": "set_Version",
+  "args": "string value",
+  "rva": 153507868,
+  "offset": 153491484
+ },
+ {
+  "class": "IdleRewardRecord",
+  "ns": "WithNetwork.Table",
+  "method": "get_IdleRewardGroupId",
+  "args": "",
+  "rva": 153507876,
+  "offset": 153491492
+ },
+ {
+  "class": "IdleRewardRecord",
+  "ns": "WithNetwork.Table",
+  "method": "set_IdleRewardGroupId",
+  "args": "int value",
+  "rva": 153507884,
+  "offset": 153491500
+ },
+ {
+  "class": "IdleRewardRecord",
+  "ns": "WithNetwork.Table",
+  "method": "get_RewardId",
+  "args": "",
+  "rva": 153507892,
+  "offset": 153491508
+ },
+ {
+  "class": "IdleRewardRecord",
+  "ns": "WithNetwork.Table",
+  "method": "set_RewardId",
+  "args": "int value",
+  "rva": 153507900,
+  "offset": 153491516
+ },
+ {
+  "class": "IdleRewardRecord",
+  "ns": "WithNetwork.Table",
+  "method": "get_AwaitMinutesForUnitReward",
+  "args": "",
+  "rva": 153507908,
+  "offset": 153491524
+ },
+ {
+  "class": "IdleRewardRecord",
+  "ns": "WithNetwork.Table",
+  "method": "set_AwaitMinutesForUnitReward",
+  "args": "int value",
+  "rva": 153507916,
+  "offset": 153491532
+ },
+ {
+  "class": "IdleRewardRecord",
+  "ns": "WithNetwork.Table",
+  "method": "ParseData",
+  "args": "string dataRowString, object userData",
+  "rva": 153507924,
+  "offset": 153491540
+ },
+ {
+  "class": "IdleRewardRecord",
+  "ns": "WithNetwork.Table",
+  "method": "ParseData",
+  "args": "byte[] dataRowBytes, int startIndex, int length, object userData",
+  "rva": 153508300,
+  "offset": 153491916
+ },
+ {
+  "class": "IdleRewardGroupTable",
+  "ns": "WithNetwork.Table",
+  "method": "OnLoadTableSuccess",
+  "args": "object sender, GameEventArguments e",
+  "rva": 153889932,
+  "offset": 153873548
+ },
+ {
+  "class": "IdleRewardGroupTable",
+  "ns": "WithNetwork.Table",
+  "method": "LoadCache",
+  "args": "",
+  "rva": 153888716,
+  "offset": 153872332
+ },
+ {
+  "class": "IdleRewardTable",
+  "ns": "WithNetwork.Table",
+  "method": "OnLoadTableSuccess",
+  "args": "object sender, GameEventArguments e",
+  "rva": 153892180,
+  "offset": 153875796
+ },
+ {
+  "class": "IdleRewardTable",
+  "ns": "WithNetwork.Table",
+  "method": "LoadCache",
+  "args": "",
+  "rva": 153890964,
+  "offset": 153874580
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponseDataExtensions",
+  "ns": "WithNetwork",
+  "method": "ToWithData",
+  "args": "IdleRewardPredictIdleRewardResponse source, IdleRewardPredictIdleRewardRequest request",
+  "rva": 158475972,
+  "offset": 158459588
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponseDataExtensions",
+  "ns": "WithNetwork",
+  "method": "ToWithData",
+  "args": "IdleRewardReceiveIdleRewardResponse source, IdleRewardReceiveIdleRewardRequest request",
+  "rva": 158476044,
+  "offset": 158459660
+ },
+ {
+  "class": "AdvancedAttackBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158614892,
+  "offset": 158598508
+ },
+ {
+  "class": "AdvancedAttackBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158614900,
+  "offset": 158598516
+ },
+ {
+  "class": "AdvancedAttackBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158615304,
+  "offset": 158598920
+ },
+ {
+  "class": "AssistSkillCoolTimeBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158615908,
+  "offset": 158599524
+ },
+ {
+  "class": "AssistSkillCoolTimeBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158615916,
+  "offset": 158599532
+ },
+ {
+  "class": "AssistSkillCoolTimeBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158616332,
+  "offset": 158599948
+ },
+ {
+  "class": "AttackBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158616424,
+  "offset": 158600040
+ },
+ {
+  "class": "AttackBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer, IReadOnlyDictionary<StatusType, HuntBaseStatus> baseStatuses",
+  "rva": 158616432,
+  "offset": 158600048
+ },
+ {
+  "class": "AttackBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer, IReadOnlyDictionary<StatusType, HuntBaseStatus> baseStatuses",
+  "rva": 158619032,
+  "offset": 158602648
+ },
+ {
+  "class": "AttackDebuffBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158619432,
+  "offset": 158603048
+ },
+ {
+  "class": "AttackDebuffBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158619440,
+  "offset": 158603056
+ },
+ {
+  "class": "AttackDebuffBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158619612,
+  "offset": 158603228
+ },
+ {
+  "class": "BattleTimeLimitBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158619776,
+  "offset": 158603392
+ },
+ {
+  "class": "BattleTimeLimitBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158619784,
+  "offset": 158603400
+ },
+ {
+  "class": "BattleTimeLimitBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158620200,
+  "offset": 158603816
+ },
+ {
+  "class": "BossDamageRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158620292,
+  "offset": 158603908
+ },
+ {
+  "class": "BossDamageRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158620300,
+  "offset": 158603916
+ },
+ {
+  "class": "BossDamageRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158621404,
+  "offset": 158605020
+ },
+ {
+  "class": "CompositeBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer, IReadOnlyDictionary<StatusType, HuntBaseStatus> baseStatuses",
+  "rva": 158621492,
+  "offset": 158605108
+ },
+ {
+  "class": "CompositeBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "UpdateBaseStatus",
+  "args": "DataTableContainer dataTableContainer, HuntBaseStatus baseStatus, IReadOnlyDictionary<StatusType, HuntBaseStatus> baseSt",
+  "rva": 158621496,
+  "offset": 158605112
+ },
+ {
+  "class": "CookingMaximumIdleTimeLimitBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158622044,
+  "offset": 158605660
+ },
+ {
+  "class": "CookingMaximumIdleTimeLimitBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158622052,
+  "offset": 158605668
+ },
+ {
+  "class": "CookingMaximumIdleTimeLimitBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158622468,
+  "offset": 158606084
+ },
+ {
+  "class": "CookingResourceAcquireBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158622560,
+  "offset": 158606176
+ },
+ {
+  "class": "CookingResourceAcquireBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158622568,
+  "offset": 158606184
+ },
+ {
+  "class": "CookingResourceAcquireBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158622984,
+  "offset": 158606600
+ },
+ {
+  "class": "CostumeExperienceBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158623076,
+  "offset": 158606692
+ },
+ {
+  "class": "CostumeExperienceBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158623084,
+  "offset": 158606700
+ },
+ {
+  "class": "CostumeExperienceBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158623780,
+  "offset": 158607396
+ },
+ {
+  "class": "CriticalDamageBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158623872,
+  "offset": 158607488
+ },
+ {
+  "class": "CriticalDamageBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158623880,
+  "offset": 158607496
+ },
+ {
+  "class": "CriticalDamageBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158625652,
+  "offset": 158609268
+ },
+ {
+  "class": "CriticalDefenceDebuffBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158625920,
+  "offset": 158609536
+ },
+ {
+  "class": "CriticalDefenceDebuffBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158625928,
+  "offset": 158609544
+ },
+ {
+  "class": "CriticalDefenceDebuffBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158626100,
+  "offset": 158609716
+ },
+ {
+  "class": "CriticalRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158626192,
+  "offset": 158609808
+ },
+ {
+  "class": "CriticalRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158626200,
+  "offset": 158609816
+ },
+ {
+  "class": "CriticalRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158626736,
+  "offset": 158610352
+ },
+ {
+  "class": "DefaultBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158626948,
+  "offset": 158610564
+ },
+ {
+  "class": "DefaultBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "UpdateBaseStatus",
+  "args": "DataTableContainer dataTableContainer, HuntBaseStatus baseStatus, IReadOnlyList<int> updateFunctionIds, out HuntBaseStat",
+  "rva": 158626952,
+  "offset": 158610568
+ },
+ {
+  "class": "DefenceDebuffBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158627492,
+  "offset": 158611108
+ },
+ {
+  "class": "DefenceDebuffBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158627500,
+  "offset": 158611116
+ },
+ {
+  "class": "DefenceDebuffBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158627672,
+  "offset": 158611288
+ },
+ {
+  "class": "GoldAcquireBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158627764,
+  "offset": 158611380
+ },
+ {
+  "class": "GoldAcquireBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158627772,
+  "offset": 158611388
+ },
+ {
+  "class": "GoldAcquireBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158628876,
+  "offset": 158612492
+ },
+ {
+  "class": "HpBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158628968,
+  "offset": 158612584
+ },
+ {
+  "class": "HpBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158628976,
+  "offset": 158612592
+ },
+ {
+  "class": "HpBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158631156,
+  "offset": 158614772
+ },
+ {
+  "class": "HpRecoverBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158631420,
+  "offset": 158615036
+ },
+ {
+  "class": "HpRecoverBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158631428,
+  "offset": 158615044
+ },
+ {
+  "class": "HpRecoverBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158633560,
+  "offset": 158617176
+ },
+ {
+  "class": "MobDamageRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158633816,
+  "offset": 158617432
+ },
+ {
+  "class": "MobDamageRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158633824,
+  "offset": 158617440
+ },
+ {
+  "class": "MobDamageRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158634504,
+  "offset": 158618120
+ },
+ {
+  "class": "NormalAttackDamageRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158634768,
+  "offset": 158618384
+ },
+ {
+  "class": "NormalAttackDamageRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158634776,
+  "offset": 158618392
+ },
+ {
+  "class": "NormalAttackDamageRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158635880,
+  "offset": 158619496
+ },
+ {
+  "class": "SkillDamageRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158635972,
+  "offset": 158619588
+ },
+ {
+  "class": "SkillDamageRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158635980,
+  "offset": 158619596
+ },
+ {
+  "class": "SkillDamageRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158637632,
+  "offset": 158621248
+ },
+ {
+  "class": "StudyResourceAcquireBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158637724,
+  "offset": 158621340
+ },
+ {
+  "class": "StudyResourceAcquireBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158637732,
+  "offset": 158621348
+ },
+ {
+  "class": "StudyResourceAcquireBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158638292,
+  "offset": 158621908
+ },
+ {
+  "class": "StudySpeedBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158638384,
+  "offset": 158622000
+ },
+ {
+  "class": "StudySpeedBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158638392,
+  "offset": 158622008
+ },
+ {
+  "class": "StudySpeedBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158638808,
+  "offset": 158622424
+ },
+ {
+  "class": "UniqueSkillCoolTimeBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158638900,
+  "offset": 158622516
+ },
+ {
+  "class": "UniqueSkillCoolTimeBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158638908,
+  "offset": 158622524
+ },
+ {
+  "class": "UniqueSkillCoolTimeBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158639080,
+  "offset": 158622696
+ },
+ {
+  "class": "UniqueSkillDamageRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158639172,
+  "offset": 158622788
+ },
+ {
+  "class": "UniqueSkillDamageRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158639180,
+  "offset": 158622796
+ },
+ {
+  "class": "UniqueSkillDamageRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158640284,
+  "offset": 158623900
+ },
+ {
+  "class": "WeedingActionMaxStaminaBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158640376,
+  "offset": 158623992
+ },
+ {
+  "class": "WeedingActionMaxStaminaBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158640384,
+  "offset": 158624000
+ },
+ {
+  "class": "WeedingActionMaxStaminaBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158640944,
+  "offset": 158624560
+ },
+ {
+  "class": "WeedingActionStaminaRecoverSpeedBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158641036,
+  "offset": 158624652
+ },
+ {
+  "class": "WeedingActionStaminaRecoverSpeedBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158641044,
+  "offset": 158624660
+ },
+ {
+  "class": "WeedingActionStaminaRecoverSpeedBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer",
+  "rva": 158641460,
+  "offset": 158625076
+ },
+ {
+  "class": "CharacterSkillEffectRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158641732,
+  "offset": 158625348
+ },
+ {
+  "class": "CharacterSkillEffectRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer, int characterId",
+  "rva": 158641740,
+  "offset": 158625356
+ },
+ {
+  "class": "CharacterSkillEffectRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "",
+  "rva": 158643668,
+  "offset": 158627284
+ },
+ {
+  "class": "CostumeAttackRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "get_CalculateStatusType",
+  "args": "",
+  "rva": 158643828,
+  "offset": 158627444
+ },
+ {
+  "class": "CostumeAttackRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer, int costumeId",
+  "rva": 158643836,
+  "offset": 158627452
+ },
+ {
+  "class": "CostumeAttackRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateBaseValue",
+  "args": "DataTableContainer dataTableContainer, int costumeId",
+  "rva": 158644580,
+  "offset": 158628196
+ },
+ {
+  "class": "CostumeAttackRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "Clear",
+  "args": "",
+  "rva": 158646408,
+  "offset": 158630024
+ },
+ {
+  "class": "CostumeAttackSpeedRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CreateBaseStatus",
+  "args": "DataTableContainer dataTableContainer, int costumeId",
+  "rva": 158646484,
+  "offset": 158630100
+ },
+ {
+  "class": "CostumeAttackSpeedRateBaseStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "Clear",
+  "args": "",
+  "rva": 158646952,
+  "offset": 158630568
+ },
+ {
+  "class": "ArmorStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatus",
+  "args": "DataTableContainer dataTableContainer, StatusType statusType, HuntBaseStatusCalculateType calculateType, int id",
+  "rva": 158646964,
+  "offset": 158630580
+ },
+ {
+  "class": "ArmorStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalArmorHpPossessionEffectValue",
+  "args": "IDataTable<Armor> armorDataTable, IDataTable<PossessionEffectData> possessionEffectDataTable",
+  "rva": 158647624,
+  "offset": 158631240
+ },
+ {
+  "class": "ArmorStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalArmorPossessionEffectValue",
+  "args": "IDataTable<Armor> armorDataTable, IDataTable<PossessionEffectData> possessionEffectDataTable, StatusType statusType",
+  "rva": 158647632,
+  "offset": 158631248
+ },
+ {
+  "class": "ArmorStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePredictedTotalArmorHpPossessionEffectValue",
+  "args": "IReadOnlyList<Armor> armorList, Func<int, PossessionEffectData> getPossessionEffectData, Func<int, long> getArmorPredict",
+  "rva": 158648284,
+  "offset": 158631900
+ },
+ {
+  "class": "ArmorStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePredictedTotalArmorPossessionEffectValue",
+  "args": "IReadOnlyList<Armor> armorList, Func<int, PossessionEffectData> getPossessionEffectData, Func<int, long> getArmorPredict",
+  "rva": 158648292,
+  "offset": 158631908
+ },
+ {
+  "class": "ArmorStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePercentStatus",
+  "args": "DataTableContainer dataTableContainer, StatusType statusType, int id",
+  "rva": 158647136,
+  "offset": 158630752
+ },
+ {
+  "class": "ArmorStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalArmorPossessionEffectStatusValue",
+  "args": "IDataTable<Armor> armorDataTable, IDataTable<PossessionEffectData> possessionEffectDataTable, StatusType statusType",
+  "rva": 158649560,
+  "offset": 158633176
+ },
+ {
+  "class": "ArmorStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalArmorEquipmentEffectStatusValue",
+  "args": "IDataTable<PossessionEffectData> possessionEffectDataTable, IDataTable<Armor> armorTable, HuntFormationEquipment huntFor",
+  "rva": 158650212,
+  "offset": 158633828
+ },
+ {
+  "class": "ArtBookStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateIncompleteStatus",
+  "args": "int id, HuntBaseStatusCalculateType calculateType",
+  "rva": 158650720,
+  "offset": 158634336
+ },
+ {
+  "class": "ArtBookStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatus",
+  "args": "DataTableContainer dataTableContainer, BaseStatusEvaluateConditionEvaluateDelegate evaluateDelegate, StatusType statusTy",
+  "rva": 158650856,
+  "offset": 158634472
+ },
+ {
+  "class": "ArtBookStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatusTargetCharacter",
+  "args": "DataTableContainer dataTableContainer, BaseStatusEvaluateConditionEvaluateDelegate evaluateDelegate, StatusType statusTy",
+  "rva": 158651152,
+  "offset": 158634768
+ },
+ {
+  "class": "ArtBookStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatus",
+  "args": "DataTableContainer dataTableContainer, BaseStatusEvaluateConditionEvaluateDelegate evaluateDelegate, StatusType statusTy",
+  "rva": 158650904,
+  "offset": 158634520
+ },
+ {
+  "class": "ArtBookStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePercentStatus",
+  "args": "DataTableContainer dataTableContainer, BaseStatusEvaluateConditionEvaluateDelegate evaluateDelegate, StatusType statusTy",
+  "rva": 158651200,
+  "offset": 158634816
+ },
+ {
+  "class": "ArtBookStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateConstantStatus",
+  "args": "DataTableContainer dataTableContainer, BaseStatusEvaluateConditionEvaluateDelegate evaluateDelegate, StatusType statusTy",
+  "rva": 158651428,
+  "offset": 158635044
+ },
+ {
+  "class": "ArtBookStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalArtBookPossessionEffectStatusValue",
+  "args": "DataTableContainer dataTableContainer, BaseStatusEvaluateConditionEvaluateDelegate evaluateDelegate, StatusType statusTy",
+  "rva": 158651500,
+  "offset": 158635116
+ },
+ {
+  "class": "AssistSkillStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "ToStatusTypeFromSkillEffectType",
+  "args": "SkillEffectType skillEffectType",
+  "rva": 158653404,
+  "offset": 158637020
+ },
+ {
+  "class": "AssistSkillStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "ToAssistStatusType",
+  "args": "StatusType statusType",
+  "rva": 158653456,
+  "offset": 158637072
+ },
+ {
+  "class": "AssistSkillStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, HuntBaseStatusCalculateType calculateType, int id",
+  "rva": 158653528,
+  "offset": 158637144
+ },
+ {
+  "class": "AssistSkillStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalAssistSkillAttackPossessionEffectValue",
+  "args": "IDataTable<AssistSkill> assistSkillTable, IDataTable<PossessionEffectData> possessionEffectTable",
+  "rva": 158653892,
+  "offset": 158637508
+ },
+ {
+  "class": "AssistSkillStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePredictedTotalAssistSkillAttackPossessionEffectValue",
+  "args": "IReadOnlyList<AssistSkill> assistSkillList, Func<int, PossessionEffectData> getPossessionEffectData, Func<int, long> get",
+  "rva": 158654600,
+  "offset": 158638216
+ },
+ {
+  "class": "AssistSkillStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePercentStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, int id",
+  "rva": 158653700,
+  "offset": 158637316
+ },
+ {
+  "class": "AssistSkillStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalAssistSkillPossessionStatusValue",
+  "args": "DataTableContainer tableContainer, StatusType statusType",
+  "rva": 158655848,
+  "offset": 158639464
+ },
+ {
+  "class": "BlessingStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, HuntBaseStatusCalculateType calculateType, int id",
+  "rva": 158656636,
+  "offset": 158640252
+ },
+ {
+  "class": "BlessingStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateShortenStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, int id",
+  "rva": 158657168,
+  "offset": 158640784
+ },
+ {
+  "class": "BlessingStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePercentStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, int id",
+  "rva": 158656908,
+  "offset": 158640524
+ },
+ {
+  "class": "BlessingStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateConstantStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, int id",
+  "rva": 158657100,
+  "offset": 158640716
+ },
+ {
+  "class": "BlessingStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalBlessingPossessionEffectStatusValue",
+  "args": "DataTableContainer dataTableContainer, StatusType statusType",
+  "rva": 158657236,
+  "offset": 158640852
+ },
+ {
+  "class": "BuffItemStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, HuntBaseStatusCalculateType calculateType, int id",
+  "rva": 158658288,
+  "offset": 158641904
+ },
+ {
+  "class": "BuffItemStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateConstantStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, int id",
+  "rva": 158658520,
+  "offset": 158642136
+ },
+ {
+  "class": "BuffItemStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePercentStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, int id",
+  "rva": 158658588,
+  "offset": 158642204
+ },
+ {
+  "class": "BuffItemStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalBuffItemPossessionEffectValue",
+  "args": "DataTableContainer dataTableContainer, StatusType statusType",
+  "rva": 158658780,
+  "offset": 158642396
+ },
+ {
+  "class": "CollectionBookStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, HuntBaseStatusCalculateType calculateType, int id",
+  "rva": 158659556,
+  "offset": 158643172
+ },
+ {
+  "class": "CollectionBookStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePercentStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, int id",
+  "rva": 158659860,
+  "offset": 158643476
+ },
+ {
+  "class": "CollectionBookStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateConstantStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, int id",
+  "rva": 158659788,
+  "offset": 158643404
+ },
+ {
+  "class": "CollectionBookStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalCollectionBookPossessionStatusValue",
+  "args": "DataTableContainer dataTableContainer, StatusType statusType, HuntBaseStatusCalculateType calculateType",
+  "rva": 158660056,
+  "offset": 158643672
+ },
+ {
+  "class": "CookingMenuStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, HuntBaseStatusCalculateType calculateType, int id",
+  "rva": 158660996,
+  "offset": 158644612
+ },
+ {
+  "class": "CookingMenuStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePercentStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, int id",
+  "rva": 158661296,
+  "offset": 158644912
+ },
+ {
+  "class": "CookingMenuStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateConstantStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, int id",
+  "rva": 158661228,
+  "offset": 158644844
+ },
+ {
+  "class": "CookingMenuStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalCookingMenuPossessionEffectStatusValue",
+  "args": "DataTableContainer dataTableContainer, StatusType statusType",
+  "rva": 158661488,
+  "offset": 158645104
+ },
+ {
+  "class": "CostumeStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateIncompleteStatus",
+  "args": "int id",
+  "rva": 158662560,
+  "offset": 158646176
+ },
+ {
+  "class": "CostumeStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatus",
+  "args": "DataTableContainer dataTableContainer, IMasterTable<CostumePossessionEffectRecord> costumePossessionEffectTable, BaseSta",
+  "rva": 158662692,
+  "offset": 158646308
+ },
+ {
+  "class": "CostumeStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePromotionStatus",
+  "args": "DataTableContainer dataTableContainer, IMasterTable<CostumePossessionEffectRecord> costumePossessionEffectTable, BaseSta",
+  "rva": 158663208,
+  "offset": 158646824
+ },
+ {
+  "class": "CostumeStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePercentStatus",
+  "args": "DataTableContainer dataTableContainer, IMasterTable<CostumePossessionEffectRecord> costumePossessionEffectTable, BaseSta",
+  "rva": 158662924,
+  "offset": 158646540
+ },
+ {
+  "class": "CostumeStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateConstantStatus",
+  "args": "DataTableContainer dataTableContainer, IMasterTable<CostumePossessionEffectRecord> costumePossessionEffectTable, BaseSta",
+  "rva": 158663140,
+  "offset": 158646756
+ },
+ {
+  "class": "CostumeStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePromotionPercentStatus",
+  "args": "DataTableContainer dataTableContainer, IMasterTable<CostumePossessionEffectRecord> costumePossessionEffectTable, BaseSta",
+  "rva": 158663416,
+  "offset": 158647032
+ },
+ {
+  "class": "CostumeStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalCostumePossessionEffectStatusValue",
+  "args": "DataTableContainer dataTableContainer, IMasterTable<CostumePossessionEffectRecord> costumePossessionEffectTable, BaseSta",
+  "rva": 158663484,
+  "offset": 158647100
+ },
+ {
+  "class": "CostumeStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalCostumePromotionPossessionEffectStatusValue",
+  "args": "DataTableContainer dataTableContainer, IMasterTable<CostumePossessionEffectRecord> costumePossessionEffectTable, BaseSta",
+  "rva": 158664472,
+  "offset": 158648088
+ },
+ {
+  "class": "HomeItemStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, HuntBaseStatusCalculateType calculateType, int id",
+  "rva": 158665416,
+  "offset": 158649032
+ },
+ {
+  "class": "HomeItemStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePercentStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, int id",
+  "rva": 158665624,
+  "offset": 158649240
+ },
+ {
+  "class": "HomeItemStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalHomeItemPossessionEffectStatusValue",
+  "args": "DataTableContainer dataTableContainer, StatusType statusType",
+  "rva": 158665692,
+  "offset": 158649308
+ },
+ {
+  "class": "KeyholderStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateIncompleteStatus",
+  "args": "int id, HuntBaseStatusCalculateType calculateType = 1",
+  "rva": 158645180,
+  "offset": 158628796
+ },
+ {
+  "class": "KeyholderStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, HuntBaseStatusCalculateType calculateType, int id",
+  "rva": 158666456,
+  "offset": 158650072
+ },
+ {
+  "class": "KeyholderStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatusTargetCharacter",
+  "args": "DataTableContainer tableContainer, StatusType statusType, HuntBaseStatusCalculateType calculateType, int id, int charact",
+  "rva": 158645316,
+  "offset": 158628932
+ },
+ {
+  "class": "KeyholderStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatusTargetAssistCharacter",
+  "args": "DataTableContainer tableContainer, StatusType statusType, HuntBaseStatusCalculateType calculateType, int id, int assistC",
+  "rva": 158642116,
+  "offset": 158625732
+ },
+ {
+  "class": "KeyholderStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePercentStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, int id",
+  "rva": 158666628,
+  "offset": 158650244
+ },
+ {
+  "class": "KeyholderStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalKeyholderRarityBonusEffectStatusValue",
+  "args": "IDataTable<PossessionEffectData> possessionEffectDataTable, IDataTable<CustomPossessionEffectData> customPossessionEffec",
+  "rva": 158671208,
+  "offset": 158654824
+ },
+ {
+  "class": "KeyholderStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "GetRarityUpBonusEffectValueWithTarget",
+  "args": "IDataTable<PossessionEffectData> possessionEffectDataTable, IDataTable<CustomPossessionEffectData> customPossessionEffec",
+  "rva": 158669944,
+  "offset": 158653560
+ },
+ {
+  "class": "KeyholderStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "GetEquipPossessionEffectValueTargetCharacter",
+  "args": "IDataTable<PossessionEffectData> possessionEffectDataTable, IDataTable<CustomPossessionEffectData> customPossessionEffec",
+  "rva": 158667988,
+  "offset": 158651604
+ },
+ {
+  "class": "KeyholderStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "IsCharacterCostumeDeployed",
+  "args": "int characterId, IDataTable<HuntFormationCostume> huntFormationCostumeDataTable, IDataTable<Costume> costumeTable",
+  "rva": 158667168,
+  "offset": 158650784
+ },
+ {
+  "class": "KeyholderStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "IsKeyholderAssistDeployed",
+  "args": "KeyholderClientData keyholderClientData, IDataTable<HuntFormationAssistSkill> assistFormationTable, IDataTable<AssistSki",
+  "rva": 158669016,
+  "offset": 158652632
+ },
+ {
+  "class": "KeyholderStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "EqualStatusType",
+  "args": "StatusType possessionEffectStatusType, StatusType calculatorStatusType",
+  "rva": 158672372,
+  "offset": 158655988
+ },
+ {
+  "class": "MasteryStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, HuntBaseStatusCalculateType calculateType, MasteryGroupType ma",
+  "rva": 158672400,
+  "offset": 158656016
+ },
+ {
+  "class": "MasteryStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePercentStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, MasteryGroupType masteryGroupType, int id",
+  "rva": 158672652,
+  "offset": 158656268
+ },
+ {
+  "class": "MasteryStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateConstantStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, MasteryGroupType masteryGroupType, int id",
+  "rva": 158672852,
+  "offset": 158656468
+ },
+ {
+  "class": "MasteryStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalMasteryEffectStatusValue",
+  "args": "DataTableContainer dataTableContainer, MasteryGroupType masteryGroupType, StatusType statusType",
+  "rva": 158672932,
+  "offset": 158656548
+ },
+ {
+  "class": "StudyStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, HuntBaseStatusCalculateType calculateType, int id",
+  "rva": 158673676,
+  "offset": 158657292
+ },
+ {
+  "class": "StudyStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePercentStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, int id",
+  "rva": 158673908,
+  "offset": 158657524
+ },
+ {
+  "class": "StudyStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateConstantStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, int id",
+  "rva": 158674100,
+  "offset": 158657716
+ },
+ {
+  "class": "StudyStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalStudyEffectStatusValue",
+  "args": "DataTableContainer dataTableContainer, StatusType statusType",
+  "rva": 158674168,
+  "offset": 158657784
+ },
+ {
+  "class": "TreasureStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateIncompleteStatus",
+  "args": "int id",
+  "rva": 158645048,
+  "offset": 158628664
+ },
+ {
+  "class": "TreasureStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatus",
+  "args": "DataTableContainer dataTableContainer, BaseStatusEvaluateConditionEvaluateDelegate evaluateDelegate, StatusType statusTy",
+  "rva": 158674884,
+  "offset": 158658500
+ },
+ {
+  "class": "TreasureStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatusTargetCharacter",
+  "args": "DataTableContainer dataTableContainer, BaseStatusEvaluateConditionEvaluateDelegate evaluateDelegate, StatusType statusTy",
+  "rva": 158645000,
+  "offset": 158628616
+ },
+ {
+  "class": "TreasureStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatus",
+  "args": "DataTableContainer dataTableContainer, BaseStatusEvaluateConditionEvaluateDelegate evaluateDelegate, StatusType statusTy",
+  "rva": 158674932,
+  "offset": 158658548
+ },
+ {
+  "class": "TreasureStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePercentStatus",
+  "args": "DataTableContainer dataTableContainer, BaseStatusEvaluateConditionEvaluateDelegate evaluateDelegate, StatusType statusTy",
+  "rva": 158675144,
+  "offset": 158658760
+ },
+ {
+  "class": "TreasureStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateConstantStatus",
+  "args": "DataTableContainer dataTableContainer, BaseStatusEvaluateConditionEvaluateDelegate evaluateDelegate, StatusType statusTy",
+  "rva": 158675584,
+  "offset": 158659200
+ },
+ {
+  "class": "TreasureStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalTreasurePossessionEffectStatusValue",
+  "args": "IDataTable<Treasure> treasureDataTable, IDataTable<PossessionEffectData> possessionEffectDataTable, StatusType statusTyp",
+  "rva": 158676000,
+  "offset": 158659616
+ },
+ {
+  "class": "TreasureStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalTreasureEquipmentEffectStatusValue",
+  "args": "IDataTable<PossessionEffectData> possessionEffectDataTable, IDataTable<Treasure> treasuresTable, BaseStatusEvaluateCondi",
+  "rva": 158677720,
+  "offset": 158661336
+ },
+ {
+  "class": "WeaponStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, HuntBaseStatusCalculateType calculateType, int id",
+  "rva": 158680348,
+  "offset": 158663964
+ },
+ {
+  "class": "WeaponStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalWeaponAttackPossessionEffectValue",
+  "args": "IDataTable<Weapon> weaponDataTable, IDataTable<PossessionEffectData> possessionEffectDataTable",
+  "rva": 158681120,
+  "offset": 158664736
+ },
+ {
+  "class": "WeaponStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalWeaponPossessionEffectValue",
+  "args": "IDataTable<Weapon> weaponDataTable, IDataTable<PossessionEffectData> possessionEffectDataTable, StatusType statusType",
+  "rva": 158681128,
+  "offset": 158664744
+ },
+ {
+  "class": "WeaponStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePredictedTotalWeaponAttackPossessionEffectValue",
+  "args": "IReadOnlyList<Weapon> weaponList, Func<int, PossessionEffectData> getPossessionEffectData, Func<int, long> getWeaponPred",
+  "rva": 158681780,
+  "offset": 158665396
+ },
+ {
+  "class": "WeaponStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePredictedTotalWeaponPossessionEffectValue",
+  "args": "IReadOnlyList<Weapon> weaponList, Func<int, PossessionEffectData> getPossessionEffectData, Func<int, long> getWeaponPred",
+  "rva": 158681788,
+  "offset": 158665404
+ },
+ {
+  "class": "WeaponStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculatePercentStatus",
+  "args": "DataTableContainer tableContainer, StatusType statusType, int id",
+  "rva": 158680520,
+  "offset": 158664136
+ },
+ {
+  "class": "WeaponStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalWeaponPossessionEffectStatusValue",
+  "args": "IDataTable<PossessionEffectData> possessionEffectDataTable, Weapon[] weapons, StatusType statusType",
+  "rva": 158683056,
+  "offset": 158666672
+ },
+ {
+  "class": "WeaponStatusCalculator",
+  "ns": "WithNetwork",
+  "method": "CalculateTotalWeaponEquipmentEffectStatusValue",
+  "args": "IDataTable<PossessionEffectData> possessionEffectDataTable, IDataTable<Weapon> weaponTable, HuntFormationEquipment huntF",
+  "rva": 158683588,
+  "offset": 158667204
+ },
+ {
+  "class": "IdleRewardUserData",
+  "ns": "WithNetwork",
+  "method": "get_Id",
+  "args": "",
+  "rva": 158752560,
+  "offset": 158736176
+ },
+ {
+  "class": "IdleRewardUserData",
+  "ns": "WithNetwork",
+  "method": "UpdateIdlePredictionResult",
+  "args": "IdleRewardType idleRewardType, DataTableContainer dataTableContainer",
+  "rva": 158756824,
+  "offset": 158740440
+ },
+ {
+  "class": "IdleRewardUserData",
+  "ns": "WithNetwork",
+  "method": "PredictIdleReward",
+  "args": "IdleRewardPredictRequestType type, IdleRewardRequestUiType requestUiType = 0",
+  "rva": 158758076,
+  "offset": 158741692
+ },
+ {
+  "class": "IdleRewardDataExtensions",
+  "ns": "WithNetwork.Transaction",
+  "method": "ToWithData",
+  "args": "IdleRewardData source, MasterDataManager masterDataManager, DataTableContainer dataTableContainer, IWithTranslation<Idle",
+  "rva": 159213936,
+  "offset": 159197552
+ },
+ {
+  "class": "IdleRewardDataExtensions",
+  "ns": "WithNetwork.Transaction",
+  "method": "ToResetData",
+  "args": "IdleRewardData source, MasterDataManager masterDataManager, DataTableContainer dataTableContainer, IWithTranslation<Idle",
+  "rva": 159215356,
+  "offset": 159198972
+ },
+ {
+  "class": "IdleRewardDataExtensions",
+  "ns": "WithNetwork.Transaction",
+  "method": "SetupWithData",
+  "args": "IdleRewardData source, DataTableContainer tableContainer",
+  "rva": 159215788,
+  "offset": 159199404
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "get_RawValue",
+  "args": "",
+  "rva": 157760748,
+  "offset": 157744364
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "get_Sign",
+  "args": "",
+  "rva": 157760760,
+  "offset": 157744376
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "get_Fraction",
+  "args": "",
+  "rva": 157760852,
+  "offset": 157744468
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "get_Exponent",
+  "args": "",
+  "rva": 157760860,
+  "offset": 157744476
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "Add",
+  "args": "in BigDecimal right, out BigDecimal result",
+  "rva": 157762272,
+  "offset": 157745888
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "Multiply",
+  "args": "in BigDecimal right, out BigDecimal result",
+  "rva": 157762636,
+  "offset": 157746252
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "Divide",
+  "args": "in BigDecimal right, out BigDecimal result",
+  "rva": 157763016,
+  "offset": 157746632
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "Floor",
+  "args": "",
+  "rva": 157763384,
+  "offset": 157747000
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "FloorSelf",
+  "args": "",
+  "rva": 157763572,
+  "offset": 157747188
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "CompareTo",
+  "args": "BigDecimal other",
+  "rva": 157763664,
+  "offset": 157747280
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "Equals",
+  "args": "BigDecimal other",
+  "rva": 157763972,
+  "offset": 157747588
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "GetHashCode",
+  "args": "",
+  "rva": 157764008,
+  "offset": 157747624
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "Equals",
+  "args": "object obj",
+  "rva": 157764060,
+  "offset": 157747676
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "Pow",
+  "args": "long base, long exp",
+  "rva": 157764212,
+  "offset": 157747828
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "Log10",
+  "args": "long value",
+  "rva": 157761572,
+  "offset": 157745188
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "Pow10",
+  "args": "long exp",
+  "rva": 157761736,
+  "offset": 157745352
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "op_Implicit",
+  "args": "double x",
+  "rva": 157764272,
+  "offset": 157747888
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "op_Implicit",
+  "args": "string stringValue",
+  "rva": 157764312,
+  "offset": 157747928
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "op_Implicit",
+  "args": "BigDecimal value",
+  "rva": 157764352,
+  "offset": 157747968
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "op_Implicit",
+  "args": "BigDecimal value",
+  "rva": 157764500,
+  "offset": 157748116
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "op_Implicit",
+  "args": "BigDecimal value",
+  "rva": 157764680,
+  "offset": 157748296
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "op_Implicit",
+  "args": "BigDecimal value",
+  "rva": 157764788,
+  "offset": 157748404
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "op_Modulus",
+  "args": "BigDecimal dividend, BigDecimal divisor",
+  "rva": 157764904,
+  "offset": 157748520
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "op_GreaterThan",
+  "args": "BigDecimal a, BigDecimal b",
+  "rva": 157765228,
+  "offset": 157748844
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "op_GreaterThanOrEqual",
+  "args": "BigDecimal a, BigDecimal b",
+  "rva": 157765364,
+  "offset": 157748980
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "op_LessThan",
+  "args": "BigDecimal a, BigDecimal b",
+  "rva": 157765500,
+  "offset": 157749116
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "op_LessThanOrEqual",
+  "args": "BigDecimal a, BigDecimal b",
+  "rva": 157765632,
+  "offset": 157749248
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "op_Equality",
+  "args": "BigDecimal a, BigDecimal b",
+  "rva": 157765768,
+  "offset": 157749384
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "op_Inequality",
+  "args": "BigDecimal a, BigDecimal b",
+  "rva": 157765896,
+  "offset": 157749512
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "op_UnaryNegation",
+  "args": "BigDecimal a",
+  "rva": 157766024,
+  "offset": 157749640
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "op_Addition",
+  "args": "BigDecimal a, BigDecimal b",
+  "rva": 157762400,
+  "offset": 157746016
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "op_Subtraction",
+  "args": "BigDecimal a, BigDecimal b",
+  "rva": 157765080,
+  "offset": 157748696
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "op_Multiply",
+  "args": "BigDecimal a, BigDecimal b",
+  "rva": 157762764,
+  "offset": 157746380
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "op_Division",
+  "args": "BigDecimal dividend, BigDecimal divisor",
+  "rva": 157763144,
+  "offset": 157746760
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "SplitHalf",
+  "args": "long value",
+  "rva": 157766068,
+  "offset": 157749684
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "Parse",
+  "args": "string value",
+  "rva": 157761972,
+  "offset": 157745588
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "TryParse",
+  "args": "string value, out BigDecimal result",
+  "rva": 157766784,
+  "offset": 157750400
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "TryParse",
+  "args": "ReadOnlySpan<char> value, out BigDecimal result",
+  "rva": 157766216,
+  "offset": 157749832
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "ToAlphabetString",
+  "args": "",
+  "rva": 157766952,
+  "offset": 157750568
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "ToAlphabetString",
+  "args": "ref Utf16ValueStringBuilder builder",
+  "rva": 157767124,
+  "offset": 157750740
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "ToDecimalString",
+  "args": "",
+  "rva": 157769740,
+  "offset": 157753356
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "ToDecimalString",
+  "args": "ref Utf16ValueStringBuilder builder",
+  "rva": 157769912,
+  "offset": 157753528
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "ToString",
+  "args": "",
+  "rva": 157770024,
+  "offset": 157753640
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "GetAlphabetCount",
+  "args": "long unit",
+  "rva": 157769412,
+  "offset": 157753028
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "GetAlphabet",
+  "args": "long alphabetDigitCount, long unit",
+  "rva": 157769484,
+  "offset": 157753100
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "Applibot.Math",
+  "method": "WriteFloatDecimal",
+  "args": "ref Utf16ValueStringBuilder builder, long value, long pointPosition",
+  "rva": 157767960,
+  "offset": 157751576
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "",
+  "method": "MoveNext",
+  "args": "",
+  "rva": 157779420,
+  "offset": 157763036
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "WithNetwork",
+  "method": "Normalize",
+  "args": "string json",
+  "rva": 157770448,
+  "offset": 157754064
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "WithNetwork",
+  "method": "Normalize",
+  "args": "MediationGraphConfiguration configuration",
+  "rva": 157770580,
+  "offset": 157754196
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "WithNetwork",
+  "method": "ExtractLoadErrorDebugTransitions",
+  "args": "MediationGraphConfiguration configuration",
+  "rva": 157775776,
+  "offset": 157759392
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "WithNetwork",
+  "method": "ShouldNormalize",
+  "args": "MediationGraphConfiguration.Node node",
+  "rva": 157772388,
+  "offset": 157756004
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "WithNetwork",
+  "method": "FailurePathHasPlayableAd",
+  "args": "NodeId startNodeId, IReadOnlyDictionary<NodeId, MediationGraphConfiguration.Node> nodeById",
+  "rva": 157773416,
+  "offset": 157757032
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "WithNetwork",
+  "method": "AddAdLoadFailedPolicyChain",
+  "args": "ICollection<MediationGraphConfiguration.Node> nodes, IDictionary<NodeId, MediationGraphConfiguration.Node> nodeById, ISe",
+  "rva": 157774732,
+  "offset": 157758348
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "WithNetwork",
+  "method": "AddNode",
+  "args": "ICollection<MediationGraphConfiguration.Node> nodes, IDictionary<NodeId, MediationGraphConfiguration.Node> nodeById, Med",
+  "rva": 157777752,
+  "offset": 157761368
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "WithNetwork",
+  "method": "CreateNode",
+  "args": "NodeId nodeId, string typeName, MediationGraphConfiguration.Property[] properties",
+  "rva": 157777592,
+  "offset": 157761208
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "WithNetwork",
+  "method": "CreateProperty",
+  "args": "string key, NodeId nodeId",
+  "rva": 157777420,
+  "offset": 157761036
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "WithNetwork",
+  "method": "CreateUniqueNodeId",
+  "args": "ISet<NodeId> usedNodeIds, string transitionKey, string nodeRole",
+  "rva": 157776944,
+  "offset": 157760560
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "WithNetwork",
+  "method": "CreateDeterministicNodeId",
+  "args": "string seed",
+  "rva": 157778064,
+  "offset": 157761680
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "WithNetwork",
+  "method": "HasProperty",
+  "args": "MediationGraphConfiguration.Node node, string key",
+  "rva": 157772652,
+  "offset": 157756268
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "WithNetwork",
+  "method": "GetNodeIdPropertyOrDefault",
+  "args": "MediationGraphConfiguration.Node node, string key, NodeId defaultValue",
+  "rva": 157773280,
+  "offset": 157756896
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "WithNetwork",
+  "method": "TryGetNodeIdProperty",
+  "args": "MediationGraphConfiguration.Node node, string key, out NodeId nodeId",
+  "rva": 157776424,
+  "offset": 157760040
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "WithNetwork",
+  "method": "EnumerateNodeIdProperties",
+  "args": "MediationGraphConfiguration.Node node",
+  "rva": 157776820,
+  "offset": 157760436
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "WithNetwork",
+  "method": "AddNodeIdProperty",
+  "args": "MediationGraphConfiguration.Node node, string key, NodeId nodeId",
+  "rva": 157772904,
+  "offset": 157756520
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "WithNetwork",
+  "method": "get_Current",
+  "args": "",
+  "rva": 157780168,
+  "offset": 157763784
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "WithNetwork",
+  "method": "get_Id",
+  "args": "",
+  "rva": 157780380,
+  "offset": 157763996
+ },
+ {
+  "class": "BigDecimal",
+  "ns": "WithNetwork",
+  "method": "ExecuteAsync",
+  "args": "MediationContext context, CancellationToken token",
+  "rva": 157780388,
+  "offset": 157764004
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork",
+  "method": "get_Id",
+  "args": "",
+  "rva": 151805392,
+  "offset": 151789008
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork",
+  "method": "get_Record",
+  "args": "",
+  "rva": 151805424,
+  "offset": 151789040
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork",
+  "method": "set_Record",
+  "args": "IdleRewardRecord value",
+  "rva": 151805432,
+  "offset": 151789048
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork",
+  "method": "get_IdleMinutesTarget",
+  "args": "",
+  "rva": 151805440,
+  "offset": 151789056
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork",
+  "method": "set_IdleMinutesTarget",
+  "args": "bool value",
+  "rva": 151805448,
+  "offset": 151789064
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork",
+  "method": "get_MaxIdleReceivableDatetime",
+  "args": "",
+  "rva": 151805460,
+  "offset": 151789076
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork",
+  "method": "set_MaxIdleReceivableDatetime",
+  "args": "DateTime value",
+  "rva": 151805468,
+  "offset": 151789084
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork",
+  "method": "get_NextReceivableDatetime",
+  "args": "",
+  "rva": 151805476,
+  "offset": 151789092
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork",
+  "method": "set_NextReceivableDatetime",
+  "args": "DateTime value",
+  "rva": 151805484,
+  "offset": 151789100
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork",
+  "method": "get_CreatedDatetime",
+  "args": "",
+  "rva": 151805492,
+  "offset": 151789108
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork",
+  "method": "set_CreatedDatetime",
+  "args": "DateTime value",
+  "rva": 151805500,
+  "offset": 151789116
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork",
+  "method": "get_LastReceivedDatetime",
+  "args": "",
+  "rva": 151805508,
+  "offset": 151789124
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork",
+  "method": "set_LastReceivedDatetime",
+  "args": "DateTime value",
+  "rva": 151805516,
+  "offset": 151789132
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork",
+  "method": "IsSame",
+  "args": "in IdleRewardData other",
+  "rva": 151805524,
+  "offset": 151789140
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork",
+  "method": "IsValidInternal",
+  "args": "ref bool isValid",
+  "rva": 151806016,
+  "offset": 151789632
+ },
+ {
+  "class": "IdleRewardData",
+  "ns": "WithNetwork",
+  "method": "Valid",
+  "args": "",
+  "rva": 151806152,
+  "offset": 151789768
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponseData",
+  "ns": "WithNetwork",
+  "method": "get_Id",
+  "args": "",
+  "rva": 151806188,
+  "offset": 151789804
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponseData",
+  "ns": "WithNetwork",
+  "method": "get_Request",
+  "args": "",
+  "rva": 151806196,
+  "offset": 151789812
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponseData",
+  "ns": "WithNetwork",
+  "method": "set_Request",
+  "args": "IdleRewardPredictIdleRewardRequest value",
+  "rva": 151806204,
+  "offset": 151789820
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponseData",
+  "ns": "WithNetwork",
+  "method": "get_Response",
+  "args": "",
+  "rva": 151806212,
+  "offset": 151789828
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponseData",
+  "ns": "WithNetwork",
+  "method": "set_Response",
+  "args": "IdleRewardPredictIdleRewardResponse value",
+  "rva": 151806220,
+  "offset": 151789836
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponseData",
+  "ns": "WithNetwork",
+  "method": "Valid",
+  "args": "",
+  "rva": 151806228,
+  "offset": 151789844
+ },
+ {
+  "class": "IdleRewardPredictIdleRewardResponseData",
+  "ns": "WithNetwork",
+  "method": "IsSame",
+  "args": "in IdleRewardPredictIdleRewardResponseData other",
+  "rva": 151806236,
+  "offset": 151789852
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponseData",
+  "ns": "WithNetwork",
+  "method": "get_Id",
+  "args": "",
+  "rva": 151806276,
+  "offset": 151789892
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponseData",
+  "ns": "WithNetwork",
+  "method": "get_Request",
+  "args": "",
+  "rva": 151806284,
+  "offset": 151789900
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponseData",
+  "ns": "WithNetwork",
+  "method": "set_Request",
+  "args": "IdleRewardReceiveIdleRewardRequest value",
+  "rva": 151806292,
+  "offset": 151789908
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponseData",
+  "ns": "WithNetwork",
+  "method": "get_Response",
+  "args": "",
+  "rva": 151806300,
+  "offset": 151789916
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponseData",
+  "ns": "WithNetwork",
+  "method": "set_Response",
+  "args": "IdleRewardReceiveIdleRewardResponse value",
+  "rva": 151806308,
+  "offset": 151789924
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponseData",
+  "ns": "WithNetwork",
+  "method": "Valid",
+  "args": "",
+  "rva": 151806316,
+  "offset": 151789932
+ },
+ {
+  "class": "IdleRewardReceiveIdleRewardResponseData",
+  "ns": "WithNetwork",
+  "method": "IsSame",
+  "args": "in IdleRewardReceiveIdleRewardResponseData other",
+  "rva": 151806324,
+  "offset": 151789940
+ },
+ {
+  "class": "IdleRewardRequestStatus",
+  "ns": "WithNetwork",
+  "method": "get_Id",
+  "args": "",
+  "rva": 151856272,
+  "offset": 151839888
+ },
+ {
+  "class": "IdleRewardRequestStatus",
+  "ns": "WithNetwork",
+  "method": "set_Id",
+  "args": "int value",
+  "rva": 151856280,
+  "offset": 151839896
+ },
+ {
+  "class": "IdleRewardRequestStatus",
+  "ns": "WithNetwork",
+  "method": "get_IdleRewardType",
+  "args": "",
+  "rva": 151856288,
+  "offset": 151839904
+ },
+ {
+  "class": "IdleRewardRequestStatus",
+  "ns": "WithNetwork",
+  "method": "get_IsRequestPredict",
+  "args": "",
+  "rva": 151856296,
+  "offset": 151839912
+ },
+ {
+  "class": "IdleRewardRequestStatus",
+  "ns": "WithNetwork",
+  "method": "set_IsRequestPredict",
+  "args": "bool value",
+  "rva": 151856304,
+  "offset": 151839920
+ },
+ {
+  "class": "IdleRewardRequestStatus",
+  "ns": "WithNetwork",
+  "method": "get_IsRequestReceive",
+  "args": "",
+  "rva": 151856316,
+  "offset": 151839932
+ },
+ {
+  "class": "IdleRewardRequestStatus",
+  "ns": "WithNetwork",
+  "method": "set_IsRequestReceive",
+  "args": "bool value",
+  "rva": 151856324,
+  "offset": 151839940
+ },
+ {
+  "class": "IdleRewardRequestStatus",
+  "ns": "WithNetwork",
+  "method": "get_RequestUiType",
+  "args": "",
+  "rva": 151856336,
+  "offset": 151839952
+ },
+ {
+  "class": "IdleRewardRequestStatus",
+  "ns": "WithNetwork",
+  "method": "set_RequestUiType",
+  "args": "IdleRewardRequestUiType value",
+  "rva": 151856344,
+  "offset": 151839960
+ },
+ {
+  "class": "IdleRewardRequestStatus",
+  "ns": "WithNetwork",
+  "method": "get_RequestCount",
+  "args": "",
+  "rva": 151856352,
+  "offset": 151839968
+ },
+ {
+  "class": "IdleRewardRequestStatus",
+  "ns": "WithNetwork",
+  "method": "set_RequestCount",
+  "args": "int value",
+  "rva": 151856360,
+  "offset": 151839976
+ },
+ {
+  "class": "IdleRewardRequestStatus",
+  "ns": "WithNetwork",
+  "method": "get_CompleteCount",
+  "args": "",
+  "rva": 151856368,
+  "offset": 151839984
+ },
+ {
+  "class": "IdleRewardRequestStatus",
+  "ns": "WithNetwork",
+  "method": "set_CompleteCount",
+  "args": "int value",
+  "rva": 151856376,
+  "offset": 151839992
+ },
+ {
+  "class": "IdleRewardRequestStatus",
+  "ns": "WithNetwork",
+  "method": "get_IsComplete",
+  "args": "",
+  "rva": 151856384,
+  "offset": 151840000
+ },
+ {
+  "class": "IdleRewardRequestStatus",
+  "ns": "WithNetwork",
+  "method": "Valid",
+  "args": "",
+  "rva": 151856420,
+  "offset": 151840036
+ },
+ {
+  "class": "IdleRewardRequestStatus",
+  "ns": "WithNetwork",
+  "method": "get_Id",
+  "args": "",
+  "rva": 151856436,
+  "offset": 151840052
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork",
+  "method": "get_Id",
+  "args": "",
+  "rva": 151862920,
+  "offset": 151846536
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork",
+  "method": "get_RangeStartLevel",
+  "args": "",
+  "rva": 151862928,
+  "offset": 151846544
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork",
+  "method": "get_RangeEndLevel",
+  "args": "",
+  "rva": 151862936,
+  "offset": 151846552
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork",
+  "method": "get_LevelRangeType",
+  "args": "",
+  "rva": 151862944,
+  "offset": 151846560
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork",
+  "method": "GetValue",
+  "args": "int level",
+  "rva": 151863048,
+  "offset": 151846664
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork",
+  "method": "IsEndLevelInfinite",
+  "args": "",
+  "rva": 151864016,
+  "offset": 151847632
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork",
+  "method": "Valid",
+  "args": "",
+  "rva": 151864128,
+  "offset": 151847744
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork",
+  "method": "IsSame",
+  "args": "in LevelRangeValue other",
+  "rva": 151864308,
+  "offset": 151847924
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork",
+  "method": "GetRawValue",
+  "args": "int level",
+  "rva": 151863156,
+  "offset": 151846772
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork",
+  "method": "LinearBigDecimal",
+  "args": "float t, int total, BigDecimal min, BigDecimal max",
+  "rva": 151864652,
+  "offset": 151848268
+ },
+ {
+  "class": "LevelRangeValue",
+  "ns": "WithNetwork",
+  "method": "ToTypeValue",
+  "args": "BigDecimal value, LevelRangeValueType valueType",
+  "rva": 151863604,
+  "offset": 151847220
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork",
+  "method": "get_Id",
+  "args": "",
+  "rva": 151865108,
+  "offset": 151848724
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork",
+  "method": "get_StartLevel",
+  "args": "",
+  "rva": 151865116,
+  "offset": 151848732
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork",
+  "method": "get_LevelRangeValues",
+  "args": "",
+  "rva": 151865124,
+  "offset": 151848740
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork",
+  "method": "TryGetValue",
+  "args": "int level, out BigDecimal value",
+  "rva": 151865436,
+  "offset": 151849052
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork",
+  "method": "GetValue",
+  "args": "int level",
+  "rva": 151866224,
+  "offset": 151849840
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork",
+  "method": "Valid",
+  "args": "",
+  "rva": 151866876,
+  "offset": 151850492
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork",
+  "method": "IsSame",
+  "args": "in LevelRangeValueGroup other",
+  "rva": 151867360,
+  "offset": 151850976
+ },
+ {
+  "class": "LevelRangeValueGroup",
+  "ns": "WithNetwork",
+  "method": "IsLevelRange",
+  "args": "LevelRangeValue levelRangeValue, int level",
+  "rva": 151865988,
+  "offset": 151849604
+ },
+ {
+  "class": "IdleRewardScrollList",
+  "ns": "Game.Ui",
+  "method": "OnClickRewardThumbnailObservable",
+  "args": "",
+  "rva": 79095808,
+  "offset": 79079424
+ },
+ {
+  "class": "IdleRewardScrollList",
+  "ns": "Game.Ui",
+  "method": "SetupCellTemplate",
+  "args": "",
+  "rva": 79095880,
+  "offset": 79079496
+ },
+ {
+  "class": "IdleRewardScrollListCell",
+  "ns": "Game.Ui",
+  "method": "OnUpdateContent",
+  "args": "IdleRewardScrollListCellData itemData",
+  "rva": 79096132,
+  "offset": 79079748
+ },
+ {
+  "class": "IdleRewardScrollListCell",
+  "ns": "Game.Ui",
+  "method": "OnUpdatePosition",
+  "args": "float normalizedPosition, float localPosition",
+  "rva": 79096360,
+  "offset": 79079976
+ },
+ {
+  "class": "IdleRewardScrollListCell",
+  "ns": "Game.Ui",
+  "method": "OnInitialize",
+  "args": "",
+  "rva": 79096364,
+  "offset": 79079980
+ },
+ {
+  "class": "IdleRewardScrollListCell",
+  "ns": "Game.Ui",
+  "method": "OnDestroy",
+  "args": "",
+  "rva": 79096604,
+  "offset": 79080220
+ },
+ {
+  "class": "IdleRewardScrollListCell",
+  "ns": "Game.Ui",
+  "method": "OnClickThumbnail",
+  "args": "IRewardData rewardData",
+  "rva": 79096880,
+  "offset": 79080496
+ },
+ {
+  "class": "IdleRewardScrollListContext",
+  "ns": "Game.Ui",
+  "method": "get_UseShowAnimation",
+  "args": "",
+  "rva": 79097116,
+  "offset": 79080732
+ },
+ {
+  "class": "IdleRewardScrollListContext",
+  "ns": "Game.Ui",
+  "method": "OnClickObservable",
+  "args": "",
+  "rva": 79097124,
+  "offset": 79080740
+ },
+ {
+  "class": "IdleRewardScrollListContext",
+  "ns": "Game.Ui",
+  "method": "Click",
+  "args": "IRewardData rewardData",
+  "rva": 79096956,
+  "offset": 79080572
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "get_Id",
+  "args": "",
+  "rva": 78444652,
+  "offset": 78428268
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "get_Type",
+  "args": "",
+  "rva": 78444660,
+  "offset": 78428276
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "get_MaximumIdleMinutes",
+  "args": "",
+  "rva": 78444668,
+  "offset": 78428284
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "get_IdleMinutes",
+  "args": "",
+  "rva": 78444676,
+  "offset": 78428292
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "set_IdleMinutes",
+  "args": "int value",
+  "rva": 78444684,
+  "offset": 78428300
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "get_IdleMilliseconds",
+  "args": "",
+  "rva": 78444692,
+  "offset": 78428308
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "set_IdleMilliseconds",
+  "args": "long value",
+  "rva": 78444700,
+  "offset": 78428316
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "get_DailyReceivedCount",
+  "args": "",
+  "rva": 78444708,
+  "offset": 78428324
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "set_DailyReceivedCount",
+  "args": "int value",
+  "rva": 78444716,
+  "offset": 78428332
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "get_ReceivedCountLimitPerDay",
+  "args": "",
+  "rva": 78444724,
+  "offset": 78428340
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "get_NextResetAtUnixTimeMilliseconds",
+  "args": "",
+  "rva": 78444732,
+  "offset": 78428348
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "set_NextResetAtUnixTimeMilliseconds",
+  "args": "long value",
+  "rva": 78444740,
+  "offset": 78428356
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "get_NextReceivableAtUnixTimeMilliseconds",
+  "args": "",
+  "rva": 78444748,
+  "offset": 78428364
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "set_NextReceivableAtUnixTimeMilliseconds",
+  "args": "long value",
+  "rva": 78444756,
+  "offset": 78428372
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "get_UpdateAtUnixTimeMilliseconds",
+  "args": "",
+  "rva": 78444764,
+  "offset": 78428380
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "set_UpdateAtUnixTimeMilliseconds",
+  "args": "long value",
+  "rva": 78444772,
+  "offset": 78428388
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "get_CreatedAtUnixTimeMilliseconds",
+  "args": "",
+  "rva": 78444780,
+  "offset": 78428396
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "set_CreatedAtUnixTimeMilliseconds",
+  "args": "long value",
+  "rva": 78444788,
+  "offset": 78428404
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "get_InDelay",
+  "args": "",
+  "rva": 78444796,
+  "offset": 78428412
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "set_InDelay",
+  "args": "bool value",
+  "rva": 78444804,
+  "offset": 78428420
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "get_ReceiveDelayMinutes",
+  "args": "",
+  "rva": 78444816,
+  "offset": 78428432
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "get_Rewards",
+  "args": "",
+  "rva": 78444824,
+  "offset": 78428440
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "set_Rewards",
+  "args": "IReadOnlyList<Reward> value",
+  "rva": 78444832,
+  "offset": 78428448
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "SetRewardData",
+  "args": "IReadOnlyList<Reward> rewards",
+  "rva": 78444840,
+  "offset": 78428456
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "SetIdleMinutes",
+  "args": "int minutes",
+  "rva": 78444848,
+  "offset": 78428464
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "UpdateUserData",
+  "args": "int idleMinutes, long idleMilliseconds, bool inDelay, long nextReceivableAtUnixTimeMilliseconds, long updateAtUnixTimeMi",
+  "rva": 78444856,
+  "offset": 78428472
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "UpdateUserData",
+  "args": "int idleMinutes, long idleMilliseconds, int dailyReceivedCount, long nextResetAtUnixTimeMilliseconds, long nextReceivabl",
+  "rva": 78444880,
+  "offset": 78428496
+ },
+ {
+  "class": "IdleRewardGroupData",
+  "ns": "Game.Data",
+  "method": "GetGoldReward",
+  "args": "",
+  "rva": 78444912,
+  "offset": 78428528
+ },
+ {
+  "class": "CookingFormationCalculator",
+  "ns": "Game.DataStore",
+  "method": "IsMatchGenreCostume",
+  "args": "int genreId, ICookingFormationCostumeData costumeData",
+  "rva": 78447732,
+  "offset": 78431348
+ },
+ {
+  "class": "CookingFormationCalculator",
+  "ns": "Game.DataStore",
+  "method": "GetFormationAssistSlotIndex",
+  "args": "int formationSlotNumber",
+  "rva": 78448032,
+  "offset": 78431648
+ },
+ {
+  "class": "CookingFormationCalculator",
+  "ns": "Game.DataStore",
+  "method": "IsValidFormationSlotNumber",
+  "args": "int slotNumber",
+  "rva": 78448040,
+  "offset": 78431656
+ },
+ {
+  "class": "CookingMenuLicenseCalculator",
+  "ns": "Game.DataStore",
+  "method": "GetNextLevel",
+  "args": "int level, int maxLevel",
+  "rva": 78448052,
+  "offset": 78431668
+ },
+ {
+  "class": "CookingResourceCalculator",
+  "ns": "Game.DataStore",
+  "method": "CalculateCafeExp",
+  "args": "BigDecimal resourceAmount, float resourceToExpCoefficient",
+  "rva": 78448064,
+  "offset": 78431680
+ },
+ {
+  "class": "CookingStageCalculator",
+  "ns": "Game.DataStore",
+  "method": "GetGimmickKitchenDisplayThreshold",
+  "args": "ICookingKitchenData kitchenData, IReadOnlyList<CookingGimmickKitchenSettingRecord> kitchenSettingDataList",
+  "rva": 78448208,
+  "offset": 78431824
+ },
+ {
+  "class": "CookingStageCalculator",
+  "ns": "Game.DataStore",
+  "method": "GetGimmickKitchenDisplayThreshold",
+  "args": "int targetKitchenAssetId, int targetKitchenLevel, IReadOnlyList<CookingGimmickKitchenSettingRecord> kitchenSettingDataLi",
+  "rva": 78448612,
+  "offset": 78432228
+ },
+ {
+  "class": "IdleRewardScrollListCellData",
+  "ns": "Game.Ui.Data",
+  "method": "get_Reward",
+  "args": "",
+  "rva": 79085136,
+  "offset": 79068752
+ },
+ {
+  "class": "IdleRewardScrollListCellData",
+  "ns": "Game.Ui.Data",
+  "method": "set_Reward",
+  "args": "IRewardData value",
+  "rva": 79085144,
+  "offset": 79068760
+ },
+ {
+  "class": "IdleRewardScrollListCellData",
+  "ns": "Game.Ui.Data",
+  "method": "get_Index",
+  "args": "",
+  "rva": 79085152,
+  "offset": 79068768
+ },
+ {
+  "class": "IdleRewardScrollListCellData",
+  "ns": "Game.Ui.Data",
+  "method": "set_Index",
+  "args": "int value",
+  "rva": 79085160,
+  "offset": 79068776
+ },
+ {
+  "class": "IdleRewardScrollListCellData",
+  "ns": "Game.Ui.Data",
+  "method": "SetIndex",
+  "args": "int index",
+  "rva": 79085224,
+  "offset": 79068840
+ },
+ {
+  "class": "IdleRewardNotificationScheduler",
+  "ns": "Game.Application.Notification",
+  "method": "get_Enabled",
+  "args": "",
+  "rva": 78288556,
+  "offset": 78272172
+ },
+ {
+  "class": "IdleRewardNotificationScheduler",
+  "ns": "Game.Application.Notification",
+  "method": "Schedule",
+  "args": "ISchedulerContext context",
+  "rva": 78289044,
+  "offset": 78272660
+ },
+ {
+  "class": "IdleRewardNotificationScheduler",
+  "ns": "Game.Application.Notification",
+  "method": "TryGetIdleRewardResourceMaxAt",
+  "args": "out long maxResourceAt",
+  "rva": 78288768,
+  "offset": 78272384
+ },
+ {
+  "class": "IdleRewardNotificationScheduler",
+  "ns": "Game.Application.Notification",
+  "method": "CalculateGenerateRemainTime",
+  "args": "",
+  "rva": 78289768,
+  "offset": 78273384
+ }
+]

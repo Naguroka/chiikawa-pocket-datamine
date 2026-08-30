@@ -1,0 +1,716 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "possessionEffectId": 40101,
+  "conditionMasteryId": [],
+  "groupId": 1,
+  "maxLevel": 5,
+  "consumeId": 204
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "possessionEffectId": 40102,
+  "conditionMasteryId": [
+   1
+  ],
+  "groupId": 1,
+  "maxLevel": 10,
+  "consumeId": 204
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "possessionEffectId": 40103,
+  "conditionMasteryId": [
+   1
+  ],
+  "groupId": 1,
+  "maxLevel": 25,
+  "consumeId": 204
+ },
+ {
+  "version": "250330.1.0",
+  "id": 4,
+  "possessionEffectId": 40104,
+  "conditionMasteryId": [
+   2
+  ],
+  "groupId": 1,
+  "maxLevel": 15,
+  "consumeId": 204
+ },
+ {
+  "version": "250330.1.0",
+  "id": 5,
+  "possessionEffectId": 40106,
+  "conditionMasteryId": [
+   2,
+   3
+  ],
+  "groupId": 1,
+  "maxLevel": 20,
+  "consumeId": 206
+ },
+ {
+  "version": "250330.1.0",
+  "id": 6,
+  "possessionEffectId": 40105,
+  "conditionMasteryId": [
+   3
+  ],
+  "groupId": 1,
+  "maxLevel": 25,
+  "consumeId": 204
+ },
+ {
+  "version": "250330.1.0",
+  "id": 7,
+  "possessionEffectId": 40107,
+  "conditionMasteryId": [
+   4,
+   5
+  ],
+  "groupId": 1,
+  "maxLevel": 40,
+  "consumeId": 204
+ },
+ {
+  "version": "250330.1.0",
+  "id": 8,
+  "possessionEffectId": 40108,
+  "conditionMasteryId": [
+   5,
+   6
+  ],
+  "groupId": 1,
+  "maxLevel": 5,
+  "consumeId": 204
+ },
+ {
+  "version": "250330.1.0",
+  "id": 9,
+  "possessionEffectId": 40109,
+  "conditionMasteryId": [
+   7
+  ],
+  "groupId": 1,
+  "maxLevel": 25,
+  "consumeId": 206
+ },
+ {
+  "version": "250330.1.0",
+  "id": 10,
+  "possessionEffectId": 40110,
+  "conditionMasteryId": [
+   8
+  ],
+  "groupId": 1,
+  "maxLevel": 50,
+  "consumeId": 205
+ },
+ {
+  "version": "250330.1.0",
+  "id": 11,
+  "possessionEffectId": 40111,
+  "conditionMasteryId": [
+   9,
+   10
+  ],
+  "groupId": 1,
+  "maxLevel": 20,
+  "consumeId": 206
+ },
+ {
+  "version": "250330.1.0",
+  "id": 12,
+  "possessionEffectId": 40112,
+  "conditionMasteryId": [
+   9,
+   10
+  ],
+  "groupId": 1,
+  "maxLevel": 25,
+  "consumeId": 205
+ },
+ {
+  "version": "250330.1.0",
+  "id": 13,
+  "possessionEffectId": 40113,
+  "conditionMasteryId": [
+   11
+  ],
+  "groupId": 1,
+  "maxLevel": 25,
+  "consumeId": 205
+ },
+ {
+  "version": "250330.1.0",
+  "id": 14,
+  "possessionEffectId": 40114,
+  "conditionMasteryId": [
+   12
+  ],
+  "groupId": 1,
+  "maxLevel": 25,
+  "consumeId": 205
+ },
+ {
+  "version": "250330.1.0",
+  "id": 15,
+  "possessionEffectId": 40115,
+  "conditionMasteryId": [
+   13,
+   14
+  ],
+  "groupId": 1,
+  "maxLevel": 0,
+  "consumeId": 206
+ },
+ {
+  "version": "250330.1.0",
+  "id": 16,
+  "possessionEffectId": 40116,
+  "conditionMasteryId": [
+   13,
+   14
+  ],
+  "groupId": 1,
+  "maxLevel": 0,
+  "consumeId": 206
+ },
+ {
+  "version": "250330.1.0",
+  "id": 101,
+  "possessionEffectId": 50101,
+  "conditionMasteryId": [],
+  "groupId": 2,
+  "maxLevel": 1,
+  "consumeId": 209
+ },
+ {
+  "version": "250330.1.0",
+  "id": 102,
+  "possessionEffectId": 50102,
+  "conditionMasteryId": [
+   101
+  ],
+  "groupId": 2,
+  "maxLevel": 5,
+  "consumeId": 209
+ },
+ {
+  "version": "250330.1.0",
+  "id": 103,
+  "possessionEffectId": 50103,
+  "conditionMasteryId": [
+   101
+  ],
+  "groupId": 2,
+  "maxLevel": 1,
+  "consumeId": 209
+ },
+ {
+  "version": "250330.1.0",
+  "id": 104,
+  "possessionEffectId": 50104,
+  "conditionMasteryId": [
+   101
+  ],
+  "groupId": 2,
+  "maxLevel": 1,
+  "consumeId": 215
+ },
+ {
+  "version": "250330.1.0",
+  "id": 105,
+  "possessionEffectId": 50105,
+  "conditionMasteryId": [
+   102
+  ],
+  "groupId": 2,
+  "maxLevel": 3,
+  "consumeId": 209
+ },
+ {
+  "version": "250330.1.0",
+  "id": 106,
+  "possessionEffectId": 50106,
+  "conditionMasteryId": [
+   103
+  ],
+  "groupId": 2,
+  "maxLevel": 2,
+  "consumeId": 210
+ },
+ {
+  "version": "250330.1.0",
+  "id": 107,
+  "possessionEffectId": 50107,
+  "conditionMasteryId": [
+   105
+  ],
+  "groupId": 2,
+  "maxLevel": 5,
+  "consumeId": 210
+ },
+ {
+  "version": "250330.1.0",
+  "id": 108,
+  "possessionEffectId": 50108,
+  "conditionMasteryId": [
+   106
+  ],
+  "groupId": 2,
+  "maxLevel": 2,
+  "consumeId": 210
+ },
+ {
+  "version": "250330.1.0",
+  "id": 109,
+  "possessionEffectId": 50109,
+  "conditionMasteryId": [
+   106
+  ],
+  "groupId": 2,
+  "maxLevel": 1,
+  "consumeId": 215
+ },
+ {
+  "version": "250330.1.0",
+  "id": 110,
+  "possessionEffectId": 50110,
+  "conditionMasteryId": [
+   107,
+   108
+  ],
+  "groupId": 2,
+  "maxLevel": 3,
+  "consumeId": 210
+ },
+ {
+  "version": "250330.1.0",
+  "id": 111,
+  "possessionEffectId": 50111,
+  "conditionMasteryId": [
+   109
+  ],
+  "groupId": 2,
+  "maxLevel": 5,
+  "consumeId": 214
+ },
+ {
+  "version": "250330.1.0",
+  "id": 112,
+  "possessionEffectId": 50112,
+  "conditionMasteryId": [
+   110,
+   111
+  ],
+  "groupId": 2,
+  "maxLevel": 5,
+  "consumeId": 210
+ },
+ {
+  "version": "250330.1.0",
+  "id": 113,
+  "possessionEffectId": 50113,
+  "conditionMasteryId": [
+   111
+  ],
+  "groupId": 2,
+  "maxLevel": 2,
+  "consumeId": 213
+ },
+ {
+  "version": "250330.1.0",
+  "id": 114,
+  "possessionEffectId": 50114,
+  "conditionMasteryId": [
+   111
+  ],
+  "groupId": 2,
+  "maxLevel": 1,
+  "consumeId": 215
+ },
+ {
+  "version": "250330.1.0",
+  "id": 115,
+  "possessionEffectId": 50115,
+  "conditionMasteryId": [
+   112
+  ],
+  "groupId": 2,
+  "maxLevel": 5,
+  "consumeId": 211
+ },
+ {
+  "version": "250330.1.0",
+  "id": 116,
+  "possessionEffectId": 50116,
+  "conditionMasteryId": [
+   113
+  ],
+  "groupId": 2,
+  "maxLevel": 1,
+  "consumeId": 215
+ },
+ {
+  "version": "250330.1.0",
+  "id": 117,
+  "possessionEffectId": 50117,
+  "conditionMasteryId": [
+   115
+  ],
+  "groupId": 2,
+  "maxLevel": 5,
+  "consumeId": 212
+ },
+ {
+  "version": "250330.1.0",
+  "id": 118,
+  "possessionEffectId": 50118,
+  "conditionMasteryId": [
+   116
+  ],
+  "groupId": 2,
+  "maxLevel": 10,
+  "consumeId": 210
+ },
+ {
+  "version": "250330.1.0",
+  "id": 119,
+  "possessionEffectId": 50119,
+  "conditionMasteryId": [
+   116
+  ],
+  "groupId": 2,
+  "maxLevel": 1,
+  "consumeId": 215
+ },
+ {
+  "version": "250330.1.0",
+  "id": 120,
+  "possessionEffectId": 50120,
+  "conditionMasteryId": [
+   117
+  ],
+  "groupId": 2,
+  "maxLevel": 5,
+  "consumeId": 213
+ },
+ {
+  "version": "250330.1.0",
+  "id": 121,
+  "possessionEffectId": 50121,
+  "conditionMasteryId": [
+   117,
+   118
+  ],
+  "groupId": 2,
+  "maxLevel": 10,
+  "consumeId": 210
+ },
+ {
+  "version": "250330.1.0",
+  "id": 122,
+  "possessionEffectId": 50122,
+  "conditionMasteryId": [
+   120
+  ],
+  "groupId": 2,
+  "maxLevel": 10,
+  "consumeId": 211
+ },
+ {
+  "version": "250330.1.0",
+  "id": 123,
+  "possessionEffectId": 50123,
+  "conditionMasteryId": [
+   120
+  ],
+  "groupId": 2,
+  "maxLevel": 10,
+  "consumeId": 210
+ },
+ {
+  "version": "250330.1.0",
+  "id": 124,
+  "possessionEffectId": 50124,
+  "conditionMasteryId": [
+   121
+  ],
+  "groupId": 2,
+  "maxLevel": 1,
+  "consumeId": 215
+ },
+ {
+  "version": "250330.1.0",
+  "id": 125,
+  "possessionEffectId": 50125,
+  "conditionMasteryId": [
+   122
+  ],
+  "groupId": 2,
+  "maxLevel": 7,
+  "consumeId": 213
+ },
+ {
+  "version": "250330.1.0",
+  "id": 126,
+  "possessionEffectId": 50126,
+  "conditionMasteryId": [
+   122,
+   123
+  ],
+  "groupId": 2,
+  "maxLevel": 15,
+  "consumeId": 210
+ },
+ {
+  "version": "250330.1.0",
+  "id": 127,
+  "possessionEffectId": 50127,
+  "conditionMasteryId": [
+   125
+  ],
+  "groupId": 2,
+  "maxLevel": 8,
+  "consumeId": 213
+ },
+ {
+  "version": "250330.1.0",
+  "id": 128,
+  "possessionEffectId": 50128,
+  "conditionMasteryId": [
+   125
+  ],
+  "groupId": 2,
+  "maxLevel": 15,
+  "consumeId": 210
+ },
+ {
+  "version": "250330.1.0",
+  "id": 129,
+  "possessionEffectId": 50129,
+  "conditionMasteryId": [
+   126
+  ],
+  "groupId": 2,
+  "maxLevel": 1,
+  "consumeId": 215
+ },
+ {
+  "version": "250330.1.0",
+  "id": 130,
+  "possessionEffectId": 50130,
+  "conditionMasteryId": [
+   127
+  ],
+  "groupId": 2,
+  "maxLevel": 9,
+  "consumeId": 213
+ },
+ {
+  "version": "250330.1.0",
+  "id": 131,
+  "possessionEffectId": 50131,
+  "conditionMasteryId": [
+   128
+  ],
+  "groupId": 2,
+  "maxLevel": 20,
+  "consumeId": 210
+ },
+ {
+  "version": "250330.1.0",
+  "id": 132,
+  "possessionEffectId": 50132,
+  "conditionMasteryId": [
+   130
+  ],
+  "groupId": 2,
+  "maxLevel": 25,
+  "consumeId": 210
+ },
+ {
+  "version": "250330.1.0",
+  "id": 133,
+  "possessionEffectId": 50133,
+  "conditionMasteryId": [
+   130
+  ],
+  "groupId": 2,
+  "maxLevel": 20,
+  "consumeId": 210
+ },
+ {
+  "version": "250330.1.0",
+  "id": 134,
+  "possessionEffectId": 50134,
+  "conditionMasteryId": [
+   131
+  ],
+  "groupId": 2,
+  "maxLevel": 1,
+  "consumeId": 215
+ },
+ {
+  "version": "250330.1.0",
+  "id": 135,
+  "possessionEffectId": 50135,
+  "conditionMasteryId": [
+   132
+  ],
+  "groupId": 2,
+  "maxLevel": 11,
+  "consumeId": 213
+ },
+ {
+  "version": "250330.1.0",
+  "id": 136,
+  "possessionEffectId": 50136,
+  "conditionMasteryId": [
+   134
+  ],
+  "groupId": 2,
+  "maxLevel": 25,
+  "consumeId": 210
+ },
+ {
+  "version": "250330.1.0",
+  "id": 137,
+  "possessionEffectId": 50137,
+  "conditionMasteryId": [
+   135
+  ],
+  "groupId": 2,
+  "maxLevel": 20,
+  "consumeId": 211
+ },
+ {
+  "version": "250330.1.0",
+  "id": 138,
+  "possessionEffectId": 50138,
+  "conditionMasteryId": [
+   136
+  ],
+  "groupId": 2,
+  "maxLevel": 25,
+  "consumeId": 210
+ },
+ {
+  "version": "250330.1.0",
+  "id": 139,
+  "possessionEffectId": 50139,
+  "conditionMasteryId": [
+   136
+  ],
+  "groupId": 2,
+  "maxLevel": 1,
+  "consumeId": 215
+ },
+ {
+  "version": "250330.1.0",
+  "id": 140,
+  "possessionEffectId": 50140,
+  "conditionMasteryId": [
+   137
+  ],
+  "groupId": 2,
+  "maxLevel": 13,
+  "consumeId": 213
+ },
+ {
+  "version": "250330.1.0",
+  "id": 141,
+  "possessionEffectId": 50141,
+  "conditionMasteryId": [
+   137,
+   138,
+   139
+  ],
+  "groupId": 2,
+  "maxLevel": 30,
+  "consumeId": 211
+ },
+ {
+  "version": "250330.1.0",
+  "id": 142,
+  "possessionEffectId": 50142,
+  "conditionMasteryId": [
+   140
+  ],
+  "groupId": 2,
+  "maxLevel": 7,
+  "consumeId": 214
+ },
+ {
+  "version": "250330.1.0",
+  "id": 143,
+  "possessionEffectId": 50143,
+  "conditionMasteryId": [
+   141
+  ],
+  "groupId": 2,
+  "maxLevel": 30,
+  "consumeId": 212
+ },
+ {
+  "version": "250330.1.0",
+  "id": 144,
+  "possessionEffectId": 50144,
+  "conditionMasteryId": [
+   141
+  ],
+  "groupId": 2,
+  "maxLevel": 1,
+  "consumeId": 215
+ },
+ {
+  "version": "250330.1.0",
+  "id": 145,
+  "possessionEffectId": 50145,
+  "conditionMasteryId": [
+   142
+  ],
+  "groupId": 2,
+  "maxLevel": 15,
+  "consumeId": 213
+ },
+ {
+  "version": "250330.1.0",
+  "id": 146,
+  "possessionEffectId": 50146,
+  "conditionMasteryId": [
+   144
+  ],
+  "groupId": 2,
+  "maxLevel": 35,
+  "consumeId": 213
+ },
+ {
+  "version": "250330.1.0",
+  "id": 147,
+  "possessionEffectId": 50147,
+  "conditionMasteryId": [
+   145,
+   146
+  ],
+  "groupId": 2,
+  "maxLevel": 0,
+  "consumeId": 214
+ },
+ {
+  "version": "250330.1.0",
+  "id": 148,
+  "possessionEffectId": 50148,
+  "conditionMasteryId": [
+   145
+  ],
+  "groupId": 2,
+  "maxLevel": 0,
+  "consumeId": 216
+ }
+]

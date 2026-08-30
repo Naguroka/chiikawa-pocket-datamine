@@ -1,0 +1,452 @@
+[
+ {
+  "version": "250350.1.0",
+  "id": 1,
+  "leagueTierId": 1,
+  "ranking": 1,
+  "rewardGroupId": 2101000,
+  "promote": true,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 2,
+  "leagueTierId": 1,
+  "ranking": 2,
+  "rewardGroupId": 2101100,
+  "promote": true,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 3,
+  "leagueTierId": 1,
+  "ranking": 3,
+  "rewardGroupId": 2101200,
+  "promote": true,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 4,
+  "leagueTierId": 1,
+  "ranking": 4,
+  "rewardGroupId": 2101300,
+  "promote": true,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 5,
+  "leagueTierId": 1,
+  "ranking": 5,
+  "rewardGroupId": 2101400,
+  "promote": true,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 6,
+  "leagueTierId": 1,
+  "ranking": 6,
+  "rewardGroupId": 2101500,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 7,
+  "leagueTierId": 1,
+  "ranking": 7,
+  "rewardGroupId": 2101600,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 8,
+  "leagueTierId": 1,
+  "ranking": 8,
+  "rewardGroupId": 2101700,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 9,
+  "leagueTierId": 1,
+  "ranking": 9,
+  "rewardGroupId": 2101800,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 10,
+  "leagueTierId": 1,
+  "ranking": 10,
+  "rewardGroupId": 2101900,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 11,
+  "leagueTierId": 2,
+  "ranking": 1,
+  "rewardGroupId": 2102000,
+  "promote": true,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 12,
+  "leagueTierId": 2,
+  "ranking": 2,
+  "rewardGroupId": 2102100,
+  "promote": true,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 13,
+  "leagueTierId": 2,
+  "ranking": 3,
+  "rewardGroupId": 2102200,
+  "promote": true,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 14,
+  "leagueTierId": 2,
+  "ranking": 4,
+  "rewardGroupId": 2102300,
+  "promote": true,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 15,
+  "leagueTierId": 2,
+  "ranking": 5,
+  "rewardGroupId": 2102400,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 16,
+  "leagueTierId": 2,
+  "ranking": 6,
+  "rewardGroupId": 2102500,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 17,
+  "leagueTierId": 2,
+  "ranking": 7,
+  "rewardGroupId": 2102600,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 18,
+  "leagueTierId": 2,
+  "ranking": 8,
+  "rewardGroupId": 2102700,
+  "promote": false,
+  "demote": true
+ },
+ {
+  "version": "250350.1.0",
+  "id": 19,
+  "leagueTierId": 2,
+  "ranking": 9,
+  "rewardGroupId": 2102800,
+  "promote": false,
+  "demote": true
+ },
+ {
+  "version": "250350.1.0",
+  "id": 20,
+  "leagueTierId": 2,
+  "ranking": 10,
+  "rewardGroupId": 2102900,
+  "promote": false,
+  "demote": true
+ },
+ {
+  "version": "250350.1.0",
+  "id": 21,
+  "leagueTierId": 3,
+  "ranking": 1,
+  "rewardGroupId": 2103000,
+  "promote": true,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 22,
+  "leagueTierId": 3,
+  "ranking": 2,
+  "rewardGroupId": 2103100,
+  "promote": true,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 23,
+  "leagueTierId": 3,
+  "ranking": 3,
+  "rewardGroupId": 2103200,
+  "promote": true,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 24,
+  "leagueTierId": 3,
+  "ranking": 4,
+  "rewardGroupId": 2103300,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 25,
+  "leagueTierId": 3,
+  "ranking": 5,
+  "rewardGroupId": 2103400,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 26,
+  "leagueTierId": 3,
+  "ranking": 6,
+  "rewardGroupId": 2103500,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 27,
+  "leagueTierId": 3,
+  "ranking": 7,
+  "rewardGroupId": 2103600,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 28,
+  "leagueTierId": 3,
+  "ranking": 8,
+  "rewardGroupId": 2103700,
+  "promote": false,
+  "demote": true
+ },
+ {
+  "version": "250350.1.0",
+  "id": 29,
+  "leagueTierId": 3,
+  "ranking": 9,
+  "rewardGroupId": 2103800,
+  "promote": false,
+  "demote": true
+ },
+ {
+  "version": "250350.1.0",
+  "id": 30,
+  "leagueTierId": 3,
+  "ranking": 10,
+  "rewardGroupId": 2103900,
+  "promote": false,
+  "demote": true
+ },
+ {
+  "version": "250350.1.0",
+  "id": 31,
+  "leagueTierId": 4,
+  "ranking": 1,
+  "rewardGroupId": 2104000,
+  "promote": true,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 32,
+  "leagueTierId": 4,
+  "ranking": 2,
+  "rewardGroupId": 2104100,
+  "promote": true,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 33,
+  "leagueTierId": 4,
+  "ranking": 3,
+  "rewardGroupId": 2104200,
+  "promote": true,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 34,
+  "leagueTierId": 4,
+  "ranking": 4,
+  "rewardGroupId": 2104300,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 35,
+  "leagueTierId": 4,
+  "ranking": 5,
+  "rewardGroupId": 2104400,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 36,
+  "leagueTierId": 4,
+  "ranking": 6,
+  "rewardGroupId": 2104500,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 37,
+  "leagueTierId": 4,
+  "ranking": 7,
+  "rewardGroupId": 2104600,
+  "promote": false,
+  "demote": true
+ },
+ {
+  "version": "250350.1.0",
+  "id": 38,
+  "leagueTierId": 4,
+  "ranking": 8,
+  "rewardGroupId": 2104700,
+  "promote": false,
+  "demote": true
+ },
+ {
+  "version": "250350.1.0",
+  "id": 39,
+  "leagueTierId": 4,
+  "ranking": 9,
+  "rewardGroupId": 2104800,
+  "promote": false,
+  "demote": true
+ },
+ {
+  "version": "250350.1.0",
+  "id": 40,
+  "leagueTierId": 4,
+  "ranking": 10,
+  "rewardGroupId": 2104900,
+  "promote": false,
+  "demote": true
+ },
+ {
+  "version": "250350.1.0",
+  "id": 41,
+  "leagueTierId": 5,
+  "ranking": 1,
+  "rewardGroupId": 2105000,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 42,
+  "leagueTierId": 5,
+  "ranking": 2,
+  "rewardGroupId": 2105100,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 43,
+  "leagueTierId": 5,
+  "ranking": 3,
+  "rewardGroupId": 2105200,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 44,
+  "leagueTierId": 5,
+  "ranking": 4,
+  "rewardGroupId": 2105300,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 45,
+  "leagueTierId": 5,
+  "ranking": 5,
+  "rewardGroupId": 2105400,
+  "promote": false,
+  "demote": false
+ },
+ {
+  "version": "250350.1.0",
+  "id": 46,
+  "leagueTierId": 5,
+  "ranking": 6,
+  "rewardGroupId": 2105500,
+  "promote": false,
+  "demote": true
+ },
+ {
+  "version": "250350.1.0",
+  "id": 47,
+  "leagueTierId": 5,
+  "ranking": 7,
+  "rewardGroupId": 2105600,
+  "promote": false,
+  "demote": true
+ },
+ {
+  "version": "250350.1.0",
+  "id": 48,
+  "leagueTierId": 5,
+  "ranking": 8,
+  "rewardGroupId": 2105700,
+  "promote": false,
+  "demote": true
+ },
+ {
+  "version": "250350.1.0",
+  "id": 49,
+  "leagueTierId": 5,
+  "ranking": 9,
+  "rewardGroupId": 2105800,
+  "promote": false,
+  "demote": true
+ },
+ {
+  "version": "250350.1.0",
+  "id": 50,
+  "leagueTierId": 5,
+  "ranking": 10,
+  "rewardGroupId": 2105900,
+  "promote": false,
+  "demote": true
+ }
+]

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chiikawa Pocket — Team Calculator</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>🌸 Chiikawa Pocket — Team &amp; Order Calculator</h1>
+  <p class="sub">Built from the v2.4.1 datamine — real formulas, no guesswork. Attack is normalized to <b>1</b>, so all results are multiples of your in-game attack.</p>
+</header>
+
+<nav class="tabs">
+  <button class="tab active" data-tab="optimizer">Team Optimizer</button>
+  <button class="tab" data-tab="items">Buffs &amp; Items</button>
+  <button class="tab" data-tab="math">Math Reference</button>
+</nav>
+
+<main>
+<!-- ===================== TAB: OPTIMIZER ===================== -->
+<section id="tab-optimizer" class="tabpage active">
+  <div class="cols">
+    <div class="panel" id="account-panel">
+      <h2>1 · Account stats</h2>
+      <p class="hint">From your in-game status screen. Rates: enter as multipliers (1.20 = +20%).</p>
+      <div class="grid2">
+        <label>Crit rate (0–1) <input id="in-critRate" type="number" step="0.01" value="0.10"></label>
+        <label>Crit damage (×) <input id="in-critDmg" type="number" step="0.1" value="1.5"></label>
+        <label>Normal atk rate <input id="in-normalRate" type="number" step="0.1" value="1.0"></label>
+        <label>Skill dmg rate <input id="in-skillRate" type="number" step="0.1" value="1.0"></label>
+        <label>Unique skill rate <input id="in-uniqueRate" type="number" step="0.1" value="1.0"></label>
+        <label>Boss dmg rate <input id="in-bossRate" type="number" step="0.1" value="1.5"></label>
+        <label>Mob dmg rate <input id="in-mobRate" type="number" step="0.1" value="1.0"></label>
+        <label>Attack speed (swings/s) <input id="in-atkSpeed" type="number" step="0.01" value="0.66"></label>
+        <label>Cooldown reduction (0–0.9) <input id="in-cdr" type="number" step="0.01" value="0"></label>
+        <label>Defence-debuff amp <input id="in-defDebuff" type="number" step="0.05" value="1.0"></label>
+      </div>
+      <h2>2 · Mode</h2>
+      <div class="grid1">
+        <label>Fight context
+          <select id="in-mode">
+            <option value="balanced" selected>Balanced (waves + boss)</option>
+            <option value="farm">Farm / wave-clear (mob focus)</option>
+            <option value="boss">Boss wall (single-target burst)</option>
+          </select>
+        </label>
+        <label>Survival pressure
+          <select id="in-survival">
+            <option value="safe" selected>Safe — nobody dies (farming)</option>
+            <option value="wall">Wall — front units die (pushing)</option>
+          </select>
+        </label>
+        <label>Tag synergy weight %/extra member <input id="in-tagWeight" type="number" step="0.5" value="2"></label>
+      </div>
+      <h2>3 · Optimize</h2>
+      <div class="grid1">
+        <button id="btn-optimize" class="primary">⚡ Find best team &amp; order</button>
+        <button id="btn-orderonly">🔀 Optimize order of current 6</button>
+        <button id="btn-clearlocks">Unlock all slots</button>
+      </div>
+      <div id="opt-status" class="hint"></div>
+    </div>
+
+    <div class="panel" id="roster-panel">
+      <h2>4 · Your costumes <span id="roster-count" class="hint"></span></h2>
+      <div class="roster-tools">
+        <input id="roster-filter" type="search" placeholder="Filter (id / char / tag / skill type)…">
+        <label><input type="checkbox" id="roster-ownedonly"> owned only</label>
+        <button id="btn-allowned">Mark all owned</button>
+        <button id="btn-noneowned">Mark none owned</button>
+      </div>
+      <div id="roster" class="roster"></div>
+    </div>
+  </div>
+
+  <div class="panel" id="result-panel">
+    <h2>Result — recommended order (slot 1 = front/tank → slot 6 = carry)</h2>
+    <div id="team-summary"></div>
+    <div id="team-slots" class="slots"></div>
+    <div id="team-math"></div>
+  </div>
+</section>
+
+<!-- ===================== TAB: ITEMS ===================== -->
+<section id="tab-items" class="tabpage">
+  <div class="panel">
+    <h2>Buffs &amp; Items — possession / equipment effects</h2>
+    <p class="hint">Check what you own and set your average item level. Multiplicative bonuses auto-sum; click "Apply to account stats" to fold them into the optimizer.</p>
+    <div class="roster-tools">
+      <select id="item-kind">
+        <option value="">All kinds</option><option value="weapon">Weapons</option>
+        <option value="armor">Armor</option><option value="assist">Assist skills</option><option value="treasure">Treasures</option>
+      </select>
+      <label>Avg item level <input id="item-level" type="number" value="1" min="1" max="200" style="width:5em"></label>
+      <button id="btn-applyitems" class="primary">Apply to account stats</button>
+    </div>
+    <div id="item-summary"></div>
+    <div id="items" class="roster"></div>
+  </div>
+</section>
+
+<!-- ===================== TAB: MATH ===================== -->
+<section id="tab-math" class="tabpage">
+  <div class="panel" id="math-ref">
+    <h2>The formulas this calculator uses (from the datamine)</h2>
+    <h3>Per-hit damage</h3>
+    <pre>damage = attack × hitRate × attackRate(costume) × bossOrMobRate × defenceDebuff ÷ attackDebuff
+crit (one roll &lt; critRate): × critDamage × critDefenceDebuff
+expected crit multiplier = 1 + critRate × (critDamage − 1)</pre>
+    <h3>Per-slot DPS</h3>
+    <pre>normalDPS = attack × normalRate × costumeAttackRate × swingsPerSec
+skillDPS  = attack × skillMult(skillLv) × skillCoef × costumeAttackRate × skillRate × uniqueRate ÷ cycleTime
+cycleTime = recast × (1 − cooldownReduction) + castTime + 0.5s queue
+skillMult = lerp(startValue → endValue over level range) ÷ 1000  (Permil)</pre>
+    <h3>Buffs / debuffs (team)</h3>
+    <pre>uptime = buffDuration ÷ cycleTime (≤ 1)
+attack/crit buffs &amp; defence-debuffs act as ×(1 + value × uptime) team multipliers</pre>
+    <h3>Ordering</h3>
+    <pre>Single-target hits always strike the leftmost ALIVE slot (lead). Leads die left → right.
+Skills enter a FIFO queue in formation order: unique fires 1/0.5s, assist 1/2s.
+Buffs must be LEFT of your nuke to affect it. CP number = HP×0.6 + Σ(normal×500 + skill×500) — rough estimate.</pre>
+    <p class="hint">Tag synergy uses a configurable weight (default +2%/extra member) — the game scales effects off tag counts but the exact per-tag values are condition-driven; treat it as an estimate. RecastReset effects are noted but not scored.</p>
+  </div>
+</section>
+</main>
+
+<footer>
+  <p>Data: full offline datamine of jp.co.applibot.chiikawapocketgl v2.4.1 · 146 costumes · 168 skills · 149 items · all effects from game tables.</p>
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

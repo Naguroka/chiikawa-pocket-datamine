@@ -1,0 +1,11 @@
+package com.google.android.gms.internal.ads;
+
+/* JADX INFO: compiled from: com.google.android.gms:play-services-ads-lite@@23.6.0 */
+/* JADX INFO: loaded from: classes4.dex */
+public interface zzbgg extends android.os.IInterface {
+    void zzb(com.google.android.gms.dynamic.IObjectWrapper iObjectWrapper) throws android.os.RemoteException;
+
+    void zzc(com.google.android.gms.dynamic.IObjectWrapper iObjectWrapper) throws android.os.RemoteException;
+
+    void zzd() throws android.os.RemoteException;
+}

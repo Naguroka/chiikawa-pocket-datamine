@@ -1,0 +1,13 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "nameTextKey": 0,
+  "rouletteRewardGroupId": 1,
+  "freeLimitCount": 1,
+  "adLimitCount": 4,
+  "conditionDateTermId": 0,
+  "priority": 1,
+  "adRewardId": 11
+ }
+]

@@ -1,0 +1,11 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "limitPerDay": 3,
+  "limitResetHourUtc": 6,
+  "idleRewardGroupId": 1,
+  "idleRewardMinutes": 360,
+  "adRewardId": 18
+ }
+]

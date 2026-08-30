@@ -1,0 +1,122 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "backGroundAssetId": 1,
+  "headerRoofColorEntryId": "unique/shop/roof_base_gacha",
+  "headerBoardBaseColorEntryId": "unique/shop/board_gacha_base",
+  "headerBoardTitleLineColorEntryId": "unique/shop/board_gacha_line"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "backGroundAssetId": 1,
+  "headerRoofColorEntryId": "unique/shop/roof_base_shop_limited",
+  "headerBoardBaseColorEntryId": "unique/shop/board_shop01_base",
+  "headerBoardTitleLineColorEntryId": "unique/shop/board_shop01_line"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "backGroundAssetId": 1,
+  "headerRoofColorEntryId": "unique/shop/roof_base_shop_general",
+  "headerBoardBaseColorEntryId": "unique/shop/board_shop02_base",
+  "headerBoardTitleLineColorEntryId": "unique/shop/board_shop02_line"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 4,
+  "backGroundAssetId": 1,
+  "headerRoofColorEntryId": "unique/shop/roof_base_shop_normal",
+  "headerBoardBaseColorEntryId": "unique/shop/board_shop03_base",
+  "headerBoardTitleLineColorEntryId": "unique/shop/board_shop03_line"
+ },
+ {
+  "version": "250850.1.0",
+  "id": 10,
+  "backGroundAssetId": 1,
+  "headerRoofColorEntryId": "unique/shop/roof_base_shop_general",
+  "headerBoardBaseColorEntryId": "unique/shop/board_shop02_base",
+  "headerBoardTitleLineColorEntryId": "unique/shop/board_shop02_line"
+ },
+ {
+  "version": "250350.1.0",
+  "id": 20,
+  "backGroundAssetId": 1,
+  "headerRoofColorEntryId": "unique/shop/roof_base_shop_normal",
+  "headerBoardBaseColorEntryId": "unique/shop/board_shop03_base",
+  "headerBoardTitleLineColorEntryId": "unique/shop/board_shop03_line"
+ },
+ {
+  "version": "250612.1.0",
+  "id": 101,
+  "backGroundAssetId": 1,
+  "headerRoofColorEntryId": "unique/shop/roof_base_shop_normal",
+  "headerBoardBaseColorEntryId": "unique/shop/roof_base_shop_normal",
+  "headerBoardTitleLineColorEntryId": "unique/shop/board_shop03_line"
+ },
+ {
+  "version": "250612.1.0",
+  "id": 102,
+  "backGroundAssetId": 1,
+  "headerRoofColorEntryId": "unique/shop/roof_base_shop_normal",
+  "headerBoardBaseColorEntryId": "unique/shop/roof_base_shop_normal",
+  "headerBoardTitleLineColorEntryId": "unique/shop/board_shop03_line"
+ },
+ {
+  "version": "250612.1.0",
+  "id": 103,
+  "backGroundAssetId": 1,
+  "headerRoofColorEntryId": "unique/shop/roof_base_shop_normal",
+  "headerBoardBaseColorEntryId": "unique/shop/roof_base_shop_normal",
+  "headerBoardTitleLineColorEntryId": "unique/shop/board_shop03_line"
+ },
+ {
+  "version": "250810.1.0",
+  "id": 104,
+  "backGroundAssetId": 1,
+  "headerRoofColorEntryId": "unique/shop/roof_base_shop_normal",
+  "headerBoardBaseColorEntryId": "unique/shop/roof_base_shop_normal",
+  "headerBoardTitleLineColorEntryId": "unique/shop/board_shop03_line"
+ },
+ {
+  "version": "260830.1.0",
+  "id": 1001,
+  "backGroundAssetId": 1001,
+  "headerRoofColorEntryId": "unique/shop/roof_shop_orange_{0}",
+  "headerBoardBaseColorEntryId": "unique/shop/roof_base_shop_normal",
+  "headerBoardTitleLineColorEntryId": "unique/shop/board_shop03_line"
+ },
+ {
+  "version": "260830.1.0",
+  "id": 1002,
+  "backGroundAssetId": 1001,
+  "headerRoofColorEntryId": "unique/shop/roof_shop_orange_{0}",
+  "headerBoardBaseColorEntryId": "unique/shop/roof_base_shop_normal",
+  "headerBoardTitleLineColorEntryId": "unique/shop/board_shop03_line"
+ },
+ {
+  "version": "260830.1.0",
+  "id": 1003,
+  "backGroundAssetId": 1001,
+  "headerRoofColorEntryId": "unique/shop/roof_shop_purple_{0}",
+  "headerBoardBaseColorEntryId": "unique/shop/roof_base_shop_normal",
+  "headerBoardTitleLineColorEntryId": "unique/shop/board_shop03_line"
+ },
+ {
+  "version": "260830.1.0",
+  "id": 1004,
+  "backGroundAssetId": 1001,
+  "headerRoofColorEntryId": "unique/shop/roof_shop_pink_{0}",
+  "headerBoardBaseColorEntryId": "unique/shop/roof_base_shop_normal",
+  "headerBoardTitleLineColorEntryId": "unique/shop/board_shop03_line"
+ },
+ {
+  "version": "260830.1.0",
+  "id": 1005,
+  "backGroundAssetId": 1001,
+  "headerRoofColorEntryId": "unique/shop/roof_shop_yellow_{0}",
+  "headerBoardBaseColorEntryId": "unique/shop/roof_base_shop_normal",
+  "headerBoardTitleLineColorEntryId": "unique/shop/board_shop03_line"
+ }
+]

@@ -1,0 +1,345 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 4,
+  "limitCount": 3,
+  "limitRefreshType": "Daily",
+  "limitRefreshHourJst": "15"
+ },
+ {
+  "version": "250330.1.0",
+  "id": 14,
+  "limitCount": 3,
+  "limitRefreshType": "Daily",
+  "limitRefreshHourJst": "15"
+ },
+ {
+  "version": "260115.1.0",
+  "id": 1,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260130.1.0",
+  "id": 32005,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260230.1.0",
+  "id": 32006,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260330.1.0",
+  "id": 100,
+  "limitCount": 1,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 32022,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 33002,
+  "limitCount": 1,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260420.1.0",
+  "id": 33006,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260430.1.0",
+  "id": 33013,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260510.1.0",
+  "id": 605012,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260530.1.0",
+  "id": 605121,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260610.1.0",
+  "id": 606011,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260610.1.0",
+  "id": 606013,
+  "limitCount": 10,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260630.1.0",
+  "id": 606133,
+  "limitCount": 10,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260630.1.0",
+  "id": 606143,
+  "limitCount": 1,
+  "limitRefreshType": "Daily",
+  "limitRefreshHourJst": "15"
+ },
+ {
+  "version": "260630.1.0",
+  "id": 606192,
+  "limitCount": 10,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260710.1.0",
+  "id": 607013,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260710.1.0",
+  "id": 607023,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260710.1.0",
+  "id": 607033,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260710.1.0",
+  "id": 607043,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260710.1.0",
+  "id": 607053,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260710.1.0",
+  "id": 607063,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260730.1.0",
+  "id": 607103,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260730.1.0",
+  "id": 607113,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260730.1.0",
+  "id": 607123,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260730.1.0",
+  "id": 607133,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260730.1.0",
+  "id": 607143,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260730.1.0",
+  "id": 607153,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260730.1.0",
+  "id": 607172,
+  "limitCount": 3,
+  "limitRefreshType": "Daily",
+  "limitRefreshHourJst": "15"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 608011,
+  "limitCount": 1,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 608071,
+  "limitCount": 1,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 608141,
+  "limitCount": 1,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 608211,
+  "limitCount": 1,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260830.1.0",
+  "id": 608073,
+  "limitCount": 10,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 609013,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 609023,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 609033,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 609043,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 609053,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 609063,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 609073,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 609083,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 609093,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 609103,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 609113,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 609123,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 609133,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ },
+ {
+  "version": "260910.1.0",
+  "id": 609143,
+  "limitCount": 3,
+  "limitRefreshType": "Never",
+  "limitRefreshHourJst": "0"
+ }
+]

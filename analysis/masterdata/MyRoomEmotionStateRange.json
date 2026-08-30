@@ -1,0 +1,30 @@
+[
+ {
+  "version": "260810.1.0",
+  "id": 1,
+  "valueMin": -1000,
+  "valueMax": -1000,
+  "emotionState": "Annoyed"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 2,
+  "valueMin": -999,
+  "valueMax": -250,
+  "emotionState": "Confused"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 3,
+  "valueMin": -249,
+  "valueMax": 250,
+  "emotionState": "Normal"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 4,
+  "valueMin": 251,
+  "valueMax": 1000,
+  "emotionState": "Happy"
+ }
+]

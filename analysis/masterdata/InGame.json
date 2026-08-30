@@ -1,0 +1,32 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": "Cooking",
+  "lock": false,
+  "timeScale": false
+ },
+ {
+  "version": "250330.1.0",
+  "id": "Home",
+  "lock": true,
+  "timeScale": false
+ },
+ {
+  "version": "250330.1.0",
+  "id": "Hunt",
+  "lock": true,
+  "timeScale": true
+ },
+ {
+  "version": "250330.1.0",
+  "id": "Weeding",
+  "lock": false,
+  "timeScale": false
+ },
+ {
+  "version": "260410.1.0",
+  "id": "StickerNoteEdit",
+  "lock": false,
+  "timeScale": false
+ }
+]

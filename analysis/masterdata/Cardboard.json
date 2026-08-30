@@ -1,0 +1,110 @@
+[
+ {
+  "version": "260410.1.0",
+  "id": 200001,
+  "cardboardGroupId": 1,
+  "nameTextKey": -142453143,
+  "descriptionTextKey": 1314391765,
+  "cardboardAssetId": 1,
+  "sortOrder": 10,
+  "viewConditionId": 0,
+  "releaseType": "Default",
+  "masterId": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 200002,
+  "cardboardGroupId": 1,
+  "nameTextKey": 1854605267,
+  "descriptionTextKey": -682535057,
+  "cardboardAssetId": 2,
+  "sortOrder": 20,
+  "viewConditionId": 0,
+  "releaseType": "Default",
+  "masterId": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 200003,
+  "cardboardGroupId": 1,
+  "nameTextKey": 428619589,
+  "descriptionTextKey": -1604950023,
+  "cardboardAssetId": 3,
+  "sortOrder": 30,
+  "viewConditionId": 0,
+  "releaseType": "Default",
+  "masterId": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 200004,
+  "cardboardGroupId": 1,
+  "nameTextKey": -2014797082,
+  "descriptionTextKey": 1043526234,
+  "cardboardAssetId": 4,
+  "sortOrder": 40,
+  "viewConditionId": 0,
+  "releaseType": "Default",
+  "masterId": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 200005,
+  "cardboardGroupId": 1,
+  "nameTextKey": -252734864,
+  "descriptionTextKey": 1228260044,
+  "cardboardAssetId": 5,
+  "sortOrder": 50,
+  "viewConditionId": 0,
+  "releaseType": "Default",
+  "masterId": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 200006,
+  "cardboardGroupId": 1,
+  "nameTextKey": 1776731082,
+  "descriptionTextKey": -801336458,
+  "cardboardAssetId": 6,
+  "sortOrder": 60,
+  "viewConditionId": 0,
+  "releaseType": "Default",
+  "masterId": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 200007,
+  "cardboardGroupId": 1,
+  "nameTextKey": 518124380,
+  "descriptionTextKey": -1489263648,
+  "cardboardAssetId": 7,
+  "sortOrder": 70,
+  "viewConditionId": 0,
+  "releaseType": "Default",
+  "masterId": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 200008,
+  "cardboardGroupId": 1,
+  "nameTextKey": -1906381107,
+  "descriptionTextKey": 931446385,
+  "cardboardAssetId": 8,
+  "sortOrder": 80,
+  "viewConditionId": 0,
+  "releaseType": "Default",
+  "masterId": 0
+ },
+ {
+  "version": "260810.1.0",
+  "id": 200009,
+  "cardboardGroupId": 2,
+  "nameTextKey": -111550885,
+  "descriptionTextKey": 1082363623,
+  "cardboardAssetId": 9,
+  "sortOrder": 90,
+  "viewConditionId": 2608107,
+  "releaseType": "Independence",
+  "masterId": 0
+ }
+]

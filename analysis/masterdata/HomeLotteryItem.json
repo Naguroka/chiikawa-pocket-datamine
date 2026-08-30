@@ -1,0 +1,800 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "itemId": 1,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "itemId": 2,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "itemId": 3,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 4,
+  "itemId": 4,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 5,
+  "itemId": 5,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 6,
+  "itemId": 6,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 7,
+  "itemId": 7,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 8,
+  "itemId": 8,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 9,
+  "itemId": 9,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 10,
+  "itemId": 10,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 11,
+  "itemId": 11,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 12,
+  "itemId": 12,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 13,
+  "itemId": 13,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 14,
+  "itemId": 14,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 15,
+  "itemId": 15,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 16,
+  "itemId": 16,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 17,
+  "itemId": 17,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 18,
+  "itemId": 18,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 19,
+  "itemId": 19,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 20,
+  "itemId": 20,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 21,
+  "itemId": 21,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 22,
+  "itemId": 22,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 23,
+  "itemId": 23,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 25,
+  "itemId": 25,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 26,
+  "itemId": 26,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 27,
+  "itemId": 27,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250410.1.0",
+  "id": 28,
+  "itemId": 28,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250350.1.0",
+  "id": 29,
+  "itemId": 29,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250350.1.0",
+  "id": 30,
+  "itemId": 30,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250410.1.0",
+  "id": 31,
+  "itemId": 31,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 32,
+  "itemId": 32,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250612.1.0",
+  "id": 33,
+  "itemId": 33,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250610.1.0",
+  "id": 34,
+  "itemId": 34,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250612.1.0",
+  "id": 35,
+  "itemId": 35,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250612.1.0",
+  "id": 37,
+  "itemId": 37,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250810.1.0",
+  "id": 38,
+  "itemId": 38,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250710.1.0",
+  "id": 39,
+  "itemId": 39,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250510.1.0",
+  "id": 41,
+  "itemId": 41,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250350.1.0",
+  "id": 42,
+  "itemId": 42,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250410.1.0",
+  "id": 43,
+  "itemId": 43,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250440.1.0",
+  "id": 44,
+  "itemId": 44,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250440.1.0",
+  "id": 45,
+  "itemId": 45,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250450.1.0",
+  "id": 46,
+  "itemId": 46,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250440.1.0",
+  "id": 47,
+  "itemId": 47,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250450.1.0",
+  "id": 48,
+  "itemId": 48,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250550.1.0",
+  "id": 49,
+  "itemId": 49,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250550.1.0",
+  "id": 50,
+  "itemId": 50,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250550.1.0",
+  "id": 51,
+  "itemId": 51,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250550.1.0",
+  "id": 52,
+  "itemId": 52,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250530.1.0",
+  "id": 53,
+  "itemId": 53,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250630.1.0",
+  "id": 54,
+  "itemId": 54,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250610.1.0",
+  "id": 55,
+  "itemId": 55,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250630.1.0",
+  "id": 56,
+  "itemId": 56,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250610.1.0",
+  "id": 57,
+  "itemId": 57,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250610.1.0",
+  "id": 58,
+  "itemId": 58,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250710.1.0",
+  "id": 59,
+  "itemId": 59,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250710.1.0",
+  "id": 60,
+  "itemId": 60,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250730.1.0",
+  "id": 61,
+  "itemId": 61,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250710.1.0",
+  "id": 62,
+  "itemId": 62,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250730.1.0",
+  "id": 63,
+  "itemId": 63,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250810.1.0",
+  "id": 64,
+  "itemId": 64,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250820.1.0",
+  "id": 65,
+  "itemId": 65,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250820.1.0",
+  "id": 66,
+  "itemId": 66,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250930.1.0",
+  "id": 67,
+  "itemId": 67,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250930.1.0",
+  "id": 68,
+  "itemId": 68,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250910.1.0",
+  "id": 69,
+  "itemId": 69,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250910.1.0",
+  "id": 70,
+  "itemId": 70,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "251010.1.0",
+  "id": 71,
+  "itemId": 71,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "251020.1.0",
+  "id": 72,
+  "itemId": 72,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "251010.1.0",
+  "id": 73,
+  "itemId": 73,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "251010.1.0",
+  "id": 74,
+  "itemId": 74,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "251110.1.0",
+  "id": 75,
+  "itemId": 75,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "251030.1.0",
+  "id": 76,
+  "itemId": 76,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "251110.1.0",
+  "id": 77,
+  "itemId": 77,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "251110.1.0",
+  "id": 78,
+  "itemId": 78,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "251230.1.0",
+  "id": 79,
+  "itemId": 79,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "251230.1.0",
+  "id": 80,
+  "itemId": 80,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "251210.1.0",
+  "id": 81,
+  "itemId": 81,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "251210.1.0",
+  "id": 82,
+  "itemId": 82,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260130.1.0",
+  "id": 83,
+  "itemId": 83,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260110.1.0",
+  "id": 84,
+  "itemId": 84,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260130.1.0",
+  "id": 85,
+  "itemId": 85,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260110.1.0",
+  "id": 86,
+  "itemId": 86,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260130.1.0",
+  "id": 87,
+  "itemId": 87,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260230.1.0",
+  "id": 88,
+  "itemId": 88,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260210.1.0",
+  "id": 89,
+  "itemId": 89,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260230.1.0",
+  "id": 90,
+  "itemId": 90,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260210.1.0",
+  "id": 91,
+  "itemId": 91,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260330.1.0",
+  "id": 92,
+  "itemId": 92,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260310.1.0",
+  "id": 93,
+  "itemId": 93,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260330.1.0",
+  "id": 94,
+  "itemId": 94,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260310.1.0",
+  "id": 95,
+  "itemId": 95,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 96,
+  "itemId": 96,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260420.1.0",
+  "id": 97,
+  "itemId": 97,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260420.1.0",
+  "id": 98,
+  "itemId": 98,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 99,
+  "itemId": 99,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 100,
+  "itemId": 100,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260510.1.0",
+  "id": 101,
+  "itemId": 101,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260530.1.0",
+  "id": 102,
+  "itemId": 102,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260530.1.0",
+  "id": 103,
+  "itemId": 103,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260510.1.0",
+  "id": 104,
+  "itemId": 104,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260630.1.0",
+  "id": 105,
+  "itemId": 105,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260610.1.0",
+  "id": 106,
+  "itemId": 106,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260630.1.0",
+  "id": 107,
+  "itemId": 107,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260610.1.0",
+  "id": 108,
+  "itemId": 108,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260730.1.0",
+  "id": 109,
+  "itemId": 109,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260710.1.0",
+  "id": 110,
+  "itemId": 110,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260730.1.0",
+  "id": 111,
+  "itemId": 111,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260710.1.0",
+  "id": 112,
+  "itemId": 112,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260810.1.0",
+  "id": 113,
+  "itemId": 113,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260810.1.0",
+  "id": 114,
+  "itemId": 114,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260830.1.0",
+  "id": 115,
+  "itemId": 115,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260910.1.0",
+  "id": 116,
+  "itemId": 116,
+  "ratio": 100,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260910.1.0",
+  "id": 117,
+  "itemId": 117,
+  "ratio": 100,
+  "conditionGroupId": 0
+ }
+]

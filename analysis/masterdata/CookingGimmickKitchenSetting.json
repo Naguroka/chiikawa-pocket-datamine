@@ -1,0 +1,226 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1001,
+  "assetId": 1,
+  "displayThreshold": 1,
+  "characterBaseSortOrder": 7,
+  "characterPropSortOrder": 23
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1000,
+  "assetId": 1,
+  "displayThreshold": 0,
+  "characterBaseSortOrder": 0,
+  "characterPropSortOrder": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2001,
+  "assetId": 2,
+  "displayThreshold": 1,
+  "characterBaseSortOrder": 6,
+  "characterPropSortOrder": 15
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2000,
+  "assetId": 2,
+  "displayThreshold": 0,
+  "characterBaseSortOrder": 0,
+  "characterPropSortOrder": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3001,
+  "assetId": 3,
+  "displayThreshold": 1,
+  "characterBaseSortOrder": 8,
+  "characterPropSortOrder": 16
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3000,
+  "assetId": 3,
+  "displayThreshold": 0,
+  "characterBaseSortOrder": 0,
+  "characterPropSortOrder": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 4001,
+  "assetId": 4,
+  "displayThreshold": 1,
+  "characterBaseSortOrder": 9,
+  "characterPropSortOrder": 18
+ },
+ {
+  "version": "250330.1.0",
+  "id": 4000,
+  "assetId": 4,
+  "displayThreshold": 0,
+  "characterBaseSortOrder": 0,
+  "characterPropSortOrder": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 5001,
+  "assetId": 5,
+  "displayThreshold": 1,
+  "characterBaseSortOrder": 7,
+  "characterPropSortOrder": 15
+ },
+ {
+  "version": "250330.1.0",
+  "id": 5000,
+  "assetId": 5,
+  "displayThreshold": 0,
+  "characterBaseSortOrder": 0,
+  "characterPropSortOrder": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 6001,
+  "assetId": 6,
+  "displayThreshold": 1,
+  "characterBaseSortOrder": 7,
+  "characterPropSortOrder": 14
+ },
+ {
+  "version": "250330.1.0",
+  "id": 6000,
+  "assetId": 6,
+  "displayThreshold": 0,
+  "characterBaseSortOrder": 0,
+  "characterPropSortOrder": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 7001,
+  "assetId": 7,
+  "displayThreshold": 1,
+  "characterBaseSortOrder": 8,
+  "characterPropSortOrder": 14
+ },
+ {
+  "version": "250330.1.0",
+  "id": 7000,
+  "assetId": 7,
+  "displayThreshold": 0,
+  "characterBaseSortOrder": 0,
+  "characterPropSortOrder": 0
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1075,
+  "assetId": 1,
+  "displayThreshold": 75,
+  "characterBaseSortOrder": 17,
+  "characterPropSortOrder": 46
+ },
+ {
+  "version": "250330.1.0",
+  "id": 1025,
+  "assetId": 1,
+  "displayThreshold": 25,
+  "characterBaseSortOrder": 14,
+  "characterPropSortOrder": 33
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3075,
+  "assetId": 3,
+  "displayThreshold": 75,
+  "characterBaseSortOrder": 25,
+  "characterPropSortOrder": 37
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3025,
+  "assetId": 3,
+  "displayThreshold": 25,
+  "characterBaseSortOrder": 18,
+  "characterPropSortOrder": 29
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2075,
+  "assetId": 2,
+  "displayThreshold": 75,
+  "characterBaseSortOrder": 27,
+  "characterPropSortOrder": 43
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2025,
+  "assetId": 2,
+  "displayThreshold": 25,
+  "characterBaseSortOrder": 17,
+  "characterPropSortOrder": 32
+ },
+ {
+  "version": "250330.1.0",
+  "id": 4075,
+  "assetId": 4,
+  "displayThreshold": 75,
+  "characterBaseSortOrder": 28,
+  "characterPropSortOrder": 43
+ },
+ {
+  "version": "250330.1.0",
+  "id": 4025,
+  "assetId": 4,
+  "displayThreshold": 25,
+  "characterBaseSortOrder": 15,
+  "characterPropSortOrder": 29
+ },
+ {
+  "version": "250330.1.0",
+  "id": 5075,
+  "assetId": 5,
+  "displayThreshold": 75,
+  "characterBaseSortOrder": 32,
+  "characterPropSortOrder": 46
+ },
+ {
+  "version": "250330.1.0",
+  "id": 5025,
+  "assetId": 5,
+  "displayThreshold": 25,
+  "characterBaseSortOrder": 15,
+  "characterPropSortOrder": 26
+ },
+ {
+  "version": "250330.1.0",
+  "id": 6075,
+  "assetId": 6,
+  "displayThreshold": 75,
+  "characterBaseSortOrder": 28,
+  "characterPropSortOrder": 54
+ },
+ {
+  "version": "250330.1.0",
+  "id": 6025,
+  "assetId": 6,
+  "displayThreshold": 25,
+  "characterBaseSortOrder": 14,
+  "characterPropSortOrder": 33
+ },
+ {
+  "version": "250330.1.0",
+  "id": 7075,
+  "assetId": 7,
+  "displayThreshold": 75,
+  "characterBaseSortOrder": 25,
+  "characterPropSortOrder": 36
+ },
+ {
+  "version": "250330.1.0",
+  "id": 7025,
+  "assetId": 7,
+  "displayThreshold": 25,
+  "characterBaseSortOrder": 13,
+  "characterPropSortOrder": 23
+ }
+]

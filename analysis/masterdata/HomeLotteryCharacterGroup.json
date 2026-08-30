@@ -1,0 +1,234 @@
+[
+ {
+  "version": "250850.1.0",
+  "id": 101,
+  "tableId": 1,
+  "homeCharacterGroupId": 1001,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 102,
+  "tableId": 1,
+  "homeCharacterGroupId": 1002,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 103,
+  "tableId": 1,
+  "homeCharacterGroupId": 1003,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 104,
+  "tableId": 1,
+  "homeCharacterGroupId": 1004,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 105,
+  "tableId": 1,
+  "homeCharacterGroupId": 1005,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 106,
+  "tableId": 1,
+  "homeCharacterGroupId": 1006,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 107,
+  "tableId": 1,
+  "homeCharacterGroupId": 1007,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 301,
+  "tableId": 2,
+  "homeCharacterGroupId": 3001,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 302,
+  "tableId": 2,
+  "homeCharacterGroupId": 3002,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 303,
+  "tableId": 2,
+  "homeCharacterGroupId": 3003,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 304,
+  "tableId": 2,
+  "homeCharacterGroupId": 3004,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 305,
+  "tableId": 2,
+  "homeCharacterGroupId": 3005,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 306,
+  "tableId": 2,
+  "homeCharacterGroupId": 3006,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 307,
+  "tableId": 2,
+  "homeCharacterGroupId": 3007,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 308,
+  "tableId": 2,
+  "homeCharacterGroupId": 3008,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 309,
+  "tableId": 2,
+  "homeCharacterGroupId": 3009,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 311,
+  "tableId": 2,
+  "homeCharacterGroupId": 3011,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 312,
+  "tableId": 2,
+  "homeCharacterGroupId": 3012,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 313,
+  "tableId": 2,
+  "homeCharacterGroupId": 3013,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 314,
+  "tableId": 2,
+  "homeCharacterGroupId": 3014,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 315,
+  "tableId": 2,
+  "homeCharacterGroupId": 3015,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 316,
+  "tableId": 2,
+  "homeCharacterGroupId": 3016,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 317,
+  "tableId": 2,
+  "homeCharacterGroupId": 3017,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 318,
+  "tableId": 2,
+  "homeCharacterGroupId": 3018,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 319,
+  "tableId": 2,
+  "homeCharacterGroupId": 3019,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 320,
+  "tableId": 2,
+  "homeCharacterGroupId": 3020,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 321,
+  "tableId": 2,
+  "homeCharacterGroupId": 3021,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "250850.1.0",
+  "id": 322,
+  "tableId": 2,
+  "homeCharacterGroupId": 3022,
+  "weight": 10,
+  "conditionGroupId": 0
+ },
+ {
+  "version": "260810.1.0",
+  "id": 323,
+  "tableId": 2,
+  "homeCharacterGroupId": 3023,
+  "weight": 10,
+  "conditionGroupId": 0
+ }
+]

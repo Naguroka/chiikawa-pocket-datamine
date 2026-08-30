@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package gatewayprotocol.v1;
+
+option swift_prefix = "Gateway";
+
+message TestData {
+  optional string force_campaign_id = 1;
+  optional string force_country = 2;
+  optional string force_country_subdivision = 3;
+  // Test mode integer for different test modes
+  // Test: 0  treat as production
+  // Test: 1  Return fake video bid, does not hit any bidder
+  // Test: 2  Return NBR Code with no bids (hardcoded nbr)
+  // Test: 3  Only hit direct demand with test flag enabled
+  // Test: 4  Only hit Admob with AdmobTest flag enabled
+  optional uint32 force_exchange_test_mode = 4;
+}

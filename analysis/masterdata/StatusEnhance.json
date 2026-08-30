@@ -1,0 +1,93 @@
+[
+ {
+  "version": "260630.1.0",
+  "id": 1,
+  "statusType": "Attack",
+  "maxLevel": 180000,
+  "consumeId": 13001,
+  "statusEnhanceCostRangeGroupId": 1,
+  "contentLockId": 28,
+  "nameTextKey": 983381112,
+  "assetId": 1,
+  "sortOrder": 1,
+  "tier": 3
+ },
+ {
+  "version": "260630.1.0",
+  "id": 3,
+  "statusType": "Health",
+  "maxLevel": 180000,
+  "consumeId": 13003,
+  "statusEnhanceCostRangeGroupId": 1,
+  "contentLockId": 30,
+  "nameTextKey": -1282983344,
+  "assetId": 3,
+  "sortOrder": 3,
+  "tier": 3
+ },
+ {
+  "version": "260630.1.0",
+  "id": 4,
+  "statusType": "HealthRecover",
+  "maxLevel": 180000,
+  "consumeId": 13004,
+  "statusEnhanceCostRangeGroupId": 1,
+  "contentLockId": 31,
+  "nameTextKey": -656203595,
+  "assetId": 4,
+  "sortOrder": 4,
+  "tier": 3
+ },
+ {
+  "version": "250612.1.0",
+  "id": 5,
+  "statusType": "CriticalRate",
+  "maxLevel": 1000,
+  "consumeId": 13005,
+  "statusEnhanceCostRangeGroupId": 2,
+  "contentLockId": 32,
+  "nameTextKey": -530127865,
+  "assetId": 5,
+  "sortOrder": 5,
+  "tier": 2
+ },
+ {
+  "version": "260630.1.0",
+  "id": 6,
+  "statusType": "CriticalDamage",
+  "maxLevel": 180000,
+  "consumeId": 13006,
+  "statusEnhanceCostRangeGroupId": 3,
+  "contentLockId": 33,
+  "nameTextKey": -2133464776,
+  "assetId": 6,
+  "sortOrder": 6,
+  "tier": 2
+ },
+ {
+  "version": "260630.1.0",
+  "id": 8,
+  "statusType": "AdvancedAttack",
+  "maxLevel": 29000,
+  "consumeId": 13007,
+  "statusEnhanceCostRangeGroupId": 4,
+  "contentLockId": 63,
+  "nameTextKey": 1087758365,
+  "assetId": 8,
+  "sortOrder": 8,
+  "tier": 2
+ },
+ {
+  "version": "250612.1.0",
+  "id": 12,
+  "statusType": "MobDamageRate",
+  "maxLevel": 1000,
+  "consumeId": 13007,
+  "statusEnhanceCostRangeGroupId": 4,
+  "contentLockId": 64,
+  "nameTextKey": -1484767492,
+  "assetId": 12,
+  "sortOrder": 12,
+  "tier": 2
+ }
+]

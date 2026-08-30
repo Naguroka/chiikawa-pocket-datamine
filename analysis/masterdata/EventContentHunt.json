@@ -1,0 +1,212 @@
+[
+ {
+  "version": "250350.1.0",
+  "id": 1,
+  "subHuntId": 3,
+  "huntBonusGroupId": 1,
+  "bgmId": 10008
+ },
+ {
+  "version": "250410.1.0",
+  "id": 2,
+  "subHuntId": 4,
+  "huntBonusGroupId": 2,
+  "bgmId": 10008
+ },
+ {
+  "version": "250440.1.0",
+  "id": 3,
+  "subHuntId": 5,
+  "huntBonusGroupId": 3,
+  "bgmId": 10008
+ },
+ {
+  "version": "250450.1.0",
+  "id": 4,
+  "subHuntId": 6,
+  "huntBonusGroupId": 4,
+  "bgmId": 10008
+ },
+ {
+  "version": "250530.1.0",
+  "id": 5,
+  "subHuntId": 7,
+  "huntBonusGroupId": 5,
+  "bgmId": 10008
+ },
+ {
+  "version": "250550.1.0",
+  "id": 6,
+  "subHuntId": 8,
+  "huntBonusGroupId": 6,
+  "bgmId": 10008
+ },
+ {
+  "version": "250610.1.0",
+  "id": 7,
+  "subHuntId": 9,
+  "huntBonusGroupId": 7,
+  "bgmId": 10008
+ },
+ {
+  "version": "250630.1.0",
+  "id": 8,
+  "subHuntId": 10,
+  "huntBonusGroupId": 8,
+  "bgmId": 10008
+ },
+ {
+  "version": "250710.1.0",
+  "id": 9,
+  "subHuntId": 11,
+  "huntBonusGroupId": 9,
+  "bgmId": 10008
+ },
+ {
+  "version": "250730.1.0",
+  "id": 10,
+  "subHuntId": 12,
+  "huntBonusGroupId": 10,
+  "bgmId": 10008
+ },
+ {
+  "version": "250810.1.0",
+  "id": 101101,
+  "subHuntId": 1011,
+  "huntBonusGroupId": 1011,
+  "bgmId": 10015
+ },
+ {
+  "version": "250820.1.0",
+  "id": 101201,
+  "subHuntId": 1012,
+  "huntBonusGroupId": 1012,
+  "bgmId": 10015
+ },
+ {
+  "version": "250910.1.0",
+  "id": 101301,
+  "subHuntId": 1013,
+  "huntBonusGroupId": 1013,
+  "bgmId": 10016
+ },
+ {
+  "version": "250930.1.0",
+  "id": 101401,
+  "subHuntId": 1014,
+  "huntBonusGroupId": 1014,
+  "bgmId": 10016
+ },
+ {
+  "version": "251010.1.0",
+  "id": 101501,
+  "subHuntId": 1015,
+  "huntBonusGroupId": 1015,
+  "bgmId": 10017
+ },
+ {
+  "version": "251030.1.0",
+  "id": 101701,
+  "subHuntId": 1017,
+  "huntBonusGroupId": 1017,
+  "bgmId": 10007
+ },
+ {
+  "version": "251110.1.0",
+  "id": 101801,
+  "subHuntId": 1018,
+  "huntBonusGroupId": 1018,
+  "bgmId": 10008
+ },
+ {
+  "version": "251210.1.0",
+  "id": 101901,
+  "subHuntId": 1019,
+  "huntBonusGroupId": 1019,
+  "bgmId": 10007
+ },
+ {
+  "version": "251230.1.0",
+  "id": 102001,
+  "subHuntId": 1020,
+  "huntBonusGroupId": 1020,
+  "bgmId": 10007
+ },
+ {
+  "version": "260110.1.0",
+  "id": 102101,
+  "subHuntId": 1021,
+  "huntBonusGroupId": 1021,
+  "bgmId": 10007
+ },
+ {
+  "version": "260210.1.0",
+  "id": 102201,
+  "subHuntId": 1022,
+  "huntBonusGroupId": 1022,
+  "bgmId": 10007
+ },
+ {
+  "version": "260230.1.0",
+  "id": 102301,
+  "subHuntId": 1023,
+  "huntBonusGroupId": 1023,
+  "bgmId": 10007
+ },
+ {
+  "version": "260310.1.0",
+  "id": 102401,
+  "subHuntId": 1024,
+  "huntBonusGroupId": 1024,
+  "bgmId": 10007
+ },
+ {
+  "version": "260330.1.0",
+  "id": 102501,
+  "subHuntId": 1025,
+  "huntBonusGroupId": 1025,
+  "bgmId": 10007
+ },
+ {
+  "version": "260410.1.0",
+  "id": 102601,
+  "subHuntId": 1026,
+  "huntBonusGroupId": 1026,
+  "bgmId": 10007
+ },
+ {
+  "version": "260510.1.0",
+  "id": 102701,
+  "subHuntId": 1027,
+  "huntBonusGroupId": 1027,
+  "bgmId": 10007
+ },
+ {
+  "version": "260610.1.0",
+  "id": 102801,
+  "subHuntId": 1028,
+  "huntBonusGroupId": 1028,
+  "bgmId": 10007
+ },
+ {
+  "version": "260710.1.0",
+  "id": 102901,
+  "subHuntId": 1029,
+  "huntBonusGroupId": 1029,
+  "bgmId": 10007
+ },
+ {
+  "version": "260810.1.0",
+  "id": 103001,
+  "subHuntId": 1030,
+  "huntBonusGroupId": 1030,
+  "bgmId": 10007
+ },
+ {
+  "version": "260910.1.0",
+  "id": 103101,
+  "subHuntId": 1031,
+  "huntBonusGroupId": 1031,
+  "bgmId": 10007
+ }
+]

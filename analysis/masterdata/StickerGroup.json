@@ -1,0 +1,65 @@
+[
+ {
+  "version": "260410.1.0",
+  "id": 1,
+  "nameTextKey": -1693678648,
+  "sortOrder": 10,
+  "tapAreaType": "Default"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 2,
+  "nameTextKey": 33935986,
+  "sortOrder": 20,
+  "tapAreaType": "Circle"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 3,
+  "nameTextKey": 1963123428,
+  "sortOrder": 30,
+  "tapAreaType": "Default"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 4,
+  "nameTextKey": -345606329,
+  "sortOrder": 40,
+  "tapAreaType": "Default"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 5,
+  "nameTextKey": -1671346223,
+  "sortOrder": 50,
+  "tapAreaType": "Default"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 6,
+  "nameTextKey": 90707563,
+  "sortOrder": 60,
+  "tapAreaType": "Default"
+ },
+ {
+  "version": "260410.1.0",
+  "id": 7,
+  "nameTextKey": 1919887101,
+  "sortOrder": 70,
+  "tapAreaType": "Default"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 8,
+  "nameTextKey": -489669780,
+  "sortOrder": 80,
+  "tapAreaType": "Default"
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10,
+  "nameTextKey": -183467489,
+  "sortOrder": 100,
+  "tapAreaType": "Default"
+ }
+]

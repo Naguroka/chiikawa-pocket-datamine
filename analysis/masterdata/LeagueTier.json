@@ -1,0 +1,47 @@
+[
+ {
+  "version": "250350.1.0",
+  "id": 1,
+  "groupId": 1,
+  "order": 1,
+  "nameTextKey": 840009327,
+  "assetId": 1,
+  "leagueHuntStageGroupId": 1
+ },
+ {
+  "version": "250350.1.0",
+  "id": 2,
+  "groupId": 1,
+  "order": 2,
+  "nameTextKey": -1424435243,
+  "assetId": 2,
+  "leagueHuntStageGroupId": 2
+ },
+ {
+  "version": "250350.1.0",
+  "id": 3,
+  "groupId": 1,
+  "order": 3,
+  "nameTextKey": -601888957,
+  "assetId": 3,
+  "leagueHuntStageGroupId": 3
+ },
+ {
+  "version": "250350.1.0",
+  "id": 4,
+  "groupId": 1,
+  "order": 4,
+  "nameTextKey": 1115386592,
+  "assetId": 4,
+  "leagueHuntStageGroupId": 4
+ },
+ {
+  "version": "250350.1.0",
+  "id": 5,
+  "groupId": 1,
+  "order": 5,
+  "nameTextKey": 897335926,
+  "assetId": 5,
+  "leagueHuntStageGroupId": 5
+ }
+]

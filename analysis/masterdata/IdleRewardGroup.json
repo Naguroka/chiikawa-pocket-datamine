@@ -1,0 +1,9 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "maxIdleMinutes": 720,
+  "receiveDelayMinutes": 5,
+  "bonusReceiveDelayMinutes": 60
+ }
+]

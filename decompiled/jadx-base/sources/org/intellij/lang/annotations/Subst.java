@@ -1,0 +1,8 @@
+package org.intellij.lang.annotations;
+
+/* JADX INFO: loaded from: classes6.dex */
+@java.lang.annotation.Target({java.lang.annotation.ElementType.METHOD, java.lang.annotation.ElementType.FIELD, java.lang.annotation.ElementType.LOCAL_VARIABLE, java.lang.annotation.ElementType.PARAMETER})
+@java.lang.annotation.Retention(java.lang.annotation.RetentionPolicy.CLASS)
+public @interface Subst {
+    java.lang.String value();
+}

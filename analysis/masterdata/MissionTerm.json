@@ -1,0 +1,1442 @@
+[
+ {
+  "version": "250330.1.0",
+  "id": 1,
+  "conditionDateTermId": 1,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250330.1.0",
+  "id": 2,
+  "conditionDateTermId": 2,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250330.1.0",
+  "id": 3,
+  "conditionDateTermId": 4,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250550.1.0",
+  "id": 4,
+  "conditionDateTermId": 2505502,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250330.1.0",
+  "id": 10011,
+  "conditionDateTermId": 2501504,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250330.1.0",
+  "id": 10012,
+  "conditionDateTermId": 2501504,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250350.1.0",
+  "id": 5001,
+  "conditionDateTermId": 2503501,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250350.1.0",
+  "id": 5101,
+  "conditionDateTermId": 2503501,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250410.1.0",
+  "id": 5002,
+  "conditionDateTermId": 2504101,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250410.1.0",
+  "id": 5102,
+  "conditionDateTermId": 2504101,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250350.1.0",
+  "id": 2503508,
+  "conditionDateTermId": 2503508,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250410.1.0",
+  "id": 2504104,
+  "conditionDateTermId": 2504104,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250440.1.0",
+  "id": 2504407,
+  "conditionDateTermId": 2504407,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250450.1.0",
+  "id": 2504506,
+  "conditionDateTermId": 2504506,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250530.1.0",
+  "id": 2505302,
+  "conditionDateTermId": 2505302,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250550.1.0",
+  "id": 2505502,
+  "conditionDateTermId": 2505502,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250610.1.0",
+  "id": 2506102,
+  "conditionDateTermId": 2506102,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250630.1.0",
+  "id": 2506302,
+  "conditionDateTermId": 2506302,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250420.1.0",
+  "id": 4003,
+  "conditionDateTermId": 2504201,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250440.1.0",
+  "id": 5003,
+  "conditionDateTermId": 2504401,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250440.1.0",
+  "id": 5103,
+  "conditionDateTermId": 2504401,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250450.1.0",
+  "id": 5004,
+  "conditionDateTermId": 2504501,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250450.1.0",
+  "id": 5104,
+  "conditionDateTermId": 2504501,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250530.1.0",
+  "id": 5005,
+  "conditionDateTermId": 2505305,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250530.1.0",
+  "id": 5105,
+  "conditionDateTermId": 2505305,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250550.1.0",
+  "id": 5006,
+  "conditionDateTermId": 2505505,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250550.1.0",
+  "id": 5106,
+  "conditionDateTermId": 2505505,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250440.1.0",
+  "id": 6003,
+  "conditionDateTermId": 2504401,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250450.1.0",
+  "id": 6004,
+  "conditionDateTermId": 2504501,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250510.1.0",
+  "id": 4002,
+  "conditionDateTermId": 2505107,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250810.1.0",
+  "id": 4220,
+  "conditionDateTermId": 2508104,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250510.1.0",
+  "id": 10021,
+  "conditionDateTermId": 2505104,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250610.1.0",
+  "id": 5007,
+  "conditionDateTermId": 2506105,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250610.1.0",
+  "id": 5107,
+  "conditionDateTermId": 2506105,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250630.1.0",
+  "id": 5008,
+  "conditionDateTermId": 2506305,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250630.1.0",
+  "id": 5108,
+  "conditionDateTermId": 2506305,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250640.1.0",
+  "id": 4050,
+  "conditionDateTermId": 10001,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250610.1.0",
+  "id": 4060,
+  "conditionDateTermId": 10002,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250620.1.0",
+  "id": 4070,
+  "conditionDateTermId": 10003,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250630.1.0",
+  "id": 4080,
+  "conditionDateTermId": 10004,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250710.1.0",
+  "id": 4150,
+  "conditionDateTermId": 10005,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250710.1.0",
+  "id": 4160,
+  "conditionDateTermId": 10006,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250730.1.0",
+  "id": 4170,
+  "conditionDateTermId": 10007,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250730.1.0",
+  "id": 4180,
+  "conditionDateTermId": 10008,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250810.1.0",
+  "id": 4190,
+  "conditionDateTermId": 10009,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250810.1.0",
+  "id": 4200,
+  "conditionDateTermId": 10010,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250820.1.0",
+  "id": 4230,
+  "conditionDateTermId": 10015,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250820.1.0",
+  "id": 4240,
+  "conditionDateTermId": 10016,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250620.1.0",
+  "id": 4110,
+  "conditionDateTermId": 2506201,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250730.1.0",
+  "id": 4120,
+  "conditionDateTermId": 2507302,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250710.1.0",
+  "id": 4130,
+  "conditionDateTermId": 2507101,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250820.1.0",
+  "id": 4140,
+  "conditionDateTermId": 2508202,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250810.1.0",
+  "id": 4210,
+  "conditionDateTermId": 2508101,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250610.1.0",
+  "id": 10031,
+  "conditionDateTermId": 2506107,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250710.1.0",
+  "id": 72005110,
+  "conditionDateTermId": 72005110,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250730.1.0",
+  "id": 72005210,
+  "conditionDateTermId": 72005210,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250710.1.0",
+  "id": 5009,
+  "conditionDateTermId": 72005130,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250710.1.0",
+  "id": 5109,
+  "conditionDateTermId": 72005130,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250730.1.0",
+  "id": 5010,
+  "conditionDateTermId": 72005230,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250730.1.0",
+  "id": 5110,
+  "conditionDateTermId": 72005230,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250710.1.0",
+  "id": 10041,
+  "conditionDateTermId": 71004080,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250810.1.0",
+  "id": 10051,
+  "conditionDateTermId": 71005080,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250810.1.0",
+  "id": 5011,
+  "conditionDateTermId": 72006130,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250810.1.0",
+  "id": 5111,
+  "conditionDateTermId": 72006130,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250820.1.0",
+  "id": 5012,
+  "conditionDateTermId": 72006230,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250820.1.0",
+  "id": 5112,
+  "conditionDateTermId": 72006230,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250810.1.0",
+  "id": 72006110,
+  "conditionDateTermId": 72006110,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250820.1.0",
+  "id": 72006210,
+  "conditionDateTermId": 72006210,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260630.1.0",
+  "id": 7001,
+  "conditionDateTermId": 10061,
+  "resetType": "WeeklyFriday",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 2
+ },
+ {
+  "version": "260510.1.0",
+  "id": 7002,
+  "conditionDateTermId": 10052,
+  "resetType": "WeeklyFriday",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 2
+ },
+ {
+  "version": "260510.1.0",
+  "id": 7003,
+  "conditionDateTermId": 10053,
+  "resetType": "WeeklyFriday",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 2
+ },
+ {
+  "version": "260430.1.0",
+  "id": 7101,
+  "conditionDateTermId": 10041,
+  "resetType": "WeeklyFriday",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 2
+ },
+ {
+  "version": "260430.1.0",
+  "id": 7102,
+  "conditionDateTermId": 10042,
+  "resetType": "WeeklyFriday",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 2
+ },
+ {
+  "version": "250850.1.0",
+  "id": 7103,
+  "conditionDateTermId": 10022,
+  "resetType": "WeeklyFriday",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 2
+ },
+ {
+  "version": "250930.1.0",
+  "id": 4260,
+  "conditionDateTermId": 73007000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250910.1.0",
+  "id": 10061,
+  "conditionDateTermId": 71006080,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250910.1.0",
+  "id": 5013,
+  "conditionDateTermId": 72007130,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250910.1.0",
+  "id": 5113,
+  "conditionDateTermId": 72007130,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250930.1.0",
+  "id": 5014,
+  "conditionDateTermId": 72007230,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250930.1.0",
+  "id": 5114,
+  "conditionDateTermId": 72007230,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250910.1.0",
+  "id": 12509101,
+  "conditionDateTermId": 12509101,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "250930.1.0",
+  "id": 12509301,
+  "conditionDateTermId": 12509301,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251010.1.0",
+  "id": 12510101,
+  "conditionDateTermId": 12510101,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251020.1.0",
+  "id": 12510201,
+  "conditionDateTermId": 12510201,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251010.1.0",
+  "id": 10071,
+  "conditionDateTermId": 71007080,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251010.1.0",
+  "id": 5015,
+  "conditionDateTermId": 72008130,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251010.1.0",
+  "id": 5115,
+  "conditionDateTermId": 72008130,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251030.1.0",
+  "id": 12510301,
+  "conditionDateTermId": 12510301,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251110.1.0",
+  "id": 12511101,
+  "conditionDateTermId": 12511101,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251130.1.0",
+  "id": 4280,
+  "conditionDateTermId": 2511301,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251030.1.0",
+  "id": 5017,
+  "conditionDateTermId": 72009130,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251030.1.0",
+  "id": 5117,
+  "conditionDateTermId": 72009130,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251110.1.0",
+  "id": 5018,
+  "conditionDateTermId": 72009230,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251110.1.0",
+  "id": 5118,
+  "conditionDateTermId": 72009230,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251110.1.0",
+  "id": 10081,
+  "conditionDateTermId": 71008080,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251210.1.0",
+  "id": 10091,
+  "conditionDateTermId": 71009080,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251130.1.0",
+  "id": 4290,
+  "conditionDateTermId": 73009000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251210.1.0",
+  "id": 12512101,
+  "conditionDateTermId": 12512101,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251230.1.0",
+  "id": 12512301,
+  "conditionDateTermId": 12512301,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251210.1.0",
+  "id": 5019,
+  "conditionDateTermId": 72010130,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251210.1.0",
+  "id": 5119,
+  "conditionDateTermId": 72010130,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251230.1.0",
+  "id": 5020,
+  "conditionDateTermId": 72010230,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "251230.1.0",
+  "id": 5120,
+  "conditionDateTermId": 72010230,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260110.1.0",
+  "id": 12601101,
+  "conditionDateTermId": 12601101,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260110.1.0",
+  "id": 10101,
+  "conditionDateTermId": 71010080,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260110.1.0",
+  "id": 4300,
+  "conditionDateTermId": 73010000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260110.1.0",
+  "id": 5021,
+  "conditionDateTermId": 72011130,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260110.1.0",
+  "id": 5121,
+  "conditionDateTermId": 72011130,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260210.1.0",
+  "id": 12602101,
+  "conditionDateTermId": 12602101,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260230.1.0",
+  "id": 12602301,
+  "conditionDateTermId": 12602301,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260130.1.0",
+  "id": 4310,
+  "conditionDateTermId": 2601305,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260130.1.0",
+  "id": 4320,
+  "conditionDateTermId": 73011000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260210.1.0",
+  "id": 5022,
+  "conditionDateTermId": 72012130,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260210.1.0",
+  "id": 5122,
+  "conditionDateTermId": 72012130,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260230.1.0",
+  "id": 5023,
+  "conditionDateTermId": 72012230,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260230.1.0",
+  "id": 5123,
+  "conditionDateTermId": 72012230,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260210.1.0",
+  "id": 10111,
+  "conditionDateTermId": 71011080,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260210.1.0",
+  "id": 4330,
+  "conditionDateTermId": 73012000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260230.1.0",
+  "id": 4340,
+  "conditionDateTermId": 73013000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260310.1.0",
+  "id": 10121,
+  "conditionDateTermId": 71012080,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260310.1.0",
+  "id": 12603101,
+  "conditionDateTermId": 12603101,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260330.1.0",
+  "id": 12603301,
+  "conditionDateTermId": 12603301,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260330.1.0",
+  "id": 4350,
+  "conditionDateTermId": 73014000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260310.1.0",
+  "id": 5024,
+  "conditionDateTermId": 72013130,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260310.1.0",
+  "id": 5124,
+  "conditionDateTermId": 72013130,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260330.1.0",
+  "id": 5025,
+  "conditionDateTermId": 72013230,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260330.1.0",
+  "id": 5125,
+  "conditionDateTermId": 72013230,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260310.1.0",
+  "id": 4360,
+  "conditionDateTermId": 73015000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 4370,
+  "conditionDateTermId": 73016000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 12604101,
+  "conditionDateTermId": 12604101,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260420.1.0",
+  "id": 12604301,
+  "conditionDateTermId": 12604301,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 10131,
+  "conditionDateTermId": 71013080,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 4380,
+  "conditionDateTermId": 2604108,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 5026,
+  "conditionDateTermId": 72014130,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 5126,
+  "conditionDateTermId": 72014130,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260430.1.0",
+  "id": 4390,
+  "conditionDateTermId": 73017000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260430.1.0",
+  "id": 4400,
+  "conditionDateTermId": 2604301,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260410.1.0",
+  "id": 4500,
+  "conditionDateTermId": 2604111,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260510.1.0",
+  "id": 4600,
+  "conditionDateTermId": 2605103,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260510.1.0",
+  "id": 10141,
+  "conditionDateTermId": 71014080,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260510.1.0",
+  "id": 12605101,
+  "conditionDateTermId": 12605101,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260530.1.0",
+  "id": 12605301,
+  "conditionDateTermId": 12605301,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260510.1.0",
+  "id": 4610,
+  "conditionDateTermId": 73018000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260510.1.0",
+  "id": 5027,
+  "conditionDateTermId": 72015130,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260510.1.0",
+  "id": 5127,
+  "conditionDateTermId": 72015130,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260530.1.0",
+  "id": 4620,
+  "conditionDateTermId": 73019000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260610.1.0",
+  "id": 10151,
+  "conditionDateTermId": 71015080,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260530.1.0",
+  "id": 4630,
+  "conditionDateTermId": 2605302,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260610.1.0",
+  "id": 4640,
+  "conditionDateTermId": 73020000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260630.1.0",
+  "id": 4650,
+  "conditionDateTermId": 73021000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260610.1.0",
+  "id": 12606101,
+  "conditionDateTermId": 12606101,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260630.1.0",
+  "id": 12606301,
+  "conditionDateTermId": 12606301,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260610.1.0",
+  "id": 5028,
+  "conditionDateTermId": 72016130,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260610.1.0",
+  "id": 5128,
+  "conditionDateTermId": 72016130,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260610.1.0",
+  "id": 4660,
+  "conditionDateTermId": 2606106,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260710.1.0",
+  "id": 4670,
+  "conditionDateTermId": 73022000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260730.1.0",
+  "id": 4680,
+  "conditionDateTermId": 73023000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260710.1.0",
+  "id": 12607101,
+  "conditionDateTermId": 12607101,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260730.1.0",
+  "id": 12607301,
+  "conditionDateTermId": 12607301,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260710.1.0",
+  "id": 10161,
+  "conditionDateTermId": 71016080,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260610.1.0",
+  "id": 4690,
+  "conditionDateTermId": 2606107,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260710.1.0",
+  "id": 5029,
+  "conditionDateTermId": 72017130,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260710.1.0",
+  "id": 5129,
+  "conditionDateTermId": 72017130,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 12608101,
+  "conditionDateTermId": 12608101,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 12608102,
+  "conditionDateTermId": 12608102,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 12608103,
+  "conditionDateTermId": 12608103,
+  "resetType": "WeeklyMonday",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 12608104,
+  "conditionDateTermId": 12608104,
+  "resetType": "Never",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 10171,
+  "conditionDateTermId": 71017080,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 4730,
+  "conditionDateTermId": 73024000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 5030,
+  "conditionDateTermId": 72018130,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 5130,
+  "conditionDateTermId": 72018130,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260810.1.0",
+  "id": 4700,
+  "conditionDateTermId": 2608102,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260830.1.0",
+  "id": 4710,
+  "conditionDateTermId": 73025000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260830.1.0",
+  "id": 4720,
+  "conditionDateTermId": 73026000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260830.1.0",
+  "id": 4740,
+  "conditionDateTermId": 2608302,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260830.1.0",
+  "id": 4750,
+  "conditionDateTermId": 2608303,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260910.1.0",
+  "id": 10181,
+  "conditionDateTermId": 71018080,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260910.1.0",
+  "id": 4760,
+  "conditionDateTermId": 73027000,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260910.1.0",
+  "id": 5031,
+  "conditionDateTermId": 72019130,
+  "resetType": "Daily",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ },
+ {
+  "version": "260910.1.0",
+  "id": 5131,
+  "conditionDateTermId": 72019130,
+  "resetType": "MissionTermEnd",
+  "refreshHourJst": "15",
+  "dateTermRepeatOptionId": 1
+ }
+]

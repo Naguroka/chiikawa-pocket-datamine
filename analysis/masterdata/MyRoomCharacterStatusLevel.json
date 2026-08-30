@@ -1,0 +1,66 @@
+[
+ {
+  "version": "260810.1.0",
+  "id": 11,
+  "characterId": 1,
+  "statusType": "Energy",
+  "statusLevel": 0,
+  "assetId": 0
+ },
+ {
+  "version": "260810.1.0",
+  "id": 12,
+  "characterId": 1,
+  "statusType": "Energy",
+  "statusLevel": 251,
+  "assetId": 0
+ },
+ {
+  "version": "260810.1.0",
+  "id": 13,
+  "characterId": 1,
+  "statusType": "Energy",
+  "statusLevel": 501,
+  "assetId": 0
+ },
+ {
+  "version": "260810.1.0",
+  "id": 14,
+  "characterId": 1,
+  "statusType": "Energy",
+  "statusLevel": 751,
+  "assetId": 0
+ },
+ {
+  "version": "260810.1.0",
+  "id": 21,
+  "characterId": 1,
+  "statusType": "Cleanliness",
+  "statusLevel": 0,
+  "assetId": 0
+ },
+ {
+  "version": "260810.1.0",
+  "id": 22,
+  "characterId": 1,
+  "statusType": "Cleanliness",
+  "statusLevel": 251,
+  "assetId": 0
+ },
+ {
+  "version": "260810.1.0",
+  "id": 23,
+  "characterId": 1,
+  "statusType": "Cleanliness",
+  "statusLevel": 501,
+  "assetId": 0
+ },
+ {
+  "version": "260810.1.0",
+  "id": 24,
+  "characterId": 1,
+  "statusType": "Cleanliness",
+  "statusLevel": 751,
+  "assetId": 0
+ }
+]

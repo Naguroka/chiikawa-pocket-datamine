@@ -1,0 +1,2502 @@
+[
+ {
+  "version": "250350.1.0",
+  "id": 1,
+  "groupId": 1,
+  "difficulty": 1,
+  "huntStageId": 2010001,
+  "rewardGroupId": 1100100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 142
+ },
+ {
+  "version": "250350.1.0",
+  "id": 2,
+  "groupId": 1,
+  "difficulty": 2,
+  "huntStageId": 2010002,
+  "rewardGroupId": 1100200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 167
+ },
+ {
+  "version": "250350.1.0",
+  "id": 3,
+  "groupId": 1,
+  "difficulty": 3,
+  "huntStageId": 2010003,
+  "rewardGroupId": 1100300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 187
+ },
+ {
+  "version": "250350.1.0",
+  "id": 4,
+  "groupId": 1,
+  "difficulty": 4,
+  "huntStageId": 2010004,
+  "rewardGroupId": 1100400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 203
+ },
+ {
+  "version": "250350.1.0",
+  "id": 5,
+  "groupId": 1,
+  "difficulty": 5,
+  "huntStageId": 2010005,
+  "rewardGroupId": 1100500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 217
+ },
+ {
+  "version": "250350.1.0",
+  "id": 6,
+  "groupId": 1,
+  "difficulty": 6,
+  "huntStageId": 2010006,
+  "rewardGroupId": 1100600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 229
+ },
+ {
+  "version": "250350.1.0",
+  "id": 7,
+  "groupId": 1,
+  "difficulty": 7,
+  "huntStageId": 2010007,
+  "rewardGroupId": 1100700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 240
+ },
+ {
+  "version": "250350.1.0",
+  "id": 8,
+  "groupId": 1,
+  "difficulty": 8,
+  "huntStageId": 2010008,
+  "rewardGroupId": 1100800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 250
+ },
+ {
+  "version": "250350.1.0",
+  "id": 9,
+  "groupId": 1,
+  "difficulty": 9,
+  "huntStageId": 2010009,
+  "rewardGroupId": 1100900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 260
+ },
+ {
+  "version": "250350.1.0",
+  "id": 10,
+  "groupId": 1,
+  "difficulty": 10,
+  "huntStageId": 2010010,
+  "rewardGroupId": 1101000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 268
+ },
+ {
+  "version": "250350.1.0",
+  "id": 11,
+  "groupId": 1,
+  "difficulty": 11,
+  "huntStageId": 2010011,
+  "rewardGroupId": 1101100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 277
+ },
+ {
+  "version": "250350.1.0",
+  "id": 12,
+  "groupId": 1,
+  "difficulty": 12,
+  "huntStageId": 2010012,
+  "rewardGroupId": 1101200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 284
+ },
+ {
+  "version": "250350.1.0",
+  "id": 13,
+  "groupId": 1,
+  "difficulty": 13,
+  "huntStageId": 2010013,
+  "rewardGroupId": 1101300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 292
+ },
+ {
+  "version": "250350.1.0",
+  "id": 14,
+  "groupId": 1,
+  "difficulty": 14,
+  "huntStageId": 2010014,
+  "rewardGroupId": 1101400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 298
+ },
+ {
+  "version": "250350.1.0",
+  "id": 15,
+  "groupId": 1,
+  "difficulty": 15,
+  "huntStageId": 2010015,
+  "rewardGroupId": 1101500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 305
+ },
+ {
+  "version": "250350.1.0",
+  "id": 16,
+  "groupId": 1,
+  "difficulty": 16,
+  "huntStageId": 2010016,
+  "rewardGroupId": 1101600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 311
+ },
+ {
+  "version": "250350.1.0",
+  "id": 17,
+  "groupId": 1,
+  "difficulty": 17,
+  "huntStageId": 2010017,
+  "rewardGroupId": 1101700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 318
+ },
+ {
+  "version": "250350.1.0",
+  "id": 18,
+  "groupId": 1,
+  "difficulty": 18,
+  "huntStageId": 2010018,
+  "rewardGroupId": 1101800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 323
+ },
+ {
+  "version": "250350.1.0",
+  "id": 19,
+  "groupId": 1,
+  "difficulty": 19,
+  "huntStageId": 2010019,
+  "rewardGroupId": 1101900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 329
+ },
+ {
+  "version": "250350.1.0",
+  "id": 20,
+  "groupId": 1,
+  "difficulty": 20,
+  "huntStageId": 2010020,
+  "rewardGroupId": 1102000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 335
+ },
+ {
+  "version": "250350.1.0",
+  "id": 21,
+  "groupId": 1,
+  "difficulty": 21,
+  "huntStageId": 2010021,
+  "rewardGroupId": 1102100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 340
+ },
+ {
+  "version": "250350.1.0",
+  "id": 22,
+  "groupId": 1,
+  "difficulty": 22,
+  "huntStageId": 2010022,
+  "rewardGroupId": 1102200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 345
+ },
+ {
+  "version": "250350.1.0",
+  "id": 23,
+  "groupId": 1,
+  "difficulty": 23,
+  "huntStageId": 2010023,
+  "rewardGroupId": 1102300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 350
+ },
+ {
+  "version": "250350.1.0",
+  "id": 24,
+  "groupId": 1,
+  "difficulty": 24,
+  "huntStageId": 2010024,
+  "rewardGroupId": 1102400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 355
+ },
+ {
+  "version": "250350.1.0",
+  "id": 25,
+  "groupId": 1,
+  "difficulty": 25,
+  "huntStageId": 2010025,
+  "rewardGroupId": 1102500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 360
+ },
+ {
+  "version": "250350.1.0",
+  "id": 26,
+  "groupId": 1,
+  "difficulty": 26,
+  "huntStageId": 2010026,
+  "rewardGroupId": 1102600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 364
+ },
+ {
+  "version": "250350.1.0",
+  "id": 27,
+  "groupId": 1,
+  "difficulty": 27,
+  "huntStageId": 2010027,
+  "rewardGroupId": 1102700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 369
+ },
+ {
+  "version": "250350.1.0",
+  "id": 28,
+  "groupId": 1,
+  "difficulty": 28,
+  "huntStageId": 2010028,
+  "rewardGroupId": 1102800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 373
+ },
+ {
+  "version": "250350.1.0",
+  "id": 29,
+  "groupId": 1,
+  "difficulty": 29,
+  "huntStageId": 2010029,
+  "rewardGroupId": 1102900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 377
+ },
+ {
+  "version": "250350.1.0",
+  "id": 30,
+  "groupId": 1,
+  "difficulty": 30,
+  "huntStageId": 2010030,
+  "rewardGroupId": 1103000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 382
+ },
+ {
+  "version": "250350.1.0",
+  "id": 31,
+  "groupId": 1,
+  "difficulty": 31,
+  "huntStageId": 2010031,
+  "rewardGroupId": 1103100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 386
+ },
+ {
+  "version": "250350.1.0",
+  "id": 32,
+  "groupId": 1,
+  "difficulty": 32,
+  "huntStageId": 2010032,
+  "rewardGroupId": 1103200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 390
+ },
+ {
+  "version": "250350.1.0",
+  "id": 33,
+  "groupId": 1,
+  "difficulty": 33,
+  "huntStageId": 2010033,
+  "rewardGroupId": 1103300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 394
+ },
+ {
+  "version": "250350.1.0",
+  "id": 34,
+  "groupId": 1,
+  "difficulty": 34,
+  "huntStageId": 2010034,
+  "rewardGroupId": 1103400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 398
+ },
+ {
+  "version": "250350.1.0",
+  "id": 35,
+  "groupId": 1,
+  "difficulty": 35,
+  "huntStageId": 2010035,
+  "rewardGroupId": 1103500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 402
+ },
+ {
+  "version": "250350.1.0",
+  "id": 36,
+  "groupId": 1,
+  "difficulty": 36,
+  "huntStageId": 2010036,
+  "rewardGroupId": 1103600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 406
+ },
+ {
+  "version": "250350.1.0",
+  "id": 37,
+  "groupId": 1,
+  "difficulty": 37,
+  "huntStageId": 2010037,
+  "rewardGroupId": 1103700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 410
+ },
+ {
+  "version": "250350.1.0",
+  "id": 38,
+  "groupId": 1,
+  "difficulty": 38,
+  "huntStageId": 2010038,
+  "rewardGroupId": 1103800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 414
+ },
+ {
+  "version": "250350.1.0",
+  "id": 39,
+  "groupId": 1,
+  "difficulty": 39,
+  "huntStageId": 2010039,
+  "rewardGroupId": 1103900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 418
+ },
+ {
+  "version": "250350.1.0",
+  "id": 40,
+  "groupId": 1,
+  "difficulty": 40,
+  "huntStageId": 2010040,
+  "rewardGroupId": 1104000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 422
+ },
+ {
+  "version": "250350.1.0",
+  "id": 41,
+  "groupId": 1,
+  "difficulty": 41,
+  "huntStageId": 2010041,
+  "rewardGroupId": 1104100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 426
+ },
+ {
+  "version": "250350.1.0",
+  "id": 42,
+  "groupId": 1,
+  "difficulty": 42,
+  "huntStageId": 2010042,
+  "rewardGroupId": 1104200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 430
+ },
+ {
+  "version": "250350.1.0",
+  "id": 43,
+  "groupId": 1,
+  "difficulty": 43,
+  "huntStageId": 2010043,
+  "rewardGroupId": 1104300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 434
+ },
+ {
+  "version": "250350.1.0",
+  "id": 44,
+  "groupId": 1,
+  "difficulty": 44,
+  "huntStageId": 2010044,
+  "rewardGroupId": 1104400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 438
+ },
+ {
+  "version": "250350.1.0",
+  "id": 45,
+  "groupId": 1,
+  "difficulty": 45,
+  "huntStageId": 2010045,
+  "rewardGroupId": 1104500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 442
+ },
+ {
+  "version": "250350.1.0",
+  "id": 46,
+  "groupId": 1,
+  "difficulty": 46,
+  "huntStageId": 2010046,
+  "rewardGroupId": 1104600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 446
+ },
+ {
+  "version": "250350.1.0",
+  "id": 47,
+  "groupId": 1,
+  "difficulty": 47,
+  "huntStageId": 2010047,
+  "rewardGroupId": 1104700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 450
+ },
+ {
+  "version": "250350.1.0",
+  "id": 48,
+  "groupId": 1,
+  "difficulty": 48,
+  "huntStageId": 2010048,
+  "rewardGroupId": 1104800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 454
+ },
+ {
+  "version": "250350.1.0",
+  "id": 49,
+  "groupId": 1,
+  "difficulty": 49,
+  "huntStageId": 2010049,
+  "rewardGroupId": 1104900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 458
+ },
+ {
+  "version": "250350.1.0",
+  "id": 50,
+  "groupId": 1,
+  "difficulty": 50,
+  "huntStageId": 2010050,
+  "rewardGroupId": 1105000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 462
+ },
+ {
+  "version": "250350.1.0",
+  "id": 51,
+  "groupId": 2,
+  "difficulty": 1,
+  "huntStageId": 2020001,
+  "rewardGroupId": 1200100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 142
+ },
+ {
+  "version": "250350.1.0",
+  "id": 52,
+  "groupId": 2,
+  "difficulty": 2,
+  "huntStageId": 2020002,
+  "rewardGroupId": 1200200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 167
+ },
+ {
+  "version": "250350.1.0",
+  "id": 53,
+  "groupId": 2,
+  "difficulty": 3,
+  "huntStageId": 2020003,
+  "rewardGroupId": 1200300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 187
+ },
+ {
+  "version": "250350.1.0",
+  "id": 54,
+  "groupId": 2,
+  "difficulty": 4,
+  "huntStageId": 2020004,
+  "rewardGroupId": 1200400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 203
+ },
+ {
+  "version": "250350.1.0",
+  "id": 55,
+  "groupId": 2,
+  "difficulty": 5,
+  "huntStageId": 2020005,
+  "rewardGroupId": 1200500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 217
+ },
+ {
+  "version": "250350.1.0",
+  "id": 56,
+  "groupId": 2,
+  "difficulty": 6,
+  "huntStageId": 2020006,
+  "rewardGroupId": 1200600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 229
+ },
+ {
+  "version": "250350.1.0",
+  "id": 57,
+  "groupId": 2,
+  "difficulty": 7,
+  "huntStageId": 2020007,
+  "rewardGroupId": 1200700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 240
+ },
+ {
+  "version": "250350.1.0",
+  "id": 58,
+  "groupId": 2,
+  "difficulty": 8,
+  "huntStageId": 2020008,
+  "rewardGroupId": 1200800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 250
+ },
+ {
+  "version": "250350.1.0",
+  "id": 59,
+  "groupId": 2,
+  "difficulty": 9,
+  "huntStageId": 2020009,
+  "rewardGroupId": 1200900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 260
+ },
+ {
+  "version": "250350.1.0",
+  "id": 60,
+  "groupId": 2,
+  "difficulty": 10,
+  "huntStageId": 2020010,
+  "rewardGroupId": 1201000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 268
+ },
+ {
+  "version": "250350.1.0",
+  "id": 61,
+  "groupId": 2,
+  "difficulty": 11,
+  "huntStageId": 2020011,
+  "rewardGroupId": 1201100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 277
+ },
+ {
+  "version": "250350.1.0",
+  "id": 62,
+  "groupId": 2,
+  "difficulty": 12,
+  "huntStageId": 2020012,
+  "rewardGroupId": 1201200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 284
+ },
+ {
+  "version": "250350.1.0",
+  "id": 63,
+  "groupId": 2,
+  "difficulty": 13,
+  "huntStageId": 2020013,
+  "rewardGroupId": 1201300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 292
+ },
+ {
+  "version": "250350.1.0",
+  "id": 64,
+  "groupId": 2,
+  "difficulty": 14,
+  "huntStageId": 2020014,
+  "rewardGroupId": 1201400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 298
+ },
+ {
+  "version": "250350.1.0",
+  "id": 65,
+  "groupId": 2,
+  "difficulty": 15,
+  "huntStageId": 2020015,
+  "rewardGroupId": 1201500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 305
+ },
+ {
+  "version": "250350.1.0",
+  "id": 66,
+  "groupId": 2,
+  "difficulty": 16,
+  "huntStageId": 2020016,
+  "rewardGroupId": 1201600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 311
+ },
+ {
+  "version": "250350.1.0",
+  "id": 67,
+  "groupId": 2,
+  "difficulty": 17,
+  "huntStageId": 2020017,
+  "rewardGroupId": 1201700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 318
+ },
+ {
+  "version": "250350.1.0",
+  "id": 68,
+  "groupId": 2,
+  "difficulty": 18,
+  "huntStageId": 2020018,
+  "rewardGroupId": 1201800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 323
+ },
+ {
+  "version": "250350.1.0",
+  "id": 69,
+  "groupId": 2,
+  "difficulty": 19,
+  "huntStageId": 2020019,
+  "rewardGroupId": 1201900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 329
+ },
+ {
+  "version": "250350.1.0",
+  "id": 70,
+  "groupId": 2,
+  "difficulty": 20,
+  "huntStageId": 2020020,
+  "rewardGroupId": 1202000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 335
+ },
+ {
+  "version": "250350.1.0",
+  "id": 71,
+  "groupId": 2,
+  "difficulty": 21,
+  "huntStageId": 2020021,
+  "rewardGroupId": 1202100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 340
+ },
+ {
+  "version": "250350.1.0",
+  "id": 72,
+  "groupId": 2,
+  "difficulty": 22,
+  "huntStageId": 2020022,
+  "rewardGroupId": 1202200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 345
+ },
+ {
+  "version": "250350.1.0",
+  "id": 73,
+  "groupId": 2,
+  "difficulty": 23,
+  "huntStageId": 2020023,
+  "rewardGroupId": 1202300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 350
+ },
+ {
+  "version": "250350.1.0",
+  "id": 74,
+  "groupId": 2,
+  "difficulty": 24,
+  "huntStageId": 2020024,
+  "rewardGroupId": 1202400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 355
+ },
+ {
+  "version": "250350.1.0",
+  "id": 75,
+  "groupId": 2,
+  "difficulty": 25,
+  "huntStageId": 2020025,
+  "rewardGroupId": 1202500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 360
+ },
+ {
+  "version": "250350.1.0",
+  "id": 76,
+  "groupId": 2,
+  "difficulty": 26,
+  "huntStageId": 2020026,
+  "rewardGroupId": 1202600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 364
+ },
+ {
+  "version": "250350.1.0",
+  "id": 77,
+  "groupId": 2,
+  "difficulty": 27,
+  "huntStageId": 2020027,
+  "rewardGroupId": 1202700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 369
+ },
+ {
+  "version": "250350.1.0",
+  "id": 78,
+  "groupId": 2,
+  "difficulty": 28,
+  "huntStageId": 2020028,
+  "rewardGroupId": 1202800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 373
+ },
+ {
+  "version": "250350.1.0",
+  "id": 79,
+  "groupId": 2,
+  "difficulty": 29,
+  "huntStageId": 2020029,
+  "rewardGroupId": 1202900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 377
+ },
+ {
+  "version": "250350.1.0",
+  "id": 80,
+  "groupId": 2,
+  "difficulty": 30,
+  "huntStageId": 2020030,
+  "rewardGroupId": 1203000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 382
+ },
+ {
+  "version": "250350.1.0",
+  "id": 81,
+  "groupId": 2,
+  "difficulty": 31,
+  "huntStageId": 2020031,
+  "rewardGroupId": 1203100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 386
+ },
+ {
+  "version": "250350.1.0",
+  "id": 82,
+  "groupId": 2,
+  "difficulty": 32,
+  "huntStageId": 2020032,
+  "rewardGroupId": 1203200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 390
+ },
+ {
+  "version": "250350.1.0",
+  "id": 83,
+  "groupId": 2,
+  "difficulty": 33,
+  "huntStageId": 2020033,
+  "rewardGroupId": 1203300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 394
+ },
+ {
+  "version": "250350.1.0",
+  "id": 84,
+  "groupId": 2,
+  "difficulty": 34,
+  "huntStageId": 2020034,
+  "rewardGroupId": 1203400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 398
+ },
+ {
+  "version": "250350.1.0",
+  "id": 85,
+  "groupId": 2,
+  "difficulty": 35,
+  "huntStageId": 2020035,
+  "rewardGroupId": 1203500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 402
+ },
+ {
+  "version": "250350.1.0",
+  "id": 86,
+  "groupId": 2,
+  "difficulty": 36,
+  "huntStageId": 2020036,
+  "rewardGroupId": 1203600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 406
+ },
+ {
+  "version": "250350.1.0",
+  "id": 87,
+  "groupId": 2,
+  "difficulty": 37,
+  "huntStageId": 2020037,
+  "rewardGroupId": 1203700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 410
+ },
+ {
+  "version": "250350.1.0",
+  "id": 88,
+  "groupId": 2,
+  "difficulty": 38,
+  "huntStageId": 2020038,
+  "rewardGroupId": 1203800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 414
+ },
+ {
+  "version": "250350.1.0",
+  "id": 89,
+  "groupId": 2,
+  "difficulty": 39,
+  "huntStageId": 2020039,
+  "rewardGroupId": 1203900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 418
+ },
+ {
+  "version": "250350.1.0",
+  "id": 90,
+  "groupId": 2,
+  "difficulty": 40,
+  "huntStageId": 2020040,
+  "rewardGroupId": 1204000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 422
+ },
+ {
+  "version": "250350.1.0",
+  "id": 91,
+  "groupId": 2,
+  "difficulty": 41,
+  "huntStageId": 2020041,
+  "rewardGroupId": 1204100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 426
+ },
+ {
+  "version": "250350.1.0",
+  "id": 92,
+  "groupId": 2,
+  "difficulty": 42,
+  "huntStageId": 2020042,
+  "rewardGroupId": 1204200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 430
+ },
+ {
+  "version": "250350.1.0",
+  "id": 93,
+  "groupId": 2,
+  "difficulty": 43,
+  "huntStageId": 2020043,
+  "rewardGroupId": 1204300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 434
+ },
+ {
+  "version": "250350.1.0",
+  "id": 94,
+  "groupId": 2,
+  "difficulty": 44,
+  "huntStageId": 2020044,
+  "rewardGroupId": 1204400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 438
+ },
+ {
+  "version": "250350.1.0",
+  "id": 95,
+  "groupId": 2,
+  "difficulty": 45,
+  "huntStageId": 2020045,
+  "rewardGroupId": 1204500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 442
+ },
+ {
+  "version": "250350.1.0",
+  "id": 96,
+  "groupId": 2,
+  "difficulty": 46,
+  "huntStageId": 2020046,
+  "rewardGroupId": 1204600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 446
+ },
+ {
+  "version": "250350.1.0",
+  "id": 97,
+  "groupId": 2,
+  "difficulty": 47,
+  "huntStageId": 2020047,
+  "rewardGroupId": 1204700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 450
+ },
+ {
+  "version": "250350.1.0",
+  "id": 98,
+  "groupId": 2,
+  "difficulty": 48,
+  "huntStageId": 2020048,
+  "rewardGroupId": 1204800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 454
+ },
+ {
+  "version": "250350.1.0",
+  "id": 99,
+  "groupId": 2,
+  "difficulty": 49,
+  "huntStageId": 2020049,
+  "rewardGroupId": 1204900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 458
+ },
+ {
+  "version": "250350.1.0",
+  "id": 100,
+  "groupId": 2,
+  "difficulty": 50,
+  "huntStageId": 2020050,
+  "rewardGroupId": 1205000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 462
+ },
+ {
+  "version": "250350.1.0",
+  "id": 101,
+  "groupId": 3,
+  "difficulty": 1,
+  "huntStageId": 2030001,
+  "rewardGroupId": 1300100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 142
+ },
+ {
+  "version": "250350.1.0",
+  "id": 102,
+  "groupId": 3,
+  "difficulty": 2,
+  "huntStageId": 2030002,
+  "rewardGroupId": 1300200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 167
+ },
+ {
+  "version": "250350.1.0",
+  "id": 103,
+  "groupId": 3,
+  "difficulty": 3,
+  "huntStageId": 2030003,
+  "rewardGroupId": 1300300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 187
+ },
+ {
+  "version": "250350.1.0",
+  "id": 104,
+  "groupId": 3,
+  "difficulty": 4,
+  "huntStageId": 2030004,
+  "rewardGroupId": 1300400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 203
+ },
+ {
+  "version": "250350.1.0",
+  "id": 105,
+  "groupId": 3,
+  "difficulty": 5,
+  "huntStageId": 2030005,
+  "rewardGroupId": 1300500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 217
+ },
+ {
+  "version": "250350.1.0",
+  "id": 106,
+  "groupId": 3,
+  "difficulty": 6,
+  "huntStageId": 2030006,
+  "rewardGroupId": 1300600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 229
+ },
+ {
+  "version": "250350.1.0",
+  "id": 107,
+  "groupId": 3,
+  "difficulty": 7,
+  "huntStageId": 2030007,
+  "rewardGroupId": 1300700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 240
+ },
+ {
+  "version": "250350.1.0",
+  "id": 108,
+  "groupId": 3,
+  "difficulty": 8,
+  "huntStageId": 2030008,
+  "rewardGroupId": 1300800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 250
+ },
+ {
+  "version": "250350.1.0",
+  "id": 109,
+  "groupId": 3,
+  "difficulty": 9,
+  "huntStageId": 2030009,
+  "rewardGroupId": 1300900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 260
+ },
+ {
+  "version": "250350.1.0",
+  "id": 110,
+  "groupId": 3,
+  "difficulty": 10,
+  "huntStageId": 2030010,
+  "rewardGroupId": 1301000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 268
+ },
+ {
+  "version": "250350.1.0",
+  "id": 111,
+  "groupId": 3,
+  "difficulty": 11,
+  "huntStageId": 2030011,
+  "rewardGroupId": 1301100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 277
+ },
+ {
+  "version": "250350.1.0",
+  "id": 112,
+  "groupId": 3,
+  "difficulty": 12,
+  "huntStageId": 2030012,
+  "rewardGroupId": 1301200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 284
+ },
+ {
+  "version": "250350.1.0",
+  "id": 113,
+  "groupId": 3,
+  "difficulty": 13,
+  "huntStageId": 2030013,
+  "rewardGroupId": 1301300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 292
+ },
+ {
+  "version": "250350.1.0",
+  "id": 114,
+  "groupId": 3,
+  "difficulty": 14,
+  "huntStageId": 2030014,
+  "rewardGroupId": 1301400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 298
+ },
+ {
+  "version": "250350.1.0",
+  "id": 115,
+  "groupId": 3,
+  "difficulty": 15,
+  "huntStageId": 2030015,
+  "rewardGroupId": 1301500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 305
+ },
+ {
+  "version": "250350.1.0",
+  "id": 116,
+  "groupId": 3,
+  "difficulty": 16,
+  "huntStageId": 2030016,
+  "rewardGroupId": 1301600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 311
+ },
+ {
+  "version": "250350.1.0",
+  "id": 117,
+  "groupId": 3,
+  "difficulty": 17,
+  "huntStageId": 2030017,
+  "rewardGroupId": 1301700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 318
+ },
+ {
+  "version": "250350.1.0",
+  "id": 118,
+  "groupId": 3,
+  "difficulty": 18,
+  "huntStageId": 2030018,
+  "rewardGroupId": 1301800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 323
+ },
+ {
+  "version": "250350.1.0",
+  "id": 119,
+  "groupId": 3,
+  "difficulty": 19,
+  "huntStageId": 2030019,
+  "rewardGroupId": 1301900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 329
+ },
+ {
+  "version": "250350.1.0",
+  "id": 120,
+  "groupId": 3,
+  "difficulty": 20,
+  "huntStageId": 2030020,
+  "rewardGroupId": 1302000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 335
+ },
+ {
+  "version": "250350.1.0",
+  "id": 121,
+  "groupId": 3,
+  "difficulty": 21,
+  "huntStageId": 2030021,
+  "rewardGroupId": 1302100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 340
+ },
+ {
+  "version": "250350.1.0",
+  "id": 122,
+  "groupId": 3,
+  "difficulty": 22,
+  "huntStageId": 2030022,
+  "rewardGroupId": 1302200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 345
+ },
+ {
+  "version": "250350.1.0",
+  "id": 123,
+  "groupId": 3,
+  "difficulty": 23,
+  "huntStageId": 2030023,
+  "rewardGroupId": 1302300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 350
+ },
+ {
+  "version": "250350.1.0",
+  "id": 124,
+  "groupId": 3,
+  "difficulty": 24,
+  "huntStageId": 2030024,
+  "rewardGroupId": 1302400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 355
+ },
+ {
+  "version": "250350.1.0",
+  "id": 125,
+  "groupId": 3,
+  "difficulty": 25,
+  "huntStageId": 2030025,
+  "rewardGroupId": 1302500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 360
+ },
+ {
+  "version": "250350.1.0",
+  "id": 126,
+  "groupId": 3,
+  "difficulty": 26,
+  "huntStageId": 2030026,
+  "rewardGroupId": 1302600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 364
+ },
+ {
+  "version": "250350.1.0",
+  "id": 127,
+  "groupId": 3,
+  "difficulty": 27,
+  "huntStageId": 2030027,
+  "rewardGroupId": 1302700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 369
+ },
+ {
+  "version": "250350.1.0",
+  "id": 128,
+  "groupId": 3,
+  "difficulty": 28,
+  "huntStageId": 2030028,
+  "rewardGroupId": 1302800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 373
+ },
+ {
+  "version": "250350.1.0",
+  "id": 129,
+  "groupId": 3,
+  "difficulty": 29,
+  "huntStageId": 2030029,
+  "rewardGroupId": 1302900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 377
+ },
+ {
+  "version": "250350.1.0",
+  "id": 130,
+  "groupId": 3,
+  "difficulty": 30,
+  "huntStageId": 2030030,
+  "rewardGroupId": 1303000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 382
+ },
+ {
+  "version": "250350.1.0",
+  "id": 131,
+  "groupId": 3,
+  "difficulty": 31,
+  "huntStageId": 2030031,
+  "rewardGroupId": 1303100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 386
+ },
+ {
+  "version": "250350.1.0",
+  "id": 132,
+  "groupId": 3,
+  "difficulty": 32,
+  "huntStageId": 2030032,
+  "rewardGroupId": 1303200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 390
+ },
+ {
+  "version": "250350.1.0",
+  "id": 133,
+  "groupId": 3,
+  "difficulty": 33,
+  "huntStageId": 2030033,
+  "rewardGroupId": 1303300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 394
+ },
+ {
+  "version": "250350.1.0",
+  "id": 134,
+  "groupId": 3,
+  "difficulty": 34,
+  "huntStageId": 2030034,
+  "rewardGroupId": 1303400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 398
+ },
+ {
+  "version": "250350.1.0",
+  "id": 135,
+  "groupId": 3,
+  "difficulty": 35,
+  "huntStageId": 2030035,
+  "rewardGroupId": 1303500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 402
+ },
+ {
+  "version": "250350.1.0",
+  "id": 136,
+  "groupId": 3,
+  "difficulty": 36,
+  "huntStageId": 2030036,
+  "rewardGroupId": 1303600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 406
+ },
+ {
+  "version": "250350.1.0",
+  "id": 137,
+  "groupId": 3,
+  "difficulty": 37,
+  "huntStageId": 2030037,
+  "rewardGroupId": 1303700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 410
+ },
+ {
+  "version": "250350.1.0",
+  "id": 138,
+  "groupId": 3,
+  "difficulty": 38,
+  "huntStageId": 2030038,
+  "rewardGroupId": 1303800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 414
+ },
+ {
+  "version": "250350.1.0",
+  "id": 139,
+  "groupId": 3,
+  "difficulty": 39,
+  "huntStageId": 2030039,
+  "rewardGroupId": 1303900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 418
+ },
+ {
+  "version": "250350.1.0",
+  "id": 140,
+  "groupId": 3,
+  "difficulty": 40,
+  "huntStageId": 2030040,
+  "rewardGroupId": 1304000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 422
+ },
+ {
+  "version": "250350.1.0",
+  "id": 141,
+  "groupId": 3,
+  "difficulty": 41,
+  "huntStageId": 2030041,
+  "rewardGroupId": 1304100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 426
+ },
+ {
+  "version": "250350.1.0",
+  "id": 142,
+  "groupId": 3,
+  "difficulty": 42,
+  "huntStageId": 2030042,
+  "rewardGroupId": 1304200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 430
+ },
+ {
+  "version": "250350.1.0",
+  "id": 143,
+  "groupId": 3,
+  "difficulty": 43,
+  "huntStageId": 2030043,
+  "rewardGroupId": 1304300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 434
+ },
+ {
+  "version": "250350.1.0",
+  "id": 144,
+  "groupId": 3,
+  "difficulty": 44,
+  "huntStageId": 2030044,
+  "rewardGroupId": 1304400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 438
+ },
+ {
+  "version": "250350.1.0",
+  "id": 145,
+  "groupId": 3,
+  "difficulty": 45,
+  "huntStageId": 2030045,
+  "rewardGroupId": 1304500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 442
+ },
+ {
+  "version": "250350.1.0",
+  "id": 146,
+  "groupId": 3,
+  "difficulty": 46,
+  "huntStageId": 2030046,
+  "rewardGroupId": 1304600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 446
+ },
+ {
+  "version": "250350.1.0",
+  "id": 147,
+  "groupId": 3,
+  "difficulty": 47,
+  "huntStageId": 2030047,
+  "rewardGroupId": 1304700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 450
+ },
+ {
+  "version": "250350.1.0",
+  "id": 148,
+  "groupId": 3,
+  "difficulty": 48,
+  "huntStageId": 2030048,
+  "rewardGroupId": 1304800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 454
+ },
+ {
+  "version": "250350.1.0",
+  "id": 149,
+  "groupId": 3,
+  "difficulty": 49,
+  "huntStageId": 2030049,
+  "rewardGroupId": 1304900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 458
+ },
+ {
+  "version": "250350.1.0",
+  "id": 150,
+  "groupId": 3,
+  "difficulty": 50,
+  "huntStageId": 2030050,
+  "rewardGroupId": 1305000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 462
+ },
+ {
+  "version": "250350.1.0",
+  "id": 151,
+  "groupId": 4,
+  "difficulty": 1,
+  "huntStageId": 2040001,
+  "rewardGroupId": 1400100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 142
+ },
+ {
+  "version": "250350.1.0",
+  "id": 152,
+  "groupId": 4,
+  "difficulty": 2,
+  "huntStageId": 2040002,
+  "rewardGroupId": 1400200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 167
+ },
+ {
+  "version": "250350.1.0",
+  "id": 153,
+  "groupId": 4,
+  "difficulty": 3,
+  "huntStageId": 2040003,
+  "rewardGroupId": 1400300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 187
+ },
+ {
+  "version": "250350.1.0",
+  "id": 154,
+  "groupId": 4,
+  "difficulty": 4,
+  "huntStageId": 2040004,
+  "rewardGroupId": 1400400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 203
+ },
+ {
+  "version": "250350.1.0",
+  "id": 155,
+  "groupId": 4,
+  "difficulty": 5,
+  "huntStageId": 2040005,
+  "rewardGroupId": 1400500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 217
+ },
+ {
+  "version": "250350.1.0",
+  "id": 156,
+  "groupId": 4,
+  "difficulty": 6,
+  "huntStageId": 2040006,
+  "rewardGroupId": 1400600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 229
+ },
+ {
+  "version": "250350.1.0",
+  "id": 157,
+  "groupId": 4,
+  "difficulty": 7,
+  "huntStageId": 2040007,
+  "rewardGroupId": 1400700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 240
+ },
+ {
+  "version": "250350.1.0",
+  "id": 158,
+  "groupId": 4,
+  "difficulty": 8,
+  "huntStageId": 2040008,
+  "rewardGroupId": 1400800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 250
+ },
+ {
+  "version": "250350.1.0",
+  "id": 159,
+  "groupId": 4,
+  "difficulty": 9,
+  "huntStageId": 2040009,
+  "rewardGroupId": 1400900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 260
+ },
+ {
+  "version": "250350.1.0",
+  "id": 160,
+  "groupId": 4,
+  "difficulty": 10,
+  "huntStageId": 2040010,
+  "rewardGroupId": 1401000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 268
+ },
+ {
+  "version": "250350.1.0",
+  "id": 161,
+  "groupId": 4,
+  "difficulty": 11,
+  "huntStageId": 2040011,
+  "rewardGroupId": 1401100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 277
+ },
+ {
+  "version": "250350.1.0",
+  "id": 162,
+  "groupId": 4,
+  "difficulty": 12,
+  "huntStageId": 2040012,
+  "rewardGroupId": 1401200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 284
+ },
+ {
+  "version": "250350.1.0",
+  "id": 163,
+  "groupId": 4,
+  "difficulty": 13,
+  "huntStageId": 2040013,
+  "rewardGroupId": 1401300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 292
+ },
+ {
+  "version": "250350.1.0",
+  "id": 164,
+  "groupId": 4,
+  "difficulty": 14,
+  "huntStageId": 2040014,
+  "rewardGroupId": 1401400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 298
+ },
+ {
+  "version": "250350.1.0",
+  "id": 165,
+  "groupId": 4,
+  "difficulty": 15,
+  "huntStageId": 2040015,
+  "rewardGroupId": 1401500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 305
+ },
+ {
+  "version": "250350.1.0",
+  "id": 166,
+  "groupId": 4,
+  "difficulty": 16,
+  "huntStageId": 2040016,
+  "rewardGroupId": 1401600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 311
+ },
+ {
+  "version": "250350.1.0",
+  "id": 167,
+  "groupId": 4,
+  "difficulty": 17,
+  "huntStageId": 2040017,
+  "rewardGroupId": 1401700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 318
+ },
+ {
+  "version": "250350.1.0",
+  "id": 168,
+  "groupId": 4,
+  "difficulty": 18,
+  "huntStageId": 2040018,
+  "rewardGroupId": 1401800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 323
+ },
+ {
+  "version": "250350.1.0",
+  "id": 169,
+  "groupId": 4,
+  "difficulty": 19,
+  "huntStageId": 2040019,
+  "rewardGroupId": 1401900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 329
+ },
+ {
+  "version": "250350.1.0",
+  "id": 170,
+  "groupId": 4,
+  "difficulty": 20,
+  "huntStageId": 2040020,
+  "rewardGroupId": 1402000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 335
+ },
+ {
+  "version": "250350.1.0",
+  "id": 171,
+  "groupId": 4,
+  "difficulty": 21,
+  "huntStageId": 2040021,
+  "rewardGroupId": 1402100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 340
+ },
+ {
+  "version": "250350.1.0",
+  "id": 172,
+  "groupId": 4,
+  "difficulty": 22,
+  "huntStageId": 2040022,
+  "rewardGroupId": 1402200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 345
+ },
+ {
+  "version": "250350.1.0",
+  "id": 173,
+  "groupId": 4,
+  "difficulty": 23,
+  "huntStageId": 2040023,
+  "rewardGroupId": 1402300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 350
+ },
+ {
+  "version": "250350.1.0",
+  "id": 174,
+  "groupId": 4,
+  "difficulty": 24,
+  "huntStageId": 2040024,
+  "rewardGroupId": 1402400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 355
+ },
+ {
+  "version": "250350.1.0",
+  "id": 175,
+  "groupId": 4,
+  "difficulty": 25,
+  "huntStageId": 2040025,
+  "rewardGroupId": 1402500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 360
+ },
+ {
+  "version": "250350.1.0",
+  "id": 176,
+  "groupId": 4,
+  "difficulty": 26,
+  "huntStageId": 2040026,
+  "rewardGroupId": 1402600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 364
+ },
+ {
+  "version": "250350.1.0",
+  "id": 177,
+  "groupId": 4,
+  "difficulty": 27,
+  "huntStageId": 2040027,
+  "rewardGroupId": 1402700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 369
+ },
+ {
+  "version": "250350.1.0",
+  "id": 178,
+  "groupId": 4,
+  "difficulty": 28,
+  "huntStageId": 2040028,
+  "rewardGroupId": 1402800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 373
+ },
+ {
+  "version": "250350.1.0",
+  "id": 179,
+  "groupId": 4,
+  "difficulty": 29,
+  "huntStageId": 2040029,
+  "rewardGroupId": 1402900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 377
+ },
+ {
+  "version": "250350.1.0",
+  "id": 180,
+  "groupId": 4,
+  "difficulty": 30,
+  "huntStageId": 2040030,
+  "rewardGroupId": 1403000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 382
+ },
+ {
+  "version": "250350.1.0",
+  "id": 181,
+  "groupId": 4,
+  "difficulty": 31,
+  "huntStageId": 2040031,
+  "rewardGroupId": 1403100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 386
+ },
+ {
+  "version": "250350.1.0",
+  "id": 182,
+  "groupId": 4,
+  "difficulty": 32,
+  "huntStageId": 2040032,
+  "rewardGroupId": 1403200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 390
+ },
+ {
+  "version": "250350.1.0",
+  "id": 183,
+  "groupId": 4,
+  "difficulty": 33,
+  "huntStageId": 2040033,
+  "rewardGroupId": 1403300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 394
+ },
+ {
+  "version": "250350.1.0",
+  "id": 184,
+  "groupId": 4,
+  "difficulty": 34,
+  "huntStageId": 2040034,
+  "rewardGroupId": 1403400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 398
+ },
+ {
+  "version": "250350.1.0",
+  "id": 185,
+  "groupId": 4,
+  "difficulty": 35,
+  "huntStageId": 2040035,
+  "rewardGroupId": 1403500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 402
+ },
+ {
+  "version": "250350.1.0",
+  "id": 186,
+  "groupId": 4,
+  "difficulty": 36,
+  "huntStageId": 2040036,
+  "rewardGroupId": 1403600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 406
+ },
+ {
+  "version": "250350.1.0",
+  "id": 187,
+  "groupId": 4,
+  "difficulty": 37,
+  "huntStageId": 2040037,
+  "rewardGroupId": 1403700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 410
+ },
+ {
+  "version": "250350.1.0",
+  "id": 188,
+  "groupId": 4,
+  "difficulty": 38,
+  "huntStageId": 2040038,
+  "rewardGroupId": 1403800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 414
+ },
+ {
+  "version": "250350.1.0",
+  "id": 189,
+  "groupId": 4,
+  "difficulty": 39,
+  "huntStageId": 2040039,
+  "rewardGroupId": 1403900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 418
+ },
+ {
+  "version": "250350.1.0",
+  "id": 190,
+  "groupId": 4,
+  "difficulty": 40,
+  "huntStageId": 2040040,
+  "rewardGroupId": 1404000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 422
+ },
+ {
+  "version": "250350.1.0",
+  "id": 191,
+  "groupId": 4,
+  "difficulty": 41,
+  "huntStageId": 2040041,
+  "rewardGroupId": 1404100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 426
+ },
+ {
+  "version": "250350.1.0",
+  "id": 192,
+  "groupId": 4,
+  "difficulty": 42,
+  "huntStageId": 2040042,
+  "rewardGroupId": 1404200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 430
+ },
+ {
+  "version": "250350.1.0",
+  "id": 193,
+  "groupId": 4,
+  "difficulty": 43,
+  "huntStageId": 2040043,
+  "rewardGroupId": 1404300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 434
+ },
+ {
+  "version": "250350.1.0",
+  "id": 194,
+  "groupId": 4,
+  "difficulty": 44,
+  "huntStageId": 2040044,
+  "rewardGroupId": 1404400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 438
+ },
+ {
+  "version": "250350.1.0",
+  "id": 195,
+  "groupId": 4,
+  "difficulty": 45,
+  "huntStageId": 2040045,
+  "rewardGroupId": 1404500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 442
+ },
+ {
+  "version": "250350.1.0",
+  "id": 196,
+  "groupId": 4,
+  "difficulty": 46,
+  "huntStageId": 2040046,
+  "rewardGroupId": 1404600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 446
+ },
+ {
+  "version": "250350.1.0",
+  "id": 197,
+  "groupId": 4,
+  "difficulty": 47,
+  "huntStageId": 2040047,
+  "rewardGroupId": 1404700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 450
+ },
+ {
+  "version": "250350.1.0",
+  "id": 198,
+  "groupId": 4,
+  "difficulty": 48,
+  "huntStageId": 2040048,
+  "rewardGroupId": 1404800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 454
+ },
+ {
+  "version": "250350.1.0",
+  "id": 199,
+  "groupId": 4,
+  "difficulty": 49,
+  "huntStageId": 2040049,
+  "rewardGroupId": 1404900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 458
+ },
+ {
+  "version": "250350.1.0",
+  "id": 200,
+  "groupId": 4,
+  "difficulty": 50,
+  "huntStageId": 2040050,
+  "rewardGroupId": 1405000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 462
+ },
+ {
+  "version": "250350.1.0",
+  "id": 201,
+  "groupId": 5,
+  "difficulty": 1,
+  "huntStageId": 2050001,
+  "rewardGroupId": 1500100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 142
+ },
+ {
+  "version": "250350.1.0",
+  "id": 202,
+  "groupId": 5,
+  "difficulty": 2,
+  "huntStageId": 2050002,
+  "rewardGroupId": 1500200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 167
+ },
+ {
+  "version": "250350.1.0",
+  "id": 203,
+  "groupId": 5,
+  "difficulty": 3,
+  "huntStageId": 2050003,
+  "rewardGroupId": 1500300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 187
+ },
+ {
+  "version": "250350.1.0",
+  "id": 204,
+  "groupId": 5,
+  "difficulty": 4,
+  "huntStageId": 2050004,
+  "rewardGroupId": 1500400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 203
+ },
+ {
+  "version": "250350.1.0",
+  "id": 205,
+  "groupId": 5,
+  "difficulty": 5,
+  "huntStageId": 2050005,
+  "rewardGroupId": 1500500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 217
+ },
+ {
+  "version": "250350.1.0",
+  "id": 206,
+  "groupId": 5,
+  "difficulty": 6,
+  "huntStageId": 2050006,
+  "rewardGroupId": 1500600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 229
+ },
+ {
+  "version": "250350.1.0",
+  "id": 207,
+  "groupId": 5,
+  "difficulty": 7,
+  "huntStageId": 2050007,
+  "rewardGroupId": 1500700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 240
+ },
+ {
+  "version": "250350.1.0",
+  "id": 208,
+  "groupId": 5,
+  "difficulty": 8,
+  "huntStageId": 2050008,
+  "rewardGroupId": 1500800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 250
+ },
+ {
+  "version": "250350.1.0",
+  "id": 209,
+  "groupId": 5,
+  "difficulty": 9,
+  "huntStageId": 2050009,
+  "rewardGroupId": 1500900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 260
+ },
+ {
+  "version": "250350.1.0",
+  "id": 210,
+  "groupId": 5,
+  "difficulty": 10,
+  "huntStageId": 2050010,
+  "rewardGroupId": 1501000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 268
+ },
+ {
+  "version": "250350.1.0",
+  "id": 211,
+  "groupId": 5,
+  "difficulty": 11,
+  "huntStageId": 2050011,
+  "rewardGroupId": 1501100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 277
+ },
+ {
+  "version": "250350.1.0",
+  "id": 212,
+  "groupId": 5,
+  "difficulty": 12,
+  "huntStageId": 2050012,
+  "rewardGroupId": 1501200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 284
+ },
+ {
+  "version": "250350.1.0",
+  "id": 213,
+  "groupId": 5,
+  "difficulty": 13,
+  "huntStageId": 2050013,
+  "rewardGroupId": 1501300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 292
+ },
+ {
+  "version": "250350.1.0",
+  "id": 214,
+  "groupId": 5,
+  "difficulty": 14,
+  "huntStageId": 2050014,
+  "rewardGroupId": 1501400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 298
+ },
+ {
+  "version": "250350.1.0",
+  "id": 215,
+  "groupId": 5,
+  "difficulty": 15,
+  "huntStageId": 2050015,
+  "rewardGroupId": 1501500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 305
+ },
+ {
+  "version": "250350.1.0",
+  "id": 216,
+  "groupId": 5,
+  "difficulty": 16,
+  "huntStageId": 2050016,
+  "rewardGroupId": 1501600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 311
+ },
+ {
+  "version": "250350.1.0",
+  "id": 217,
+  "groupId": 5,
+  "difficulty": 17,
+  "huntStageId": 2050017,
+  "rewardGroupId": 1501700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 318
+ },
+ {
+  "version": "250350.1.0",
+  "id": 218,
+  "groupId": 5,
+  "difficulty": 18,
+  "huntStageId": 2050018,
+  "rewardGroupId": 1501800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 323
+ },
+ {
+  "version": "250350.1.0",
+  "id": 219,
+  "groupId": 5,
+  "difficulty": 19,
+  "huntStageId": 2050019,
+  "rewardGroupId": 1501900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 329
+ },
+ {
+  "version": "250350.1.0",
+  "id": 220,
+  "groupId": 5,
+  "difficulty": 20,
+  "huntStageId": 2050020,
+  "rewardGroupId": 1502000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 335
+ },
+ {
+  "version": "250350.1.0",
+  "id": 221,
+  "groupId": 5,
+  "difficulty": 21,
+  "huntStageId": 2050021,
+  "rewardGroupId": 1502100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 340
+ },
+ {
+  "version": "250350.1.0",
+  "id": 222,
+  "groupId": 5,
+  "difficulty": 22,
+  "huntStageId": 2050022,
+  "rewardGroupId": 1502200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 345
+ },
+ {
+  "version": "250350.1.0",
+  "id": 223,
+  "groupId": 5,
+  "difficulty": 23,
+  "huntStageId": 2050023,
+  "rewardGroupId": 1502300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 350
+ },
+ {
+  "version": "250350.1.0",
+  "id": 224,
+  "groupId": 5,
+  "difficulty": 24,
+  "huntStageId": 2050024,
+  "rewardGroupId": 1502400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 355
+ },
+ {
+  "version": "250350.1.0",
+  "id": 225,
+  "groupId": 5,
+  "difficulty": 25,
+  "huntStageId": 2050025,
+  "rewardGroupId": 1502500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 360
+ },
+ {
+  "version": "250350.1.0",
+  "id": 226,
+  "groupId": 5,
+  "difficulty": 26,
+  "huntStageId": 2050026,
+  "rewardGroupId": 1502600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 364
+ },
+ {
+  "version": "250350.1.0",
+  "id": 227,
+  "groupId": 5,
+  "difficulty": 27,
+  "huntStageId": 2050027,
+  "rewardGroupId": 1502700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 369
+ },
+ {
+  "version": "250350.1.0",
+  "id": 228,
+  "groupId": 5,
+  "difficulty": 28,
+  "huntStageId": 2050028,
+  "rewardGroupId": 1502800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 373
+ },
+ {
+  "version": "250350.1.0",
+  "id": 229,
+  "groupId": 5,
+  "difficulty": 29,
+  "huntStageId": 2050029,
+  "rewardGroupId": 1502900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 377
+ },
+ {
+  "version": "250350.1.0",
+  "id": 230,
+  "groupId": 5,
+  "difficulty": 30,
+  "huntStageId": 2050030,
+  "rewardGroupId": 1503000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 382
+ },
+ {
+  "version": "250350.1.0",
+  "id": 231,
+  "groupId": 5,
+  "difficulty": 31,
+  "huntStageId": 2050031,
+  "rewardGroupId": 1503100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 386
+ },
+ {
+  "version": "250350.1.0",
+  "id": 232,
+  "groupId": 5,
+  "difficulty": 32,
+  "huntStageId": 2050032,
+  "rewardGroupId": 1503200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 390
+ },
+ {
+  "version": "250350.1.0",
+  "id": 233,
+  "groupId": 5,
+  "difficulty": 33,
+  "huntStageId": 2050033,
+  "rewardGroupId": 1503300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 394
+ },
+ {
+  "version": "250350.1.0",
+  "id": 234,
+  "groupId": 5,
+  "difficulty": 34,
+  "huntStageId": 2050034,
+  "rewardGroupId": 1503400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 398
+ },
+ {
+  "version": "250350.1.0",
+  "id": 235,
+  "groupId": 5,
+  "difficulty": 35,
+  "huntStageId": 2050035,
+  "rewardGroupId": 1503500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 402
+ },
+ {
+  "version": "250350.1.0",
+  "id": 236,
+  "groupId": 5,
+  "difficulty": 36,
+  "huntStageId": 2050036,
+  "rewardGroupId": 1503600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 406
+ },
+ {
+  "version": "250350.1.0",
+  "id": 237,
+  "groupId": 5,
+  "difficulty": 37,
+  "huntStageId": 2050037,
+  "rewardGroupId": 1503700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 410
+ },
+ {
+  "version": "250350.1.0",
+  "id": 238,
+  "groupId": 5,
+  "difficulty": 38,
+  "huntStageId": 2050038,
+  "rewardGroupId": 1503800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 414
+ },
+ {
+  "version": "250350.1.0",
+  "id": 239,
+  "groupId": 5,
+  "difficulty": 39,
+  "huntStageId": 2050039,
+  "rewardGroupId": 1503900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 418
+ },
+ {
+  "version": "250350.1.0",
+  "id": 240,
+  "groupId": 5,
+  "difficulty": 40,
+  "huntStageId": 2050040,
+  "rewardGroupId": 1504000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 422
+ },
+ {
+  "version": "250350.1.0",
+  "id": 241,
+  "groupId": 5,
+  "difficulty": 41,
+  "huntStageId": 2050041,
+  "rewardGroupId": 1504100,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 426
+ },
+ {
+  "version": "250350.1.0",
+  "id": 242,
+  "groupId": 5,
+  "difficulty": 42,
+  "huntStageId": 2050042,
+  "rewardGroupId": 1504200,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 430
+ },
+ {
+  "version": "250350.1.0",
+  "id": 243,
+  "groupId": 5,
+  "difficulty": 43,
+  "huntStageId": 2050043,
+  "rewardGroupId": 1504300,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 434
+ },
+ {
+  "version": "250350.1.0",
+  "id": 244,
+  "groupId": 5,
+  "difficulty": 44,
+  "huntStageId": 2050044,
+  "rewardGroupId": 1504400,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 438
+ },
+ {
+  "version": "250350.1.0",
+  "id": 245,
+  "groupId": 5,
+  "difficulty": 45,
+  "huntStageId": 2050045,
+  "rewardGroupId": 1504500,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 442
+ },
+ {
+  "version": "250350.1.0",
+  "id": 246,
+  "groupId": 5,
+  "difficulty": 46,
+  "huntStageId": 2050046,
+  "rewardGroupId": 1504600,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 446
+ },
+ {
+  "version": "250350.1.0",
+  "id": 247,
+  "groupId": 5,
+  "difficulty": 47,
+  "huntStageId": 2050047,
+  "rewardGroupId": 1504700,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 450
+ },
+ {
+  "version": "250350.1.0",
+  "id": 248,
+  "groupId": 5,
+  "difficulty": 48,
+  "huntStageId": 2050048,
+  "rewardGroupId": 1504800,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 454
+ },
+ {
+  "version": "250350.1.0",
+  "id": 249,
+  "groupId": 5,
+  "difficulty": 49,
+  "huntStageId": 2050049,
+  "rewardGroupId": 1504900,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 458
+ },
+ {
+  "version": "250350.1.0",
+  "id": 250,
+  "groupId": 5,
+  "difficulty": 50,
+  "huntStageId": 2050050,
+  "rewardGroupId": 1505000,
+  "battleTimeSeconds": 60,
+  "rankingPoint": 462
+ }
+]

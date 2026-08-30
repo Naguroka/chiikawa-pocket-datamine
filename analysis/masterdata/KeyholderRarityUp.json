@@ -1,0 +1,56 @@
+[
+ {
+  "version": "260410.1.0",
+  "id": 1,
+  "fromRarity": "Normal",
+  "toRarity": "NormalRare",
+  "sameKeyholderRequiredCount": 3,
+  "sameRarityKeyholderRequiredCount": 0,
+  "conversionExpItemCount": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 2,
+  "fromRarity": "NormalRare",
+  "toRarity": "Rare",
+  "sameKeyholderRequiredCount": 3,
+  "sameRarityKeyholderRequiredCount": 0,
+  "conversionExpItemCount": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 3,
+  "fromRarity": "Rare",
+  "toRarity": "SuperRare",
+  "sameKeyholderRequiredCount": 3,
+  "sameRarityKeyholderRequiredCount": 0,
+  "conversionExpItemCount": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 4,
+  "fromRarity": "SuperRare",
+  "toRarity": "HyperRare",
+  "sameKeyholderRequiredCount": 1,
+  "sameRarityKeyholderRequiredCount": 2,
+  "conversionExpItemCount": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 5,
+  "fromRarity": "HyperRare",
+  "toRarity": "UltraRare",
+  "sameKeyholderRequiredCount": 1,
+  "sameRarityKeyholderRequiredCount": 2,
+  "conversionExpItemCount": 0
+ },
+ {
+  "version": "260410.1.0",
+  "id": 6,
+  "fromRarity": "UltraRare",
+  "toRarity": "LegendRare",
+  "sameKeyholderRequiredCount": 1,
+  "sameRarityKeyholderRequiredCount": 2,
+  "conversionExpItemCount": 0
+ }
+]
