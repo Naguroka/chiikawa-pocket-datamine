@@ -2,8 +2,6 @@
 
 *Every rule below comes from the game's own code (v2.4.1), cross-checked against live play on a real account. For how stats and damage work overall, see `MECHANICS.md`.*
 
-> **Correction note (important):** an earlier version of this guide claimed that front units die one-by-one and act as meat shields. **That was wrong**, and thank-you to the reader who reported it. Re-verification against both the code and live battles proved: **your whole team shares ONE HP pool and dies together.** The corrected mechanics — and what order *actually* optimizes — are below.
-
 ---
 
 ## 1. What a "team" actually is
@@ -43,7 +41,7 @@ So per slot, DPS differs by exactly two things: **(costume attack rate) × (its 
 
 ### 3.1 What order does NOT change: survival — your team shares ONE HP pool
 
-This is the correction, and it's the most misunderstood mechanic in the game:
+This is the most misunderstood mechanic in the game:
 
 - **Your party has a single, shared HP pool.** All friend units are built from one shared `FriendStatusData` — one account-level status block, and every unit's `Hp` points at the *same* `HpValue` instance. When any unit is hit, the damage drains that one pool.
 - **When the pool hits 0, the whole party is eliminated at once.** There is no "slot 1 dies, then slot 2". The formation icons do **not** grey out one by one — the wipe is all-or-nothing.
@@ -87,6 +85,7 @@ Since nobody tanks and nobody dies early, the only question is: **in what order 
 - **Boss walls (30 s check):** move your single-target burst later and your buffs/debuffers earlier — the goal is maximum damage *inside the window*, not surviving it. If the pool empties first, *that's* when you go farm levels/collection (see `OPTIMAL_PLAY.md`).
 - **Waves slowing you down:** move the AoE earlier (left). If waves aren't the problem, move it later and put a second enabler in its place.
 - **Assists:** assist skills run on their own 2-second queue and don't collide with unique-skill ordering — pure value slots, order irrelevant except first-cast priority.
+- **Keychains:** equip the ones targeting your carry's character (a SpecificCharacter keychain only pays out while that character is in the team), and assist-targeted keychains when you run that assist — see `KEYCHAIN.md`.
 
 ## 5. The team-power number ("CP") — what it is and isn't
 

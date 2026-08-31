@@ -1,9 +1,8 @@
-# MyRoom (code name) ≠ the "little house" item bonuses
+# MyRoom (code name) vs the "little house" items
 
-**Read [`LITTLE_HOUSE.md`](LITTLE_HOUSE.md) instead** — it documents the effect-bearing items (wall clock, sofas, "You Look Like" outfits), which are the **`Treasure`** system.
+Two different features share the house theme:
 
-This file previously (and incorrectly) mixed three systems. For the record:
+- **The little-house items** — the effect-bearing furniture and outfits (wall clock, sofas, "You Look Like" outfits) — are the **`Treasure`** system. Full verified data: [`LITTLE_HOUSE.md`](LITTLE_HOUSE.md).
+- **`MyRoom`** (the code's name for the room editor) = furniture placement (`MyRoomInterior`), outfit skins (`MyRoomCloset`), character feeding/petting with an emotion meter (`MyRoomEmotion*`, `MyRoomClientConfig`), and a ticket shop. **Cosmetic only — no combat stats.**
 
-- **`Treasure`** = the little-house items with owned + equip bonuses → documented fully in [`LITTLE_HOUSE.md`](LITTLE_HOUSE.md).
-- **`MyRoom`** (the code's name for the room editor) = furniture placement (`MyRoomInterior`), outfit skins (`MyRoomCloset`), character feeding/petting with an emotion meter (`MyRoomEmotion*`, `MyRoomClientConfig`), ticket shop. **Cosmetic only — no combat stats.**
-- **`HomeItem`** = the other furniture collection (114 items, each granting the same Attack ×1.15/1.20/1.30 at item Lv1/2/3 for owning them) — see `MECHANICS.md` §3.3.
+Related but distinct: **`HomeItem`** is the separate furniture collection whose 114 items each grant the same Attack ×1.15/1.20/1.30 at item Lv1/2/3 for owning them — see `MECHANICS.md` §3.3.

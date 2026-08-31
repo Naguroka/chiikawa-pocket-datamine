@@ -101,15 +101,15 @@ Every item gives **two** bonuses — one for owning it, one for using it. Verifi
 | Source | "Own" bonus (always on) | "Equip" bonus (only while used) |
 |---|---|---|
 | Weapon / Armor / Assist Skill | possessionEffectId | equipmentPossessionEffectId (while equipped on the formation) |
-| Treasure | possessionEffectIds[] (via `TreasurePossessionEffect`, promo-scaled) | equipEffectIds[] → `TreasureEquipEffect` → plain or **targeted/conditional** effect (see `MYROOM.md`) |
+| Treasure (the **little-house items**: wall clock, sofas, "You Look Like" outfits) | possessionEffectIds[] (via `TreasurePossessionEffect`, promo-scaled) | equipEffectIds[] → `TreasureEquipEffect` → plain or **targeted/conditional** effect (see `LITTLE_HOUSE.md`) |
 | Costume | possessionEffectIds[] — unlock in **tiers as the costume's level rises** (`CostumeEnhanceProgress ≥ threshold`) | promotionCostumePossessionEffectId (after promotion) |
-| Keyholder | rarity-tier effects (unlock per merge rarity) | equipPossessionEffectId — **targeted** (see below) |
-| **Home items (the little house)** | **ALL 114 items share one effect: Attack ×1.15 / ×1.20 / ×1.30 at item level 1/2/3** | *none — placement is cosmetic/economy* |
+| Keyholder (keychains) | rarity-tier effects (unlock per merge rarity, up to ×6000) | equipPossessionEffectId — **targeted** at the group's character/assist (see `KEYCHAIN.md`) |
+| HomeItem collection | **ALL 114 items share one effect: Attack ×1.15 / ×1.20 / ×1.30 at item level 1/2/3** | *none — placement is cosmetic/economy* |
 
 Key clarifications:
 
 - **Home items:** the stat bonus comes purely from *owning* the item (and leveling it via enhance). Putting it on display in your house is cosmetic and drives the visitor/gift/lottery economy (characters show up, give lottery points and gifts) — it does **not** change the bonus. There are no character/team conditions on home items; every one of them is the same Attack multiplier.
-- **Team-targeted bonuses (`CustomPossessionEffect`):** 511 effects that target **the whole party, a specific main character, or a specific assist character** (e.g. "Attack +X for Chiikawa only", "AssistSkillDamage +Y for character 3005"). These come from **keyholder equip effects** (all 154 keyholder groups) and **art-book scene completions**. Values scale with the granting item's level (or with your contents-progress). The code **gates them**: if the targeted character isn't in play, the bonus contributes nothing (verified in the decompiled calculator).
+- **Team-targeted bonuses (`CustomPossessionEffect`):** 511 effects that target **the whole party, a specific main character, or a specific assist character** (e.g. "Attack +X for Chiikawa only", "AssistSkillDamage +Y for character 3005"). These come from **keyholder equip effects** (all 154 keyholder groups), **art-book scene completions**, and **little-house (Treasure) equip effects**. Values scale with the granting item's level — or, for five little-house items (Red Sofa, Bead Cushion, Stack of Books, Poster, Lively Lights), with your account progress (booth/cooking levels, weeding distance, outfit counts). The code **gates them**: if the condition or targeted character isn't satisfied, the bonus contributes nothing (verified in the decompiled calculator).
 - Everything stacks **multiplicatively** — each owned/equipped item adds its own `×rate` element, which is how hundreds of small bonuses compound into the 10²⁰+ collection multiplier.
 
 ### 3.4 Status Enhancement (the gold sink)
@@ -172,7 +172,7 @@ There's also an "omakase" (auto-assign) button that scores characters as: Attack
 ## 7. Study, Mastery, Weeding, Blessing
 
 - **Study** (39 topics, 237 levels): pure time-gate. Each level takes real-world minutes (some tracks double each level: 4→8→16→32→64 min…) plus a resource cost. Finished studies give permanent possession effects. The "Study Speed" stat shortens the wait, and there's a 28-day paid study buff. **Always have a study running.**
-- **The little house ("MyRoom" in code):** a room editor (75 furniture pieces, 75 "You Look Like" outfit skins, character feeding/petting with an emotion meter) — **cosmetic**, feeding missions/currencies only. The combat-relevant items shown in the house (wall clock, sofas…) are **Treasures** — see `MYROOM.md` for the full equip-effect table, including tag-conditional bonuses like the wall clock's "Critical Damage +612% (Lv1) with 6 outfit specialties in the party".
+- **The little house:** the display items with bonuses (wall clock, sofas, "You Look Like" outfits) are **Treasures** — 23 items in 5 series whose owned effects (level-scaled Attack + a secondary stat) and equip bonuses (level-scaled, some gated by gear star-rarity, outfit-specialty counts, or account progress) are fully mapped in `LITTLE_HOUSE.md`. Keychains (`Keyholder`) are the matching targeted system — `KEYCHAIN.md`. The room editor itself (`MyRoom` in code: furniture placement, outfit skins, character feeding/petting with an emotion meter) is **cosmetic** — missions/currencies only, no combat stats.
 - **Mastery** (64 nodes, 5 levels each, cost 3 mastery-SP per level): a skill tree of possession effects; later nodes require earlier ones.
 - **Weeding** (gardening): spends stamina (1 per 15 min, cap 60, max storable 99,999) to clear garden plots in chunks for rewards. Gardening has its own two stamina stats (max stamina, recover speed).
 - **Blessing** (4 types): a 40-minute timed buff activated by watching an ad (or an item), giving possession effects temporarily.

@@ -158,15 +158,15 @@ finalValue = BaseValue × CorrectValue × StatusUpRate + StatusUpValue
 
 ### 6.3 Equipment & possession effects
 
-Every equipment item (Weapon 52, Armor 52, AssistSkill 22, Costume, Treasure 23) has **two** effects: `possessionEffectId` (permanent collection bonus for merely owning it) and `equipmentPossessionEffectId`/`equipEffectIds` (equipped bonus). `PossessionEffect` (2,823 rows) = `statusType + value + levelRangeValueGroupId + valueType` — i.e. flat or level-scaled status contributions, aggregated per `StatusType` into `HuntBaseStatus` (base + Add/Multiply/Shorten/BaseMultiplyAdd elements). Costume-specific rates: `attackRateLevelRagneGroupId`, `attackSpeedLevelRagneGroupId`, `skillCoefficient`, tags → `Tag` synergies, plus promotion (`CostumePromotion`, `CostumeRarity`).
+Every equipment item (Weapon 52, Armor 52, AssistSkill 22, Costume) has **two** effects: `possessionEffectId` (permanent collection bonus for merely owning it) and `equipmentPossessionEffectId` (equipped bonus); treasures and keyholders use the specialized chains in §6.4. `PossessionEffect` (2,823 rows) = `statusType + value + levelRangeValueGroupId + valueType` — i.e. flat or level-scaled status contributions, aggregated per `StatusType` into `HuntBaseStatus` (base + Add/Multiply/Shorten/BaseMultiplyAdd elements). Costume-specific rates: `attackRateLevelRagneGroupId`, `attackSpeedLevelRagneGroupId`, `skillCoefficient`, tags → `Tag` synergies, plus promotion (`CostumePromotion`, `CostumeRarity`).
 
 ### 6.4 Other progression systems
 
-- **Treasure** (23): own EXP curve (`TreasureExperience`, group 91, max 100), promotion groups, consume per EXP.
+- **Treasure / "little-house items"** (23, all UltraRare, series 1001–1007 You Look Like / 2001–2004 Chairs / 3001–3004 Decorations / 4001–4004 Wall Items / 5001–5004 Ornaments): own EXP curve (`TreasureExperience`, group 91, max Lv100, buttons ×100/EXP), promotion groups (93001 owned, 93002 equip). Effect chains: `possessionEffectIds → TreasurePossessionEffect → PossessionEffect` (owned, level-scaled); `equipEffectIds → TreasureEquipEffect → {Custom → CustomPossessionEffect (targeted/conditional) | Default → PossessionEffect}`. Five items use `possessionEffectValueReferenceType = ContentsProgress` (value = account progress counter × rate): Red Sofa (outfits@100), Bead Cushion (total booth level), Stack of Books (total cooking level), Poster (weeding distance), Lively Lights (outfits@200). Conditional equips gate on `FormationWeaponRarity/FormationArmorRarity/FormationAssistSkillRarity` (star = rarity tier + 1) or `FormationCostumeCookingTagCount` (1/4/6 outfit specialties). All owned/equip values validated against in-game numbers. Full tables: `LITTLE_HOUSE.md`.
 - **Mastery** (64-node tree, `maxLevel` 5 each, consumes resource 204; conditional unlocking via `conditionMasteryId`).
 - **Study** (39 studies, 237 level rows): time-gated (`requiredMinutes` per level) + `consumeGroupId`; gives possession effects; `StudyTimeCalculator` handles remaining-time math, `StudySpeed`(151)/`StudyResourceAcquire`(150) statuses modify it.
-- **CollectionBook** (62) & **ArtBook** scenes: level → possession effects.
-- **Keyholder** (1,078 items / 154 groups, rarity-up tracks) — gacha-collectible keychains feeding statuses.
+- **CollectionBook** (62) & **ArtBook** scenes: level → possession effects (scenes grant `completedAddCustomPossessionEffectIds`).
+- **Keyholder / keychains** (1,078 items = 154 groups × 7 rarities): each group = main character + assist pair with a targeted equip effect (`CustomPossessionEffect`: SpecificCharacter Attack ×10–66, or AssistCharacter AssistSkillDamage) + 10 rarity-tier effects (up to ×6000). Merging: 3 copies/step Normal→SuperRare, then 1 copy + 2 same-rarity/step →LegendRare (`KeyholderRarityUp`). Targeted bonuses are zeroed when the character isn't in play (`KeyholderStatusCalculator.CalculateStatusTargetCharacter` gate). Details: `KEYCHAIN.md`.
 - **Blessing** (4): timed (40-min activation, Config #34) status boost; **BuffItem** (3): consumable boosts.
 - **Weeding** (gardening mini-game): stamina economy (`WeedingStamina`, action stamina 100/101 statuses, stage chunks/blocks tables).
 - **League**: 5 tiers, 250 league hunt stages, ranking rewards, admission fee, season/daily shops.
@@ -215,7 +215,7 @@ Cafe EXP: `CalculateCafeExp(resourceAmount, resourceToExpCoefficient)`; menus (`
 
 ## 9. Remaining bits
 
-- **MyRoom**: character/food/interior/room-size tables, emotion-action deltas, gift rates (`HomeCharacterGiftRate`), lottery tables for home events, closet/costume defaults — mostly content data, little math.
+- **MyRoom** (the room editor, distinct from the little-house items): interior/closet/room-size/food/emotion tables, ticket shop — cosmetic content, no combat math (see `MYROOM.md` for the disambiguation).
 - **Tutorial/guides/UI**: `Guide`, `TutorialGuide`, `SpeechBalloon` (1k+), `Sticker`, `ProfileCard`, `DescriptionGroup`.
 - **Localization**: `LocalizationText` (983 UI strings, EN+JP); master-data `*TextKey` ints are **server-resolved** (not offline-decodable — the master text table is downloaded per-account/session; not present in the APK dump).
 - **Anti-tamper:** encrypted `global-metadata.dat` (defeated via memory dump), `.tgz.enc` next to plaintext `.tgz`, `libFastAES.so`, `bitter.jniwq` anti-cheat DEX, `libchecker.so`/`libbuffer.so` native guards. None hinder offline analysis.

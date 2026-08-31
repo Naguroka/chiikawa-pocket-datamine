@@ -1,6 +1,6 @@
 # Chiikawa Pocket — The "Little House" Items (Treasure System), Fully Verified
 
-*Everything below was cross-validated against manually collected in-game values — every number matched the datamined tables exactly (e.g. Picnic Chiikawa's "ATK+415%/HP+30% at Lv66" = effect groups 90101/90102 evaluated at 66; Garland's "+2.18a%" = group 91541 at Lv9). Naming: the game client calls these the "little house" items; in code/data they are the **`Treasure`** system. (The `MyRoom` room editor is a separate, purely cosmetic feature — see the stub at the end.)*
+*Everything below was cross-validated against manually collected in-game values — every number matched the datamined tables exactly (e.g. Picnic Chiikawa's "ATK+415%/HP+30% at Lv66" = effect groups 90101/90102 evaluated at 66; Garland's "+2.18a%" = group 91541 at Lv9). Naming: the game client calls these the "little house" items; in code/data they are the **`Treasure`** system. (The `MyRoom` room editor is a separate, purely cosmetic feature — see the appendix.)*
 
 ---
 
@@ -98,4 +98,4 @@ Every item = **Attack (tier curve) + one secondary stat**:
 
 ## Appendix: what "MyRoom" actually is (disambiguation)
 
-The code has a separate **`MyRoom`** feature (the room editor: `MyRoomInterior` furniture, `MyRoomCloset` outfit skins, character feeding/emotion, ticket shop). It's **cosmetic only** — no combat stats — and is *not* where the wall clock & co. get their bonuses. The bonuses documented above all live in the **Treasure** system. Earlier versions of the docs conflated these; this file is the corrected, mechanic-specific reference.
+The code has a separate **`MyRoom`** feature (the room editor: `MyRoomInterior` furniture, `MyRoomCloset` outfit skins, character feeding/emotion, ticket shop). It's **cosmetic only** — no combat stats — and is *not* where the wall clock & co. get their bonuses. The bonuses documented above all live in the **Treasure** system.
