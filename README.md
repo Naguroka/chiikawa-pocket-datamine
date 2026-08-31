@@ -7,7 +7,7 @@
 
 ---
 
-## 📖 The documentation (start here)
+##  The documentation (start here)
 
 | Doc | What it is |
 |---|---|
@@ -23,7 +23,7 @@
 | **[analysis/report_data_digests.md](analysis/report_data_digests.md)** | Big reference tables (all 153 Config constants, EXP curves, 168 skills with scaling, cost bands) |
 | **[webapp/](webapp/)** | **Team & Order Calculator** — open `webapp/index.html` in a browser |
 
-## 🧮 The game's actual math (the highlights)
+##  The game's actual math (the highlights)
 
 **Damage (normal attack):**
 ```
@@ -49,7 +49,7 @@ if ConstantDamage > 0:    flat override (never crits)
 
 Full formulas with derivations: **[analysis/MATH.md](analysis/MATH.md)**.
 
-## 🗂️ The data
+##  The data
 
 - **[analysis/masterdata/](analysis/masterdata/)** — all **236 master-data tables decoded to JSON** (byte-exact): 8,648 stages, 25,008 enemy statuses, 146 costumes, 168 skills/186 effects, 2,823 possession effects, 2,084 shop items, gacha structures, cooking, study, weeding, league…
 - **[dumps/MasterData/](dumps/MasterData/)** — the raw `.bytes` master files as pulled from the device
@@ -59,11 +59,11 @@ Full formulas with derivations: **[analysis/MATH.md](analysis/MATH.md)**.
 - **[dumps/il2cppdumper/DummyDll/](dumps/il2cppdumper/DummyDll/)** — reconstructed managed DLL stubs (all assemblies incl. Assembly-CSharp)
 - **[decompiled/jadx-base/](decompiled/jadx-base/)** — decompiled Java layer (mostly platform SDKs; game logic is IL2CPP-side)
 
-## 🧰 The calculator webapp
+##  The calculator webapp
 
 Open **[webapp/index.html](webapp/index.html)** in any browser (no server). Enter your account stats, mark owned costumes, and it computes your best 6-costume team **and** the optimal order — using the real formulas (skill scaling at your levels, crit expectation, buff uptimes, tag synergy, survival/queue-aware ordering over all 720 permutations). Includes a buffs/items browser (149 items with possession/equipment effects) and a math reference tab.
 
-## 🔍 How it was datamined (pipeline)
+##  How it was datamined (pipeline)
 
 1. Pulled the installed APK splits + runtime master data from an emulator over ADB (root).
 2. The shipped `global-metadata.dat` is encrypted — recovered the **decrypted** copy from the running game's memory mapping.
@@ -73,9 +73,6 @@ Open **[webapp/index.html](webapp/index.html)** in any browser (no server). Ente
 
 Reproduction scripts (our own): **[scripts/](scripts/)** — parser, schema extractor, disassemblers, decompile drivers, dataset exporters. Downloaded toolchains (Ghidra, jadx, Il2CppDumper) are not included — versions/links in each script header.
 
-## 📸 Evidence (real account, real numbers)
-
-In-game screenshots showing the math in the wild — the 6-slot formation bar, `961n` team power, `264i` attack, `6.83bf` status-enhance costs, level-72k tracks: [dumps/](dumps/) (`screen3.png`, `screen4.png`, `screenB.png`).
 
 ## What's not here and why
 
@@ -84,6 +81,6 @@ In-game screenshots showing the math in the wild — the 6-slot formation bar, `
 - **Gacha rates, master text, idle-reward final values** — computed **server-side** (GS2); they are not in the client, so they can't be datamined offline. Any "rate" you see quoted elsewhere comes from the server, not the APK.
 - Toolchains (Ghidra/jadx/Il2CppDumper) — see `scripts/` for what to download.
 
-## ⚖️ Disclaimer
+##  Disclaimer
 
 Fan-made, unofficial research project for education and interoperability discussion. All game data, names, and assets belong to their respective owners (Applibot / Chiikawa IP holders). If you are a rights holder and want anything here removed, open an issue and it will be taken down promptly. No copyrighted game binaries are distributed in this repository.
