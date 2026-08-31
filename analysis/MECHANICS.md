@@ -101,7 +101,7 @@ Every item gives **two** bonuses — one for owning it, one for using it. Verifi
 | Source | "Own" bonus (always on) | "Equip" bonus (only while used) |
 |---|---|---|
 | Weapon / Armor / Assist Skill | possessionEffectId | equipmentPossessionEffectId (while equipped on the formation) |
-| Treasure | possessionEffectIds[] | equipEffectIds[] |
+| Treasure | possessionEffectIds[] (via `TreasurePossessionEffect`, promo-scaled) | equipEffectIds[] → `TreasureEquipEffect` → plain or **targeted/conditional** effect (see `MYROOM.md`) |
 | Costume | possessionEffectIds[] — unlock in **tiers as the costume's level rises** (`CostumeEnhanceProgress ≥ threshold`) | promotionCostumePossessionEffectId (after promotion) |
 | Keyholder | rarity-tier effects (unlock per merge rarity) | equipPossessionEffectId — **targeted** (see below) |
 | **Home items (the little house)** | **ALL 114 items share one effect: Attack ×1.15 / ×1.20 / ×1.30 at item level 1/2/3** | *none — placement is cosmetic/economy* |
@@ -172,6 +172,7 @@ There's also an "omakase" (auto-assign) button that scores characters as: Attack
 ## 7. Study, Mastery, Weeding, Blessing
 
 - **Study** (39 topics, 237 levels): pure time-gate. Each level takes real-world minutes (some tracks double each level: 4→8→16→32→64 min…) plus a resource cost. Finished studies give permanent possession effects. The "Study Speed" stat shortens the wait, and there's a 28-day paid study buff. **Always have a study running.**
+- **The little house ("MyRoom" in code):** a room editor (75 furniture pieces, 75 "You Look Like" outfit skins, character feeding/petting with an emotion meter) — **cosmetic**, feeding missions/currencies only. The combat-relevant items shown in the house (wall clock, sofas…) are **Treasures** — see `MYROOM.md` for the full equip-effect table, including tag-conditional bonuses like the wall clock's "Critical Damage +612% (Lv1) with 6 outfit specialties in the party".
 - **Mastery** (64 nodes, 5 levels each, cost 3 mastery-SP per level): a skill tree of possession effects; later nodes require earlier ones.
 - **Weeding** (gardening): spends stamina (1 per 15 min, cap 60, max storable 99,999) to clear garden plots in chunks for rewards. Gardening has its own two stamina stats (max stamina, recover speed).
 - **Blessing** (4 types): a 40-minute timed buff activated by watching an ad (or an item), giving possession effects temporarily.

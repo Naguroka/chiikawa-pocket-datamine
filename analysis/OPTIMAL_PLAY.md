@@ -104,6 +104,7 @@ Optimal assignment:
 
 - **Study: never leave the slot empty.** It's a pure real-time gate (levels double: 4→8→16→32→64 min…). The correct order: studies that grant **Study Speed** and economy/combat possession effects first. Start the longest study before logging off.
 - **Mastery:** 3 SP per node level — prioritize nodes with **Attack/multiplier/Gold Acquire effects** over defensive/QoL ones, following the same "multipliers first" rule.
+- **Treasures (the effect-bearing house items):** equip to your fight — **5003** for boss walls (BossDamageRate ×150 at Lv100, unconditional), **2002** for raw attack (×125), **5002/3002** if you run specialty tags (×90/×48 with 1/4 specialty costumes), **the wall clock (4002)** with a full-specialty team (crit damage ×18 at Lv100 — and yes, the "+612%" on the item card is just its Lv1 value; level treasures with buttons). Little-house furniture/outfits themselves are cosmetic.
 - **Weeding:** stamina refills 1/15 min to a cap of 60 (15h to fill). **Weed once or twice daily and never sit at cap** — stamina sitting at cap is stamina deleted. Spend it on the biggest plot chunks available.
 - **Blessing (40 min):** activate only when you're about to **actively push stages or fight a boss wall** — using it before idling wastes the timer. Same logic for any timed combat buff.
 - **Roulette:** 1 free + 4 ad spins daily — free EV, do it in the daily routine.

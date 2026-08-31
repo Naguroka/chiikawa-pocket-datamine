@@ -104,6 +104,7 @@ Costumes carry **tags** (e.g. weapon types, themes), and the game counts how man
 
 - **Build around 1–2 tag families** your best costumes share, rather than six unrelated tags.
 - Check your main carry's tags first, then fill support slots with tag-matching costumes — a slightly weaker costume that completes a tag bonus usually out-damages a stronger off-tag one, because tag bonuses multiply the same shared stats.
+- **Cover your treasure conditions:** if you equip treasures with outfit-specialty requirements (wall clock 4002 wants 6 specialty-holding costumes, 3002 wants 4, 5002 wants 1), make sure every formation slot carries a cooking-specialty tag — most costumes have one, but the 6th slot is where people slip. For rarity-gated treasures (5001 wants UR weapon+armor), don't leave the gate gear on the bench.
 
 ## 7. Worked example (using real datamined numbers)
 

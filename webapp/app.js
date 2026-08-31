@@ -515,6 +515,24 @@ function targetText(cf) {
   return `🎯 character ${cf.targetIds.join(',')}`;
 }
 function itemEffectText(it) {
+  if (it.kind === 'treasure') {
+    const parts = [];
+    for (const fxid of it.posFx || []) {
+      const r = fxValueAt(fxid, 1);
+      if (r) parts.push(`<b>own:</b> ${r.status} ${fmt(r.v)}${r.scaled ? ' (promo-scaled)' : ''}`);
+    }
+    for (const ch of it.equipChain || []) {
+      if (ch.select === 'Custom') {
+        const cf = DATA.customFx[String(ch.target)];
+        const r = cf ? fxValueAt(cf.fx, 1) : null;
+        if (cf && r) parts.push(`<b>equip:</b> ${r.status} ${fmt(r.v)} ${targetText(cf)}${cf.cond ? ' [conditional]' : ''} (lv-scaled)`);
+      } else {
+        const r = fxValueAt(ch.target, 1);
+        if (r) parts.push(`<b>equip:</b> ${r.status} ${fmt(r.v)} (lv-scaled)`);
+      }
+    }
+    return parts.join(' · ') || 'no effect data';
+  }
   const parts = [];
   const own = fxValueAt(it.posFx, 1);
   if (own) parts.push(`<b>own:</b> ${own.status} ${fmt(own.v)}${own.scaled ? ' (scales w/ item lv)' : ''}`);
@@ -599,6 +617,23 @@ function renderItemSummary() {
   const sums = {};
   for (const it of DATA.items) {
     const st = itemState(it.kind + ':' + it.id);
+    if (it.kind === 'treasure') {
+      if (st.own) for (const fxid of it.posFx || []) accumFx(sums, fxid, lv);
+      if (st.own && st.eq) {
+        for (const ch of it.equipChain || []) {
+          if (ch.select === 'Custom') {
+            const cf = DATA.customFx[String(ch.target)];
+            if (!cf) continue;
+            const r = fxValueAt(cf.fx, lv);
+            if (!r) continue;
+            if (cf.cond) targeted.push(`${r.status} ×${fmt(r.v)} ${targetText(cf)} [condition ${cf.cond}]`);
+            else if (cf.target === 'Party') accumFx(sums, cf.fx, lv, 'treasure');
+            else targeted.push(`${r.status} ×${fmt(r.v)} ${targetText(cf)}`);
+          } else accumFx(sums, ch.target, lv);
+        }
+      }
+      continue;
+    }
     if (st.own) accumFx(sums, it.posFx, lv);
     if (st.own && st.eq) accumFx(sums, it.equipFx, lv);
   }

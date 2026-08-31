@@ -106,7 +106,7 @@ finalStat = BaseValue × CorrectValue × StatusUpRate + StatusUpValue
 
 - **Own (possession) effects** — active just for owning the item. Home items: all 114 share one Attack effect, ×1.15/×1.20/×1.30 at item level 1/2/3.
 - **Equip effects** — active only while the item is equipped on the formation (weapons/armor/assists/treasures/keyholders).
-- **Targeted (custom) effects** — `Party` / `SpecificCharacter[ids]` / `AssistCharacter[ids]`; granted by keyholder equip slots and art-book completions; value scales with the item's level; the bonus is **zeroed when the targeted character isn't in play** (verified in the decompiled `CalculateStatusTargetCharacter` gate).
+- **Targeted (custom) effects** — `Party` / `SpecificCharacter[ids]` / `AssistCharacter[ids]`; granted by keyholder equip slots, art-book completions, and **treasure equip effects** (via `TreasureEquipEffect`); value scales with the item's level; the bonus is **zeroed when the targeted character isn't in play** (verified in the decompiled `CalculateStatusTargetCharacter` gate). Tag-conditional examples: treasure 4002 (the "wall clock") grants CriticalDamage ×6.12/×12/×18 at Lv1/50/100 when the formation has 6 outfit specialties (costumes carrying a cooking-specialty tag) — see `MYROOM.md`.
 - **Costume possession effects** — unlock in tiers as the costume's own level rises (`CostumeEnhanceProgress ≥ threshold`).
 
 ### 2.2 How every bonus feeds in (elements)
