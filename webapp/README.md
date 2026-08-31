@@ -19,7 +19,7 @@ Self-contained, no server needed. **Open `index.html` in any browser** (double-c
 
 - Per-slot DPS = `normalDPS + skillDPS`, where skill multipliers come from the actual `LevelRangeValue` tables at your costume level, and cycle time = `recast×(1−CDR) + cast + 0.5s queue`.
 - Team level: buffs/debuffs apply as `×(1 + value×uptime)` multipliers to the whole team; crit buffs shift the team crit expectation `1 + critRate×(critDmg−1)`.
-- Ordering: leftmost alive slot tanks all single-target hits (weights shift DPS value right in Wall mode); skills fire in formation order (0.5s unique / 2s assist queue gaps), so buffs score bonus when placed left of nukes; AoE preferred mid-table in farm modes.
+- Ordering: **your team shares one HP pool** (the party wipes together — nobody tanks or dies early), so order only decides *skill fire sequence*: enablers score for every nuke to their right (FIFO, 0.5s unique / 2s assist gaps); AoE preferred mid-table in farm modes; biggest nuke late-table in boss mode.
 - Tag synergy: +2% per extra member sharing a tag (configurable — the exact per-tag values are condition-driven, so this is labeled as an estimate in-app).
 
 ## Files

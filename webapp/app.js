@@ -80,7 +80,6 @@ function saveState() { localStorage.setItem('chipok-calc', JSON.stringify(state)
 function readInputs() {
   const g = id => parseFloat(document.getElementById(id).value) || 0;
   const mode = document.getElementById('in-mode').value;
-  const survival = document.getElementById('in-survival').value;
   return {
     critRate: Math.min(1, Math.max(0, g('in-critRate'))),
     critDmg: Math.max(0, g('in-critDmg')),
@@ -93,7 +92,7 @@ function readInputs() {
     cdr: Math.min(0.9, Math.max(0, g('in-cdr'))),
     defDebuff: g('in-defDebuff') || 1,
     tagWeight: g('in-tagWeight'),
-    mode, survival,
+    mode,
   };
 }
 
@@ -216,37 +215,34 @@ function teamCalc(orderedSlots, inp) {
   return { total, slots: recomputed, attackMult, defAmp, tagMult, tagList, tagCounts, ctx: effInp, notes };
 }
 
-/* ============ ordering model ============ */
-const SURV_WEIGHTS = {
-  safe: [0.97, 0.98, 0.99, 1.00, 1.01, 1.02],   // gentle right-bias (carry survives = strictly >=)
-  wall: [0.78, 0.86, 0.94, 1.00, 1.08, 1.16],  // strong right-bias (front slots die first)
-};
+/* ============ ordering model (sequence-based; the team shares ONE HP pool, so
+   nobody tanks — order only decides skill fire sequence) ============ */
 function orderScore(slots, inp) {
-  // slots: array of 6 slotCalc results in order
-  const w = SURV_WEIGHTS[inp.survival] || SURV_WEIGHTS.safe;
-  const wNorm = w.reduce((a, b) => a + b, 0) / 6;
+  // baseline: order-independent team dps
   let score = 0;
-  for (let i = 0; i < 6; i++) score += slots[i].dps * (w[i] / wNorm);
-  // sequence: buffs/debuffers should be LEFT of nukes they enable
+  for (const s of slots) score += s.dps;
   const nukeIdx = slots.map((s, i) => s.isNuke ? i : -1).filter(i => i >= 0);
-  let seqBonus = 0;
+  const nukeDps = i => slots[i].dps;
+  let seq = 0;
+  // enablers (buff/debuff) score for every nuke to their RIGHT (fires after them)
   for (let i = 0; i < 6; i++) {
     const s = slots[i];
     if (s.isBuff || s.isDebuffer) {
-      const rightNukes = nukeIdx.filter(n => n > i).length;
-      seqBonus += 0.015 * rightNukes * score / 6; // small bonus per enabled nuke
+      const enabled = nukeIdx.filter(n => n > i).reduce((a, n) => a + nukeDps(n), 0);
+      seq += 0.03 * enabled;
+      if (nukeIdx.length && nukeIdx.every(n => n < i)) seq -= 0.02 * score; // wasted enabler behind everything
     }
   }
-  // AoE in middle slots for wave clear
-  if (inp.mode !== 'boss') {
-    for (let i = 0; i < 6; i++) if (slots[i].hasAoE && i >= 2 && i <= 4) seqBonus += 0.01 * score;
+  // fight-context placement
+  if (inp.mode === 'boss') {
+    // biggest nuke belongs in the last slots (window alignment); AoE devalued
+    const best = slots.reduce((a, s, i) => s.skillMult > (slots[a] ? slots[a].skillMult : 0) ? i : a, 0);
+    if (best >= 4) seq += 0.05 * score;
+  } else {
+    // AoE prefers the middle for wave-clear tempo
+    for (let i = 0; i < 6; i++) if (slots[i].hasAoE && i >= 2 && i <= 4) seq += 0.02 * score;
   }
-  // main nuke should not be left of its best enabler
-  if (nukeIdx.length) {
-    const bestNuke = nukeIdx[nukeIdx.length - 1];
-    for (let i = 0; i < 6; i++) if ((slots[i].isBuff || slots[i].isDebuffer) && i > bestNuke) seqBonus -= 0.02 * score;
-  }
-  return score + seqBonus;
+  return score + seq;
 }
 
 function* permutations(arr) {
@@ -446,7 +442,7 @@ function renderResult(orderedSlots, inp, title) {
   const sum = document.getElementById('team-summary');
   const critE = 1 + Math.min(1, tc.ctx.critRate) * (tc.ctx.critDmg - 1);
   sum.innerHTML = `
-    <span>Mode: <b>${inp.mode}</b> · Survival: <b>${inp.survival}</b> (${title})</span>
+    <span>Mode: <b>${inp.mode}</b> (${title})</span>
     <span class="big">Team DPS ≈ ${fmt(tc.total)}× your attack</span>
     <span>Crit: ${fmtPct(tc.ctx.critRate)} @ ${tc.ctx.critDmg.toFixed(2)}× (E=${critE.toFixed(3)}×)</span>
     <span>Buff mult: ${tc.attackMult.toFixed(3)}× · Debuff amp: ${tc.defAmp.toFixed(3)}× · Tags: ${tc.tagMult.toFixed(3)}×</span>
@@ -479,8 +475,8 @@ function renderResult(orderedSlots, inp, title) {
 
   // math breakdown
   const lines = [];
-  lines.push(`Why this order (survival=${inp.survival}): single-target hits strike the leftmost ALIVE slot;`);
-  lines.push(`skills fire in formation order (0.5s unique / 2s assist queue gaps) — buffs/debuffs placed left of nukes.`);
+  lines.push(`Why this order: your team shares ONE HP pool — nobody tanks and nobody dies early.`);
+  lines.push(`Order only decides skill fire sequence (FIFO, 0.5s unique / 2s assist gaps): enablers placed left of nukes.`);
   lines.push('');
   orderedSlots.forEach((s, i) => {
     lines.push(`Slot ${i + 1} ${costumeLabel(COSTUME_BY_ID[s.id])} Lv${s.lv}: normal ${fmt(s.normalDPS)} (1×${inp.normalRate}×${s.ar.toFixed(3)}ar×${s.swings.toFixed(2)}sw×rates) + skill ${fmt(s.skillDPS)} = ${fmt(s.dps)}/s`);
@@ -588,7 +584,7 @@ function bindControls() {
   });
   // persist inputs
   const ids = ['in-critRate', 'in-critDmg', 'in-normalRate', 'in-skillRate', 'in-uniqueRate',
-    'in-bossRate', 'in-mobRate', 'in-atkSpeed', 'in-cdr', 'in-defDebuff', 'in-tagWeight', 'in-mode', 'in-survival'];
+    'in-bossRate', 'in-mobRate', 'in-atkSpeed', 'in-cdr', 'in-defDebuff', 'in-tagWeight', 'in-mode'];
   for (const id of ids) {
     const el = document.getElementById(id);
     if (state.inputs[id] != null) el.value = state.inputs[id];

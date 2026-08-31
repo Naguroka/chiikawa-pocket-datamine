@@ -21,6 +21,7 @@ Numbers get *absurdly* large on purpose. Early enemies have 1 HP. Late-game enem
 - You can watch at 2× speed (the speed-up button literally multiplies game speed by 2.0).
 - Skills fire automatically when their cooldown finishes. There's a small queue delay: 0.5s for unique skills, 2s for assist skills.
 - Your HP regenerates a little every second (base 6.3 HP/s, +0.7 per HP-recovery level).
+- **Your whole team shares ONE HP pool** — there's a single team HP bar. All six units draw from the same pool, so the party wipes *together* when it hits 0; nobody dies individually (enemies are the opposite: each has its own HP and they fall one by one, front to back).
 - If you lose, a defeat screen can only show up every 3 minutes.
 
 ### 2.2 The damage formula — exactly what happens when someone hits

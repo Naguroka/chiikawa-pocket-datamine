@@ -46,12 +46,6 @@
             <option value="boss">Boss wall (single-target burst)</option>
           </select>
         </label>
-        <label>Survival pressure
-          <select id="in-survival">
-            <option value="safe" selected>Safe — nobody dies (farming)</option>
-            <option value="wall">Wall — front units die (pushing)</option>
-          </select>
-        </label>
         <label>Tag synergy weight %/extra member <input id="in-tagWeight" type="number" step="0.5" value="2"></label>
       </div>
       <h2>3 · Optimize</h2>
@@ -118,9 +112,10 @@ skillMult = lerp(startValue → endValue over level range) ÷ 1000  (Permil)</pr
     <pre>uptime = buffDuration ÷ cycleTime (≤ 1)
 attack/crit buffs &amp; defence-debuffs act as ×(1 + value × uptime) team multipliers</pre>
     <h3>Ordering</h3>
-    <pre>Single-target hits always strike the leftmost ALIVE slot (lead). Leads die left → right.
-Skills enter a FIFO queue in formation order: unique fires 1/0.5s, assist 1/2s.
-Buffs must be LEFT of your nuke to affect it. CP number = HP×0.6 + Σ(normal×500 + skill×500) — rough estimate.</pre>
+    <pre>Your team shares ONE HP pool — the party wipes together when it empties; nobody tanks or dies early.
+Single-target hits land on the leftmost ENABLED slot (the lead) but drain the shared pool.
+Order only decides skill fire sequence: FIFO in formation order (unique 1/0.5s, assist 1/2s).
+Buffs/debuffs must be LEFT of your nuke to affect it. CP = HP×0.6 + Σ(normal×500 + skill×500) — rough estimate.</pre>
     <p class="hint">Tag synergy uses a configurable weight (default +2%/extra member) — the game scales effects off tag counts but the exact per-tag values are condition-driven; treat it as an estimate. RecastReset effects are noted but not scored.</p>
   </div>
 </section>

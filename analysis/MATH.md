@@ -173,7 +173,7 @@ Ready skills enter a **FIFO queue in formation order**; the unique queue release
 
 ## 5. Formation math
 
-- **Targeting:** single-target attacks always hit the **leftmost alive** slot; when it dies, the next slot becomes the target. AoE hits everything regardless of order.
+- **Targeting:** single-target attacks always hit the **leftmost enabled** slot (the "lead"). For *your* team this only decides the hit animation — **your party shares ONE HP pool** (all friend units wrap the same shared `HpValue`), so the whole team is eliminated together when the pool empties; formation icons do **not** grey out one by one. *Enemies* have individual HP and die front-to-back one at a time. AoE hits everything regardless of order.
 - **Per-unit damage:** `SharedAccountAttack × CostumeAttackRate × hitMultiplier × …` — all units share account stats; only the costume rate and skill differ.
 - **Team power (CP display):**
 
