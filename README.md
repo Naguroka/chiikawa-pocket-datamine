@@ -11,7 +11,7 @@
 
 | Doc | What it is |
 |---|---|
-| **[analysis/MECHANICS.md](analysis/MECHANICS.md)** | How every game system works, in plain English |
+| **[analysis/MECHANICS.md](analysis/MECHANICS.md)** | How every game system works |
 | **[analysis/MATH.md](analysis/MATH.md)** | Every important formula, explained with worked examples |
 | **[analysis/OPTIMAL_PLAY.md](analysis/OPTIMAL_PLAY.md)** | The mathematically optimal way to play each mechanic |
 | **[analysis/TEAM_SETUP.md](analysis/TEAM_SETUP.md)** | Team/formation math: what order changes, optimal arrangement |
