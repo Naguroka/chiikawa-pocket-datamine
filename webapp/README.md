@@ -11,7 +11,7 @@ Self-contained, no server needed. **Open `index.html` in any browser** (double-c
   4. **Find best team & order** — scores every owned costume with the game's real formulas, picks the best 6 (greedy + swap improvement with buff/tag interactions), then brute-forces all 720 orderings for the optimal arrangement.
   5. **Optimize order of current 6** — keeps your team, just reorders. Lock any slot with the 🔒 button to pin a costume in place.
 
-- **Buffs & Items tab** — browse all 149 weapons/armor/assist skills/treasures with their possession (owned = permanent) and equipment effects from the game tables. Check what you own, set an average level, and *Apply to account stats* to fold the multiplicative bonuses into the optimizer.
+- **Buffs & Items tab** — browse weapons/armor/assist skills/treasures, **home items** (all give Attack ×1.15/1.20/1.30 at item Lv1/2/3, active by owning — placement is cosmetic), and **keyholders** (equip effects that target the whole party 🎯, a specific character, or an assist — those only count when that character is in play). Toggle **owned** vs **equipped** separately, set levels, and *Apply to account stats* to fold the untargeted multiplicative totals into the optimizer.
 
 - **Math Reference tab** — the exact formulas used (damage, crit expectation, skill cycles, ordering rules), straight from the datamine.
 

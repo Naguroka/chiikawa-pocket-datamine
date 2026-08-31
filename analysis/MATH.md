@@ -102,6 +102,13 @@ finalStat = BaseValue × CorrectValue × StatusUpRate + StatusUpValue
 **Example:** Base attack 722,350 (level 72,235 × +10), collection multiplier 3.65×10²³, no active buffs:
 `722,350 × 3.65×10²³ × 1 + 0 ≈ 2.64×10²⁹` = the `264i` shown on screen. **This is why collection progress (everything you own) matters more than any single level** — the base is linear, the multiplier is the engine.
 
+### 2.2a Bonus taxonomy (own vs equip vs targeted)
+
+- **Own (possession) effects** — active just for owning the item. Home items: all 114 share one Attack effect, ×1.15/×1.20/×1.30 at item level 1/2/3.
+- **Equip effects** — active only while the item is equipped on the formation (weapons/armor/assists/treasures/keyholders).
+- **Targeted (custom) effects** — `Party` / `SpecificCharacter[ids]` / `AssistCharacter[ids]`; granted by keyholder equip slots and art-book completions; value scales with the item's level; the bonus is **zeroed when the targeted character isn't in play** (verified in the decompiled `CalculateStatusTargetCharacter` gate).
+- **Costume possession effects** — unlock in tiers as the costume's own level rises (`CostumeEnhanceProgress ≥ threshold`).
+
 ### 2.2 How every bonus feeds in (elements)
 
 Each stat is built from its BaseValue plus a list of modifier "elements", applied **in order**:

@@ -448,7 +448,7 @@ function renderResult(orderedSlots, inp, title) {
     <span>Buff mult: ${tc.attackMult.toFixed(3)}× · Debuff amp: ${tc.defAmp.toFixed(3)}× · Tags: ${tc.tagMult.toFixed(3)}×</span>
     <span>${tc.tagList.map(t => `tag ${t.tag} ×${t.n}`).join(', ') || 'no tag pairs'}</span>`;
 
-  const roles = ['TANK', 'shield', 'support', 'support', 'dps', 'CARRY'];
+  const roles = ['opener', 'enabler', 'enabler', 'tempo', 'dps', 'finisher'];
   const wrap = document.getElementById('team-slots');
   wrap.innerHTML = '';
   tc.slots.forEach((s, i) => {
@@ -488,57 +488,141 @@ function renderResult(orderedSlots, inp, title) {
 }
 
 /* ============ items tab ============ */
+// effect value of a possessionFx row at a given item level
+function fxValueAt(fxid, lv) {
+  const fx = DATA.possessionFx[String(fxid)];
+  if (!fx) return null;
+  let v = Number(fx.value);
+  let scaled = false;
+  if (fx.group && DATA.lrvGroups[String(fx.group)]) { v = evalGroup(fx.group, lv); scaled = true; }
+  else if (fx.vt === 'Permil') { v /= 1000; scaled = true; }
+  return { status: fx.status, v, scaled };
+}
+function itemState(key) {
+  const s = state.items[key];
+  if (s === true) return { own: true, eq: false };   // migrate legacy
+  return { own: !!(s && s.own), eq: !!(s && s.eq) };
+}
+function setItemState(key, patch) {
+  const cur = itemState(key);
+  state.items[key] = Object.assign(cur, patch);
+  saveState();
+}
+function targetText(cf) {
+  if (!cf) return '';
+  if (cf.target === 'Party') return '🎯 whole team';
+  if (cf.target === 'AssistCharacter') return `🎯 assist ${cf.targetIds.join(',')}`;
+  return `🎯 character ${cf.targetIds.join(',')}`;
+}
 function itemEffectText(it) {
   const parts = [];
-  const fx = DATA.possessionFx[String(it.posFx)];
-  if (fx) parts.push(`own: ${fx.status} ${fx.vt === 'Permil' ? fmt(Number(fx.value) / 1000) : fmt(Number(fx.value))} (+lvl scaling)`);
-  const eq = DATA.possessionFx[String(it.equipFx)];
-  if (eq) parts.push(`equip: ${eq.status} ${fmt(Number(eq.value))}`);
+  const own = fxValueAt(it.posFx, 1);
+  if (own) parts.push(`<b>own:</b> ${own.status} ${fmt(own.v)}${own.scaled ? ' (scales w/ item lv)' : ''}`);
+  const eq = fxValueAt(it.equipFx, 1);
+  if (eq) parts.push(`<b>equip:</b> ${eq.status} ${fmt(eq.v)}${eq.scaled ? ' (scales)' : ''}`);
+  return parts.join(' · ') || 'no effect data';
+}
+function keyholderText(g) {
+  const cf = DATA.customFx[String(g.equipFx)];
+  const fx = cf ? fxValueAt(cf.fx, 1) : null;
+  const parts = [];
+  if (cf && fx) parts.push(`<b>equip:</b> ${fx.status} ${fmt(fx.v)} ${targetText(cf)} (scales w/ level)`);
+  const rf = DATA.customFx[String(g.rarityFx[0])];
+  const rfx = rf ? fxValueAt(rf.fx, 1) : null;
+  if (rf && rfx) parts.push(`<b>rarity tiers:</b> up to ${g.rarityFx.length} effects (e.g. ${rfx.status} ${targetText(rf)})`);
   return parts.join(' · ') || 'no effect data';
 }
 function renderItems() {
   const el = document.getElementById('items');
   const kind = document.getElementById('item-kind').value;
   el.innerHTML = '';
-  for (const it of DATA.items) {
-    if (kind && it.kind !== kind) continue;
-    const key = it.kind + ':' + it.id;
-    const owned = !!state.items[key];
+  const addCard = (key, title, text, showEq, levelSel) => {
+    const st = itemState(key);
     const card = document.createElement('div');
-    card.className = 'card' + (owned ? ' owned' : '');
+    card.className = 'card' + (st.own ? ' owned' : '');
     card.innerHTML = `
-      <div class="head"><span class="title">${it.kind} #${it.id} ${it.rarity ? '· ' + it.rarity : ''}</span></div>
-      <div class="row hint">${itemEffectText(it)}</div>
-      <div class="row lvl"><label><input type="checkbox" data-item="${key}" ${owned ? 'checked' : ''}> owned</label></div>`;
+      <div class="head"><span class="title">${title}</span></div>
+      <div class="row hint">${text}</div>
+      <div class="row lvl">
+        <label><input type="checkbox" data-own="${key}" ${st.own ? 'checked' : ''}> owned</label>
+        ${showEq ? `<label><input type="checkbox" data-eq="${key}" ${st.eq ? 'checked' : ''} ${st.own ? '' : 'disabled'}> equipped</label>` : ''}
+        ${levelSel ? `<label>lv <input type="number" min="1" max="${levelSel}" value="${(state.items[key] && state.items[key].lv) || 1}" data-lv="${key}" style="width:4em"></label>` : ''}
+      </div>`;
     el.appendChild(card);
+  };
+  if (!kind || kind === 'weapon' || kind === 'armor' || kind === 'assist' || kind === 'treasure') {
+    for (const it of DATA.items) {
+      if (kind && it.kind !== kind) continue;
+      addCard(it.kind + ':' + it.id, `${it.kind} #${it.id}${it.rarity ? ' · ' + it.rarity : ''}`, itemEffectText(it), true);
+    }
   }
-  el.querySelectorAll('[data-item]').forEach(cb => cb.addEventListener('change', e => {
-    state.items[e.target.dataset.item] = e.target.checked; saveState();
+  if (!kind || kind === 'home') {
+    for (const h of DATA.homeItems) {
+      const fx = fxValueAt(h.fx, 1);
+      addCard('home:' + h.id, `home item #${h.id} · ${h.type}`,
+        `<b>own:</b> ${fx ? fx.status : '?'} ×1.15 / ×1.20 / ×1.30 at item Lv1/2/3 (placement is cosmetic — owning is what counts)`, false, h.maxLv);
+    }
+  }
+  if (!kind || kind === 'keyholder') {
+    for (const g of DATA.keyholderGroups) {
+      addCard('kh:' + g.id, `keyholder #${g.id} · char ${g.chara} + assist ${g.assist}`, keyholderText(g), true);
+    }
+  }
+  el.querySelectorAll('[data-own]').forEach(cb => cb.addEventListener('change', e => {
+    const key = e.target.dataset.own;
+    setItemState(key, { own: e.target.checked, eq: e.target.checked ? itemState(key).eq : false });
+    saveState(); renderItems();
+  }));
+  el.querySelectorAll('[data-eq]').forEach(cb => cb.addEventListener('change', e => {
+    setItemState(e.target.dataset.eq, { eq: e.target.checked }); saveState(); renderItemSummary();
+    e.target.closest('.card').classList.toggle('owned', itemState(e.target.dataset.eq).own || e.target.checked);
+  }));
+  el.querySelectorAll('[data-lv]').forEach(inp => inp.addEventListener('change', e => {
+    const key = e.target.dataset.lv;
+    const cur = state.items[key] && typeof state.items[key] === 'object' ? state.items[key] : { own: true, eq: false };
+    state.items[key] = Object.assign(cur, { lv: Math.max(1, +e.target.value || 1) });
+    saveState(); renderItemSummary();
   }));
   renderItemSummary();
+}
+function accumFx(sums, fxid, lv, note) {
+  const r = fxValueAt(fxid, lv);
+  if (!r) return;
+  const st = r.status;
+  sums[st] = sums[st] || { add: 0, mult: 1, notes: [] };
+  if (Math.abs(r.v) < 100 && r.scaled) sums[st].mult += r.v;
+  else sums[st].add += r.v;
+  if (note) sums[st].notes.push(note);
 }
 function renderItemSummary() {
   const lv = Math.max(1, +document.getElementById('item-level').value || 1);
   const sums = {};
   for (const it of DATA.items) {
-    if (!state.items[it.kind + ':' + it.id]) continue;
-    for (const fxid of [it.posFx, it.equipFx]) {
-      const fx = DATA.possessionFx[String(fxid)];
-      if (!fx) continue;
-      const st = fx.status;
-      let v = Number(fx.value);
-      if (fx.group && DATA.lrvGroups[String(fx.group)]) v = evalGroup(fx.group, lv);
-      else if (fx.vt === 'Permil') v /= 1000;
-      sums[st] = sums[st] || { add: 0, mult: 1 };
-      // rates (valueType Permil or fractional) treated as multiplicative adds; big flat values as adds
-      if (Math.abs(v) < 100 && (fx.vt === 'Permil' || fx.group)) sums[st].mult += v;
-      else sums[st].add += v;
+    const st = itemState(it.kind + ':' + it.id);
+    if (st.own) accumFx(sums, it.posFx, lv);
+    if (st.own && st.eq) accumFx(sums, it.equipFx, lv);
+  }
+  for (const h of DATA.homeItems) {
+    const st = itemState('home:' + h.id);
+    if (st.own) accumFx(sums, h.fx, (state.items['home:' + h.id] && state.items['home:' + h.id].lv) || 1, 'home');
+  }
+  const targeted = [];
+  for (const g of DATA.keyholderGroups) {
+    const st = itemState('kh:' + g.id);
+    if (!(st.own && st.eq)) continue;
+    const cf = DATA.customFx[String(g.equipFx)];
+    if (!cf) continue;
+    if (cf.target === 'Party') accumFx(sums, cf.fx, lv, 'keyholder');
+    else {
+      const r = fxValueAt(cf.fx, lv);
+      if (r) targeted.push(`${r.status} ×${fmt(r.v)} ${targetText(cf)}`);
     }
   }
   const el = document.getElementById('item-summary');
   const txt = Object.entries(sums).map(([st, s]) =>
     `${st}: ${s.mult > 1 ? '×' + s.mult.toFixed(3) : ''}${s.add ? ' +' + fmt(s.add) : ''}`).join(' · ');
-  el.innerHTML = txt ? `<b>Owned item totals (lv ${lv}):</b> ${txt}` : 'No items checked yet.';
+  el.innerHTML = (txt ? `<b>Item totals (lv ${lv}):</b> ${txt}` : 'No items checked yet.') +
+    (targeted.length ? `<br><span class="hint">🎯 Targeted (only count when that character is in play): ${targeted.join(' · ')}</span>` : '');
   el.dataset.sums = JSON.stringify(sums);
 }
 

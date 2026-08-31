@@ -94,14 +94,23 @@ Every single thing in the game — a costume you own, a weapon you equipped, a m
 
 Then, in battle, the final stat is used as: **(Base × Correction multiplier × buff multiplier) + flat buffs**. In plain English: *flat bonuses add, percentage bonuses multiply, and they multiply different things — so you want a mix of everything, not all of one type.*
 
-### 3.3 Owning things makes you stronger, even unequipped
+### 3.3 Owning things makes you stronger — the three bonus types
 
-Every equipment item (weapon, armor, assist skill, costume, treasure, keyholder) gives **two** bonuses:
+Every item gives **two** bonuses — one for owning it, one for using it. Verified per item type:
 
-- **Possession effect** — a permanent stat bonus *just for owning it*. Unequipped items in your inventory still count. This is the collection/collection-book system, and it's why pulling duplicates and filling your collection matters even if you never use the item.
-- **Equipment effect** — a (usually bigger) bonus while actually equipped on a character.
+| Source | "Own" bonus (always on) | "Equip" bonus (only while used) |
+|---|---|---|
+| Weapon / Armor / Assist Skill | possessionEffectId | equipmentPossessionEffectId (while equipped on the formation) |
+| Treasure | possessionEffectIds[] | equipEffectIds[] |
+| Costume | possessionEffectIds[] — unlock in **tiers as the costume's level rises** (`CostumeEnhanceProgress ≥ threshold`) | promotionCostumePossessionEffectId (after promotion) |
+| Keyholder | rarity-tier effects (unlock per merge rarity) | equipPossessionEffectId — **targeted** (see below) |
+| **Home items (the little house)** | **ALL 114 items share one effect: Attack ×1.15 / ×1.20 / ×1.30 at item level 1/2/3** | *none — placement is cosmetic/economy* |
 
-Both are either flat values or level-scaled multipliers that grow as the item's own level rises.
+Key clarifications:
+
+- **Home items:** the stat bonus comes purely from *owning* the item (and leveling it via enhance). Putting it on display in your house is cosmetic and drives the visitor/gift/lottery economy (characters show up, give lottery points and gifts) — it does **not** change the bonus. There are no character/team conditions on home items; every one of them is the same Attack multiplier.
+- **Team-targeted bonuses (`CustomPossessionEffect`):** 511 effects that target **the whole party, a specific main character, or a specific assist character** (e.g. "Attack +X for Chiikawa only", "AssistSkillDamage +Y for character 3005"). These come from **keyholder equip effects** (all 154 keyholder groups) and **art-book scene completions**. Values scale with the granting item's level (or with your contents-progress). The code **gates them**: if the targeted character isn't in play, the bonus contributes nothing (verified in the decompiled calculator).
+- Everything stacks **multiplicatively** — each owned/equipped item adds its own `×rate` element, which is how hundreds of small bonuses compound into the 10²⁰+ collection multiplier.
 
 ### 3.4 Status Enhancement (the gold sink)
 
