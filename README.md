@@ -15,7 +15,9 @@
 | **[analysis/MATH.md](analysis/MATH.md)** | Every important formula, explained with worked examples |
 | **[analysis/OPTIMAL_PLAY.md](analysis/OPTIMAL_PLAY.md)** | The mathematically optimal way to play each mechanic |
 | **[analysis/TEAM_SETUP.md](analysis/TEAM_SETUP.md)** | Team/formation math: what order changes, optimal arrangement |
-| **[analysis/MYROOM.md](analysis/MYROOM.md)** | The little house ("MyRoom" in code): treasure equip effects, tag conditions, best items |
+| **[analysis/LITTLE_HOUSE.md](analysis/LITTLE_HOUSE.md)** | The little-house items (Treasure system): verified owned + equip bonuses, conditions, best items |
+| **[analysis/KEYCHAIN.md](analysis/KEYCHAIN.md)** | The keychain (Keyholder) system: targeted equip effects, rarity tiers, merge costs |
+| **[analysis/MYROOM.md](analysis/MYROOM.md)** | Disambiguation: the code's "MyRoom" (cosmetic editor) vs the little-house items |
 | **[analysis/REPORT.md](analysis/REPORT.md)** | The technical datamine report (formats, systems, proof) |
 | **[analysis/formulas_decompiled.md](analysis/formulas_decompiled.md)** · **[batch2](analysis/formulas_decompiled_batch2.md)** · **[batch3](analysis/formulas_decompiled_batch3.md)** · **[batch4](analysis/formulas_decompiled_batch4.md)** | 90+ calculator/mechanics functions decompiled to C |
 | **[analysis/report_data_digests.md](analysis/report_data_digests.md)** | Big reference tables (all 153 Config constants, EXP curves, 168 skills with scaling, cost bands) |

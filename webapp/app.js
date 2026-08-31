@@ -525,7 +525,10 @@ function itemEffectText(it) {
       if (ch.select === 'Custom') {
         const cf = DATA.customFx[String(ch.target)];
         const r = cf ? fxValueAt(cf.fx, 1) : null;
-        if (cf && r) parts.push(`<b>equip:</b> ${r.status} ${fmt(r.v)} ${targetText(cf)}${cf.cond ? ' [conditional]' : ''} (lv-scaled)`);
+        if (cf && r) {
+          const prog = cf.ref === 'ContentsProgress' ? ' (scales with account progress)' : ' (lv-scaled)';
+          parts.push(`<b>equip:</b> ${r.status} ${fmt(r.v)} ${targetText(cf)}${cf.cond ? ' [conditional]' : ''}${prog}`);
+        }
       } else {
         const r = fxValueAt(ch.target, 1);
         if (r) parts.push(`<b>equip:</b> ${r.status} ${fmt(r.v)} (lv-scaled)`);
