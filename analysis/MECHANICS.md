@@ -1,4 +1,4 @@
-# Chiikawa Pocket — Complete Mechanics Guide (Plain English)
+# Chiikawa Pocket — Complete Mechanics Guide 
 
 *Everything in this document was extracted directly from the game's code and data files (version 2.4.1). No guessing — every number and formula below is what the game actually runs.*
 
